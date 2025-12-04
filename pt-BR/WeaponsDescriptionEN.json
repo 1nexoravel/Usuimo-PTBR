@@ -1,0 +1,2546 @@
+[
+    {
+        "identifier": "1.name.0",
+        "source_string": "Hardwood sword",
+        "translation": "Espada de Madeira Nobre",
+        "context": "1 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "1 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.description.0",
+        "source_string": "It's said that the hero also began his",
+        "translation": "Dizem que o herói também começou sua",
+        "context": "1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.description.1",
+        "source_string": "journey from the starting village with a wooden sword",
+        "translation": "jornada na vila inicial com uma espada de madeira",
+        "context": "1 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.description.2",
+        "source_string": "This has become a goal for many adventurers to emulate",
+        "translation": "Isso se tornou um ideal para muitos aventureiros seguirem",
+        "context": "1 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.ability.0",
+        "source_string": "Deals extra damage when the weapon nears breaking",
+        "translation": "Causa dano extra quando a arma está prestes a quebrar",
+        "context": "1 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.name.0",
+        "source_string": "Hardwood stick",
+        "translation": "Bastão de Madeira Nobre",
+        "context": "2 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "2 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.description.0",
+        "source_string": "A great shape sturdy wooden stick ",
+        "translation": "Um bastão de madeira robusto de ótimo formato ",
+        "context": "2 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.description.1",
+        "source_string": "perfect for kids,It’s also decent as a weapon",
+        "translation": "perfeito para crianças; também serve como arma",
+        "context": "2 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.ability.0",
+        "source_string": "Deals extra damage when the weapon nears breaking",
+        "translation": "Causa dano extra quando a arma está prestes a quebrar",
+        "context": "2 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.name.0",
+        "source_string": "Lumber Axe",
+        "translation": "Machado de Lenhador",
+        "context": "3 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "3 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.description.0",
+        "source_string": "A reliable companion for adventurers or pioneers exploring",
+        "translation": "Um companheiro confiável para aventureiros ou pioneiros que",
+        "context": "3 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.description.1",
+        "source_string": "forests. However, as it’s not designed for combat,",
+        "translation": "florestas. Porém, por não ter sido feito para combate,",
+        "context": "3 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.description.2",
+        "source_string": "don’t rely on it too much in battle",
+        "translation": "para combate, não confie demais nele em batalha",
+        "context": "3 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.ability.0",
+        "source_string": "Deals increased damage to trees",
+        "translation": "Causa dano aumentado a árvores",
+        "context": "3 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.name.0",
+        "source_string": "Clenched Fist",
+        "translation": "Punho Cerrado",
+        "context": "4 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "4 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.description.0",
+        "source_string": "No weapon equipped? Then just unleash a flurry of punches!",
+        "translation": "Sem arma equipada? Então descarregue uma saraivada de socos!",
+        "context": "4 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.description.1",
+        "source_string": "It may be a quick fix, but a fist full of spirit packs a serious punch",
+        "translation": "Pode ser um quebra-galho, mas um punho cheio dá um senhor impacto",
+        "context": "4 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.description.2",
+        "source_string": "Why use a weapon when your fists can do the job?",
+        "translation": "Pra que usar arma quando seus punhos dão conta do recado?",
+        "context": "4 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.ability.0",
+        "source_string": "Punch damage scales with max HP!",
+        "translation": "O dano dos socos escala com o PV máximo!",
+        "context": "4 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.name.0",
+        "source_string": "Knight's sword",
+        "translation": "Espada de Cavaleiro",
+        "context": "5 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "5 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.description.0",
+        "source_string": "A weapon used by father in his youth,",
+        "translation": "Uma arma usada por meu pai na juventude,",
+        "context": "5 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.description.1",
+        "source_string": "well-maintained and seemingly issued to court knights",
+        "translation": "bem cuidada e aparentemente fornecida aos cavaleiros da corte",
+        "context": "5 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.ability.0",
+        "source_string": "When HP<\\c[10]30%\\c[0], this weapon's attack doubles",
+        "translation": "Quando o PV<\\c[10]30%\\c[0], o ataque desta arma dobra",
+        "context": "5 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.name.0",
+        "source_string": "Lava Staff",
+        "translation": "Cajado de Lava",
+        "context": "6 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "6 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.description.0",
+        "source_string": "A wand made from volcanic minerals,easily",
+        "translation": "Uma varinha feita de minerais vulcânicos, que",
+        "context": "6 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.description.1",
+        "source_string": "concentrates fire elements However, a slight mistake",
+        "translation": "concentra facilmente elementos de fogo. Um pequeno erro",
+        "context": "6 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.description.2",
+        "source_string": "can cause it to explode, engulfing the user",
+        "translation": "pode fazê-la explodir, engolindo quem a usa",
+        "context": "6 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.ability.0",
+        "source_string": "Hold right mouse button to cast \\c[27]Crimson Lotus Meteor\\c[0]",
+        "translation": "Segure o botão direito: conjura \\c[27]Meteoro do Lótus Carmesim\\c[0]",
+        "context": "6 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.name.0",
+        "source_string": "Ice Staff",
+        "translation": "Cajado de Gelo",
+        "context": "7 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "7 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.0",
+        "source_string": "A wand made from magic crystals, unleashes wide-range",
+        "translation": "Varinha de cristais mágicos que libera geada em larga escala",
+        "context": "7 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.1",
+        "source_string": "frost. Very hard to control.Feels like it’s freezing my hand",
+        "translation": "Muito difícil de controlar. Parece que está congelando minha mão",
+        "context": "7 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.ability.0",
+        "source_string": "Hold right mouse button to cast \\c[27]Frozen Spell\\c[0]",
+        "translation": "Segure o botão direito: conjura \\c[27]Feitiço Congelante\\c[0]",
+        "context": "7 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.name.0",
+        "source_string": "Weird Feather",
+        "translation": "Pena Estranha",
+        "context": "8 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "8 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.0",
+        "source_string": "A feather from a weird bird. Extremely light and can",
+        "translation": "Uma pena de um pássaro estranho. Extremamente leve e capaz",
+        "context": "8 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.1",
+        "source_string": "easily generate enough force to blow someone away",
+        "translation": "de gerar força suficiente para arremessar alguém para longe",
+        "context": "8 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.ability.0",
+        "source_string": "Movement speed increases when using Whirlwind Slash",
+        "translation": "A velocidade de movimento aumenta ao usar Corte Redemoinho",
+        "context": "8 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.ability.1",
+        "source_string": "Enters a float state immune to falling after spin speed increases",
+        "translation": "Após o giro, flutua e fica imune a quedas",
+        "context": "8 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.name.0",
+        "source_string": "Knight's sword",
+        "translation": "Espada de Cavaleiro",
+        "context": "9 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "9 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.description.0",
+        "source_string": "Weapons assigned to the palace knights",
+        "translation": "Armas atribuídas aos cavaleiros do palácio",
+        "context": "9 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.description.1",
+        "source_string": "They symbolize the path of protection for the knights",
+        "translation": "Simbolizam o caminho da proteção dos cavaleiros",
+        "context": "9 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.ability.0",
+        "source_string": "When HP<\\c[10]30%\\c[0], this weapon's attack doubles",
+        "translation": "Quando o PV<\\c[10]30%\\c[0], o ataque desta arma dobra",
+        "context": "9 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.name.0",
+        "source_string": "Silver Greatsword",
+        "translation": "Espadão de Prata",
+        "context": "10 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "10 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.description.0",
+        "source_string": "A greatsword, seemingly forged from silver,",
+        "translation": "Um espadão aparentemente forjado em prata, irradiando",
+        "context": "10 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.description.1",
+        "source_string": "radiating a dazzling glow. Its surface shines cold and hard,",
+        "translation": "um brilho deslumbrante. Sua superfície brilha fria e dura,",
+        "context": "10 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.description.2",
+        "source_string": "though its true material remains unknown",
+        "translation": "embora seu material verdadeiro permaneça desconhecido",
+        "context": "10 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.ability.0",
+        "source_string": "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!",
+        "translation": "Quando o HP é menor que \\c[29]400\\c[0], o potencial da arma é limitado!",
+        "context": "10 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.name.0",
+        "source_string": "Heavy Mallet",
+        "translation": "Malho Pesado",
+        "context": "11 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "11 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.description.0",
+        "source_string": "A bulky wooden hammer",
+        "translation": "Um martelo de madeira parrudo",
+        "context": "11 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.description.1",
+        "source_string": "Getting hit on the head is sure to leave you dizzy!",
+        "translation": "Levar uma no topo da cabeça vai te deixar zonzo!",
+        "context": "11 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.ability.0",
+        "source_string": "33% chance to inflict Stun state on attack",
+        "translation": "33% de chance de aplicar Atordoamento ao atacar",
+        "context": "11 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.ability.1",
+        "source_string": "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!",
+        "translation": "Quando o HP é menor que \\c[29]400\\c[0], o potencial da arma é limitado!",
+        "context": "11 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.name.0",
+        "source_string": "Baseball Bat",
+        "translation": "Taco de Beisebol",
+        "context": "12 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "12 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.description.0",
+        "source_string": "A metal club. It’s said to be used for sports, ",
+        "translation": "Um bastão de metal. Dizem que é usado para esportes, ",
+        "context": "12 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.description.1",
+        "source_string": "but it’s also great for whacking people.",
+        "translation": "mas também é ótimo para dar umas tacadas nos outros.",
+        "context": "12 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.ability.0",
+        "source_string": "Durability Boost!",
+        "translation": "Durabilidade aumentada!",
+        "context": "12 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.ability.1",
+        "source_string": "Reflected projectiles move faster and deal more damage",
+        "translation": "O dano é multiplicado para projéteis rebatidos",
+        "context": "12 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.name.0",
+        "source_string": "Rotten Fishbone",
+        "translation": "Espinha de Peixe Podre",
+        "context": "13 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.subtitle.0",
+        "source_string": "\"It's too smelly, throw it away!\"",
+        "translation": "\"Tá fedendo demais, joga isso fora!\"",
+        "context": "13 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.description.0",
+        "source_string": "Leftover bones from a large fish, with rotting meat",
+        "translation": "Ossos restantes de um peixe grande, com carne apodrecida",
+        "context": "13 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.description.1",
+        "source_string": "still clinging to them, emitting an unbearable stench",
+        "translation": "ainda grudada, exalando um fedor insuportável",
+        "context": "13 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.ability.0",
+        "source_string": "66% chance to inflict Poison state on attack",
+        "translation": "66% de chance em infligir o estado de envenenamento ao atacar",
+        "context": "13 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.ability.1",
+        "source_string": "Gives off a stench so foul, even monsters flee!",
+        "translation": "Exala um fedor tão forte que até os monstros fogem!",
+        "context": "13 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.name.0",
+        "source_string": "Giant Crab Claw",
+        "translation": "Garra de Caranguejo Gigante",
+        "context": "14 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "14 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.description.0",
+        "source_string": "A massive crab claw that clamps on tight and won’t let go",
+        "translation": "Uma garra gigantesca de caranguejo que prende firme e não solta",
+        "context": "14 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.description.1",
+        "source_string": "Once it latches onto something, good luck getting it off",
+        "translation": "Depois que agarra algo, boa sorte para tirar",
+        "context": "14 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.ability.0",
+        "source_string": "When thrown, it clamps to the target, dealing constant damage",
+        "translation": "Quando arremessada, prende no alvo e causa dano constante",
+        "context": "14 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.ability.1",
+        "source_string": "Cannot be retrieved unless the target dies",
+        "translation": "Não pode ser recuperada a menos que o alvo morra",
+        "context": "14 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.name.0",
+        "source_string": "Frostmoon",
+        "translation": "Lua Gélida",
+        "context": "15 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.subtitle.0",
+        "source_string": "\"Licked the blade and got my tongue stuck… So cold, so painful!\"",
+        "translation": "\"Lambi a lâmina e minha língua grudou… Tão frio, dói demais!\"",
+        "context": "15 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.subtitle.1",
+        "source_string": "\"\\str[121], don't lick random stuff!\"",
+        "translation": "\"\\str[121], não saia lambendo as coisas por aí!\"",
+        "context": "15 -> subtitle -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.0",
+        "source_string": "A magic sword made of ice, just near it sends a chilling cold",
+        "translation": "Uma espada mágica feita de gelo; só de perto, já gela",
+        "context": "15 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.ability.0",
+        "source_string": "50% chance to inflict Freeze state on attack",
+        "translation": "50% de chance de infligir Congelamento ao atacar",
+        "context": "15 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.name.0",
+        "source_string": "Leaky Electric Sword",
+        "translation": "Espada Elétrica com Vazamento",
+        "context": "16 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.subtitle.0",
+        "source_string": "\"Zap... zap...!\"",
+        "translation": "\"Zap... zap...!\"",
+        "context": "16 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.0",
+        "source_string": "A cursed sword filled with wild energy, but it's still faulty",
+        "translation": "Uma espada amaldiçoada com energia selvagem, mas defeituosa",
+        "context": "16 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.1",
+        "source_string": "Be careful—it might shock the user as well",
+        "translation": "Cuidado — ela pode dar choque em quem a empunha",
+        "context": "16 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.ability.0",
+        "source_string": "50% chance to inflict Lightning state on attack",
+        "translation": "50% de chance de deixar o alvo Eletrificado ao atacar",
+        "context": "16 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.name.0",
+        "source_string": "Sunflare",
+        "translation": "Clarão Solar",
+        "context": "17 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.subtitle.0",
+        "source_string": "\"\\str[121], it looks scary, please don't hold it.\"",
+        "translation": "\"\\str[121], isso parece perigoso, por favor não segure.\"",
+        "context": "17 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.description.0",
+        "source_string": "A magic sword that has absorbed solar energy over time",
+        "translation": "Uma espada mágica que absorveu energia solar ao longo do tempo",
+        "context": "17 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.description.1",
+        "source_string": "It seems particularly effective against certain monsters",
+        "translation": "Parece particularmente eficaz contra certos monstros",
+        "context": "17 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.ability.0",
+        "source_string": "40% chance to inflict Burn state on attack",
+        "translation": "40% de chance de infligir Queimadura ao atacar",
+        "context": "17 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.name.0",
+        "source_string": "Orc Bone Axe",
+        "translation": "Machado de Osso de Orc",
+        "context": "18 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "18 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.0",
+        "source_string": "A large axe made from the bones of defeated foes. Not",
+        "translation": "Um grande machado feito dos ossos de inimigos derrotados.",
+        "context": "18 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.1",
+        "source_string": "very sharp, and orcs often prefer to throw it rather than",
+        "translation": "Não é muito afiado, e orcs costumam preferir arremessá-lo",
+        "context": "18 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.2",
+        "source_string": "use it in close combat",
+        "translation": "em vez de usá-lo no combate corpo a corpo",
+        "context": "18 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.ability.0",
+        "source_string": "Deals extra damage when the weapon is thrown",
+        "translation": "Causa dano extra quando a arma é arremessada",
+        "context": "18 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.name.0",
+        "source_string": "Nichirin",
+        "translation": "Nichirin",
+        "context": "19 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "19 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.description.0",
+        "source_string": "A replica forged in imitation of the forbidden blazing demon",
+        "translation": "Uma réplica forjada em imitação da proibida espada demoníaca",
+        "context": "19 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.description.1",
+        "source_string": "sword from myth. Naturally, it cannot summon the earth-scorching ",
+        "translation": "flamejante dos mitos. Naturalmente, não pode invocar as ",
+        "context": "19 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.description.2",
+        "source_string": "hellfire like the true original.",
+        "translation": "labaredas infernais que carbonizam a terra como a verdadeira.",
+        "context": "19 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.ability.0",
+        "source_string": "May summon a meteor to strike a random location when attacking",
+        "translation": "Pode invocar um meteoro que atinge um local aleatório ao atacar",
+        "context": "19 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.name.0",
+        "source_string": "Rusty Iron Sword",
+        "translation": "Espada de Ferro Enferrujada",
+        "context": "20 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "20 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.description.0",
+        "source_string": "An old iron sword covered in rust, long since lost its sharpness",
+        "translation": "Uma spada de ferro velha e enferrujada, há muito desamolada",
+        "context": "20 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.description.1",
+        "source_string": "From another perspective, the corrosion itself is dangerously lethal...",
+        "translation": "Por outro lado, a própria corrosão é perigosamente letal...",
+        "context": "20 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.ability.0",
+        "source_string": "15% chance to inflict Poison state on attack",
+        "translation": "15% de chance de infligir Veneno ao atacar",
+        "context": "20 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.ability.1",
+        "source_string": "Always inflicts Poison on bleeding targets",
+        "translation": "Sempre inglige Veneno em alvos sangrando",
+        "context": "20 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.name.0",
+        "source_string": "From Hell",
+        "translation": "Do Inferno",
+        "context": "21 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.subtitle.0",
+        "source_string": "\"This thing thirsts for blood...\"",
+        "translation": "\"Essa coisa tem sede de sangue...\"",
+        "context": "21 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.description.0",
+        "source_string": "One of the weapons used by a notorious serial killer,",
+        "translation": "Uma das armas usadas por um notório assassino em série,",
+        "context": "21 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.description.1",
+        "source_string": "it's covered in blood",
+        "translation": "está coberta de sangue",
+        "context": "21 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.ability.0",
+        "source_string": "45% chance to inflict Bleeding state on attack",
+        "translation": "45% de chance de infligir Sangramento ao atacar",
+        "context": "21 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.name.0",
+        "source_string": "Forging Hammer",
+        "translation": "Martelo de Forja",
+        "context": "22 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.description.0",
+        "source_string": "A heavy hammer once used by blacksmiths to forge metal",
+        "translation": "Um martelo pesado antes usado por ferreiros para forjar metal,",
+        "context": "22 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.description.1",
+        "source_string": "Now held in someone’s hand and used for all sorts of odd purposes",
+        "translation": "agora empunhado por alguém e usado para todo tipo de propósito estranho",
+        "context": "22 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.ability.0",
+        "source_string": "Striking a weapon placed on the anvil repairs it",
+        "translation": "Golpear uma arma colocada na bigorna a repara",
+        "context": "22 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.ability.1",
+        "source_string": "Unequipping this hammer also dispels the summoned anvil",
+        "translation": "Desequipar este martelo também desfaz a bigorna invocada",
+        "context": "22 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.name.0",
+        "source_string": "Tidewyrm’s Song",
+        "translation": "A canção do Dragão das Marés",
+        "context": "25 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "25 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.description.0",
+        "source_string": "A staff crafted from damp magic crystals, always dripping wet",
+        "translation": "Um cajado caravado com cristais magios úmidos, sempre pingando.",
+        "context": "25 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.description.1",
+        "source_string": "It only reveals its true power when using water as a medium",
+        "translation": "Ele só revela o seu poder verdadeiro quando usado em um meio aquático",
+        "context": "25 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.description.2",
+        "source_string": "quite inconvenient!",
+        "translation": "Bem inconveniente!",
+        "context": "25 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.ability.0",
+        "source_string": "Casting near water enhances magic",
+        "translation": "Caso usado próximo a água, a magia é amplificada",
+        "context": "25 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.ability.1",
+        "source_string": "Hold right mouse button to cast Ripple Thrust",
+        "translation": "Segure o botão direito do mouse para lançar Ripple Thrust",
+        "context": "25 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.name.0",
+        "source_string": "Storm Orc Axe",
+        "translation": "Machado Orc da Tempestade",
+        "context": "24 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "24 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.description.0",
+        "source_string": "A greataxe wielded by an orc attuned to nature’s power.",
+        "translation": "Machado grande empunhado por orc sintonizado com a natureza.",
+        "context": "24 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.description.1",
+        "source_string": "Each swing tears the earth and sends gales howling with the blade",
+        "translation": "Cada golpe rasga a terra e faz uivar rajadas junto à lâmina",
+        "context": "24 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.ability.0",
+        "source_string": "Has a chance to unleash a burst of wind when attacking",
+        "translation": "Tem chance de liberar uma rajada de vento ao atacar",
+        "context": "24 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.ability.1",
+        "source_string": "When HP falls below \\c[29]400\\c[0], the weapon’s full potential is limited!",
+        "translation": "Quando o HP é menor que \\c[29]400\\c[0], o potencial da arma é limitado!",
+        "context": "24 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.name.0",
+        "source_string": "Starlit Night",
+        "translation": "Noite Estrelada",
+        "context": "26 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "26 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.description.0",
+        "source_string": "A staff adorned with gemstones that sparkle like the Milky",
+        "translation": "Um cajado adornado com gemas que brilham como a Via",
+        "context": "26 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.description.1",
+        "source_string": "Way. It has the power to create a strong gravitational field,",
+        "translation": "Láctea. Tem o poder de criar um forte campo gravitacional,",
+        "context": "26 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.description.2",
+        "source_string": "pulling intruders into the depths of darkness",
+        "translation": "puxando intrusos para as profundezas da escuridão",
+        "context": "26 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.ability.0",
+        "source_string": "Hold right mouse button to cast Black Hole",
+        "translation": "Segure o botão direito do mouse para conjurar Buraco Negro",
+        "context": "26 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.name.0",
+        "source_string": "Toxic Spore Blade",
+        "translation": "Lâmina de Esporos Tóxicos",
+        "context": "27 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "27 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.description.0",
+        "source_string": "A slim sword dropped by Walking Mushrooms. Its dull blade",
+        "translation": "Uma espada fina derrubada por Cogumelos Andantes. Sua lâmina cega",
+        "context": "27 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.description.1",
+        "source_string": "is coated with toxic spores, guaranteeing poison on every strike",
+        "translation": "é revestida de esporos tóxicos, garantindo veneno a cada golpe",
+        "context": "27 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.description.2",
+        "source_string": "Though low in durability, its toxins make it highly effective",
+        "translation": "Apesar da baixa durabilidade, suas toxinas a tornam muito eficaz",
+        "context": "27 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.ability.0",
+        "source_string": "Attacks have a 50% chance to inflict Poison status",
+        "translation": "Ataques têm 50% de chance de aplicar Veneno",
+        "context": "27 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.name.0",
+        "source_string": "Pest Bane Staff",
+        "translation": "Cajado Exterminador de Insetos",
+        "context": "29 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "29 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.description.0",
+        "source_string": "A special staff modified by an alchemist long tormented",
+        "translation": "Um cajado especial modificado por um alquimista há muito atormentado",
+        "context": "29 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.description.1",
+        "source_string": "by pests. It can instantly generate a toxic gas to kill",
+        "translation": "por pragas. Pode gerar instantaneamente um gás tóxico para matar",
+        "context": "29 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.description.2",
+        "source_string": "small creatures, and is said to also deodorize and disinfect",
+        "translation": "pequenas criaturas, e diz-se que também desodoriza e desinfeta.",
+        "context": "29 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.ability.0",
+        "source_string": "Hold left mouse button to cast Extermination Magic",
+        "translation": "Segure o botão esquerdo do mouse para transmitir a mágica de extermínio",
+        "context": "29 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.name.0",
+        "source_string": "Kanesada",
+        "translation": "Kanesada",
+        "context": "30 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "30 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.description.0",
+        "source_string": "A beloved Katana that accompanied a girl striving for",
+        "translation": "Uma Katana querida que acompanhou uma garota na busca pelo",
+        "context": "30 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.description.1",
+        "source_string": "swordsmanship's peak—never leaving her grasp, even in sleep",
+        "translation": "ápice da esgrima — nunca saiu de suas mãos, nem ao dormir",
+        "context": "30 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.description.2",
+        "source_string": "Whether sharp or not, it remains a witness to her journey",
+        "translation": "Afiada ou não, segue testemunha de sua jornada",
+        "context": "30 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.ability.0",
+        "source_string": "Greatly enhances the effects of all learned skills",
+        "translation": "Aumenta muito os efeitos de todas as habilidades aprendidas",
+        "context": "30 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.name.0",
+        "source_string": "Claíomh Solais",
+        "translation": "Claíomh Solais",
+        "context": "35 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.subtitle.0",
+        "source_string": "\"Huh? I can't see anything! This isn't a sword hilt!?\"",
+        "translation": "\"Hã? Não vejo nada! Isso não é um punho de espada!?\"",
+        "context": "35 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.description.0",
+        "source_string": "Blessed by light, the blade bends light, becoming an invisible sword",
+        "translation": "A luz a abençoa; dobra a luz e vira uma espada invisível",
+        "context": "35 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.description.1",
+        "source_string": "This makes it razor-sharp, and when needed, its radiance unleashes",
+        "translation": "Isso a torna afiadíssima e, quando preciso, sua radiância é liberada",
+        "context": "35 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.ability.0",
+        "source_string": "Attacks completely ignore the target's defense",
+        "translation": "Ataques ignoram completamente a defesa do alvo",
+        "context": "35 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.name.0",
+        "source_string": "Tyrfing",
+        "translation": "Tyrfing",
+        "context": "36 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "36 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.description.0",
+        "source_string": "A man-made magic sword with a blade forged from mana crystals",
+        "translation": "Espada mágica feita pelo homem com lâmina de cristais de mana",
+        "context": "36 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.description.1",
+        "source_string": "Each slash unleashes a tangible sword wave. For skilled swordsmen,",
+        "translation": "Cada corte solta onda tangível. Para espadachins habilidosos,",
+        "context": "36 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.description.2",
+        "source_string": "it’s a weapon that greatly enhances their power",
+        "translation": "é uma arma que amplia muito seu poder",
+        "context": "36 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.ability.0",
+        "source_string": "Attacks generate sword waves that deal damage",
+        "translation": "Ataques geram ondas de espada que causam dano",
+        "context": "36 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.name.0",
+        "source_string": "Anti-Bullying Hammer",
+        "translation": "Martelo Anti-Bullying",
+        "context": "40 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.subtitle.0",
+        "source_string": "\"NO BULLYING!!\"",
+        "translation": "\"SEM BULLYING!!\"",
+        "context": "40 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.description.0",
+        "source_string": "A weapon born to punish evil adventurers. ",
+        "translation": "Uma arma nascida para punir aventureiros malvados. ",
+        "context": "40 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.description.1",
+        "source_string": "Though just a toy hammer, getting bonked still hurts.",
+        "translation": "Mesmo sendo de brinquedo, uma marretada ainda dói.",
+        "context": "40 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.ability.0",
+        "source_string": "Deals recoil damage when used for evil deeds",
+        "translation": "Causa dano de recuo quando usado para más ações",
+        "context": "40 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.ability.1",
+        "source_string": "The lower your Sin value, the higher its damage",
+        "translation": "Quanto menor o seu valor de Pecado, maior o dano",
+        "context": "40 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.name.0",
+        "source_string": "Den’s Hand Scythe",
+        "translation": "Foice de Mão de Den",
+        "context": "42 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.subtitle.0",
+        "source_string": "\"Remember this, Whirlwind Slash is used like this! \"",
+        "translation": "\"Lembre-se: o Corte Redemoinho se usa assim! \"",
+        "context": "42 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.description.0",
+        "source_string": "A short-handled scythe carried by an outsider with a fearsome",
+        "translation": "Foice curta trazida por um forasteiro comum aspecto temível",
+        "context": "42 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.description.1",
+        "source_string": "design and a will dwelling within. Wielding it too long",
+        "translation": "e com uma vontade que habita dentro. Empunhá-la por muito tempo",
+        "context": "42 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.description.2",
+        "source_string": "may cause strange voices to echo in your mind",
+        "translation": "pode fazer vozes estranhas ecoarem na sua mente",
+        "context": "42 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.ability.0",
+        "source_string": "Automatically returns to hand after being thrown and hitting",
+        "translation": "Retorna automaticamente à mão após ser arremessada e acertar",
+        "context": "42 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.ability.1",
+        "source_string": "When catching the returning weapon, can throw it again",
+        "translation": "Ao agarrar a arma que retorna, pode arremessá-la novamente",
+        "context": "42 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.name.0",
+        "source_string": "Mixed Flavor Popsicle",
+        "translation": "Picolé de Sabores Mistos",
+        "context": "51 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "51 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.description.0",
+        "source_string": "A edible weapon crafted with care by Kanban Musume of the NLCH",
+        "translation": "Arma comestível feita com carinho pela Garota‑Propaganda da NLCH",
+        "context": "51 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.description.1",
+        "source_string": "A tri-flavored popsicle combining chocolate, cream, and strawberry",
+        "translation": "Um picolé de três sabores combinando chocolate, creme e morango",
+        "context": "51 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.description.2",
+        "source_string": "Refreshing and delicious! But be sure to finish it before it melts...",
+        "translation": "Refrescante e delicioso! Mas termine antes que derreta...",
+        "context": "51 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.ability.0",
+        "source_string": "Might get eaten when attacking...",
+        "translation": "Pode ser comido ao atacar...",
+        "context": "51 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.ability.1",
+        "source_string": "Melts and disappears over time when equipped...",
+        "translation": "Derrete e desaparece com o tempo quando equipada...",
+        "context": "51 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.name.0",
+        "source_string": "Unit 2",
+        "translation": "Unidade 2",
+        "context": "52 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "52 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.description.0",
+        "source_string": "A communication device bought from a suspicious shop",
+        "translation": "Dispositivo de comunicação comprado em uma loja suspeita",
+        "context": "52 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.description.1",
+        "source_string": "Just shout 'Fire!' and you'll receive sniper support from",
+        "translation": "Grite \"Fogo!\" e receba suporte de franco‑atirador",
+        "context": "52 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.description.2",
+        "source_string": "somewhere. But, you have to pay phone bill yourself",
+        "translation": "algum lugar. Mas, a conta telefônica é por sua conta",
+        "context": "52 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.ability.0",
+        "source_string": "Left-click to call support fire, 1000 yen per use",
+        "translation": "Botão esquerdo para chamar fogo de suporte 1000 yen por uso",
+        "context": "52 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.ability.1",
+        "source_string": "Right-click to call a long-range snipe, 500 yen per use",
+        "translation": "Botão direito chama um suporte de franco‑atirador, 500 yen por uso",
+        "context": "52 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.name.0",
+        "source_string": "Cone Greatsword",
+        "translation": "Espadão de Cone",
+        "context": "53 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "53 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.description.0",
+        "source_string": "A edible weapon crafted with care by Kanban Musume of the NLCH",
+        "translation": "Arma comestível feita com carinho pela Garota‑Propaganda da NLCH",
+        "context": "53 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.description.1",
+        "source_string": "While keeping its weapon performance, it's also delicious!",
+        "translation": "Sem perder o desempenho como arma, também é deliciosa!",
+        "context": "53 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.ability.0",
+        "source_string": "Might get eaten when attacking...",
+        "translation": "Pode ser comido ao atacar...",
+        "context": "53 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.ability.1",
+        "source_string": "Melts and disappears over time when equipped...",
+        "translation": "Derrete e desaparece com o tempo quando equipado...",
+        "context": "53 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.name.0",
+        "source_string": "Carrot Greatsword",
+        "translation": "Espadão de Cenoura",
+        "context": "54 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "54 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.description.0",
+        "source_string": "A top-grade carrot secretly cultivated by the Maid Bunny",
+        "translation": "Uma cenoura de altíssima qualidade cultivada secretamente pela",
+        "context": "54 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.description.1",
+        "source_string": "Infused with the power of stone, it overgrew into a delicacy ",
+        "translation": "Coelha-Maid, ao ganhar o poder da pedra, cresceu e virou iguaria ",
+        "context": "54 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.description.2",
+        "source_string": "so tempting it could make a Maid Bunny cry with desire",
+        "translation": "tão tentadora que poderia fazer uma Coelha-Maid chorar de desejo",
+        "context": "54 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.ability.0",
+        "source_string": "Might get eaten when attacking...",
+        "translation": "Pode ser comida ao atacar...",
+        "context": "54 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.ability.1",
+        "source_string": "When thrown, it pierces and hits all units in its path",
+        "translation": "Quando arremessada, perfura e acerta todas as unidades no caminho",
+        "context": "54 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.name.0",
+        "source_string": "Frozen Carrot Greatsword",
+        "translation": "Espadão de Cenoura",
+        "context": "55 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "55 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.description.0",
+        "source_string": "A top-grade carrot secretly cultivated by the Maid Bunny",
+        "translation": "Uma cenoura de altíssima qualidade cultivada secretamente pela",
+        "context": "55 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.description.1",
+        "source_string": "After being frozen, it’s rock-hard and impossible to bite into",
+        "translation": "Após congelado, fica duro como pedra e impossível de morder ",
+        "context": "55 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.description.2",
+        "source_string": "Rumor has it this was the maid bunny’s winter stash",
+        "translation": "Dizem por aí que esse era o estoque de inverno da coelhinha empregada",
+        "context": "55 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.ability.0",
+        "source_string": "40% chance to inflict Freeze state on attack",
+        "translation": "40% de chance em infligir estado Congelado ao atacar.",
+        "context": "55 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.ability.1",
+        "source_string": "When thrown, it pierces and hits all units in its path",
+        "translation": "Quando arremessada, ela atinge todas as unidades no seu caminho",
+        "context": "55 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.name.0",
+        "source_string": "Moldy Carrot Greatsword",
+        "translation": "Espadão de Cenoura Mofada",
+        "context": "56 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "56 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.description.0",
+        "source_string": "A top-grade carrot secretly cultivated by the Maid Bunny",
+        "translation": "Uma cenoura de altíssima qualidade cultivada secretamente pela",
+        "context": "56 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.description.1",
+        "source_string": "Stored for too long, it’s now moldy and rotten...",
+        "translation": "Coelha-Maid, mas ficou guardada por muito tempo, está mofada e podre... ",
+        "context": "56 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.description.2",
+        "source_string": "no longer edible—the maid bunny keeps it to drive away enemies",
+        "translation": "não se pode mais comer. Então a Coelha-Maid usa para espantar inimigos",
+        "context": "56 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.ability.0",
+        "source_string": "40% chance to inflict Poison state on attack",
+        "translation": "40% de chance em infligir o estado Veneno ao atacar",
+        "context": "56 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.ability.1",
+        "source_string": "When thrown, it pierces and hits all units in its path",
+        "translation": "Quando arremessada, ela atinge todas as unidades no seu caminho",
+        "context": "56 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.name.0",
+        "source_string": "Carrot?",
+        "translation": "Cenoura?",
+        "context": "57 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "57 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.description.0",
+        "source_string": "A top-grade carr...",
+        "translation": "Uma cenoura de altíssima...",
+        "context": "57 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.description.1",
+        "source_string": "Huh? Is this really… a carrot!?",
+        "translation": "Hun? Isso é mesmo... uma cenoura?",
+        "context": "57 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.ability.0",
+        "source_string": "When thrown, it pierces and hits all units in its path",
+        "translation": "Quando arremmessada, ela atinge todas as unidades no seu caminho",
+        "context": "57 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.name.0",
+        "source_string": "Banana?",
+        "translation": "Banana?",
+        "context": "60 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.subtitle.0",
+        "source_string": "\"Is this really a banana...?\"",
+        "translation": "\"Isso é mesmo uma banana...?\"",
+        "context": "60 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.description.0",
+        "source_string": "A peeled banana that must be held carefully",
+        "translation": "Uma banana descascada que deve ser segurada com cuidado",
+        "context": "60 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.ability.0",
+        "source_string": "At high speeds, it’s easy to fling the banana away... Eek!?",
+        "translation": "Em alta velocidade, é fácil arremessar a banana sem querer!",
+        "context": "60 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.name.0",
+        "source_string": "Giant Snail Vacuum",
+        "translation": "Aspirador de Caracol Gigante",
+        "context": "61 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "61 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.description.0",
+        "source_string": "A vacuum made from a giant snail's shell",
+        "translation": "Um aspirador feito com a concha de um caracol gigante",
+        "context": "61 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.description.1",
+        "source_string": "Modified airflow for powerful suction",
+        "translation": "Fluxo de ar modificado para uma sucção poderosa",
+        "context": "61 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.ability.0",
+        "source_string": "Hold mouse to pull objects closer",
+        "translation": "Segure o botão do mouse para atrair objetos para perto",
+        "context": "61 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.name.0",
+        "source_string": "Ancient Tree Remnant",
+        "translation": "Remanescente de Árvore Ancestral",
+        "context": "62 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "62 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.description.0",
+        "source_string": "A bizarre branch weapon, obtained from an ancient tree trunk,",
+        "translation": "Uma arma em forma de galho bizarro, obtida do tronco de uma",
+        "context": "62 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.description.1",
+        "source_string": "hard yet brimming with vitality and still growing",
+        "translation": "árvore ancestral, dura, transbordando vitalidade e ainda crescendo",
+        "context": "62 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.ability.0",
+        "source_string": "Defeating enemies auto-repairs weapon durability",
+        "translation": "Derrotar inimigos repara automaticamente a durabilidade da arma",
+        "context": "62 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.ability.1",
+        "source_string": "Excess durability grants +1 ATK per 1% above max",
+        "translation": "Durabilidade excedente concede +1 ATQ por 1% acima do máximo",
+        "context": "62 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.name.0",
+        "source_string": "Parasitic Blade",
+        "translation": "Lâmina Parasítica",
+        "context": "63 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "63 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.description.0",
+        "source_string": "A sword consumed by a tree over centuries, where metal and",
+        "translation": "Uma espada consumida por uma árvore ao longo de séculos,",
+        "context": "63 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.description.1",
+        "source_string": "life fused into mysterious harmony. Its blade pulses like",
+        "translation": "onde metal e vida se fundiram em uma harmonia misteriosa.",
+        "context": "63 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.description.2",
+        "source_string": "it’s breathing, radiating a strange warmth to the wielder",
+        "translation": "Sua lâmina pulsa, irradiando um calor estranho a quem a empunha",
+        "context": "63 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.ability.0",
+        "source_string": "Restores \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] HP to the wielder upon defeating an enemy",
+        "translation": "Restaura \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] de PV ao portador ao derrotar um inimigo",
+        "context": "63 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.name.0",
+        "source_string": "Ancient Glory",
+        "translation": "Glória Ancestral",
+        "context": "70 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.subtitle.0",
+        "source_string": "\"Unleash the Golden Power ⬆⬆⬇⬇⬅⮕⬅⮕\"",
+        "translation": "\"Liberte o Poder Dourado ⬆⬆⬇⬇⬅⮕⬅⮕\"",
+        "context": "70 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.0",
+        "source_string": "A dazzling golden demon sword, one of the treasures of ",
+        "translation": "Uma deslumbrante espada demoníaca dourada, um dos tesouros do ",
+        "context": "70 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.1",
+        "source_string": "the World Administrator. That man once wielded it, ",
+        "translation": "Administrador do Mundo. Aquele homem já a empunhou, ",
+        "context": "70 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.2",
+        "source_string": "battling in the Abyss for three days and nights without rest",
+        "translation": "lutando no Abismo por três dias e três noites sem descanso",
+        "context": "70 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.ability.0",
+        "source_string": "Unleashes its power when a secret command is entered",
+        "translation": "Libera seu poder quando um comando secreto é inserido",
+        "context": "70 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.name.0",
+        "source_string": "Willow Leaf Greatsword",
+        "translation": "Espadão Folha-de-Salgueiro",
+        "context": "80 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "80 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.description.0",
+        "source_string": "\"Pluck leaves, scatter flowers, wound your foes\"",
+        "translation": "\"Arranque folhas, espalhe flores, fira seus inimigos\"",
+        "context": "80 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.description.1",
+        "source_string": "A very sharp greatsword shaped like willow leaves",
+        "translation": "Um espadão muito afiado em formato de folhas de salgueiro",
+        "context": "80 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.ability.0",
+        "source_string": "Has a chance to fire willow leaf shurikens when attacking",
+        "translation": "Tem chance de disparar shurikens em forma de folha de salgueiro",
+        "context": "80 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "81.name.0",
+        "source_string": "Infested Blade",
+        "translation": "Lâmina Infestada",
+        "context": "81 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "81.subtitle.0",
+        "source_string": "\"Ugh, the slime is still wriggling... So gross!!\"",
+        "translation": "\"Argh, a gosma ainda está se mexendo... Que nojo!!\"",
+        "context": "81 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "81.description.0",
+        "source_string": "A greatsword infested with resilient, life-hungry slime",
+        "translation": "Um espadão infestado por uma gosma resiliente e faminta por vida",
+        "context": "81 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "81.description.1",
+        "source_string": "Its craving for vitality makes the slime fiercely aggressive",
+        "translation": "Sua ânsia por vitalidade torna a gosma ferozmente agressiva",
+        "context": "81 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "81.ability.0",
+        "source_string": "Deals extra damage to Bleeding enemies",
+        "translation": "Causa dano extra a inimigos com Sangramento",
+        "context": "81 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "81.ability.1",
+        "source_string": "Drains blood if the target dies while Bleeding",
+        "translation": "Drena sangue se o alvo morrer enquanto estiver com Sangramento",
+        "context": "81 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "82.name.0",
+        "source_string": "Hercules's Broken Horn",
+        "translation": "Chifre Quebrado de Besouro-Hércules",
+        "context": "82 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "82.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "82 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "82.description.0",
+        "source_string": "A sword forged from the sturdy horn of a rhinoceros beetle",
+        "translation": "Uma espada forjada de um chifre resistente de um besouro rinoceronte",
+        "context": "82 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "82.description.1",
+        "source_string": "Though once broken in fierce battle, its hardness remains genuine",
+        "translation": "Embora tenha sido quebrado em uma luta feroz, sua dureza é genuína",
+        "context": "82 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "82.description.2",
+        "source_string": "Because of that, it became extremely durable when reforged",
+        "translation": "Por conta disso, ele é extremamente durável quando reforjado",
+        "context": "82 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "82.ability.0",
+        "source_string": "The lower the damage, the less durability is consumed",
+        "translation": "Quanto menor o dano, menos durabilidade é consumida",
+        "context": "82 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "82.ability.1",
+        "source_string": "No durability is consumed if damage is ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} or below",
+        "translation": "Nenhuma durabilidade é consumida se dano for ${QJ.MPMZ.tl.herculesBrokenHornEffectProcess()} ou menor",
+        "context": "82 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.name.0",
+        "source_string": "Hardwood Bow",
+        "translation": "Arco de Madeira Nobre",
+        "context": "101 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "101 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.description.0",
+        "source_string": "A longbow made of Hardwood",
+        "translation": "Um arco longo feito de madeira nobre",
+        "context": "101 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.description.1",
+        "source_string": "It can shoot arrows, but its performance is very average",
+        "translation": "Consegue disparar flechas, mas seu desempenho é bem mediano",
+        "context": "101 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.ability.0",
+        "source_string": "Hold right-click to charge and release a \\c[27]Piercing Arrow\\c[0]",
+        "translation": "Segure e solte o botão direito: dispara \\c[27]Flecha Perfurante\\c[0]",
+        "context": "101 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.ability.1",
+        "source_string": "Piercing Arrow lose damage per target pierced",
+        "translation": "A Flecha Perfurante perde dano por alvo perfurado",
+        "context": "101 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.name.0",
+        "source_string": "Hunter's Bow",
+        "translation": "Arco do Caçador",
+        "context": "102 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "102 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.description.0",
+        "source_string": "A composite longbow that reduces draw strength",
+        "translation": "Um arco longo composto que reduz a força de puxada",
+        "context": "102 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.description.1",
+        "source_string": "Less damage, but easier rapid fire",
+        "translation": "Menos dano, mas mais fácil para tiros rápidos",
+        "context": "102 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.ability.0",
+        "source_string": "+Attack Speed, -20% Damage, -20% Durability Loss",
+        "translation": "+Velocidade de Ataque, -20% Dano, -20% Perda de Durabilidade",
+        "context": "102 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.ability.1",
+        "source_string": "Hold right-click to charge and release a \\c[27]Piercing Arrow\\c[0]",
+        "translation": "Segure e solte o botão direito: dispara \\c[27]Flecha Perfurante\\c[0]",
+        "context": "102 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "103.name.0",
+        "source_string": "Sunset Cloud",
+        "translation": "Nuvem do Entardecer",
+        "context": "103 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "103.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "103 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "103.description.0",
+        "source_string": "A magical bow filled with fire energy",
+        "translation": "Um arco mágico cheio de energia de fogo",
+        "context": "103 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "103.description.1",
+        "source_string": "Not only burns enemies, but also fires explosive arrows",
+        "translation": "Não só queima inimigos, como também dispara flechas explosivas",
+        "context": "103 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "103.ability.0",
+        "source_string": "Hold right-click to charge and release a \\c[27]Explosive Arrow\\c[0]",
+        "translation": "Segure e solte o botão direito: dispara \\c[27]Flecha Explosiva\\c[0]",
+        "context": "103 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "103.ability.1",
+        "source_string": "Explosive Arrow explode on hit",
+        "translation": "A Flecha Explosiva explode ao atingir",
+        "context": "103 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "104.name.0",
+        "source_string": "Snow Watch",
+        "translation": "Vigia da Neve",
+        "context": "104 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "104.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "104 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "104.description.0",
+        "source_string": "A magical bow covered in ice. Shoots ice arrows",
+        "translation": "Um arco mágico coberto de gelo. Dispara flechas de gelo",
+        "context": "104 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "104.description.1",
+        "source_string": "and can freeze a wide area with a charged shot",
+        "translation": "e pode congelar uma ampla área com um tiro carregado",
+        "context": "104 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "104.ability.0",
+        "source_string": "Hold right-click to charge and release a \\c[27]Icebound Arrow\\c[0]",
+        "translation": "Segure e solte o botão direito: dispara \\c[27]Flecha Gélida\\c[0]",
+        "context": "104 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "104.ability.1",
+        "source_string": "Icebound Arrow freeze targets on hit",
+        "translation": "A Flecha Gélida congela os alvos ao atingir",
+        "context": "104 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "105.name.0",
+        "source_string": "Chidori",
+        "translation": "Chidori",
+        "context": "105 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "105.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "105 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "105.description.0",
+        "source_string": "A golden bow capable of summoning thunder,",
+        "translation": "Um arco dourado capaz de invocar trovões,",
+        "context": "105 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "105.description.1",
+        "source_string": "named for its buzzing sound reminiscent of lightning",
+        "translation": "batizado pelo zumbido que lembra relâmpagos",
+        "context": "105 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "105.description.2",
+        "source_string": "However, be careful—it’s highly conductive",
+        "translation": "Mas cuidado — é altamente condutivo",
+        "context": "105 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "105.ability.0",
+        "source_string": "Hold right-click to charge and release a \\c[27]Thunder Arrow\\c[0]",
+        "translation": "Segure e solte o botão direito: dispara \\c[27]Flecha do Trovão\\c[0]",
+        "context": "105 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.name.0",
+        "source_string": "Hellhound Cursed Bow",
+        "translation": "Arco Amaldiçoado Cão-do-Inferno",
+        "context": "106 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "106 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.description.0",
+        "source_string": "A product of the Abyss, this oddly shaped bow can",
+        "translation": "Um produto do Abismo, este arco de formato estranho pode",
+        "context": "106 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.description.1",
+        "source_string": "fire multiple arrows simultaneously. However,",
+        "translation": "disparar várias flechas simultaneamente. Contudo, este arco mágico",
+        "context": "106 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.description.2",
+        "source_string": "this eerie magic bow remains sealed, with its true power unreleased",
+        "translation": "sinistro permanece selado, com seu verdadeiro poder contido",
+        "context": "106 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.ability.0",
+        "source_string": "Hold right-click to charge and release a \\c[27]Piercing Arrow\\c[0]",
+        "translation": "Segure e solte o botão direito: dispara \\c[27]Flecha Perfurante\\c[0]",
+        "context": "106 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.name.0",
+        "source_string": "Blood Hunt",
+        "translation": "Caçada de Sangue",
+        "context": "107 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "107 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.description.0",
+        "source_string": "A blood-stained longbow.",
+        "translation": "Um arco longo manchado de sangue.",
+        "context": "107 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.description.1",
+        "source_string": "Each draw leaves the string wet with its wielder’s own blood,",
+        "translation": "Cada puxada deixa a corda úmida com o próprio sangue do usuário,",
+        "context": "107 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.description.2",
+        "source_string": "until the arrow returns with a sweeter offering",
+        "translation": "até que a flecha retorne com uma oferta mais doce",
+        "context": "107 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.ability.0",
+        "source_string": "Hold right-click to charge and release a \\c[27]Blood Piercing Arrow\\c[0]",
+        "translation": "Segure e solte o botão direito: dispara \\c[27]Flecha Perfurante de Sangue\\c[0]",
+        "context": "107 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.ability.1",
+        "source_string": "Consumes HP to empower shots. Killing arrows drain blood",
+        "translation": "Consome HP; flechas que matam drenam sangue",
+        "context": "107 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    }
+]
