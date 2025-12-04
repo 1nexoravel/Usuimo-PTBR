@@ -1,0 +1,1106 @@
+[
+    {
+        "identifier": "1.0.0",
+        "source_string": "Manchu Han Imperial Feast...",
+        "translation": "Banquete Imperial Manchu-Han...",
+        "context": "1 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.1.0",
+        "source_string": "I'm hungry...",
+        "translation": "Estou com fome...",
+        "context": "1 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.0",
+        "source_string": "\\nl< >\"\\str[121]! Is there anything you’d like to eat!?\"",
+        "translation": "\\nl< >\"\\str[121]! Tem algo que você gostaria de comer!?\"",
+        "context": "2 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.1.0",
+        "source_string": "She’s being so eager for once—",
+        "translation": "Ela está tão empolgada, pela primeira vez—",
+        "context": "2 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.1.1",
+        "source_string": "what should I even ask for?",
+        "translation": "o que eu deveria pedir?",
+        "context": "2 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.0",
+        "source_string": "Eat you!",
+        "translation": "Comer Você!",
+        "context": "2 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.1",
+        "source_string": "Meat dishes!",
+        "translation": "Pratos de Carne!",
+        "context": "2 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.2",
+        "source_string": "Vegetable dishes!",
+        "translation": "Prato com Vegetais!",
+        "context": "2 -> 2 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.3",
+        "source_string": "Anything’s fine",
+        "translation": "Qualquer Coisa",
+        "context": "2 -> 2 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.0",
+        "source_string": "\\nl< >\"Geez~ I’m not food, you know!          \\w[90]",
+        "translation": "\\nl< >\"Poxa~ eu não sou comida, sabia!          \\w[90]",
+        "context": "2 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.1",
+        "source_string": "If \\str[121] doesn’t have anything special in mind,",
+        "translation": "Se \\str[121] não tiver nada específico em mente,",
+        "context": "2 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.2",
+        "source_string": "I’ll come up with a menu myself!\"",
+        "translation": "eu mesma vou pensar num cardápio!\"",
+        "context": "2 -> 3 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.4.0",
+        "source_string": "\\nl< >\"Ehehe~ \\str[121]!",
+        "translation": "\\nl< >\"Ehehe~ \\str[121]!",
+        "context": "2 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.4.1",
+        "source_string": "you’ve finally realized how delicious meat is!\"",
+        "translation": "você finalmente percebeu como carne é deliciosa!\"",
+        "context": "2 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.0",
+        "source_string": "\\nl< >\"Just wait,",
+        "translation": "\\nl< >\"Só espera,",
+        "context": "2 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.1",
+        "source_string": "I’ll make you a huge steak!\"",
+        "translation": "vou fazer um bife enorme para você!\"",
+        "context": "2 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.6.0",
+        "source_string": "\\nl< >\"But… we don’t have enough ingredients…",
+        "translation": "\\nl< >\"Mas… nós nem temos ingredientes o suficiente…",
+        "context": "2 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.6.1",
+        "source_string": "I might only be able to make something else today.\"",
+        "translation": "talvez eu só consiga fazer outra coisa hoje.\"",
+        "context": "2 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.7.0",
+        "source_string": "\\nl< >\"It’s not really my favorite…     \\w[120]",
+        "translation": "\\nl< >\"Não é bem o meu favorito…     \\w[120]",
+        "context": "2 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.7.1",
+        "source_string": "but since \\str[121] says wants it, I’ll do my best!\"",
+        "translation": "mas já que o \\str[121] disse que quer, vou dar o meu melhor!\"",
+        "context": "2 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.8.0",
+        "source_string": "\\nl< >\"So \\str[121], just sit nicely at the table ",
+        "translation": "\\nl< >\"Então \\str[121], apenas sente confortavelmente ",
+        "context": "2 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.8.1",
+        "source_string": "and wait for the food to be ready!\"        \\w[120]",
+        "translation": "na mesa e espere a comida ficar pronta!\"        \\w[120]",
+        "context": "2 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.0.0",
+        "source_string": "What should we make to eat today~",
+        "translation": "O que vamos fazer pra comer hoje~",
+        "context": "5 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.0.0",
+        "source_string": "It's rare to have breakfast with \\str[120], ",
+        "translation": "É tão raro tomar café da manhã com a \\str[120].",
+        "context": "10 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.0.1",
+        "source_string": "I'd better do my best!",
+        "translation": "Eu vou caprichar!",
+        "context": "10 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.1.0",
+        "source_string": "I made a simple breakfast with the leftover ingredients.",
+        "translation": "Eu fiz um café da manhã simples com",
+        "context": "10 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.2.0",
+        "source_string": "\"Ooh—!? It's glowing—! It looks amazing!\"",
+        "translation": "\"Ooh—!? Está brilhando—! Parece maravilhoso!\"",
+        "context": "10 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.3.0",
+        "source_string": "Cooking success!    \\w[30]",
+        "translation": "Sucesso Culinário!    \\w[30]",
+        "context": "10 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.3.1",
+        "source_string": "It's so delicious that all my energy is back!",
+        "translation": "Foi tão delicioso que recuperei toda a minha energia!",
+        "context": "10 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.4.0",
+        "source_string": "\"I'm feeling great today, it looks really tasty…\"",
+        "translation": "\"Estou me sentindo ótimo hoje, parece muito gostoso…\"",
+        "context": "10 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.5.0",
+        "source_string": "I quietly finished breakfast and felt a bit more energized.",
+        "translation": "Eu terminei o café da manhã silenciosamente",
+        "context": "10 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.6.0",
+        "source_string": "Oh no!    \\w[30]",
+        "translation": "Droga!    \\w[30]",
+        "context": "10 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.6.1",
+        "source_string": "It's a little burnt…",
+        "translation": "Tá um pouco queimado…",
+        "context": "10 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.7.0",
+        "source_string": "I ate a weird-tasting breakfast,",
+        "translation": "Eu tomei um café da manhã com gosto esquisito,",
+        "context": "10 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.7.1",
+        "source_string": "and somehow I don't feel satisfied at all…",
+        "translation": "e eu não me sinto nada satisfeito…",
+        "context": "10 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.8.0",
+        "source_string": "Aaaah————    \\w[30]",
+        "translation": "Aaaaah————    \\w[30]",
+        "context": "10 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.8.1",
+        "source_string": "It's completely burnt!",
+        "translation": "Tá tudo queimado!",
+        "context": "10 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.9.0",
+        "source_string": "Breakfast turned into a lump of charcoal,",
+        "translation": "Meu café da manhã virou um amontoado de carvão, ",
+        "context": "10 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.9.1",
+        "source_string": "tasted it and it had no flavor at all…",
+        "translation": "eu provei e não tem gosto nenhum…",
+        "context": "10 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.10.0",
+        "source_string": "It's almost time to head out…",
+        "translation": "Está quase na hora de sair…",
+        "context": "10 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.10.1",
+        "source_string": "I left a note for \\str[120], so it should be fine.",
+        "translation": "Eu deixei um bilhete para a \\str[120]",
+        "context": "10 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.0.0",
+        "source_string": "…Feels like I saw something familiar.",
+        "translation": "…Sentimento que eu vi algo familiar.",
+        "context": "12 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.1.0",
+        "source_string": "Ugh… I want some meat…",
+        "translation": "Ugh… Eu quero um pouco de carne…",
+        "context": "12 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.2.0",
+        "source_string": "What tasty thing should we add in~",
+        "translation": "O que de gostoso devemos adicionar~",
+        "context": "12 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.3.0",
+        "source_string": "Let's have fish today!",
+        "translation": "Hoje vai ter peixe!",
+        "context": "12 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.4.0",
+        "source_string": "\\str[121]!? Is this even edible!?",
+        "translation": "\\str[121]!? Isso sequer é comestível!?",
+        "context": "12 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.5.0",
+        "source_string": "No spicy stuff!",
+        "translation": "Sem coisas apimentadas!",
+        "context": "12 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.6.0",
+        "source_string": "…I hate veggies.",
+        "translation": "…Eu odeio verduras.",
+        "context": "12 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.7.0",
+        "source_string": "Hamburg steak~ Hamburg steak~",
+        "translation": "Bife de Hambúrger~",
+        "context": "12 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.8.0",
+        "source_string": "Is this something you can eat?",
+        "translation": "Isso é algo que dá pra comer?",
+        "context": "12 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.9.0",
+        "source_string": "Sweet and sour meat dish… sounds pretty good too?",
+        "translation": "Um prato Agridoce de carne… \n",
+        "context": "12 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.0.0",
+        "source_string": "Failed…  \\w[60]",
+        "translation": "Falha…  \\w[60]",
+        "context": "13 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.0.1",
+        "source_string": "\\str[120] and I somehow forced ourselves to ",
+        "translation": "\\str[120] e eu tivemos que nos forçar a  ",
+        "context": "13 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.0.2",
+        "source_string": "eat the weird food I made…",
+        "translation": "comer esse troço estranho que eu fiz…",
+        "context": "13 -> 0 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.1.0",
+        "source_string": "I enjoyed a delicious meat dish with \\str[120].",
+        "translation": "Comi um ótimo prato baseado em carne com a \\str[120].",
+        "context": "13 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.2.0",
+        "source_string": "I enjoyed dinner with \\str[120].",
+        "translation": "Tive um ótimo jantar com a \\str[120].",
+        "context": "13 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.3.0",
+        "source_string": "But it was so spicy that \\str[120] started crying instantly…",
+        "translation": "Mas estava tão apimentado que a \\str[120] começou a chorar na hora…",
+        "context": "13 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.4.0",
+        "source_string": "Also, it was so spicy that \\str[120] started crying instantly…",
+        "translation": "Além disso, estava tão apimentado que a \\str[120] começou a chorar na hora…",
+        "context": "13 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.0.0",
+        "source_string": "\\nl< >\"\\str[121]… ",
+        "translation": "\\nl< >\"\\str[121]… ",
+        "context": "17 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.0.1",
+        "source_string": "did you wash off all that smell from your body?",
+        "translation": "você tirou toda essa catinga do teu corpo?",
+        "context": "17 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.0.2",
+        "source_string": "Don’t come back all filthy next time.\"",
+        "translation": "Não volta com essa catinga nunca mais.\"",
+        "context": "17 -> 0 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.0.0",
+        "source_string": "\\nl< >\"Here, \\str[121]!    \\w[60]",
+        "translation": "\\nl< >\"Aqui, \\str[121]!    \\w[60]",
+        "context": "18 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.0.1",
+        "source_string": "Aaah————\"",
+        "translation": "Aaah————\"",
+        "context": "18 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.1.0",
+        "source_string": "………Eh? Déjà vu?",
+        "translation": "………Hã? Déjà vu?",
+        "context": "18 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.1.1",
+        "source_string": "This scene feels so familiar…!",
+        "translation": "Essa cena me parece tão famíliar…!",
+        "context": "18 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.2.0",
+        "source_string": "\"I'll feed myself————",
+        "translation": "\"Eu mesmo vou me alimentar————",
+        "context": "18 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.2.1",
+        "source_string": "\\w[60]\\^",
+        "translation": "\\w[60]\\^",
+        "context": "18 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.3.0",
+        "source_string": "\\nl< >\"Geez, \\str[121]!",
+        "translation": "\\nl< >\"Poxa, \\str[121]!",
+        "context": "18 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.3.1",
+        "source_string": "you're an injured patient right now, remember!\"",
+        "translation": "Você é um paciente machucado agora, não lembra?!\"",
+        "context": "18 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.4.0",
+        "source_string": "\"Ah, okay.\"",
+        "translation": "\"Ah, tudo bem.\"",
+        "context": "18 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.5.0",
+        "source_string": "Overwhelmed by \\str[120]'s determination,",
+        "translation": "Derrotado pela determinação da \\str[120],",
+        "context": "18 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.5.1",
+        "source_string": "I obediently ate the unknown thing she fed me.",
+        "translation": "Eu comi obedientemente a coisa desconhecida que ela me deu.",
+        "context": "18 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.6.0",
+        "source_string": "\\{  \"Pff!?\"",
+        "translation": "\\{ \"Pff!?\"",
+        "context": "18 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.7.0",
+        "source_string": "That familiar shock exploded in my mouth,",
+        "translation": "O susto com aquela explosão tão familiar na minha boca,",
+        "context": "18 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.7.1",
+        "source_string": "maybe I've gotten used to it, I didn't faint this time.",
+        "translation": "talvez eu tenha me acostumado.",
+        "context": "18 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.8.0",
+        "source_string": "\\nl< >\"How is it, \\str[121]? Does it taste good?\"",
+        "translation": "\\nl< >\"E aí, como estava \\str[121]? Tava gostoso?\"",
+        "context": "18 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.9.0",
+        "source_string": "\"The taste, umm, it's kind of————\"",
+        "translation": "\"O gosto, umm, é meio que————\"",
+        "context": "18 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.10.0",
+        "source_string": "A wave of heat suddenly surged from my stomach!",
+        "translation": "Uma onda de calor subiu de repente do meu estômago!",
+        "context": "18 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.10.1",
+        "source_string": "All my fatigue was blown away!",
+        "translation": "Todo o meu cansaço simplesmente desapareceu!",
+        "context": "18 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.11.0",
+        "source_string": "\"…Huh? It actually feels kinda good?\"",
+        "translation": "\"…Huh? Isso meio que realmente parece bom?\"",
+        "context": "18 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.12.0",
+        "source_string": "\\nl< >\"Yay, looks like my training paid off!\"",
+        "translation": "\\nl< >\"Yay, parece que meu treino está dando resultados!\"",
+        "context": "18 -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.13.0",
+        "source_string": "What kind of training did she even do?",
+        "translation": "Que tipo de treino ela fez?",
+        "context": "18 -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.13.1",
+        "source_string": "I was curious, but couldn't bring myself to ask…",
+        "translation": "Eu estava curioso, mas não tive coragem pra perguntar…",
+        "context": "18 -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.0.0",
+        "source_string": "I don't have a recipe to follow right now… ",
+        "translation": "Eu não tenho uma receita pra seguir no momento… ",
+        "context": "21 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.0.1",
+        "source_string": "should I just make something myself?",
+        "translation": "será que eu devo inventar alguma coisa?",
+        "context": "21 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.1.0",
+        "source_string": "Let \\str[120] cook",
+        "translation": "\\str[120] vai cozinhar",
+        "context": "21 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.1.1",
+        "source_string": "Do it myself",
+        "translation": "\\str[121] vai cozinhar",
+        "context": "21 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.2.0",
+        "source_string": "\\nl< >\"I'm sorry,\\str[121]...       \\w[60]",
+        "translation": "\\nl< >\"Me desculpa,\\str[121]...       \\w[60]",
+        "context": "21 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.2.1",
+        "source_string": "I'm still in training, let me handle it next time!\"",
+        "translation": "Eu ainda estou treinando, na próxima vez deixa que eu cuido disso!\"",
+        "context": "21 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.3.0",
+        "source_string": "…Looks like \\str[120] is trying her best ",
+        "translation": "…Parece que a \\str[120] está dando o seu máximo ",
+        "context": "21 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.3.1",
+        "source_string": "to learn how to cook.",
+        "translation": "pra aprender a cozinhar.",
+        "context": "21 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.3.2",
+        "source_string": "Oh well, I guess I’ll have to make dinner.",
+        "translation": "Bem, eu acho que eu mesmo vou ter que fazer o jantar.",
+        "context": "21 -> 3 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.4.0",
+        "source_string": "\\nl< >\\{\"\\str[121]!",
+        "translation": "\\nl< >\\{\"\\str[121]!",
+        "context": "21 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.4.1",
+        "source_string": "do you want to eat the food I make!?\"",
+        "translation": "você quer comer a comida que eu preparei!?\"",
+        "context": "21 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.5.0",
+        "source_string": "\\nl< >\"Oh my, I really can’t say no to you~\"",
+        "translation": "\\nl< >\"Meu Deus, Eu realmente não posso dizer não pra você~\"",
+        "context": "21 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.6.0",
+        "source_string": "\\nl< >\"Leave it to me! ",
+        "translation": "\\nl< >\"Deixa comigo! ",
+        "context": "21 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.6.1",
+        "source_string": "I’m confident I can make something really tasty!\"",
+        "translation": "Eu estou confiante que eu consigo fazer algo realmente gostoso!\"",
+        "context": "21 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.7.0",
+        "source_string": "Leave it to me!",
+        "translation": "Deixa comigo!",
+        "context": "21 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.8.0",
+        "source_string": "I’ll handle dinner tonight!",
+        "translation": "Eu cuidarei do jantar esta noite!",
+        "context": "21 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.0.0",
+        "source_string": "\\nl< >\\{\"Nnnnn……!\\w[250] Heave-ho……!  \\w[210]",
+        "translation": "\\nl< >\\{\"Nnnnn……!\\w[250] Pesa-do……!  \\w[210]",
+        "context": "22 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.0.1",
+        "source_string": "Hmm hmm……!\"    \\w[210]\\^",
+        "translation": "Hmm, hmm……!\" \\w[210]\\^",
+        "context": "22 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.1.0",
+        "source_string": "\\nl< >\"Haa…\\w[120] haa…\\w[180] \\str[121]……   \\w[60]",
+        "translation": "\\nl< >\"Haa…\\w[120] haa…\\w[180] \\str[121]……   \\w[60]",
+        "context": "22 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.1.1",
+        "source_string": "you're so heavy……!\"",
+        "translation": "você é tão pesado……!\"",
+        "context": "22 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.2.0",
+        "source_string": "With full determination, ",
+        "translation": "Cheia de determinação, ",
+        "context": "22 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.2.1",
+        "source_string": "\\str[120] dragged my completely limp body to the dining table…",
+        "translation": "\\str[120] arrastou meu corpo arrebentado pra mesa de jantar…",
+        "context": "22 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.3.0",
+        "source_string": "\\nl< >\"Now just wait here for a bit, \\str[121]. ",
+        "translation": "\\nl< >\"Agora espera aqui só um pouquinho, \\str[121]. ",
+        "context": "22 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.3.1",
+        "source_string": "I'll be right back.\"",
+        "translation": "Eu já volto.\"",
+        "context": "22 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.4.0",
+        "source_string": "Food made by \\str[120] herself… how should I put it, ",
+        "translation": "Comida feita pela própria \\str[120]… como eu posso colocar isso, ",
+        "context": "22 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.4.1",
+        "source_string": "I'm kinda looking forward to it……",
+        "translation": "Eu realmente estou ansioso……",
+        "context": "22 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.4.2",
+        "source_string": "But come to think of it, has she ever cooked before…?",
+        "translation": "Mas pensando nisso, será que ela já cozinhou alguma vez…?",
+        "context": "22 -> 4 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.5.0",
+        "source_string": "\\nl< >\"Here, \\str[121]!    \\w[60]",
+        "translation": "\\nl< >\"Aqui, \\str[121]!    \\w[60]",
+        "context": "22 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.5.1",
+        "source_string": "Aaah————\"",
+        "translation": "Aaah————\"",
+        "context": "22 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.6.0",
+        "source_string": "Staring at this unidentifiable object in front of me,",
+        "translation": "Começando com essa coisa impossível de identificar na minha frente,",
+        "context": "22 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.6.1",
+        "source_string": "my whole body started trembling uncontrollably.",
+        "translation": "meu corpo todo começou a tremer incontroladamente.",
+        "context": "22 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.7.0",
+        "source_string": "\"Um, dear \\str[120]……    \\w[60]",
+        "translation": "\"Um, querida \\str[120]……    \\w[60]",
+        "context": "22 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.7.1",
+        "source_string": "\\str[121] still has enough strength to feed himself, you know?   \\w[150]",
+        "translation": "\\str[121] ainda tem bastante força pra comer sozinho sabe?   \\w[150]",
+        "context": "22 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.7.2",
+        "source_string": "If you just take off these bandages……\"    \\w[20]\\^",
+        "translation": "Se você tirar essas bandagens……\"    \\w[20]\\^",
+        "context": "22 -> 7 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.8.0",
+        "source_string": "\\nl< >\"No way! ",
+        "translation": "\\nl< >\"Nem pensar! ",
+        "context": "22 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.8.1",
+        "source_string": "You're injured right now, \\str[121],",
+        "translation": "Você tá dodoi agora, \\str[121],",
+        "context": "22 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.8.2",
+        "source_string": "you need proper rest!\"",
+        "translation": "você precisa descansar bem descansado!\"",
+        "context": "22 -> 8 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.9.0",
+        "source_string": "\\nl< >\"Or maybe… ",
+        "translation": "\\nl< >\"Ou talves… ",
+        "context": "22 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.9.1",
+        "source_string": "my first attempt at cooking really isn't that good……?   \\w[120]",
+        "translation": "minha primeira tentativa na cozinha não deu muito certo……?   \\w[120]",
+        "context": "22 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.9.2",
+        "source_string": "In that case, let me taste it first…\"",
+        "translation": "Nesse caso, deixa eu provar primeiro…\"",
+        "context": "22 -> 9 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.10.0",
+        "source_string": "\\{  \"Let me try it! Please!\"",
+        "translation": "\\{  \"Deixa eu esperimentar! Por favor!\"",
+        "context": "22 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.11.0",
+        "source_string": "Before \\str[120] could react,",
+        "translation": "Antes que a \\str[120] pudesse reagir,",
+        "context": "22 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.11.1",
+        "source_string": "I quickly leaned forward and ",
+        "translation": "Eu rapidamente me forcei pra frente e ",
+        "context": "22 -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.11.2",
+        "source_string": "bit the spoon she was holding out.",
+        "translation": "abocanhei a colher que ela estava segurando.",
+        "context": "22 -> 11 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.12.0",
+        "source_string": "\"Mm… chomp chomp chomp—    \\w[60] ",
+        "translation": "\"Mm… nhac nhac nhac—    \\w[60] ",
+        "context": "22 -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.12.1",
+        "source_string": "it's kind of————     \\w[30]\\^",
+        "translation": "meio que é————     \\w[30]\\^",
+        "context": "22 -> 12 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.13.0",
+        "source_string": "\\{  \"Pff!?\"",
+        "translation": "\\{ \"Pff!?\"",
+        "context": "22 -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.14.0",
+        "source_string": "\\nl< >\"\\str[121]!? Wh-what's wrong!?\"",
+        "translation": "\\nl< >\"\\str[121]!? O que tem de errado!?\"",
+        "context": "22 -> 14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.15.0",
+        "source_string": "It felt like drinking highly carbonated soda,",
+        "translation": "Eu senti como se tivesse tomado um refrigerante com muito gas, ",
+        "context": "22 -> 15 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.15.1",
+        "source_string": "the weird texture exploded in my mouth instantly,",
+        "translation": "a textura estranha explodiu na minha boca instantaneamente, ",
+        "context": "22 -> 15 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.15.2",
+        "source_string": "before I could even react, I blacked out…",
+        "translation": "antes mesmo de poder reagir, ficou tudo preto…",
+        "context": "22 -> 15 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.16.0",
+        "source_string": "\\nl< >\\{  \"Onii-chaaan—!\"",
+        "translation": "\\nl< >\\{  \"Onii-chaaan—!\"",
+        "context": "22 -> 16 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.16.1",
+        "source_string": "\\w[60]\\^",
+        "translation": "\\w[60]\\^",
+        "context": "22 -> 16 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.17.0",
+        "source_string": "Ahh… food made by \\str[120]'s own hands…",
+        "translation": "Ahh… a comida feita pelas mãos da \\str[120]…",
+        "context": "22 -> 17 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.17.1",
+        "source_string": "too bad I couldn't finish it…",
+        "translation": "pena que eu não consegui terminar…",
+        "context": "22 -> 17 -> 1",
+        "labels": null,
+        "max_length": null
+    }
+]
