@@ -118,7 +118,7 @@
         "subtitle": "",
         "description": [
             "Just a 10000 Yen banknote",
-            "Even a gacha machine would smile at such value—"
+            "Até uma máquina gacha sorriria com tal valor—"
         ],
         "ability": ""
     },
@@ -129,9 +129,9 @@
         "subtitle": "",
         "description": [
             "A thick stack of 5000 Yen banknotes",
-            "As the maid Bunnys rapidly expand trade",
-            "monsters have also begun snatching adventurers’ wallets",
-            "just to experience this thing called 'shopping' "
+            "À medida que as criadas Coelhinhas expandem rapidamente o comércio",
+            "monstros também começaram a furtar as carteiras dos aventureiros",
+            "apenas para experimentar algo chamado \"fazer compras\" "
         ],
         "ability": ""
     },
@@ -141,9 +141,9 @@
         ],
         "subtitle": "",
         "description": [
-            "A thick stack of 10000 Yen banknotes",
-            "Its scent of wealth can even make ",
-            "greedy demons smile seductively—"
+            "Um bolo grosso de notas de 10.000 ienes",
+            "Seu aroma de riqueza é capaz até de fazer ",
+            "demônios gananciosos sorrirem de forma sedutora—"
         ],
         "ability": ""
     },
@@ -1217,16 +1217,16 @@
     },
     "187": {
         "name": [
-            "Old Videotape"
+            "Fita VHS Antiga"
         ],
         "subtitle": [
             ""
         ],
         "description": [
-            "A special medium that stores footage from a bygone era, playable",
-            "only with specific equipment. Some propose it was an alchemical",
-            "product of an ancient civilization, though no proof exists",
-            "Its scarcity also makes collectors highly eager to obtain it"
+            "Um meio especial que armazena imagens de uma era passada, reproduzível",
+            "apenas com equipamentos específicos. Alguns sugerem que se trata de um produto alquímico",
+            "de uma civilização antiga, embora não exista prova alguma",
+            "Sua raridade também faz com que colecionadores tenham grande interesse em obtê-la"
         ],
         "ability": [
             ""
@@ -1234,16 +1234,16 @@
     },
     "188": {
         "name": [
-            "Horror Videotape"
+            "Fita VHS de Terror"
         ],
         "subtitle": [
             ""
         ],
         "description": [
-            "A special medium that stores footage from a bygone era, playable",
-            "only with specific equipment. Some propose it was an alchemical",
-            "product of an ancient civilization, though no proof exists",
-            "It also seems cursed—the footage is always unnervingly chilling"
+            "Um meio especial que armazena imagens de uma era passada, reproduzível",
+            "apenas com equipamentos específicos. Alguns sugerem que se trata de um produto alquímico",
+            "de uma civilização antiga, embora não exista prova alguma",
+            "Também parece amaldiçoada — as imagens são sempre perturbadoramente arrepiantes"
         ],
         "ability": [
             ""
@@ -1251,16 +1251,16 @@
     },
     "189": {
         "name": [
-            "Adult Videotape"
+            "Fita VHS Adulta"
         ],
         "subtitle": [
             ""
         ],
         "description": [
-            "A special medium that stores footage from a bygone era, playable",
-            "only with specific equipment. Some propose it was an alchemical",
-            "product of an ancient civilization, though no proof exists",
-            "It seems to be restricted content, filled with arousing scenes"
+            "Um meio especial que armazena imagens de uma era passada, reproduzível",
+            "apenas com equipamentos específicos. Alguns sugerem que se trata de um produto alquímico",
+            "de uma civilização antiga, embora não exista prova alguma",
+            "Parece um conteúdo de acesso restrito, carregado de cenas eróticas"
         ],
         "ability": [
             ""
