@@ -1,0 +1,194 @@
+[
+    {
+        "identifier": "2.0.0",
+        "source_string": "After stepping into the Star Gate, ",
+        "translation": "Depois de pisar no Portão Estelar, ",
+        "context": "2 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.1",
+        "source_string": "the stone fragment in my backpack suddenly ",
+        "translation": "o fragmento de pedra na minha mochila de repente ",
+        "context": "2 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.2",
+        "source_string": "emitted an intense wave of heat.",
+        "translation": "emitiu uma intensa onda de calor.",
+        "context": "2 -> 0 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.3",
+        "source_string": " ",
+        "translation": " ",
+        "context": "2 -> 0 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.4",
+        "source_string": "I hurriedly took out the fragment, only to discover ",
+        "translation": "Eu rapidamente tirei o fragmento, apenas para descobrir ",
+        "context": "2 -> 0 -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.5",
+        "source_string": "that what had been calm and stable all this ",
+        "translation": "que outrora calma e estável por todo esse ",
+        "context": "2 -> 0 -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.6",
+        "source_string": "time had begun to undergo a transformation—",
+        "translation": "tempo, havia começado a passar por uma transformação—",
+        "context": "2 -> 0 -> 6",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.1.0",
+        "source_string": "\"Wh-What is this...\"",
+        "translation": "\"O qu... O que é isso...\"",
+        "context": "2 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.0",
+        "source_string": "I have no idea what just happened.",
+        "translation": "Eu não fazia ideia do que acabou de acontecer.",
+        "context": "2 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.1",
+        "source_string": "The stone suddenly started glowing ",
+        "translation": "A pedra de repente começõu a brilhar ",
+        "context": "2 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.2",
+        "source_string": "like crazy under those weird pulses...",
+        "translation": "descontroladamente entre os estranhos pulsos...",
+        "context": "2 -> 2 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.0",
+        "source_string": "In the next moment, ",
+        "translation": "No momento seguinte, ",
+        "context": "2 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.1",
+        "source_string": "the stone suddenly started melting—",
+        "translation": "a pedra de repente começou a derreter—",
+        "context": "2 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.4.0",
+        "source_string": "\"Ah… aaah!?   \\w[60]",
+        "translation": "\"Ah… aaah!? \\w[60]",
+        "context": "2 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.4.1",
+        "source_string": "No, no—it's gonna spill out!!\"",
+        "translation": "Não, não—vai vai derramar!!\"",
+        "context": "2 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.0",
+        "source_string": "As the stone unexpectedly and rapidly turned ",
+        "translation": "Enquanto a pedra rápida e inesperadamente se tornava",
+        "context": "2 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.1",
+        "source_string": "into liquid, I frantically rummaged through my ",
+        "translation": "liquida, eu revirei freneticamente a minha mochila ",
+        "context": "2 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.2",
+        "source_string": "backpack and pulled out a glass bottle, hastily ",
+        "translation": "e rapidamente peguei uma garrafa de vidro tentando ",
+        "context": "2 -> 5 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.3",
+        "source_string": "collecting the red liquid still clinging to my hands.",
+        "translation": "coletar o liquido vermelho grudado em minhas mãos.",
+        "context": "2 -> 5 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.6.0",
+        "source_string": "…………",
+        "translation": "…………",
+        "context": "2 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.6.1",
+        "source_string": "…………",
+        "translation": "…………",
+        "context": "2 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.7.0",
+        "source_string": "Could this be the Elixir Rubrum that my ",
+        "translation": "Pode este ser o Elixir Rubrum que meu ",
+        "context": "2 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.7.1",
+        "source_string": "father mentioned...?",
+        "translation": "pai, mencionou...?",
+        "context": "2 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.7.2",
+        "source_string": "But why would it react inside this gate...?",
+        "translation": "Mas porquê ele reagiria dentro desse portão...?",
+        "context": "2 -> 7 -> 2",
+        "labels": null,
+        "max_length": null
+    }
+]
