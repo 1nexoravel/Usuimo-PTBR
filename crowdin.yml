@@ -1,7 +1,7 @@
 "files": [
   {
-    "source": "/locale/**/*.json",
-    "translation": "/locale/**/%original_file_name%",
+    "source": "/locale/**/*EN*.json",
+    "translation": "/locale/**/%original_file_name%.json",
     "translation_replace": {
       "EN": "PTBR"
     }
