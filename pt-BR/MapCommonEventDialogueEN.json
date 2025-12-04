@@ -1,0 +1,2178 @@
+[
+    {
+        "identifier": "autoUpdateReminder.0.0",
+        "source_string": "The update process will automatically start when you wake up the next day.",
+        "translation": "O processo de atualização começará automaticamente quando você acordar no dia seguinte.",
+        "context": "autoUpdateReminder -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "autoUpdateReminder.0.1",
+        "source_string": "Please make sure your internet connection is stable throughout the process!",
+        "translation": "Certifique-se de que sua conexão com a ‘internet’ esteja estável durante todo o processo!",
+        "context": "autoUpdateReminder -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "autoUpdateReminder.0.2",
+        "source_string": "\\w[120]",
+        "translation": "\\w[120]",
+        "context": "autoUpdateReminder -> 0 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "autoUpdateReminder.1.0",
+        "source_string": "Unable to view update log!",
+        "translation": "Falha ao abrir o log de atualização!",
+        "context": "autoUpdateReminder -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "autoUpdateReminder.1.1",
+        "source_string": "The network connection may have failed!",
+        "translation": "Pode ter ocorrido uma falha na conexão com a internet!",
+        "context": "autoUpdateReminder -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "autoUpdateReminder.1.2",
+        "source_string": "\\w[120]",
+        "translation": "\\w[120]",
+        "context": "autoUpdateReminder -> 1 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ElixirCraft.0.0",
+        "source_string": " Elixir Craft ",
+        "translation": "Criar elixir",
+        "context": "ElixirCraft -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ElixirCraft.1.0",
+        "source_string": " Successfully created Elixir Rubrum! ",
+        "translation": " Elixir de Rubrum criado com sucesso! ",
+        "context": "ElixirCraft -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "gainRedHeart.0.0",
+        "source_string": " Heart Blooming ",
+        "translation": " Coração Florescendo ",
+        "context": "gainRedHeart -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "gainRedHeart.1.0",
+        "source_string": " \\str[120]’s heart just skipped a beat! ",
+        "translation": " O coração da \\str[120] acabou de disparar! ",
+        "context": "gainRedHeart -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "gainWhiteHeart.0.0",
+        "source_string": " Overflowing Love ",
+        "translation": "Transbordando amor",
+        "context": "gainWhiteHeart -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "gainWhiteHeart.1.0",
+        "source_string": " She was filled up! ",
+        "translation": " Ela estava cheia! ",
+        "context": "gainWhiteHeart -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "gainGoldenHeart.0.0",
+        "source_string": " Golden Lust ",
+        "translation": "Luxúria Dourada",
+        "context": "gainGoldenHeart -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "gainGoldenHeart.1.0",
+        "source_string": " Lost in a sea of gold ",
+        "translation": " Perdido em um oceano de ouro ",
+        "context": "gainGoldenHeart -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "NinjasFate.0.0",
+        "source_string": " Ninja’s Fate ",
+        "translation": " O destino do ninja ",
+        "context": "NinjasFate -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "NinjasFate.1.0",
+        "source_string": " Erase oneself, and wield the blade for comrades... ",
+        "translation": "Apague-se de si mesmo e empunhe a lâmina pelos camaradas",
+        "context": "NinjasFate -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "unlockJackalope.0.0",
+        "source_string": " Jackalope ",
+        "translation": " Jackalope ",
+        "context": "unlockJackalope -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "unlockJackalope.1.0",
+        "source_string": " has appeared in the Abyss! ",
+        "translation": "Apareceu no abismo",
+        "context": "unlockJackalope -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.0.0",
+        "source_string": "There’s really nothing special up ahead!",
+        "translation": "Não há realmente nada de especial à frente!",
+        "context": "maidBunnyBoss -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.0.1",
+        "source_string": "So there’s no need to go check it usa!",
+        "translation": "Então não precisa conferir, pyon!",
+        "context": "maidBunnyBoss -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.1.0",
+        "source_string": "Th-there’s nothing here, really! D-don’t come any closer!",
+        "translation": "N-não tem nada aqui, de verdade! N-não chegue mais perto!",
+        "context": "maidBunnyBoss -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.1.1",
+        "source_string": "I-I swear there’s absolutely nothing hidden here usa!",
+        "translation": "J-juro que não tem absolutamente nada escondido aqui, pyon!",
+        "context": "maidBunnyBoss -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.2.0",
+        "source_string": "...Usa?",
+        "translation": "...Pyon?",
+        "context": "maidBunnyBoss -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.2.1",
+        "source_string": "What’s that strange noise?",
+        "translation": "Que barulho estranho é esse?",
+        "context": "maidBunnyBoss -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.3.0",
+        "source_string": "...Usa!?",
+        "translation": "...Pyon!?",
+        "context": "maidBunnyBoss -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.3.1",
+        "source_string": "How did you find this place—!",
+        "translation": "Como você encontrou este lugar—!",
+        "context": "maidBunnyBoss -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.4.0",
+        "source_string": "...Usa!?",
+        "translation": "...Pyon!?",
+        "context": "maidBunnyBoss -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.4.1",
+        "source_string": "A human...!!",
+        "translation": "Um humano...!!",
+        "context": "maidBunnyBoss -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.5.0",
+        "source_string": "Usaaaa, you bastard—                        \\w[45]",
+        "translation": "Pyonnnn, seu bastardo—                        \\w[45]",
+        "context": "maidBunnyBoss -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.5.1",
+        "source_string": "\\{Are you here to steal my carrots!!       \\w[60]\\^",
+        "translation": "\\{Você Está aqui para roubar minhas cenouras! \\w[60]\\^",
+        "context": "maidBunnyBoss -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.6.0",
+        "source_string": "Usa!? My carrots!!         \\w[45]",
+        "translation": "Pyon!? Minhas cenouras!         \\w[45]",
+        "context": "maidBunnyBoss -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "maidBunnyBoss.6.1",
+        "source_string": "\\{A carrot thief!!         \\w[60]\\^",
+        "translation": "\\{Um Ladrão das cenouras! \\w[60]\\^",
+        "context": "maidBunnyBoss -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "noBombFishing.0.0",
+        "source_string": "Fishing with bombs is strictly forbidden!",
+        "translation": "Pesca com bombas é estritamente proibida!",
+        "context": "noBombFishing -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "noBombFishing.0.1",
+        "source_string": "Do it at your own risk!",
+        "translation": "Faça por sua conta e risco!",
+        "context": "noBombFishing -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.1.0",
+        "source_string": "(Looks like she won’t be waking up anytime soon…",
+        "translation": "(Parece que ela não vai acordar tão cedo…",
+        "context": "sela -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.1.1",
+        "source_string": "Guess I’ll come back later…)",
+        "translation": "Acho melhor voltar mais tarde…)",
+        "context": "sela -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.2.0",
+        "source_string": "…Hmm?",
+        "translation": "…Hummm?",
+        "context": "sela -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.2.1",
+        "source_string": "Are we… at the station already?",
+        "translation": "Nós já chegamos… na estação?",
+        "context": "sela -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.3.0",
+        "source_string": "Huh? Wait—this isn’t the train car?",
+        "translation": "Hã? Espere — este não é o vagão do trem?",
+        "context": "sela -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.3.1",
+        "source_string": "It was so warm just a moment ago…",
+        "translation": "Estava tão quente há pouco…",
+        "context": "sela -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.4.0",
+        "source_string": "A campfire… ah…",
+        "translation": "Uma fogueira… ah…",
+        "context": "sela -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.4.1",
+        "source_string": "So that’s why it’s so warm.",
+        "translation": "E é por isso que está tão quente.",
+        "context": "sela -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.5.0",
+        "source_string": "But… that’s strange… Just a moment ago, ",
+        "translation": "Mas… que estranho… agora a pouco, ",
+        "context": "sela -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.5.1",
+        "source_string": "I was still watching the river of stars outside the window…",
+        "translation": "Ainda estava vendo o rio de estrelas pela da janela…",
+        "context": "sela -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.6.0",
+        "source_string": "I must’ve been too mesmerized…",
+        "translation": "Eu devo ter ficado muito fascinada…",
+        "context": "sela -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.6.1",
+        "source_string": "And ended up missing my stop.",
+        "translation": "E acabei perdendo minha parada.",
+        "context": "sela -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.7.0",
+        "source_string": "You’re asking what a “train” is…?",
+        "translation": "Você está perguntando o que um \"trem\" é…?",
+        "context": "sela -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.7.1",
+        "source_string": "Hehe… a “train,” huh—",
+        "translation": "Hehe… um \"trem\", hein—",
+        "context": "sela -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.8.0",
+        "source_string": "It’s that clattering, clattering thing that carries everyone,",
+        "translation": "É barulhento, coisa barulhenta que leva todo mundo,",
+        "context": "sela -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.8.1",
+        "source_string": "shining as it glides through the stars like scattered diamonds~",
+        "translation": "Brilhando enquanto plana pelas estrelas como diamantes espalhados~",
+        "context": "sela -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.9.0",
+        "source_string": "Its whistle—",
+        "translation": "Seu apito —",
+        "context": "sela -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.9.1",
+        "source_string": "sounds just like a singing whale, you know?",
+        "translation": "Soa como uma baleia cantadora, sabe?",
+        "context": "sela -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.10.0",
+        "source_string": "Hehe, still don’t get it?",
+        "translation": "Hehe, ainda não entendeu?",
+        "context": "sela -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.10.1",
+        "source_string": "Then let me show you a ticket, maybe that’ll help~",
+        "translation": "Então deixe-me mostrar-lhe um bilhete, talvez isso ajudará~",
+        "context": "sela -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.11.0",
+        "source_string": "The ticket for the Galactic Train,",
+        "translation": "O bilhete para o trem Galático,",
+        "context": "sela -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.11.1",
+        "source_string": "is also very—",
+        "translation": "É também muito—",
+        "context": "sela -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.12.0",
+        "source_string": "Huh? Huh??",
+        "translation": "Hã? Hã!?",
+        "context": "sela -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.12.1",
+        "source_string": "The ticket… it’s gone…",
+        "translation": "O bilhete… sumiu…",
+        "context": "sela -> 12 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.13.0",
+        "source_string": "That ticket with the black vine patterns and",
+        "translation": "Esse bilhete com os padrões de videira pretos e",
+        "context": "sela -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.13.1",
+        "source_string": "the strange cross in the middle… it’s gone…",
+        "translation": "Uma estranha cruz no meio… desapareceu…",
+        "context": "sela -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.14.0",
+        "source_string": "I’m sorry… I can’t show you the galaxy after all…",
+        "translation": "Desculpe… Não posso lhe mostrar a galáxia apesar de tudo…",
+        "context": "sela -> 14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.14.1",
+        "source_string": "Looks like I lost my ticket…",
+        "translation": "Parece que perdi meu bilhete…",
+        "context": "sela -> 14 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.15.0",
+        "source_string": "Without it, I can never get back on the train…",
+        "translation": "Sem ele, nunca poderei voltar para o trem…",
+        "context": "sela -> 15 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.15.1",
+        "source_string": "Uuu… Uuu…",
+        "translation": "Uuu… Uuu…",
+        "context": "sela -> 15 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.16.0",
+        "source_string": "What will I do now…?  I guess I’ll just wait here…",
+        "translation": "O que farei agora? Suponho que vou apenas esperar aqui…",
+        "context": "sela -> 16 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.16.1",
+        "source_string": "maybe the next train will find me.",
+        "translation": "Talvez o próximo trem me encontre.",
+        "context": "sela -> 16 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.17.0",
+        "source_string": "And also… I’m sorry…",
+        "translation": "E também… Me desculpe…",
+        "context": "sela -> 17 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.17.1",
+        "source_string": "the fire here is just too warm…",
+        "translation": "O fogo aqui está muito quente…",
+        "context": "sela -> 17 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.18.0",
+        "source_string": "Once I sit down, the drowsiness washes over me…",
+        "translation": "Quando eu me sentei, bateu aquela moleza…",
+        "context": "sela -> 18 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.18.1",
+        "source_string": "like the tide… sweeping me away…",
+        "translation": "Como uma cama quente… me chamando para soneca…",
+        "context": "sela -> 18 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.19.0",
+        "source_string": "(this person…",
+        "translation": "(esta pessoa…",
+        "context": "sela -> 19 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.19.1",
+        "source_string": "actually fell asleep!)",
+        "translation": "Realmente adormeceu!)",
+        "context": "sela -> 19 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.20.0",
+        "source_string": "It really is warm here.",
+        "translation": "Aqui está realmente quente.",
+        "context": "sela -> 20 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.20.1",
+        "source_string": "But… it’s different from sunlight.",
+        "translation": "Mas… e diferente da luz do sol.",
+        "context": "sela -> 20 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.21.0",
+        "source_string": "Sunlight is the warmth of the “outside.”",
+        "translation": "A luz solar é o calor de \"fora.\"",
+        "context": "sela -> 21 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.21.1",
+        "source_string": "A campfire… is the warmth of the “journey.”",
+        "translation": "Uma fogueira… é o calor da “viagem”.",
+        "context": "sela -> 21 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.22.0",
+        "source_string": "…Hmm?",
+        "translation": "…Humm?",
+        "context": "sela -> 22 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.22.1",
+        "source_string": "Is the train coming to pick me up?",
+        "translation": "O trem está vindo me buscar?",
+        "context": "sela -> 22 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.23.0",
+        "source_string": "Huh? Oh,",
+        "translation": "Hum? Ah!",
+        "context": "sela -> 23 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.23.1",
+        "source_string": "it’s you again, adventurer!",
+        "translation": "É você novamente, aventureiro!",
+        "context": "sela -> 23 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.24.0",
+        "source_string": "I was just talking to you earlier…",
+        "translation": "Eu estava agora mesmo falando com você mais cedo",
+        "context": "sela -> 24 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.24.1",
+        "source_string": "but it feels like such a long time has passed since then…",
+        "translation": "Mas parece que muito tempo se passou desde então",
+        "context": "sela -> 24 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.25.0",
+        "source_string": "“Do I remember where I lost the ticket”…?",
+        "translation": "\"Será que eu me lembro onde eu perdi meu bilhete\"?",
+        "context": "sela -> 25 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.25.1",
+        "source_string": "Hmm… not really… it’s all a blur now…",
+        "translation": "Hmm… não mesmo… está tudo embaralhado agora…",
+        "context": "sela -> 25 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.26.0",
+        "source_string": "It’s not heavy like the coins in this world…",
+        "translation": "Não é pesado como as moedas deste mundo…",
+        "context": "sela -> 26 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.26.1",
+        "source_string": "It’s light—lighter than a swan’s feather~",
+        "translation": "É leve — mais leve do que uma pena de cisne~",
+        "context": "sela -> 26 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.27.0",
+        "source_string": "Its color looks like a ‘sleeping lake’ frozen inside it,",
+        "translation": "Sua cor parece um ‘lago adormecido’ congelado dentro dela,",
+        "context": "sela -> 27 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.27.1",
+        "source_string": "and if you hold it to the light, you can see stardust flowing within~",
+        "translation": "E se você olhar contra a luz, pode ver a poeira estelar fluindo dentro de~",
+        "context": "sela -> 27 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.28.0",
+        "source_string": "It might have…",
+        "translation": "Isso pode ter…",
+        "context": "sela -> 28 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.28.1",
+        "source_string": "fallen anywhere…",
+        "translation": "Caído em qualquer lugar…",
+        "context": "sela -> 28 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.29.0",
+        "source_string": "Maybe in a field full of blue sage,",
+        "translation": "Talvez num campo cheio de sálvia azul,",
+        "context": "sela -> 29 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.29.1",
+        "source_string": "or taken by a fearless fox back to its den,",
+        "translation": "Ou tomado por uma raposa destemida de volta para sua toca,",
+        "context": "sela -> 29 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.30.0",
+        "source_string": "or perhaps… it turned into the first drop of morning dew,",
+        "translation": "Ou talvez… transformou-se na primeira gota do orvalho da manhã,",
+        "context": "sela -> 30 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.30.1",
+        "source_string": "hanging from someone’s window ledge.",
+        "translation": "Pendurado na borda da janela de alguém.",
+        "context": "sela -> 30 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.31.0",
+        "source_string": "(Is this… a riddle?",
+        "translation": "(Isto é… um enigma?",
+        "context": "sela -> 31 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.31.1",
+        "source_string": "I have no idea what she’s talking about…)",
+        "translation": "Eu não faço a menor ideia do que ela está falando sobre…)",
+        "context": "sela -> 31 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.32.0",
+        "source_string": "I’m sorry… the only thing I can recall,",
+        "translation": "Me desculpe… a única coisa que consigo me lembrar,",
+        "context": "sela -> 32 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.32.1",
+        "source_string": "are these… faint, hazy images…",
+        "translation": "São essas… imagens obscurecidas, fracas…",
+        "context": "sela -> 32 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.33.0",
+        "source_string": "Here... this is for you...",
+        "translation": "Aqui... Isso é para você...",
+        "context": "sela -> 33 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.33.1",
+        "source_string": "I used to love reading this back on the train too...",
+        "translation": "Eu adorava ler isso no trem também...",
+        "context": "sela -> 33 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.34.0",
+        "source_string": "It’s filled with lots of... interesting notes...",
+        "translation": "Está cheio de muitas... anotações interessantes...",
+        "context": "sela -> 34 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.34.1",
+        "source_string": "I think it might be useful for you as well, adventurer...",
+        "translation": "Acredito que também pode ser útil para você, aventureiro...",
+        "context": "sela -> 34 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.35.0",
+        "source_string": "(She’s focused on her drawing...",
+        "translation": "(Ela está concentrada nos desenhos dela...",
+        "context": "sela -> 35 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.35.1",
+        "source_string": "Better not disturb her…)",
+        "translation": "Melhor não atrapalhar ela…)",
+        "context": "sela -> 35 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.36.0",
+        "source_string": "(I’m a bit curious...",
+        "translation": "(Estou um pouco curioso...",
+        "context": "sela -> 36 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.36.1",
+        "source_string": "What is she drawing…?)",
+        "translation": "O que ela está desenhando…?)",
+        "context": "sela -> 36 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.37.0",
+        "source_string": "(Wait... ",
+        "translation": "(Espere... ",
+        "context": "sela -> 37 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.37.1",
+        "source_string": "what’s that!?)",
+        "translation": "O é que isso!?)",
+        "context": "sela -> 37 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.38.0",
+        "source_string": "(I think I just saw...",
+        "translation": "(Eu acredito que acabei de ver...",
+        "context": "sela -> 38 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "sela.38.1",
+        "source_string": "something I definitely shouldn’t have seen…)",
+        "translation": "Algo que eu definitivamente não deveria ter visto…)",
+        "context": "sela -> 38 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PhilosophersFragment.title.0",
+        "source_string": "Philosopher's Fragment",
+        "translation": "Fragmento do Filósofo",
+        "context": "PhilosophersFragment -> title -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PhilosophersFragment.description50.0",
+        "source_string": "A special shard obtained from the Red Beast",
+        "translation": "Um fragmento especial obtido da Besta Vermelha",
+        "context": "PhilosophersFragment -> description50 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PhilosophersFragment.description50.1",
+        "source_string": "If various shards can be collected",
+        "translation": "Se vários fragmentos forem coletados",
+        "context": "PhilosophersFragment -> description50 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PhilosophersFragment.description50.2",
+        "source_string": "it might help improve ${}'s condition",
+        "translation": "Pode ajudar a melhorar a condição de ${}",
+        "context": "PhilosophersFragment -> description50 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PhilosophersFragment.description56.0",
+        "source_string": "A special shard obtained from the Maid Bunny",
+        "translation": "Um fragmento especial obtido da coelha empregada",
+        "context": "PhilosophersFragment -> description56 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PhilosophersFragment.description56.1",
+        "source_string": "If various shards can be collected",
+        "translation": "Se vários fragmentos forem coletados",
+        "context": "PhilosophersFragment -> description56 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "PhilosophersFragment.description56.2",
+        "source_string": "it might help improve ${}'s condition",
+        "translation": "Podem ajudar a melhorar a condição de ${}",
+        "context": "PhilosophersFragment -> description56 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.0.0",
+        "source_string": "Accidentally pulled out \\str[120]’s ahoge.",
+        "translation": "Arranquei sem querer o ahoge da \\str[120].",
+        "context": "imoutoAhoge -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.1.0",
+        "source_string": "She didn’t seem to notice anything unusual, ",
+        "translation": "Ela não pareceu notar nada de estranho, ",
+        "context": "imoutoAhoge -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.1.1",
+        "source_string": "and it grew back quickly.",
+        "translation": "E ele cresceu de volta rapidamente.",
+        "context": "imoutoAhoge -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.1.2",
+        "source_string": "...Could this be some kind of renewable resource?",
+        "translation": "...Será que isso pode ser algum tipo de recurso renovável?",
+        "context": "imoutoAhoge -> 1 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.2.0",
+        "source_string": "\\nl< >\"...What’s wrong, \\str[121]?",
+        "translation": "\\n l< >\"...O que houve, \\str[121]?\"",
+        "context": "imoutoAhoge -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.2.1",
+        "source_string": "You look really serious.\"",
+        "translation": "Você está com uma cara bem séria.\"",
+        "context": "imoutoAhoge -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.3.0",
+        "source_string": "Since it seems complicated, ",
+        "translation": "Como parece complicado, ",
+        "context": "imoutoAhoge -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.3.1",
+        "source_string": "I’d better not think too deeply about it.",
+        "translation": "é melhor eu não pensar muito sobre isso.",
+        "context": "imoutoAhoge -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.4.0",
+        "source_string": "Better not touch it again...",
+        "translation": "Melhor não tocar nisso de novo...",
+        "context": "imoutoAhoge -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.5.0",
+        "source_string": "\\nl< >\"...My head feels a bit itchy.   \\w[30]",
+        "translation": "\\nl< >\"...Minha cabeça está coçando um pouco. \\w[30]",
+        "context": "imoutoAhoge -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.5.1",
+        "source_string": "Did you do something, \\str[121]?\"",
+        "translation": "Você fez alguma coisa, \\str[121]?\"",
+        "context": "imoutoAhoge -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "imoutoAhoge.6.0",
+        "source_string": "\"I-I didn’t do anything… I mean it!\"",
+        "translation": "“E-eu não fiz nada… Juro mesmo!”",
+        "context": "imoutoAhoge -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "cookingSystem.0.0",
+        "source_string": "\\ii[\\v[\\v[85]]]is ready. What should I do?",
+        "translation": "\\ii[\\v[\\v[85]]]está pronto. O que devo fazer?",
+        "context": "cookingSystem -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "cookingSystem.1.0",
+        "source_string": "Swap it",
+        "translation": "Trocar isso",
+        "context": "cookingSystem -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "cookingSystem.1.1",
+        "source_string": "Remove it",
+        "translation": "Remover isso",
+        "context": "cookingSystem -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "cookingSystem.2.0",
+        "source_string": "Still picking ingredients!!",
+        "translation": "Ainda coletando ingredientes!!",
+        "context": "cookingSystem -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "inventoryExpansion.0.0",
+        "source_string": "It seems like using \\ii[312]",
+        "translation": "Parece que usar isso \\ii[312]",
+        "context": "inventoryExpansion -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "inventoryExpansion.0.1",
+        "source_string": "can expand the backpack capacity...",
+        "translation": "Pode expandir a capacidade da bolsa...",
+        "context": "inventoryExpansion -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "inventoryExpansion.1.0",
+        "source_string": "Expand weapon slots",
+        "translation": "Expandir espaços para armas",
+        "context": "inventoryExpansion -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "inventoryExpansion.1.1",
+        "source_string": "Expand gear slots",
+        "translation": "Expandir espaços para equipamentos",
+        "context": "inventoryExpansion -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "inventoryExpansion.1.2",
+        "source_string": "Never mind",
+        "translation": "Deixa para lá",
+        "context": "inventoryExpansion -> 1 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "inventoryExpansion.2.0",
+        "source_string": "The quantity of \\ii[312]",
+        "translation": "A quantidade de \\ii[312]",
+        "context": "inventoryExpansion -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "inventoryExpansion.2.1",
+        "source_string": "seems insufficient...",
+        "translation": "Parece insuficiente...",
+        "context": "inventoryExpansion -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.0.0",
+        "source_string": "\\nl< >\"Hamburg steak is the most delicious food.\"  \\w[180] \\^",
+        "translation": "\\nl< >\"Carne de hambúrguer é a comida mais deliciosa.\"  \\w[180] \\^",
+        "context": "loadingEasterEgg -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.1.0",
+        "source_string": "\\nl< >\"\\str[121] will surely bring back ",
+        "translation": "\\nl< >\"\\str[121] com certeza vai trazer ",
+        "context": "loadingEasterEgg -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.1.1",
+        "source_string": "a mountain of meat for his \\str[120]...\"   \\w[360] \\^",
+        "translation": "Uma montanha de carne para sua \\str[120]...\"   \\w[360] \\^",
+        "context": "loadingEasterEgg -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.2.0",
+        "source_string": "My sister seems to be saying something...",
+        "translation": "Minha imouto parece estar falando alguma coisa...",
+        "context": "loadingEasterEgg -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.3.0",
+        "source_string": "\\nl< >\"But green peppers are the enemy.   \\w[120]",
+        "translation": "\\nl< >\"Mas pimentas-verdes são o verdadeiro inimigo.   \\w[120]",
+        "context": "loadingEasterEgg -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.3.1",
+        "source_string": "\\str[121], you have to eat them all…       \\w[120]",
+        "translation": "\\str[121], Você tem que comer tudo…       \\w[120]",
+        "context": "loadingEasterEgg -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.3.2",
+        "source_string": "Go defeat the green enemy~!\"               \\w[120]\\^",
+        "translation": "Vá e derrote o inimigo verde~!\"               \\w[120]\\^",
+        "context": "loadingEasterEgg -> 3 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.4.0",
+        "source_string": "\\nl< >\"Ah, you’re awake…     \\w[60]",
+        "translation": "\\nl< >\"Ah? você acordou…     \\w[60]",
+        "context": "loadingEasterEgg -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.4.1",
+        "source_string": "\\str[121], did you sleep well?\"",
+        "translation": "\\str[121], Você dormiu bem?\"",
+        "context": "loadingEasterEgg -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.5.0",
+        "source_string": "\"Not really… By the way, ",
+        "translation": "\"Não muito… A propósito, ",
+        "context": "loadingEasterEgg -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.5.1",
+        "source_string": "I’ve been hearing some strange sounds ",
+        "translation": "tenho ouvido uns sons estranhos ",
+        "context": "loadingEasterEgg -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.5.2",
+        "source_string": "for a while now…\"",
+        "translation": "já faz um tempinho…\"",
+        "context": "loadingEasterEgg -> 5 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.6.0",
+        "source_string": "\\nl< >\"Eh hehe, that was my    \\w[60]",
+        "translation": "\\nl< >\"Eh hehe, foi por causa    \\w[60]",
+        "context": "loadingEasterEgg -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.6.1",
+        "source_string": "special bedtime help for you, \\str[121]!\"",
+        "translation": "ajuda especial para dormir, só para você, \\str[121]!\"",
+        "context": "loadingEasterEgg -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.7.0",
+        "source_string": "\\nl< >\"My sister is so cute...               \\w[120]",
+        "translation": "\\nl< >\"Minha imouto é tão fofa...               \\w[120]",
+        "context": "loadingEasterEgg -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.7.1",
+        "source_string": "She's my favorite girl in the whole world...  \\w[210]",
+        "translation": "Ela é a minha garota favorita em todo o mundo...  \\w[210]",
+        "context": "loadingEasterEgg -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.7.2",
+        "source_string": "My sister is————                              \\w[150]\\^",
+        "translation": "Minha imouto é————                              \\w[150]\\^",
+        "context": "loadingEasterEgg -> 7 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.8.0",
+        "source_string": "My sister seems to be saying something...",
+        "translation": "Minha irmã parece estar falando alguma coisa...",
+        "context": "loadingEasterEgg -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.9.0",
+        "source_string": "\\nl< >\"Ah, \\str[121]! Good evening—!\"",
+        "translation": "\\nl< >\"Ah, \\str[121]! Boa noite—!\"",
+        "context": "loadingEasterEgg -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.10.0",
+        "source_string": "\\nl< >\"Um... Did you hear everything I just said?\"",
+        "translation": "\\nl< >\"Hum... Você ouviu o que falei?\"",
+        "context": "loadingEasterEgg -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.11.0",
+        "source_string": "\\nl< >\"\\str[121], your sleeping face ",
+        "translation": "\\nl< >\"\\str[121], o seu rostinho enquanto dormia ",
+        "context": "loadingEasterEgg -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.11.1",
+        "source_string": "was so funny just now~\"",
+        "translation": "estava tão engraçado agora a pouco~\"",
+        "context": "loadingEasterEgg -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "loadingEasterEgg.12.0",
+        "source_string": "\\nl< >\"It's rare to see you dozing off~\"",
+        "translation": "\\nl< >\"É raro ver você cochilando~\"",
+        "context": "loadingEasterEgg -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.0.0",
+        "source_string": "A lonely rubber duck ",
+        "translation": "Um patinho de borracha solitário ",
+        "context": "rubberDuck -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.0.1",
+        "source_string": "floats on the water...",
+        "translation": "flutua sob a água...",
+        "context": "rubberDuck -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.1.0",
+        "source_string": "Pick it up",
+        "translation": "Pegar",
+        "context": "rubberDuck -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.1.1",
+        "source_string": "Leave it be",
+        "translation": "Deixar no lugar",
+        "context": "rubberDuck -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.2.0",
+        "source_string": "Did someone throw this away?",
+        "translation": "Será que alguém jogou aqui?",
+        "context": "rubberDuck -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.2.1",
+        "source_string": "Looks a bit sad, huh…",
+        "translation": "Parece meio triste, né…",
+        "context": "rubberDuck -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.3.0",
+        "source_string": "Come to think of it…",
+        "translation": "Parando pra pensar…",
+        "context": "rubberDuck -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.3.1",
+        "source_string": "I got washed down from upstream too...",
+        "translation": "Eu fui levado pela correnteza abaixo também...",
+        "context": "rubberDuck -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.4.0",
+        "source_string": "If I take this home...",
+        "translation": "Se eu levá-lo para casa...",
+        "context": "rubberDuck -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.4.1",
+        "source_string": "Would my sister be happy?",
+        "translation": "Será que minha imouto ficará feliz?",
+        "context": "rubberDuck -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.5.0",
+        "source_string": "But it seems a bit dirty,",
+        "translation": "Mas está meio sujo,",
+        "context": "rubberDuck -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "rubberDuck.5.1",
+        "source_string": "so maybe I should just leave it...",
+        "translation": "talvez eu deva deixá-lo aí...",
+        "context": "rubberDuck -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "drowning.0.0",
+        "source_string": "Ahhh... that was close... ",
+        "translation": "Ahhh... essa foi por pouco... ",
+        "context": "drowning -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "drowning.0.1",
+        "source_string": "I slipped from the riverbank and almost drowned!",
+        "translation": "Eu escorreguei na beira do rio e quase me afoguei!",
+        "context": "drowning -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "mecha.0.0",
+        "source_string": "A strange mech, long covered in dust, stands here...",
+        "translation": "Um estranho mech, coberto por uma grossa camada de poeira, está aqui...",
+        "context": "mecha -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "mecha.0.1",
+        "source_string": "It doesn’t respond even when touched.",
+        "translation": "Não responde mesmo quando tocado.",
+        "context": "mecha -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "mecha.1.0",
+        "source_string": "Huh...?",
+        "translation": "Hã...?",
+        "context": "mecha -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "mecha.1.1",
+        "source_string": "Something’s here?",
+        "translation": "Algo está aqui?",
+        "context": "mecha -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "mecha.2.0",
+        "source_string": "A fallen part?",
+        "translation": "Uma parte caída?",
+        "context": "mecha -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "mecha.2.1",
+        "source_string": "Looks like it could still be activated...",
+        "translation": "Parece que ainda pode estar ativado...",
+        "context": "mecha -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "erohon.0.0",
+        "source_string": "(There are still people or monsters nearby...",
+        "translation": "(Deve haver pessoas ou monstros por perto...",
+        "context": "erohon -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "erohon.0.1",
+        "source_string": "better not take out this book.)",
+        "translation": "melhor eu não pegar esse livro.)",
+        "context": "erohon -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.0.0",
+        "source_string": "I can’t believe there’s a man-made secret room in a place like this.",
+        "translation": "Não acredito que tem uma sala secreta em um lugar como este.",
+        "context": "ninja -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.0.1",
+        "source_string": "Who could’ve built it…?",
+        "translation": "Quem poderia ter construído…?",
+        "context": "ninja -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.1.0",
+        "source_string": "Whoa…!?",
+        "translation": "Oopa…!?",
+        "context": "ninja -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.1.1",
+        "source_string": "There’s even a girl passed out here…",
+        "translation": "Tem até uma garota desmaiada aqui…",
+        "context": "ninja -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.2.0",
+        "source_string": "Now that I think about it, I’ve been hearing weird rumbling noises…",
+        "translation": "Pensando bem, eu ouvi uns barulhos estrondosos esquisitos…",
+        "context": "ninja -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.2.1",
+        "source_string": "Was it her stomach making those sounds…?",
+        "translation": "Foi o estômago dela que fez esses barulhos…?",
+        "context": "ninja -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.3.0",
+        "source_string": "Ugh…",
+        "translation": "Ugh…",
+        "context": "ninja -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.3.1",
+        "source_string": "So hungry…",
+        "translation": "Que fome…",
+        "context": "ninja -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.4.0",
+        "source_string": "…………",
+        "translation": "…………",
+        "context": "ninja -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.4.1",
+        "source_string": "Is she so hungry she’s barely conscious…?",
+        "translation": "Ela está tão faminta que quase ficou inconsciente…?",
+        "context": "ninja -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.5.0",
+        "source_string": "There’s a campfire here, perfect.",
+        "translation": "Tm uma fogueira aqui, perfeito.",
+        "context": "ninja -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.5.1",
+        "source_string": "I’ll cook her something to eat!",
+        "translation": "Vou cozinhar algo para ela comer!",
+        "context": "ninja -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.6.0",
+        "source_string": "Should I just use \\ii[\\v[90]]     ",
+        "translation": "Devo usar somente \\ii[\\v[90]]     ",
+        "context": "ninja -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.6.1",
+        "source_string": "and whip up something simple?",
+        "translation": "e preparar algo simples?",
+        "context": "ninja -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.7.0",
+        "source_string": "Let’s do it!",
+        "translation": "Vamos nessa!",
+        "context": "ninja -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.7.1",
+        "source_string": "…Never mind.",
+        "translation": "Deixa para lá.",
+        "context": "ninja -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.8.0",
+        "source_string": "Hmm… Maybe I should swap in",
+        "translation": "Hmm… Talvez eu deva trocar por",
+        "context": "ninja -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.8.1",
+        "source_string": "better ingredients…",
+        "translation": "ingredientes melhores…",
+        "context": "ninja -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.9.0",
+        "source_string": "Hey~ I made some hot food for you!",
+        "translation": "Ei~ Eu fiz um pouco de comida quente para você!",
+        "context": "ninja -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.9.1",
+        "source_string": "Do you think you can eat?",
+        "translation": "Você acha que consegue comer?",
+        "context": "ninja -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.10.0",
+        "source_string": "Sniff sniff… sniff sniff…",
+        "translation": "Sniff Sniff… sniff Sniff…",
+        "context": "ninja -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.10.1",
+        "source_string": "That smell… is it food?",
+        "translation": "Esse cheiro… É comida?",
+        "context": "ninja -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.11.0",
+        "source_string": "The smell of food!!",
+        "translation": "O cheiro de comida!!",
+        "context": "ninja -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.12.0",
+        "source_string": "\\{Alright, I’m digging in!!",
+        "translation": "\\{Maravilha, vou devorar!!",
+        "context": "ninja -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.13.0",
+        "source_string": "You… you little…",
+        "translation": "Você… ora, sua…",
+        "context": "ninja -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.13.1",
+        "source_string": "I made that, you know…",
+        "translation": "Eu que fiz, sabe…",
+        "context": "ninja -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.14.0",
+        "source_string": "(She finished it in just a few bites…",
+        "translation": "(Ela terminou em apenas algumas mordidas…",
+        "context": "ninja -> 14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.14.1",
+        "source_string": "She really must’ve been starving…)",
+        "translation": "Ela realmente deve estar faminta…)",
+        "context": "ninja -> 14 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.15.0",
+        "source_string": "Munch munch… You totally saved me!",
+        "translation": "Munch munch… Você realmente me salvou!",
+        "context": "ninja -> 15 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.15.1",
+        "source_string": "I haven’t eaten in days… munch munch…",
+        "translation": "Não como há dias… munch munch…",
+        "context": "ninja -> 15 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.16.0",
+        "source_string": "I thought I was gonna turn into some hungry ghost",
+        "translation": "Pensei que estava me transformando em um fantasma faminto",
+        "context": "ninja -> 16 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.16.1",
+        "source_string": "haunting this dungeon… Grrrr…",
+        "translation": "que assombraria este calabouço… Grrr…",
+        "context": "ninja -> 16 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.17.0",
+        "source_string": "Hey… just eat a bit slower… By the way,",
+        "translation": "Ei… coma um pouco mais devagar… a propósito,",
+        "context": "ninja -> 17 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.17.1",
+        "source_string": "why are you here alone in a place like this?",
+        "translation": "por que você está sozinha em um lugar como este?",
+        "context": "ninja -> 17 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.18.0",
+        "source_string": "Ah! So—!",
+        "translation": "Ah! Então—!",
+        "context": "ninja -> 18 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.18.1",
+        "source_string": "I was seriously working on my mission, okay!",
+        "translation": "Eu estava trabalhando seriamente em minha missão, ok!",
+        "context": "ninja -> 18 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.19.0",
+        "source_string": "I wanted to search for the hidden treasure in this area,",
+        "translation": "Eu queria procurar pelo tesouro escondido nesta área,",
+        "context": "ninja -> 19 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.19.1",
+        "source_string": "so I dug out a secret room in a secluded spot!",
+        "translation": "então escavei uma sala secreta em um lugar isolado!",
+        "context": "ninja -> 19 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.20.0",
+        "source_string": "But then… munch munch.",
+        "translation": "Mas então… munch munch.",
+        "context": "ninja -> 20 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.20.1",
+        "source_string": "After I got in, the entrance got blocked by a tombstone!",
+        "translation": "Depois que entrei, a entrada ficou bloqueada por uma pedra!",
+        "context": "ninja -> 20 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.21.0",
+        "source_string": "Ugh, I totally didn’t expect that,",
+        "translation": "Ugh, eu não esperava isso,",
+        "context": "ninja -> 21 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.21.1",
+        "source_string": "so my rations ran out super fast… and then…",
+        "translation": "então minhas rações acabaram muito rápido… e aí…",
+        "context": "ninja -> 21 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.22.0",
+        "source_string": "A ninja running into a mess like this…",
+        "translation": "Um ninja se deparando com uma confusão dessas…",
+        "context": "ninja -> 22 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.22.1",
+        "source_string": "I can’t face the organization now…",
+        "translation": "Não consigo encarar a organização agora…",
+        "context": "ninja -> 22 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.23.0",
+        "source_string": "Huh… huh? But why’d you even",
+        "translation": "Hã… Hã? Mas por que você até",
+        "context": "ninja -> 23 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.23.1",
+        "source_string": "dig a secret room in the first place…",
+        "translation": "escavou uma sala secreta, em primeiro lugar…",
+        "context": "ninja -> 23 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.24.0",
+        "source_string": "Because that treasure doesn’t always show up,",
+        "translation": "Porque esse tesouro nem sempre aparece,",
+        "context": "ninja -> 24 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.24.1",
+        "source_string": "so I had to be ready for a long stay… munch munch.",
+        "translation": "Então tive que estar pronto para uma longa estadia… munch munch.",
+        "context": "ninja -> 24 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.25.0",
+        "source_string": "Plus, I can’t let anyone else know about this,",
+        "translation": "Além disso, não posso deixar ninguém saber disso,",
+        "context": "ninja -> 25 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.25.1",
+        "source_string": "this is a super secret mission directly from the boss!",
+        "translation": "esta é uma missão super secreta diretamente do chefe!",
+        "context": "ninja -> 25 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.26.0",
+        "source_string": "If anyone else finds out…",
+        "translation": "Se mais alguém descobrir…",
+        "context": "ninja -> 26 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.26.1",
+        "source_string": "what do you think’ll happen…",
+        "translation": "o que você acha que irá acontecer…",
+        "context": "ninja -> 26 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.27.0",
+        "source_string": "Of course, I’d have to quietly take care of them…",
+        "translation": "Claro, eu teria que cuidar deles silenciosamente…",
+        "context": "ninja -> 27 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.27.1",
+        "source_string": "otherwise, I’d be a failed ninja… munch munch.",
+        "translation": "caso contrário, eu seria um pésssimo ninja… munch munch.",
+        "context": "ninja -> 27 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.28.0",
+        "source_string": "…Wait, what?!",
+        "translation": "…Espere, o quê?",
+        "context": "ninja -> 28 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.28.1",
+        "source_string": "I totally just leaked intel!",
+        "translation": "Acabei de vazar informação!",
+        "context": "ninja -> 28 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.29.0",
+        "source_string": "Um… I promise I won’t say anything…",
+        "translation": "Hum… Eu prometo que não direi nada…",
+        "context": "ninja -> 29 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.29.1",
+        "source_string": "so, uh…",
+        "translation": "então, uh…",
+        "context": "ninja -> 29 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.30.0",
+        "source_string": "…Huh!?",
+        "translation": "…Hã!?",
+        "context": "ninja -> 30 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.31.0",
+        "source_string": "I can’t believe I messed up this badly again…",
+        "translation": "Não consigo acreditar que eu estraguei tudo de novo…",
+        "context": "ninja -> 31 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.31.1",
+        "source_string": "Ugh… even if you did save me…",
+        "translation": "Ugh… mesmo que você me tenha salvo…",
+        "context": "ninja -> 31 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.32.0",
+        "source_string": "W-wait a sec!",
+        "translation": "E-espere um pouco!",
+        "context": "ninja -> 32 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.32.1",
+        "source_string": "You’re gonna kill me just for that!?",
+        "translation": "Você vai me matar só por isso!?",
+        "context": "ninja -> 32 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.33.0",
+        "source_string": "That’s what being a ninja is all about…",
+        "translation": "É isso o que significa ser um ninja…",
+        "context": "ninja -> 33 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.33.1",
+        "source_string": "You gotta fight to survive…",
+        "translation": "Você tem que lutar para sobreviver…",
+        "context": "ninja -> 33 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.34.0",
+        "source_string": "I mean, I don’t really wanna hurt you, either,",
+        "translation": "Quero dizer, eu também não quero te machucar,",
+        "context": "ninja -> 34 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.34.1",
+        "source_string": "but I still owe you a meal…",
+        "translation": "mas ainda lhe devo uma refeição…",
+        "context": "ninja -> 34 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.35.0",
+        "source_string": "I-if that’s how it is—",
+        "translation": "S-se é assim —",
+        "context": "ninja -> 35 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.35.1",
+        "source_string": "\\^",
+        "translation": "\\^",
+        "context": "ninja -> 35 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.36.0",
+        "source_string": "Then there’s only one answer—",
+        "translation": "Então, só há uma resposta —",
+        "context": "ninja -> 36 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.36.1",
+        "source_string": "You have to become a ninja, too!",
+        "translation": "Você tem que se tornar um ninja também!",
+        "context": "ninja -> 36 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.37.0",
+        "source_string": "If you join our group,",
+        "translation": "Se você se juntar ao nosso grupo,",
+        "context": "ninja -> 37 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.37.1",
+        "source_string": "there’s no reason for us to fight each other!",
+        "translation": "Não há razão para lutarmos um contra o outro!",
+        "context": "ninja -> 37 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.38.0",
+        "source_string": "W-wait a second!",
+        "translation": "E-Espere um segundo!",
+        "context": "ninja -> 38 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.38.1",
+        "source_string": "I don’t really have a choice here, do I!?",
+        "translation": "Eu realmente não tenho uma escolha aqui, não é!?",
+        "context": "ninja -> 38 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.39.0",
+        "source_string": "It’s fine,",
+        "translation": "Está tudo bem,",
+        "context": "ninja -> 39 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.39.1",
+        "source_string": "I’ll be gentle…",
+        "translation": "Eu serei gentil…",
+        "context": "ninja -> 39 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.40.0",
+        "source_string": "…Wah!?",
+        "translation": "…Quê!?",
+        "context": "ninja -> 40 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.40.1",
+        "source_string": "Stay away from me!!",
+        "translation": "Fique longe de mim!!",
+        "context": "ninja -> 40 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.41.0",
+        "source_string": "You really do have a knack for this ninja stuff…!",
+        "translation": "Você realmente tem talento para este lance de ninja…!",
+        "context": "ninja -> 41 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.41.1",
+        "source_string": "You learned it all with just a bit of practice!",
+        "translation": "Você aprendeu tudo apenas com um pouco de prática!",
+        "context": "ninja -> 41 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.42.0",
+        "source_string": "Now,",
+        "translation": "Agora,",
+        "context": "ninja -> 42 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.42.1",
+        "source_string": "you’re one of us, too!",
+        "translation": "você também é um de nós!",
+        "context": "ninja -> 42 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.43.0",
+        "source_string": "But I’ll have to wait until my mission’s done",
+        "translation": "Mas terei de esperar até que minha missão esteja concluída",
+        "context": "ninja -> 43 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.43.1",
+        "source_string": "before I can introduce you to the boss!",
+        "translation": "antes que eu possa te apresentar ao chefe!",
+        "context": "ninja -> 43 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.44.0",
+        "source_string": "At this point,",
+        "translation": "Nesse momento,",
+        "context": "ninja -> 44 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ninja.44.1",
+        "source_string": "nothing really matters anymore…",
+        "translation": "Nada mais importa…",
+        "context": "ninja -> 44 -> 1",
+        "labels": null,
+        "max_length": null
+    }
+]
