@@ -1,0 +1,458 @@
+[
+    {
+        "identifier": "1.0.0",
+        "source_string": "It is now an era many years after ",
+        "translation": "Agora em uma era muitos anos depois ",
+        "context": "1 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.0.1",
+        "source_string": "the Demon Lord was defeated by the Hero.",
+        "translation": "O Lorde Demônio foi derrotado pelo Herói.",
+        "context": "1 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.1.0",
+        "source_string": "The once famous Hero and Sage,",
+        "translation": "Outrora os famoso Herói e o Sábio,",
+        "context": "1 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.1.1",
+        "source_string": "their legends have now become nothing more",
+        "translation": "sua lenda agora é considerada nada mais que",
+        "context": "1 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.1.2",
+        "source_string": "than fairy tales adults use to scold children.",
+        "translation": "contos de fadas que adultos usam para assustar crianças.",
+        "context": "1 -> 1 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.2.0",
+        "source_string": "This is the name given to the mysterious giant labyrinth",
+        "translation": "Esse é o nome dado ao gigante e misterioso labirinto",
+        "context": "1 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.2.1",
+        "source_string": "that suddenly appeared on the surface ten years ago.",
+        "translation": "que apareceu de repente na superfície há dez anos atrás.",
+        "context": "1 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.3.0",
+        "source_string": "Its seemingly endless depth,",
+        "translation": "Sua aparente profundidade sem fim,",
+        "context": "1 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.3.1",
+        "source_string": "areas filled with various ruins,",
+        "translation": "áreas repletas com várias ruínas,",
+        "context": "1 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.3.2",
+        "source_string": "and monsters rapidly breeding under its magical power.",
+        "translation": "e monstros rapidamente se multiplicando sob seu poder mágico.",
+        "context": "1 -> 3 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.4.0",
+        "source_string": "With the Demon Lord no longer threatening humanity,",
+        "translation": "Com o Lorde Demônio não mais ameaçando a humanidade,",
+        "context": "1 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.4.1",
+        "source_string": "the sudden birth of this unknown labyrinth,",
+        "translation": "o nascimento repentino desse labirinto desconhecido,",
+        "context": "1 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.4.2",
+        "source_string": "instantly shattered the brief peace of the human world.",
+        "translation": "instantaneamente destruiu a breve paz do mundo humano.",
+        "context": "1 -> 4 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.5.0",
+        "source_string": "The Adventurers’ Guild organized many exploration teams ",
+        "translation": "A Guilda dos Aventureiros organizou muitos times de exploração ",
+        "context": "1 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.5.1",
+        "source_string": "to delve into it, but they never made any decisive progress.",
+        "translation": "para mergulhar nele, mas nunca alcançaram um progresso decisivo.",
+        "context": "1 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.5.2",
+        "source_string": "However, the labyrinth has never shown any intention of invading ",
+        "translation": "Porém, o labirinto nunca apresentou nenhuma intenção de invadir ",
+        "context": "1 -> 5 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.5.3",
+        "source_string": "or attacking the outside world.",
+        "translation": "ou atacar o mundo exterior.",
+        "context": "1 -> 5 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.6.0",
+        "source_string": "Local lords and various powers,",
+        "translation": "Lordes locais e várias autoridades,",
+        "context": "1 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.6.1",
+        "source_string": "all tried to name and manage the labyrinth.",
+        "translation": "todos tentaram nomear e gerenciar o labirinto.",
+        "context": "1 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.7.0",
+        "source_string": "Yet all those names were forgotten over time,",
+        "translation": "Mas todos esses nomes foram esquecidos com o tempo,",
+        "context": "1 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.7.1",
+        "source_string": "and in the end, only 'Abyss' remained,",
+        "translation": "e no final, somente o 'Abismo' restou,",
+        "context": "1 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.7.2",
+        "source_string": "deeply etched into people’s memories.",
+        "translation": "profundamente gravado na memória da população.",
+        "context": "1 -> 7 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.8.0",
+        "source_string": "Since the labyrinth showed no signs of ",
+        "translation": "Como o labirinto não mostrava sinais de ",
+        "context": "1 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.8.1",
+        "source_string": "expanding to consume the world,",
+        "translation": "expansão para consumir o mundo,",
+        "context": "1 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.8.2",
+        "source_string": "the Adventurers’ Guild finally decided——",
+        "translation": "a Guilda dos Aventureiros finalmente decidiu——",
+        "context": "1 -> 8 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.8.3",
+        "source_string": "to open its exploration rights to the public.",
+        "translation": "abrir seu direito de exploração para o público.",
+        "context": "1 -> 8 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.9.0",
+        "source_string": "Thus, the once forgotten profession,",
+        "translation": "Assim, a profissão outrora esquecida,",
+        "context": "1 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.9.1",
+        "source_string": "'adventurer',",
+        "translation": "'aventureiro',",
+        "context": "1 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.9.2",
+        "source_string": "welcomed a new era of glory and fervor.",
+        "translation": "recebeu uma nova era de glória e fervor.",
+        "context": "1 -> 9 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.10.0",
+        "source_string": "And in this final great labyrinth,",
+        "translation": "E nesse último grande labirinto,",
+        "context": "1 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.10.1",
+        "source_string": "I have only one goal——",
+        "translation": "Eu tenho um único objetivo——encontrar uma forma ",
+        "context": "1 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.10.2",
+        "source_string": "to find a way to completely cure my \\str[120]’s condition———",
+        "translation": "de completamente curar a doença da \\str[120].",
+        "context": "1 -> 10 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.0.0",
+        "source_string": "My father was a brilliant alchemist.",
+        "translation": "Meu pai foi um Alquimista brilhante.",
+        "context": "4 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.1.0",
+        "source_string": "Even in this peaceful era where there’s no need to fight demons,",
+        "translation": "Mesmo nessa era pacífica, onde não há mais necessidade de ",
+        "context": "4 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.1.1",
+        "source_string": "he still actively solved several alchemical mysteries.",
+        "translation": "enfrentar demônios, ele ainda resolvia vários problemas alquímicos.",
+        "context": "4 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.2.0",
+        "source_string": "\"I’m so sorry… about your mother…\"",
+        "translation": "\"Eu sinto muito… sobre sua mãe…\"",
+        "context": "4 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.3.0",
+        "source_string": "\"I’ve tried everything…",
+        "translation": "\"Eu tentei tudo…",
+        "context": "4 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.3.1",
+        "source_string": "but…!\"",
+        "translation": "mas…!\"",
+        "context": "4 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.4.0",
+        "source_string": "Yet this man, admired by all,",
+        "translation": "No entanto, este homem, admirado por todos,",
+        "context": "4 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.4.1",
+        "source_string": "was now kneeling weakly on the ground,",
+        "translation": "estava agora ajoelhado desolado no chão,",
+        "context": "4 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.4.2",
+        "source_string": "repeatedly apologizing",
+        "translation": "repetidamente se desculpando",
+        "context": "4 -> 4 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.4.3",
+        "source_string": "to the young me.",
+        "translation": "para mim no tempo da infância.",
+        "context": "4 -> 4 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.5.0",
+        "source_string": "His grip on my shoulders tightened,",
+        "translation": "Seu aperto em meus ombros aumentou,",
+        "context": "4 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.5.1",
+        "source_string": "and I couldn’t help but start crying.",
+        "translation": "eu não consegui segurar e comecei a chorar.",
+        "context": "4 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.5.2",
+        "source_string": "Perhaps realizing he’d lost control,",
+        "translation": "Talvez entendendo que ele tinha perdido o controle, ele ",
+        "context": "4 -> 5 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.5.3",
+        "source_string": "he slowly loosened his hands and gently patted my head instead.",
+        "translation": "lentamente soltou suas mãos, e gentilmente acariciou minha cabeça.",
+        "context": "4 -> 5 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.6.0",
+        "source_string": "\"It’s okay now… it’s Daddy’s fault,",
+        "translation": "\"Está tudo bem agora… é culpa do Papai,",
+        "context": "4 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.6.1",
+        "source_string": "I shouldn’t give up so easily…\"",
+        "translation": "Eu não deveria ter desistido tão facilmente…\"",
+        "context": "4 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.7.0",
+        "source_string": "\"You’re a good child, ",
+        "translation": "\"Você é uma boa criançá, ",
+        "context": "4 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.7.1",
+        "source_string": "you shouldn’t have to bear all this…",
+        "translation": "você não deveria ter que suportar tudo isso…",
+        "context": "4 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.7.2",
+        "source_string": "leave the rest to Daddy.\"",
+        "translation": "deixe o resto para o Papai.\"",
+        "context": "4 -> 7 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.8.0",
+        "source_string": "\"That’s right… even if it costs me everything… I must…\"",
+        "translation": "\"Isso mesmo… mesmo que me custe tudo… eu devo…\"",
+        "context": "4 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.9.0",
+        "source_string": "His voice started to tremble,",
+        "translation": "Sua voz começou a tremer,",
+        "context": "4 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.9.1",
+        "source_string": "was he scared of something?",
+        "translation": "ele estava com medo de algo?",
+        "context": "4 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.10.0",
+        "source_string": "I didn’t understand any of it then, ",
+        "translation": "Eu não entendi nada daquilo naquele momento, ",
+        "context": "4 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.10.1",
+        "source_string": "but I remember that after that day,",
+        "translation": "mas eu lembro que depois desse dia, ele nunca mais ",
+        "context": "4 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.10.2",
+        "source_string": "he never returned to being the kind, gentle father I once knew.",
+        "translation": "voltou a ser aquele pai gentil e bondoso que eu conhecia.",
+        "context": "4 -> 10 -> 2",
+        "labels": null,
+        "max_length": null
+    }
+]
