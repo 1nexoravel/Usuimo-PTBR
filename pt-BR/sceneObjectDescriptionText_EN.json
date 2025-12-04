@@ -1,0 +1,586 @@
+[
+    {
+        "identifier": "0.0",
+        "source_string": "✦A mug that \\str[120] likes, ",
+        "translation": "✦Uma xícara que \\str[120] gosta muito",
+        "context": "0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "0.1",
+        "source_string": "featuring a strange rabbit design. ",
+        "translation": "Tem um design estranho de coelho. ",
+        "context": "0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "0.2",
+        "source_string": "It seems to be a bestseller at NLCH.",
+        "translation": "Parece ser um bestseller na NLCH.",
+        "context": "0 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.0",
+        "source_string": "✦The small lantern left by Father,",
+        "translation": "✦Um pequeno lampião deixado pelo meu pai,",
+        "context": "1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.1",
+        "source_string": "seems to be an alchemical tool.",
+        "translation": "parece ser uma ferramenta alquímica também.",
+        "context": "1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.2",
+        "source_string": "It’s very durable despite its age and ",
+        "translation": "É muito resistente, mesmo com sua idade, ",
+        "context": "1 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.3",
+        "source_string": "gives off a warm, comforting light.",
+        "translation": "emite uma luz quente e reconfortante.",
+        "context": "1 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0",
+        "source_string": "✦A cute little nightlight with soft lighting,",
+        "translation": "✦Uma fofa e pequena lâmpada noturna com um ",
+        "context": "2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.1",
+        "source_string": "perfect for turning on when getting up",
+        "translation": "brilho suave, perfeita para ligar ao levantar ",
+        "context": "2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2",
+        "source_string": "to use the bathroom at night. ",
+        "translation": "para ir ao banheiro à noite. ",
+        "context": "2 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.0",
+        "source_string": "✦A leafy plant called “Ficus umbellata”.",
+        "translation": "✦Uma planta frondosa chamada",
+        "context": "3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.1",
+        "source_string": "It’s thriving,and it seems \\str[120] takes ",
+        "translation": "“Ficus umbellata”.",
+        "context": "3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.2",
+        "source_string": "great care of it every day.",
+        "translation": "Está se desenvolvendo bem, e parece que",
+        "context": "3 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.0",
+        "source_string": "✦A leafy plant called “Pothos”.",
+        "translation": "✦Uma planta frondosa chamada “Pothos”.",
+        "context": "4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.1",
+        "source_string": "It doesn’t look very healthy,  ",
+        "translation": "Ela não parece muito bem, então \\str[120] a",
+        "context": "4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.2",
+        "source_string": "so \\str[120] placed it by the window.",
+        "translation": "colocou próximo a janela. Será que devo contar ",
+        "context": "4 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.3",
+        "source_string": "Should I tell her that pothos actually ",
+        "translation": "pra ela que pothos não gostam de luz solar...?",
+        "context": "4 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.4",
+        "source_string": "doesn’t like sunlight...? ",
+        "translation": "não gosta da luz do sol...? ",
+        "context": "4 -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.0",
+        "source_string": "✦Some books that \\str[120] picked out ",
+        "translation": "✦Alguns livros que \\str[120] pegou ",
+        "context": "5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.1",
+        "source_string": "from Father’s study.",
+        "translation": "dos estudos do nosso pai.",
+        "context": "5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.2",
+        "source_string": "They’re mostly philosophy books and ",
+        "translation": "São em maior parte livros de filosofia e ",
+        "context": "5 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.3",
+        "source_string": "completely incomprehensible.  ",
+        "translation": "completamente incompreensíveis.  ",
+        "context": "5 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.0",
+        "source_string": "✦Picked up a dried birch branch on the ",
+        "translation": "✦Um galho seco de betúlia que peguei no ",
+        "context": "6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.1",
+        "source_string": "way home —thought it looked cool, ",
+        "translation": "caminho de casa —achei que parecia muito ",
+        "context": "6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.2",
+        "source_string": "so I showed it to \\str[120].",
+        "translation": "legal, então eu mostrei para \\str[120].",
+        "context": "6 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.3",
+        "source_string": "She quietly put it in a vase.",
+        "translation": "Ela plantou escondida em um vaso .",
+        "context": "6 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.0",
+        "source_string": "✦A bird sketch drawn by \\str[120], ",
+        "translation": "✦Um rascunho de pássaro desenhado pela ",
+        "context": "7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.1",
+        "source_string": "apparently based on birds she spotted ",
+        "translation": "\\str[120], aparenta ser baseado nos  ",
+        "context": "7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.2",
+        "source_string": "while looking out the window.",
+        "translation": "pássaros que ela viu olhando pela janela.",
+        "context": "7 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.0",
+        "source_string": "✦A small, old fan with weak airflow. ",
+        "translation": "✦Um ventilador pequeno e velho pouco potente. ",
+        "context": "8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.1",
+        "source_string": "You need to get really close to ",
+        "translation": "Você precisa estar muito perto para conseguir ",
+        "context": "8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.2",
+        "source_string": "feel the cool breeze.  ",
+        "translation": "sentir o vento.  ",
+        "context": "8 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.0",
+        "source_string": "✦A state-of-the-art hairdryer with ",
+        "translation": "✦Um secador de cabelo de Estado da Arte com ",
+        "context": "9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.1",
+        "source_string": "incredibly strong airflow.",
+        "translation": "um incrível fluxo de ar.",
+        "context": "9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.2",
+        "source_string": "If you aim it at your face, it feels",
+        "translation": "Se apontar para o seu rosto, parece que",
+        "context": "9 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.3",
+        "source_string": "like the wind might peel your skin off.",
+        "translation": "o vento pode rasgar sua pele fora.",
+        "context": "9 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.0",
+        "source_string": "✦A bathtub with adjustable temperature ",
+        "translation": "✦Uma banheira com temperatura ajustável, ",
+        "context": "10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.1",
+        "source_string": "settings, but with a range of 99°C to -10°C...",
+        "translation": "mas com uma amplitude de 99°C a -10°C graus..",
+        "context": "10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.2",
+        "source_string": "Is that really okay?  ",
+        "translation": "Será que isso tá certo?  ",
+        "context": "10 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.0",
+        "source_string": "✦A fruit-scented shampoo that \\str[120] loves.",
+        "translation": "✦Um shampoo com aroma de frutas que \\str[120] ",
+        "context": "11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.1",
+        "source_string": "It makes her hair super silky, ",
+        "translation": "adora. Ele deixa seu cabelo super sedoso, ",
+        "context": "11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.2",
+        "source_string": "but it runs out way too fast.",
+        "translation": "mas ele acaba bem rápido.",
+        "context": "11 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.3",
+        "source_string": "Current Remaining:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%",
+        "translation": "Restante:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%",
+        "context": "11 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.0",
+        "source_string": "✦It looks like the underwear ",
+        "translation": "✦Parece a roupa íntima que ",
+        "context": "12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.1",
+        "source_string": "\\str[120] just took off...",
+        "translation": "\\str[120] acabou de tirar...",
+        "context": "12 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.2",
+        "source_string": "It's neatly folded.",
+        "translation": "Está cuidadosamente dobrada.",
+        "context": "12 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.0",
+        "source_string": "✦A legendary game console that’s now extremely rare.",
+        "translation": "✦Um console lendário que hoje é ",
+        "context": "13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.1",
+        "source_string": "Owning one would make you a legend among gamers.  ",
+        "translation": "extremamente raro. Ter um faria ",
+        "context": "13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.0",
+        "source_string": "✦A doll gifted to \\str[120] by Father ",
+        "translation": "✦Uma boneca que \\str[120] recebeu de presente ",
+        "context": "14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.1",
+        "source_string": "on her birthday. She treasures it deeply ",
+        "translation": "do nosso pai no seu aniversário. Um tesouro ",
+        "context": "14 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.2",
+        "source_string": "and always keeps it by her side.",
+        "translation": "inestimável pra ela e sempre está ao seu lado.",
+        "context": "14 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.0",
+        "source_string": "\\fr\\fs[20]\\c[10]Lost Magic Circle",
+        "translation": "\\fr\\fs[20]\\c[10]Círculo Perdido de Magia",
+        "context": "15 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.1",
+        "source_string": "\\fs[22]\\i[16]???\\fr",
+        "translation": "\\fs[22]\\i[16]???\\fr",
+        "context": "15 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.2",
+        "source_string": "✦An Otherworldly Space created by ",
+        "translation": "✦Um espaço sobrenatural criado por ",
+        "context": "15 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.3",
+        "source_string": "a magic card inherited from father.",
+        "translation": "uma carta mágica herdada do pai.",
+        "context": "15 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.4",
+        "source_string": "Completely unaffected by time, ",
+        "translation": "Completamente não afetada pelo tempo, ",
+        "context": "15 -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.5",
+        "source_string": "items stored here never disappear.",
+        "translation": "itens guardados aqui nunca desaparecem.",
+        "context": "15 -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.6",
+        "source_string": "This circle is also connected to home's entrance,",
+        "translation": "Esse círculo também é conectado a entrada de casa,",
+        "context": "15 -> 6",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.7",
+        "source_string": "allowing for a stable and safe return.",
+        "translation": "permitindo um retorno seguro e estável.",
+        "context": "15 -> 7",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.8",
+        "source_string": "Whether this was deliberately designed by father, ",
+        "translation": "Se isso foi criado deliberadamente pelo Pai, ",
+        "context": "15 -> 8",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.9",
+        "source_string": "foreseeing his child's inevitable descent ",
+        "translation": "prevendo a inevitável queda do seu filho ",
+        "context": "15 -> 9",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.10",
+        "source_string": "into the abyss, is now unknown...",
+        "translation": "no abismo, nunca saberemos...",
+        "context": "15 -> 10",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.0",
+        "source_string": "\\fr\\fs[28]\\c[114]Grand Labyrinth",
+        "translation": "\\fr\\fs[28]\\c[114]Grande Labirinto",
+        "context": "16 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.1",
+        "source_string": "\\fr\\fs[22]\\i[16]???",
+        "translation": "\\fr\\fs[22]\\i[16]???",
+        "context": "16 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.2",
+        "source_string": "✦The entrance to the Ruins Labyrinth,",
+        "translation": "✦A entrada para as Ruínas do Labirinto,",
+        "context": "16 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.3",
+        "source_string": "overrun with monsters from the Abyssal aura.",
+        "translation": "invadido por monstros da aura Abissal.",
+        "context": "16 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.4",
+        "source_string": "Though perilous, it holds great opportunities,",
+        "translation": "Embora perigoso, ele oferece grandes oportunidades,",
+        "context": "16 -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.5",
+        "source_string": "with rumors of Abyssal secrets hidden in its depths.",
+        "translation": "com rumores de segredos Abissais escondidos em suas profundezas.",
+        "context": "16 -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.6",
+        "source_string": "Still, it’s just one of many paths into the Abyss.",
+        "translation": "Ainda assim, é apenas um dos muitos caminhos para o Abismo.",
+        "context": "16 -> 6",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.0",
+        "source_string": "✦An 85-inch TV built with the latest tech.",
+        "translation": "✦Uma TV de 85 polegadas construída com tecnologia de ponta.",
+        "context": "17 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.1",
+        "source_string": "However, it doesn’t receive many broadcast ",
+        "translation": "No entanto, não recebe muito acesso ",
+        "context": "17 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.2",
+        "source_string": "channels. To watch more interesting shows,",
+        "translation": "a canais. Para assistir shows interessante,",
+        "context": "17 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.3",
+        "source_string": "gotta find some videotapes somehow.",
+        "translation": "preciso encontrar algumas fitas de vídeo de alguma maneira.",
+        "context": "17 -> 3",
+        "labels": null,
+        "max_length": null
+    }
+]
