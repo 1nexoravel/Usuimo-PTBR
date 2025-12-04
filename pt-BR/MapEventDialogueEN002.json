@@ -1,0 +1,314 @@
+[
+    {
+        "identifier": "father.0",
+        "source_string": "Man",
+        "translation": "Homem",
+        "context": "father -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.0",
+        "source_string": "A heavy, suffocating air filled the dimly lit room.",
+        "translation": "Um ar pesado e sufocante enchia o quarto mal iluminado.",
+        "context": "2 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.1.0",
+        "source_string": "\"Cough\\w[30]... cough, cough...\\w[30]\"",
+        "translation": "\"Cof\\w[30]... cof, cof...\\w[30]\"",
+        "context": "2 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.0",
+        "source_string": "The man lay weakly on the bed,",
+        "translation": "O homem jazia fraco na cama,",
+        "context": "2 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.1",
+        "source_string": "the fabric covering him trembling with his ",
+        "translation": "o fino tecido que o cobre se move levemente com suas ",
+        "context": "2 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.2",
+        "source_string": "shallow breaths, as if it might stop moving ",
+        "translation": "respirações rasas, como se pudesse parar de se mover ",
+        "context": "2 -> 2 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.3",
+        "source_string": "at any moment.",
+        "translation": "a qualquer momento.",
+        "context": "2 -> 2 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.0",
+        "source_string": "Even as a naive boy,",
+        "translation": "Mesmo sendo um garoto ingênuo,",
+        "context": "2 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.1",
+        "source_string": "I instinctively sensed from that frail body ",
+        "translation": "instintivamente percebi, daquele corpo frágil ",
+        "context": "2 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.2",
+        "source_string": "and pale face that this was what it looked like ",
+        "translation": "e rosto pálido, que era assim que parecia ",
+        "context": "2 -> 3 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.3",
+        "source_string": "when a life was about to burn out.",
+        "translation": "quando uma vida estava prestes a se apagar.",
+        "context": "2 -> 3 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.4.0",
+        "source_string": "\"You’ll probably have a tough time after this...\"",
+        "translation": "\"Você provavelmente vai passar por tempos difíceis depois disso...\"",
+        "context": "2 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.0",
+        "source_string": "His voice was hoarse and weak, each word sounding ",
+        "translation": "Sua voz era rouca e fraca, cada palavra soava ",
+        "context": "2 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.1",
+        "source_string": "like it drained what little life he had left,",
+        "translation": "como se drenasse o pouco de vida que lhe restava,",
+        "context": "2 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.2",
+        "source_string": "painfully forced out of his throat.",
+        "translation": "dolorosamente arrancada de sua garganta.",
+        "context": "2 -> 5 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.6.0",
+        "source_string": "\"I know this isn’t something a father should say...  \\w[30]",
+        "translation": "\"Eu sei que isso não é algo que um pai devesse dizer...  \\w[30]",
+        "context": "2 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.6.1",
+        "source_string": "but I still hope you can promise me—\"",
+        "translation": "mas ainda assim espero que você possa me prometer—\"",
+        "context": "2 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.7.0",
+        "source_string": "\"…………？\"",
+        "translation": "\"…………? \"",
+        "context": "2 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.8.0",
+        "source_string": "I stood there in a daze, ",
+        "translation": "Fiquei ali, atônito, ",
+        "context": "2 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.8.1",
+        "source_string": "unable to process this sudden final message, ",
+        "translation": "incapaz de processar essa súbita mensagem final, ",
+        "context": "2 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.8.2",
+        "source_string": "my mind completely blank.",
+        "translation": "minha mente completamente vazia.",
+        "context": "2 -> 8 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.9.0",
+        "source_string": "Ah... these were important words, ",
+        "translation": "Ah... eram palavras importantes, ",
+        "context": "2 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.9.1",
+        "source_string": "and yet I couldn’t focus at all",
+        "translation": "e ainda assim eu não conseguia me concentrar nem um pouco",
+        "context": "2 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.9.2",
+        "source_string": "I could only stare blankly at my father's face ",
+        "translation": "Eu só conseguia encarar, sem reação, o rosto do meu pai ",
+        "context": "2 -> 9 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.9.3",
+        "source_string": "as the light slowly left it.",
+        "translation": "enquanto a luz lentamente o deixava.",
+        "context": "2 -> 9 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.10.0",
+        "source_string": "\"…Please take care of her,  \\w[30]",
+        "translation": "\"…Por favor, cuide dela,  \\w[30]",
+        "context": "2 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.10.1",
+        "source_string": "from now on, treat her as your ○○—",
+        "translation": "de agora em diante, trate-a como sua ○○—",
+        "context": "2 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.11.0",
+        "source_string": "His voice faded like smoke in the wind, ",
+        "translation": "Sua voz se esvaiu como fumaça ao vento, ",
+        "context": "2 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.11.1",
+        "source_string": "too faint to finish his final words. ",
+        "translation": "fraca demais para concluir suas últimas palavras. ",
+        "context": "2 -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.11.2",
+        "source_string": "He slowly turned his head toward ",
+        "translation": "Ele virou lentamente a cabeça em direção ",
+        "context": "2 -> 11 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.11.3",
+        "source_string": "a shadowed corner of the room.",
+        "translation": "a um canto sombreado do quarto.",
+        "context": "2 -> 11 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.12.0",
+        "source_string": "That corner was shrouded in heavy shadows,",
+        "translation": "Aquele canto estava envolto em sombras densas,",
+        "context": "2 -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.12.1",
+        "source_string": "as if it concealed something of great importance.",
+        "translation": "como se escondesse algo de grande importância.",
+        "context": "2 -> 12 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.13.0",
+        "source_string": "This man, who was both my father and my master,",
+        "translation": "Esse homem, que era tanto meu pai quanto meu mestre,",
+        "context": "2 -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.13.1",
+        "source_string": "took his last breath just like that.",
+        "translation": "deu seu último suspiro, dessa forma.",
+        "context": "2 -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.13.2",
+        "source_string": "His eyes remained open, ",
+        "translation": "Seus olhos permaneceram abertos, ",
+        "context": "2 -> 13 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.13.3",
+        "source_string": "but the light of life had already left them.",
+        "translation": "mas a luz da vida já os havia abandonado.",
+        "context": "2 -> 13 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.14.0",
+        "source_string": "Unconsciously, my eyes followed his gaze as well,",
+        "translation": "Sem perceber, meus olhos seguiram o olhar dele também,",
+        "context": "2 -> 14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.14.1",
+        "source_string": "looking toward that mysterious corner—————",
+        "translation": "olhando para aquele canto misterioso—————",
+        "context": "2 -> 14 -> 1",
+        "labels": null,
+        "max_length": null
+    }
+]
