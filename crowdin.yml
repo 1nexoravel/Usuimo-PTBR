@@ -1,9 +1,7 @@
-"files": [
-  {
-    "source": "/locale/**/*.json",
-    "translation": "/locale/**/%original_file_name%",
-    "translation_replace": {
-      "EN": "PTBR"
-    }
-  }
-]
+files:
+  - source: /locale/**/*.json
+    translation: /locale/**/%original_file_name%
+    translation_replace:
+      EN: PTBR
+bundles:
+  - 1
