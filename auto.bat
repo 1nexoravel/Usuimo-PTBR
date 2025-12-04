@@ -21,5 +21,6 @@ if %errorlevel%==0 (
     git commit -m "Atualizacao automatica PT-BR via Crowdin"
 )
 git fetch origin
+git push
 echo Concluído!
 pause
