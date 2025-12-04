@@ -10,5 +10,16 @@ for %%F in (*PTBR*.json) do (
     move "%%F" "%DESTINO%"
 )
 
+del /f /q *EN*.json
+
+git add .
+
+git diff --cached --quiet
+if %errorlevel%==0 (
+    echo Nenhuma alteracao detectada. Commit nao criado.
+) else (
+    git commit -m "Atualizacao automatica PT-BR via Crowdin"
+)
+
 echo Concluído!
 pause
