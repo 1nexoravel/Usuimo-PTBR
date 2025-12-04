@@ -1,0 +1,117 @@
+{
+  "1": {
+        "0": [
+            "Mmm, I can't seem to fall asleep..."
+		],
+		"1": [
+            "My stomach hurts... Is it indigestion?",
+			"Maybe that dinner was too much after all..."
+        ],
+        "2": [
+            "Ah, I suddenly woke up...!"
+        ],
+		"3": [
+            "It's still the middle of the night.",
+			"I can sleep a bit more...\\w[30].\\w[30].\\w[30].",
+			"Should I go check on my sister?"
+        ],
+		"4": [
+            "To \\str[120]'s Room",
+			"Go to sleep"
+        ],
+		"5": [
+            "Just gonna sleep till morning...?"
+        ],	
+		"6": [
+            "Sleep",
+			"Hold on"
+        ],
+		"7": [
+            "\"Ahhhhhhhhhhh—!!?\""
+        ],
+		"8": [
+            "W-What? Oh, it was just a nightmare..."
+        ],
+		"9": [
+            "That scared me so bad... ",
+			"I think I saw a really terrifying version of \\str[120]."
+        ],		
+		"10": [
+            "…I should go check on \\str[120].",
+			"What if that dream—"
+        ],	
+		"11": [
+            "Yeah, that dream was so scary...",
+			"It’s better to get some rest early..."
+        ]			
+    },
+  "2": {
+        "0": [
+            "\\c[10]—Data update request detected from version \\str[1].  \\w[60]",
+			"Would you like to perform the auto-update now?"
+		],
+		"1": [
+            "Start Update",
+			"Never mind"
+        ],
+        "2": [
+            "...Is it morning already? ",
+			"I feel like I had some kind of dream about ",
+            "my little sister, ",
+			"but I can’t remember it..."
+        ],
+        "3": [
+            "...Is it already morning? ",
+			"I don't feel like I slept well..."
+        ],
+        "4": [
+            "Ah, is it morning already? I slept so well."
+        ],
+        "5": [
+            "It's a nice day today...\\w[45]huh? ",
+			"Feels like the sunlight’s a bit too intense?"
+        ],
+        "6": [
+            "It's a nice day today."
+        ],
+        "7": [
+            "The weather doesn't look so great today."
+        ],
+        "8": [
+            "Is it raining? ",
+			"I hope it won't affect our adventure..."
+        ],
+        "9": [
+            "Haven’t checked on my sister for a few days… ",
+			"Guess I should drop by today."
+        ],
+        "10": [
+            "Alright, I'm up. What’s the plan for today—"
+        ],
+        "11": [
+            "To \\str[120]'s Room",
+			"Head Out Now"
+        ],
+        "12": [
+            "Okay, let’s check on \\str[120]!"
+        ],
+        "13": [
+            "Okay, time to get everything in order ",
+			"and head out for an adventure!"
+        ]		
+    },
+  "4": {
+        "0": [
+            "\"...Huh!?\\w[60]...Wait, \\w[60]",
+			"is it already morning...?\""
+		],
+		"1": [
+            "My head feels dizzy... ",
+			"Did I just fall asleep like that last night...?"
+        ],
+		"2": [
+            "\"I can't remember what happened last night...  \\w[90]",
+			"Oh well, I was probably just too exhausted.\""
+        ]
+    }		
+}

@@ -32,7 +32,7 @@ files: [
     # Translation files filter
     # e.g. "/resources/%two_letters_code%/%original_file_name%"
     #
-    "translation": "**/%original_file_name%",
+    "translation": "/**/%original_file_name%",
         "translation_replace": {
       "EN": "PTBR"
     },
