@@ -1,0 +1,1434 @@
+[
+    {
+        "identifier": "3.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "3 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "3 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.variants.0.subtitle.0",
+        "source_string": "\"Feeling restless...\"",
+        "translation": "“Sentindo-se inquieto...”",
+        "context": "3 -> variants -> 0 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.variants.0.description.0",
+        "source_string": "Excitement Level:\\c[2]\\v[25]%\\c[0]",
+        "translation": "Nível de Excitação:\\c[2]\\v[25]%\\c[0]",
+        "context": "3 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.variants.1.subtitle.0",
+        "source_string": "\"The body craves a thrill...\"",
+        "translation": "“O corpo anseia por emoção...”",
+        "context": "3 -> variants -> 1 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.variants.1.description.0",
+        "source_string": "Excitement Level:\\c[10]\\v[25]%\\c[0]",
+        "translation": "Nível de Excitação:\\c[10]\\v[25]%\\c[0]",
+        "context": "3 -> variants -> 1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.variants.2.subtitle.0",
+        "source_string": "\"Losing control...!\"",
+        "translation": "\"Perdendo o controle...!\"",
+        "context": "3 -> variants -> 2 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.variants.2.description.0",
+        "source_string": "Excitement Level:\\c[18]\\v[25]%\\c[0]",
+        "translation": "Nível de Excitação:\\c[18]\\v[25]%\\c[0]",
+        "context": "3 -> variants -> 2 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.subtitle.0",
+        "source_string": "\"Uwoooo...!\"",
+        "translation": "\"Uwoooo...!\"",
+        "context": "4 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.description.0",
+        "source_string": "Warped into a desire-crazed Beast!  Excitement Level::\\c[18]???%\\c[0]",
+        "translation": "Transformado em uma Fera dominada pelo desejo! Nível de Excitação::\\c[18]???%\\c[0]",
+        "context": "4 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.subtitle.0",
+        "source_string": "\"Poison has infected your body\"",
+        "translation": "“Veneno infectou seu corpo”",
+        "context": "5 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.description.0",
+        "source_string": "Takes more damage over time!",
+        "translation": "Recebe mais dano ao longo do tempo!",
+        "context": "5 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.subtitle.0",
+        "source_string": "\"The bleeding won't stop\"",
+        "translation": "\"O sangramento não vai parar\"",
+        "context": "6 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.description.0",
+        "source_string": "Takes damage based on max HP!",
+        "translation": "Recebe dano com base no HP máximo!",
+        "context": "6 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.subtitle.0",
+        "source_string": "\"Look, he got struck by lightning!\"",
+        "translation": "\"Olha, ele foi atingido por um raio!\"",
+        "context": "7 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.0",
+        "source_string": "Fully paralyzed—can’t move at all!",
+        "translation": "Totalmente paralisado — não consegue se mover!",
+        "context": "7 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.subtitle.0",
+        "source_string": "\"Hot, hot, hot, hot—!\"",
+        "translation": "\"Quente, quente, quente, quente—!\"",
+        "context": "8 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.0",
+        "source_string": "Applies continuous burning to all units in range!",
+        "translation": "Aplica queimadura contínua a todas as unidades no alcance!",
+        "context": "8 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.subtitle.0",
+        "source_string": "\"Turn into an ice pop!\"",
+        "translation": "“Transforme-se em um picolé!”",
+        "context": "9 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.description.0",
+        "source_string": "Frozen solid!",
+        "translation": "Congelado por completo!",
+        "context": "9 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.subtitle.0",
+        "source_string": "\"Dizzy and disoriented!\"",
+        "translation": "“Tonto e desorientado!”",
+        "context": "11 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.description.0",
+        "source_string": "Unable to act!",
+        "translation": "Incapaz de agir!",
+        "context": "11 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.subtitle.0",
+        "source_string": "\"Fufu, this is what you get for defying me~♥\"",
+        "translation": "“Fufu, é isso que você ganha por me desafiar~♥”",
+        "context": "13 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.description.0",
+        "source_string": "Cursed by that little demon...",
+        "translation": "Amaldiçoado por aquele pequeno demônio...",
+        "context": "13 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.subtitle.0",
+        "source_string": "\"It’s so hot...\"",
+        "translation": "\"É tão quente...\"",
+        "context": "14 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.description.0",
+        "source_string": "feeling weak from the heat...",
+        "translation": "sentindo-se fraco por causa do calor...",
+        "context": "14 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.subtitle.0",
+        "source_string": "\"In the eyes of monsters, you’re just a pitiful, ugly little preemie…\"",
+        "translation": "“Aos olhos dos monstros, você não passa de um prematurozinho feio e patético…”",
+        "context": "15 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.0",
+        "source_string": "Disguised as a monster – monsters won’t actively attack you!",
+        "translation": "Disfarçado como um monstro — os monstros não o atacarão ativamente!",
+        "context": "15 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.subtitle.0",
+        "source_string": "\"You can’t even play such a simple game? What a ZAKO~\"",
+        "translation": "“Você não consegue jogar um joguinho tão simples? Que FRACOTE~”",
+        "context": "16 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.0",
+        "source_string": "Certified as a ZAKO for cheating!",
+        "translation": "Você foi certificado como um FRACOTE por trapacear!",
+        "context": "16 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.subtitle.0",
+        "source_string": "Gaming ",
+        "translation": "\\str[120] está jogando ",
+        "context": "28 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "28 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.variants.0.description.0",
+        "source_string": "She’s really focused on the game, ",
+        "translation": "Ela está realmente concentrada no jogo, ",
+        "context": "28 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.variants.0.description.1",
+        "source_string": "Best not to bother her too much...",
+        "translation": "Melhor não incomodá-la muito...",
+        "context": "28 -> variants -> 0 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.variants.1.description.0",
+        "source_string": "She’s still playing...",
+        "translation": "Ela ainda está jogando...",
+        "context": "28 -> variants -> 1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.variants.1.description.1",
+        "source_string": "Should I tease her a bit?",
+        "translation": "Será que eu devo provocá-la um pouco?",
+        "context": "28 -> variants -> 1 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.subtitle.0",
+        "source_string": "Bathing ",
+        "translation": "\\str[120] está tomando banho ",
+        "context": "29 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "29 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.variants.0.description.0",
+        "source_string": "\\str[120]’s in the bath— I can",
+        "translation": "\\str[120] está no banho — eu posso",
+        "context": "29 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.variants.0.description.1",
+        "source_string": "vaguely make out her silhouette",
+        "translation": "dá para distinguir vagamente a silhueta dela",
+        "context": "29 -> variants -> 0 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.variants.1.description.0",
+        "source_string": "\\str[120] is drying her hair ",
+        "translation": "\\str[120] está secando o cabelo ",
+        "context": "29 -> variants -> 1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.variants.1.description.1",
+        "source_string": "with a towel",
+        "translation": "com uma toalha",
+        "context": "29 -> variants -> 1 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.subtitle.0",
+        "source_string": "Resting ",
+        "translation": "\\str[120] está descansando ",
+        "context": "30 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "30 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.0.description.0",
+        "source_string": "\\str[120] looks very happy,",
+        "translation": "\\str[120] parece muito feliz,",
+        "context": "30 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.0.description.1",
+        "source_string": "Anything interesting happen?",
+        "translation": "Aconteceu algo interessante?",
+        "context": "30 -> variants -> 0 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.1.description.0",
+        "source_string": "\\str[120] is getting cuter",
+        "translation": "\\str[120] está ficando mais fofa",
+        "context": "30 -> variants -> 1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.1.description.1",
+        "source_string": "Maybe give her a pats!",
+        "translation": "Talvez uns cafunés!",
+        "context": "30 -> variants -> 1 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.2.description.0",
+        "source_string": "\\str[120] is just sitting",
+        "translation": "\\str[120] está apenas sentada",
+        "context": "30 -> variants -> 2 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.2.description.1",
+        "source_string": "there. Try talking to her…",
+        "translation": "ali. Tente falar com ela…",
+        "context": "30 -> variants -> 2 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.3.description.0",
+        "source_string": "\\str[120] looks a bit sad",
+        "translation": "\\str[120] parece um pouco triste",
+        "context": "30 -> variants -> 3 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.3.description.1",
+        "source_string": "Maybe try comforting her?",
+        "translation": "Talvez tentar confortá-la?",
+        "context": "30 -> variants -> 3 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.4.description.0",
+        "source_string": "\\str[120] seems a bit off",
+        "translation": "\\str[120] parece um pouco estranha",
+        "context": "30 -> variants -> 4 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.4.description.1",
+        "source_string": "Wonder what could be done…",
+        "translation": "O que será que posso fazer…",
+        "context": "30 -> variants -> 4 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.5.description.0",
+        "source_string": "\\str[120] looks sleepy",
+        "translation": "\\str[120] parece está com sono",
+        "context": "30 -> variants -> 5 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.variants.5.description.1",
+        "source_string": "Maybe it's time for bed?",
+        "translation": "Talvez seja hora de dormir?",
+        "context": "30 -> variants -> 5 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.subtitle.0",
+        "source_string": "Sleeping ",
+        "translation": "\\str[120] está dormindo ",
+        "context": "31 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "31 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.0.description.0",
+        "source_string": "Asleep like a plant…",
+        "translation": "Dormindo que nem uma planta…",
+        "context": "31 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.0.description.1",
+        "source_string": "unable to be roused…",
+        "translation": "incapaz de ser despertada…",
+        "context": "31 -> variants -> 0 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.1.description.0",
+        "source_string": "Deep asleep…",
+        "translation": "Em sono profundo…",
+        "context": "31 -> variants -> 1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.1.description.1",
+        "source_string": "It seems hard to wake her",
+        "translation": "Parece difícil acordá-la",
+        "context": "31 -> variants -> 1 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.2.description.0",
+        "source_string": "Sleeping soundly,",
+        "translation": "Dormindo profundamente,",
+        "context": "31 -> variants -> 2 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.2.description.1",
+        "source_string": "completely immersed in her dreams…",
+        "translation": "completamente imersa em seus sonhos…",
+        "context": "31 -> variants -> 2 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.3.description.0",
+        "source_string": "Her eyelashes twitch",
+        "translation": "Seus cílios tremem",
+        "context": "31 -> variants -> 3 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.3.description.1",
+        "source_string": "as if murmuring in a dream",
+        "translation": "como se murmurassem em um sonho",
+        "context": "31 -> variants -> 3 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.4.description.0",
+        "source_string": "She seems half-awake",
+        "translation": "Ela parece meio acordada",
+        "context": "31 -> variants -> 4 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.4.description.1",
+        "source_string": "murmuring unintentionally",
+        "translation": "murmurando sem intenção",
+        "context": "31 -> variants -> 4 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.5.description.0",
+        "source_string": "\\str[120] is almost awake",
+        "translation": "\\str[120] está quase acordando",
+        "context": "31 -> variants -> 5 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.variants.5.description.1",
+        "source_string": "but her senses are still hazy",
+        "translation": "sentidos ainda estão turvos",
+        "context": "31 -> variants -> 5 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.subtitle.0",
+        "source_string": "Hungry ",
+        "translation": "\\str[120] está com fome ",
+        "context": "32 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "32 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.variants.0.description.0",
+        "source_string": "\\str[120] is quietly waiting ",
+        "translation": "\\str[120] está esperando silenciosamente ",
+        "context": "32 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.variants.0.description.1",
+        "source_string": "for dinner",
+        "translation": "silenciosamente pelo jantar",
+        "context": "32 -> variants -> 0 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.variants.1.description.0",
+        "source_string": "\\str[120] seems a bit worried",
+        "translation": "\\str[120] parece preocupada",
+        "context": "32 -> variants -> 1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.variants.1.description.1",
+        "source_string": "about the dinner taste…",
+        "translation": "com o sabor do jantar…",
+        "context": "32 -> variants -> 1 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.variants.2.description.0",
+        "source_string": "\\str[120] looks like ",
+        "translation": "Parece que a \\str[120] ",
+        "context": "32 -> variants -> 2 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.variants.2.description.1",
+        "source_string": "she wants to help",
+        "translation": "quer ajudar",
+        "context": "32 -> variants -> 2 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "33.subtitle.0",
+        "source_string": "Relaxing ",
+        "translation": "\\str[120] está relaxando ",
+        "context": "33 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "33.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "33 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "33.variants.0.description.0",
+        "source_string": "\\str[120]’s licking her popsicle…",
+        "translation": "\\str[120] está lambendo o picolé dela…",
+        "context": "33 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "33.variants.0.description.1",
+        "source_string": "looks way too defenseless...",
+        "translation": "parece tão indefesa...",
+        "context": "33 -> variants -> 0 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.subtitle.0",
+        "source_string": "Brushing ",
+        "translation": "\\str[120] está escovando os dentes ",
+        "context": "34 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "34 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.variants.0.description.0",
+        "source_string": "\\str[120]’s lazily brushing her teeth",
+        "translation": "\\str[120] está escovando os dentes",
+        "context": "34 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.variants.0.description.1",
+        "source_string": "still looking half-asleep...",
+        "translation": "de forma preguiçosa e sonolenta...",
+        "context": "34 -> variants -> 0 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.description.0",
+        "source_string": "✦(Feels like body is ",
+        "translation": "✦(Sente como se seu corpo ",
+        "context": "35 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.description.1",
+        "source_string": "becoming so light...)",
+        "translation": "estivesse ficando tão leve...)",
+        "context": "35 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.description.0",
+        "source_string": "✦mind begins to loosen up—",
+        "translation": "✦A mente começa a relaxar—",
+        "context": "36 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.subtitle.0",
+        "source_string": "Crying ",
+        "translation": "Chorando ",
+        "context": "40 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "40 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.variants.0.description.0",
+        "source_string": "\\c[10]She ate too much spicy food...",
+        "translation": "\\c[10]Ela comeu comida apimentada demais...",
+        "context": "40 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.0",
+        "source_string": "✦Satisfied after eating,",
+        "translation": "✦Satisfeita após comer,",
+        "context": "41 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.1",
+        "source_string": "\\str[120] feels happy!",
+        "translation": "\\str[120] está feliz!",
+        "context": "41 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.subtitle.0",
+        "source_string": "\\str[120] watching TV",
+        "translation": "\\str[120] está assistindo TV",
+        "context": "42 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "42 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.variants.0.description.0",
+        "source_string": "\\str[120] curls up like a kitten, ",
+        "translation": "\\str[120] se encolhe como uma gatinha, ",
+        "context": "42 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.variants.0.description.1",
+        "source_string": "sneaking glances at me.",
+        "translation": "lançando olhares furtivos para mim.",
+        "context": "42 -> variants -> 0 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.subtitle.0",
+        "source_string": "Frightened \\str[120]",
+        "translation": "\\str[120] está assustada",
+        "context": "43 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "43 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.variants.0.description.0",
+        "source_string": "\\str[120] clung tightly to me,",
+        "translation": "\\str[120] se agarrou firmemente a mim,",
+        "context": "43 -> variants -> 0 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.variants.0.description.1",
+        "source_string": "her body trembling slightly…",
+        "translation": "seu corpo tremendo levemente…",
+        "context": "43 -> variants -> 0 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.variants.1.description.0",
+        "source_string": "Our bodies were completely entwined, ",
+        "translation": "Nossos corpos estavam totalmente enlaçados, ",
+        "context": "43 -> variants -> 1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.variants.1.description.1",
+        "source_string": "exchanging warmth with each other…",
+        "translation": "trocando calor um com o outro…",
+        "context": "43 -> variants -> 1 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "45.subtitle.0",
+        "source_string": "\"I promised my dear sister, so I have to keep it\"",
+        "translation": "“Prometi à minha querida irmãzinha, então tenho que cumprir”wd",
+        "context": "45 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "45.description.0",
+        "source_string": "Don’t go home badly injured…",
+        "translation": "Não volte para casa gravemente ferido…",
+        "context": "45 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "46.subtitle.0",
+        "source_string": "\"I promised my dear sister, so I have to keep it\"",
+        "translation": "“Prometi para a minha irmãzinha querida, então preciso cumprir”",
+        "context": "46 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "46.description.0",
+        "source_string": "Cook a meat dish",
+        "translation": "Cozinhar um prato de carne",
+        "context": "46 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.subtitle.0",
+        "source_string": "\"rustle... rustle...\"",
+        "translation": "\"farfalhar... farfalhar...\"",
+        "context": "54 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.description.0",
+        "source_string": "You are being closely watched by a group of small creatures...",
+        "translation": "Você está sendo observado de perto por um grupo de pequenas criaturas...",
+        "context": "54 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.subtitle.0",
+        "source_string": "\"This is my domain, so no mischief allowed~♥\"",
+        "translation": "“Este é o meu domínio, travessuras não são permitidas~♥”",
+        "context": "55 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.description.0",
+        "source_string": "Attack prohibited! Nearby monsters are filled with fear!",
+        "translation": "Ataque proibido! Monstros próximos estão tomados pelo medo!",
+        "context": "55 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.subtitle.0",
+        "source_string": "\"I feel like I can do anything right now\"",
+        "translation": "“Sinto que posso fazer qualquer coisa agora”",
+        "context": "57 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.description.0",
+        "source_string": "Sage Mode activated, all stats increased",
+        "translation": "Modo Sábio ativado, todos os atributos aumentados",
+        "context": "57 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "58.subtitle.0",
+        "source_string": "\"Ate something bad...\"",
+        "translation": "“Comeu algo estragado...”",
+        "context": "58 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "58.description.0",
+        "source_string": "Stomachache won't stop!",
+        "translation": "A dor de estômago não para!",
+        "context": "58 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.description.0",
+        "source_string": "...Forgot something important? Maybe it’ll come back later.",
+        "translation": "…Esqueceu algo importante? Talvez volte mais tarde.",
+        "context": "59 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.description.0",
+        "source_string": "Giving off a constant stench...",
+        "translation": "Exalando um fedor constante...",
+        "context": "60 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.subtitle.0",
+        "source_string": "\"My ass is on fire...\"",
+        "translation": "\"Minhas nádegas estão pegando fogo...\"",
+        "context": "61 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.description.0",
+        "source_string": "Can't run or dash due to butt pain!",
+        "translation": "Não pode correr ou dar uma investida por causa da dor nas nádegas!",
+        "context": "61 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.description.0",
+        "source_string": "Focuses for the next strike, movement speed reduced",
+        "translation": "Concentra-se para o próximo golpe, velocidade de movimento reduzida",
+        "context": "62 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.subtitle.0",
+        "source_string": "\"Triple speed of True Red\"",
+        "translation": "“Velocidade tripla do Verdadeiro Vermelho”",
+        "context": "63 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "63 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "64.description.0",
+        "source_string": "Senpo on cooldown!",
+        "translation": "Senpo recarregando!",
+        "context": "64 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.description.0",
+        "source_string": "Feeling dizzy...",
+        "translation": "Sentindo tontura...",
+        "context": "65 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.description.0",
+        "source_string": "Floating on the water. Movement slowed, can’t attack!",
+        "translation": "Flutuando na água. Movimento lento, não pode atacar!",
+        "context": "67 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.description.0",
+        "source_string": "Chanting a spell!",
+        "translation": "Conjurando um feitiço!",
+        "context": "68 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "71.subtitle.0",
+        "source_string": "\"Ate something delicious—warm and cozy inside~\"",
+        "translation": "\"Comeu algo delicioso — quentinho e aconchegante por dentro~\"",
+        "context": "71 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "71.description.0",
+        "source_string": "Recovers a small amount of health every second",
+        "translation": "Recupera uma pequena quantidade de vida a cada segundo",
+        "context": "71 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "72.subtitle.0",
+        "source_string": "\"Power... surging through me!\"",
+        "translation": "“O poder está... fluindo através de mim!”",
+        "context": "72 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "72.description.0",
+        "source_string": "Attack power\\c[10]+50%\\c[0]",
+        "translation": "Poder de ataque\\c[10]+50%\\c[0]",
+        "context": "72 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.subtitle.0",
+        "source_string": "\"I'm starting to understand everything\"",
+        "translation": "“Estou começando a entender tudo”",
+        "context": "73 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.description.0",
+        "source_string": "Magic attack power\\c[10]+50%\\c[0]",
+        "translation": "Poder de ataque mágico \\c[10]+50%\\c[0]",
+        "context": "73 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "74.subtitle.0",
+        "source_string": "\"Can you keep up... with my SPEED?!\"",
+        "translation": "“Consegue acompanhar... a minha VELOCIDADE?!”",
+        "context": "74 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "74.description.0",
+        "source_string": "Movement speed increases",
+        "translation": "Velocidade de movimento aumentada",
+        "context": "74 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "75.subtitle.0",
+        "source_string": "\"Divine Weapon Descent\"",
+        "translation": "“Descida da Arma Divina”",
+        "context": "75 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "75.description.0",
+        "source_string": "Weapon Gigantify, Damage Boost!",
+        "translation": "Arma Gigantificada, Aumento de Dano!",
+        "context": "75 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "77.subtitle.0",
+        "source_string": "\"Flame of Rebirth\"",
+        "translation": "“Chama da Ressurreição”",
+        "context": "77 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "77.description.0",
+        "source_string": "Allows one revival while the effect is active",
+        "translation": "Permite uma ressurreição enquanto o efeito estiver ativo",
+        "context": "77 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "78.subtitle.0",
+        "source_string": "\"Twist of Fate...\"",
+        "translation": "“Reviravolta do Destino...”",
+        "context": "78 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "78.description.0",
+        "source_string": "Blessed by fate—good things are more likely to happen!",
+        "translation": "Abençoado pelo destino — coisas boas têm mais chance de acontecer!",
+        "context": "78 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "79.subtitle.0",
+        "source_string": "\"Twist of Fate...\"",
+        "translation": "“Reviravolta do Destino...”",
+        "context": "79 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "79.description.0",
+        "source_string": "Blessed by fate—sad things are more likely to happen!",
+        "translation": "Abençoado pelo destino — coisas tristes têm mais chance de acontecer!",
+        "context": "79 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.subtitle.0",
+        "source_string": "\"Triple speed of True Red\"",
+        "translation": "“Velocidade tripla do Verdadeiro Vermelho”",
+        "context": "80 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "80 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "85.subtitle.0",
+        "source_string": "\"But it really tastes awful...\"",
+        "translation": "“Mas tem um gosto realmente horrível...”",
+        "context": "85 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "85.description.0",
+        "source_string": "Overflowing with vitality—max HP increased!",
+        "translation": "Transbordando de vitalidade — HP máximo aumentado!",
+        "context": "85 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "86.subtitle.0",
+        "source_string": "\"SKILL ISSUE\"",
+        "translation": "\"FALTA DE HABILIDADE\"",
+        "context": "86 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "86.description.0",
+        "source_string": "You’ve been mercilessly taunted! Defense and luck greatly decreased!",
+        "translation": "Você foi provocado sem piedade! Sua defesa e sorte caíram drasticamente!",
+        "context": "86 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "90.subtitle.0",
+        "source_string": "「Don’t face-check the bush, you fool!?」",
+        "translation": "「Não enfie a cara no arbusto, seu tolo!?」",
+        "context": "90 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "90.description.0",
+        "source_string": "Being in the bush feels safe… HP auto-regenerates",
+        "translation": "No arbusto, você se sente seguro… HP regenera automaticamente",
+        "context": "90 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.subtitle.0",
+        "source_string": "\"It feels like my sister is right beside me...\"",
+        "translation": "\"É como se minha irmã estivesse bem ao meu lado...\"",
+        "context": "98 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.description.0",
+        "source_string": "Regenerating HP!",
+        "translation": "Regenerando HP!",
+        "context": "98 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "99.subtitle.0",
+        "source_string": "\"We are the guardians!\"",
+        "translation": "\"Nós somos os guardiões!\"",
+        "context": "99 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "99.description.0",
+        "source_string": "Attack power +30",
+        "translation": "Poder de Ataque +30",
+        "context": "99 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.subtitle.0",
+        "source_string": "\"LOOK INTO MY EVIL EYEZ SEE SOMETHIN' INSIDE!\"",
+        "translation": "\"OLHE NOS MEUS OLHOS MALIGNOS E VEJA O QUE HÁ DENTRO!\"",
+        "context": "101 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.description.0",
+        "source_string": "Briefly turns invisible every \\v[221] seconds!",
+        "translation": "Fica brevemente invisível a cada \\v[221] segundos!",
+        "context": "101 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "104.subtitle.0",
+        "source_string": "\"You radiate glory!\"",
+        "translation": "\"Você irradia glória!\"",
+        "context": "104 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "104.description.0",
+        "source_string": "All attributes increase, temporary invincibility",
+        "translation": "Todos os atributos aumentam, invencibilidade temporária",
+        "context": "104 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "105.subtitle.0",
+        "source_string": "\"Share this blessing with thee\"",
+        "translation": "“Compartilho esta bênção contigo”",
+        "context": "105 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "105.description.0",
+        "source_string": "doubling money earned",
+        "translation": "“Dinheiro ganho em dobro",
+        "context": "105 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.subtitle.0",
+        "source_string": "\"I... I can't lift it...\"",
+        "translation": "\"E-eu... eu não consigo levantar isso...\"",
+        "context": "106 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.description.0",
+        "source_string": "Not enough strength to use the weapon fully!",
+        "translation": "Força insuficiente para usar a arma por completo!",
+        "context": "106 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.subtitle.0",
+        "source_string": "\"We are the guardians!\"",
+        "translation": "\"Nós somos os guardiões!\"",
+        "context": "107 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.description.0",
+        "source_string": "Movement speed increased!",
+        "translation": "Velocidade de movimento aumentada!",
+        "context": "107 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "108.subtitle.0",
+        "source_string": "\"We are the guardians!\"",
+        "translation": "“Nós somos os guardiões!”",
+        "context": "108 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "108.description.0",
+        "source_string": "Attack and defense increased!",
+        "translation": "Ataque e defesa aumentados!",
+        "context": "108 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "109.subtitle.0",
+        "source_string": "\"We are the guardians!\"",
+        "translation": "“Nós somos os guardiões!”",
+        "context": "109 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "109.description.0",
+        "source_string": "Defense increased!",
+        "translation": "Defesa aumentada!",
+        "context": "109 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "110.subtitle.0",
+        "source_string": "\"We are the guardians!\"",
+        "translation": "“Nós somos os guardiões!”",
+        "context": "110 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "110.description.0",
+        "source_string": "Max HP and defense increased!",
+        "translation": "HP máximo e defesa aumentados!",
+        "context": "110 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.subtitle.0",
+        "source_string": "\"The immortal scarecrow's heart, yet decay is fate\"",
+        "translation": "\"O coração do espantalho imortal, mas a decadência é o destino\"",
+        "context": "115 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.description.0",
+        "source_string": "No HP recovery!",
+        "translation": "Sem recuperação de HP!",
+        "context": "115 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "116.subtitle.0",
+        "source_string": "\"Endless greed has found you—\"",
+        "translation": "“A ganância sem fim encontrou você—”",
+        "context": "116 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "116.description.0",
+        "source_string": "Drop held money when taking damage!",
+        "translation": "Derruba o dinheiro guardado ao receber dano!",
+        "context": "116 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "117.subtitle.0",
+        "source_string": "\"Thus shall you gain the world's glory, and all darkness shall flee\"",
+        "translation": "\"Assim alcançarás a glória do mundo, e todas as trevas hão de fugir\"",
+        "context": "117 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "117.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "117 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "122.subtitle.0",
+        "source_string": "\"Heh heh I'll survive, I swear it\"",
+        "translation": "\"Heh heh eu vou sobreviver, eu juro\"",
+        "context": "122 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "122.description.0",
+        "source_string": "Permanently restores HP automatically",
+        "translation": "Permanentemente restaura PV automaticamente",
+        "context": "122 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    }
+]
