@@ -6,7 +6,7 @@
     "Gold"
   ],
   "quantityHeld": [
-    "\fs[16]•Quantidade Possuída:\\c[17] ${} \\c[0]\\py[-8]"
+    "\\fs[16]•Quantidade Possuída:\\c[17] ${} \\c[0]\\py[-8]"
   ],
   "autoUpdate": [
     "Atualização disponível: Dados do jogo da versão ${} detectados. ",

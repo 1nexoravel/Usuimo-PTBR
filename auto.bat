@@ -18,7 +18,7 @@ git diff --cached --quiet
 if %errorlevel%==0 (
     echo Nenhuma alteracao detectada. Commit nao criado.
 ) else (
-    git commit -m "Atualizacao automatica PT-BR via Crowdin"
+    git commit -m "Atualização automatica PT-BR via Crowdin"
 )
 git fetch origin
 git push
