@@ -1,0 +1,4058 @@
+[
+    {
+        "identifier": "possibleDrops.0",
+        "source_string": "Possible Drops",
+        "translation": "Possíveis Drops",
+        "context": "possibleDrops -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.objectName.0",
+        "source_string": "Bonfire",
+        "translation": "Fogueira",
+        "context": "7 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.sentouryoku.0",
+        "source_string": "???",
+        "translation": "???",
+        "context": "7 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "7 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.1.0",
+        "source_string": "Found a bonfire...",
+        "translation": "Encontrei uma fogueira...",
+        "context": "7 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.1.1",
+        "source_string": "now what should I do?",
+        "translation": "o que devo fazer agora?",
+        "context": "7 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.2.0",
+        "source_string": "Take a rest",
+        "translation": "Descansar",
+        "context": "7 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.2.1",
+        "source_string": "Do nothing",
+        "translation": "Não fazer nada",
+        "context": "7 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.objectName.0",
+        "source_string": "\\c[116]A↗SA↘BA↗",
+        "translation": "\\c[116]A↗SA↘BA↗",
+        "context": "8 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.sentouryoku.0",
+        "source_string": "2333",
+        "translation": "2333",
+        "context": "8 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.subtitle.0",
+        "source_string": "Dwelling in Adventurer's Path",
+        "translation": "Habita o Caminho do Aventureiro",
+        "context": "8 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.bossName.0",
+        "source_string": "The Berry Devourer",
+        "translation": "O Devorador de Frutas",
+        "context": "8 -> bossName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.0",
+        "source_string": "A strange creature that loves eating strawberries",
+        "translation": "Uma criatura estranha que adora devorar morangos",
+        "context": "8 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.1",
+        "source_string": "It has tough skin and absurd defense, but since ",
+        "translation": "Tem uma pele muito grossa e defesa absurda, mas sendo ",
+        "context": "8 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.2",
+        "source_string": "it’s so focused on strawberries,  ",
+        "translation": "Tão aficionado por morangos, ",
+        "context": "8 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.3",
+        "source_string": "it lacks much urge to attack. Because of that,",
+        "translation": "Não tem o instinto de atacar. Por isso,",
+        "context": "8 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.4",
+        "source_string": "passing adventurers often end up feeding it…",
+        "translation": "Aventureiros que passam muitas vezes acabam o alimentando…",
+        "context": "8 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.1.0",
+        "source_string": "ASABA looks at me with anticipation—",
+        "translation": "ASABA olha para mim com expectativa—",
+        "context": "8 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.1.1",
+        "source_string": "Did it smell something on me...?",
+        "translation": "Será que ela sentiu algum cheiro em mim...?",
+        "context": "8 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.2.0",
+        "source_string": "ASABA looks at me curiously—",
+        "translation": "ASABA olha pra mim com curiosidade—",
+        "context": "8 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.2.1",
+        "source_string": "Did it smell something on me...?",
+        "translation": "Será que ela sentiu algum cheiro em mim...?",
+        "context": "8 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.3.0",
+        "source_string": "ASABA looks at me with disgust—",
+        "translation": "Uma ASABA olha com nojo para mim —",
+        "context": "8 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.3.1",
+        "source_string": "Did I really upset it...?",
+        "translation": "Será que eu a deixei chateada...?",
+        "context": "8 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.4.0",
+        "source_string": "Should I try feeding ASABA?",
+        "translation": "Será que eu devo alimentar a ASABA?",
+        "context": "8 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.5.0",
+        "source_string": "Feed it!",
+        "translation": "Alimentá-la!",
+        "context": "8 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.5.1",
+        "source_string": "Don’t want to",
+        "translation": "Não quero agora",
+        "context": "8 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.6.0",
+        "source_string": "ASABA finished the food with a blank look—",
+        "translation": "ASABA terminou a comida com um olhar vazio—",
+        "context": "8 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.6.1",
+        "source_string": "Maybe it didn’t like it...",
+        "translation": "Talvez ela não tenha gostado...",
+        "context": "8 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.7.0",
+        "source_string": "ASABA seems very pleased with the strawberry—",
+        "translation": "ASABA parece muito satisfeita com o morango—",
+        "context": "8 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.7.1",
+        "source_string": "Granted a strange blessing by ASABA!",
+        "translation": "Uma estranha bênção foi concedida por ASABA!",
+        "context": "8 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.8.0",
+        "source_string": "ASABA looks at me with disgust—",
+        "translation": "ASABA olha com nojo para mim—",
+        "context": "8 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.8.1",
+        "source_string": "Was it that bad...? The food just now...",
+        "translation": "Foi tão ruim assim...? A comida de agora...",
+        "context": "8 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.9.0",
+        "source_string": ".................?!  \\w[45]",
+        "translation": "....................?! \\w[45]",
+        "context": "8 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.9.1",
+        "source_string": "ASABA is... broken!!",
+        "translation": "ASABA está... quebrada!!",
+        "context": "8 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.10.0",
+        "source_string": "ASABA is already full—",
+        "translation": "ASABA já está satisfeita—",
+        "context": "8 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.11.0",
+        "source_string": "………………!",
+        "translation": "………………!",
+        "context": "8 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.11.1",
+        "source_string": "now ASABA holds a grudge against me…",
+        "translation": "Agora ASABA guarda rancor de mim…",
+        "context": "8 -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.objectName.0",
+        "source_string": "\\c[116]Fish",
+        "translation": "\\c[116]Peixe",
+        "context": "9 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.sentouryoku.0",
+        "source_string": "1",
+        "translation": "1",
+        "context": "9 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.description.0",
+        "source_string": "A fish shadow swimming underwater that quickly ",
+        "translation": "A sombra de um peixe nadando rapidamente em baixo da água ",
+        "context": "9 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.description.1",
+        "source_string": "flees when it senses someone approaching.",
+        "translation": "Ele se esconde quando percebe alguém se aproximando.",
+        "context": "9 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.description.2",
+        "source_string": "What could be the right way to catch them...?",
+        "translation": "Qual seria a maneira correta de capturá-los...?",
+        "context": "9 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.objectName.0",
+        "source_string": "Shione",
+        "translation": "Shione",
+        "context": "13 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.subtitle.0",
+        "source_string": "Demonic Sister of The Fallen Church",
+        "translation": "A irmã Demoníaca da Igreja Caída",
+        "context": "13 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.bossName.0",
+        "source_string": "The Pride Demon",
+        "translation": "O demônio do orgulho",
+        "context": "13 -> bossName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.garble",
+        "source_string": "1",
+        "translation": "1",
+        "context": "13 -> garble",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.objectName.0",
+        "source_string": "\\c[116]Mysterious Bubble",
+        "translation": "\\c[116]Bolha Misteriosa",
+        "context": "14 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.sentouryoku.0",
+        "source_string": "1",
+        "translation": "1",
+        "context": "14 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.description.0",
+        "source_string": "There seems to be something under the water...",
+        "translation": "Parece haver algo debaixo da água",
+        "context": "14 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.objectName.0",
+        "source_string": "\\c[115]Jackalope",
+        "translation": "\\c[115]Jackalcole",
+        "context": "15 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.sentouryoku.0",
+        "source_string": "555",
+        "translation": "555",
+        "context": "15 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.0",
+        "source_string": "A high-rank monster evolved from the ",
+        "translation": "Um monstro de alto escalão evoluiu a partir do",
+        "context": "15 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.1",
+        "source_string": "Horned Rabbit. For monster, horns serve both ",
+        "translation": "Coelho com chifres. Para um monstro, os chifres servem a ambos os propósitos",
+        "context": "15 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.2",
+        "source_string": "as weapons and as cores for storing mana.",
+        "translation": "Como armas e núcleos para armazenar mana?",
+        "context": "15 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.3",
+        "source_string": "Unlike the Horned Rabbit, it’s highly aggressive",
+        "translation": "Diferente do Coelho de Chifres, esse e altamente agressivo",
+        "context": "15 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.4",
+        "source_string": "When excited, its body turns red as mana surges, ",
+        "translation": "Quando excitado, seu corpo fica vermelho à medida que a mana flui",
+        "context": "15 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.5",
+        "source_string": "and it launches rapid, repeated charges.",
+        "translation": "E lança cargas rápidas e repetidas.",
+        "context": "15 -> description -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.objectName.0",
+        "source_string": "The Unnameable C",
+        "translation": "O Inominável C",
+        "context": "16 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.sentouryoku.0",
+        "source_string": "9",
+        "translation": "9",
+        "context": "16 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.0",
+        "source_string": "A being so infamous that even its name ",
+        "translation": "Um ser tão infame que até o nome ",
+        "context": "16 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.1",
+        "source_string": "became taboo. In theory, it’s almost harmless—",
+        "translation": "Tornou-se um tabu. Em teoria, é quase inofensivo",
+        "context": "16 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.2",
+        "source_string": "but its terrifying appearance and unpredictable ",
+        "translation": "Mas sua aparência aterradora e imprevisível",
+        "context": "16 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.3",
+        "source_string": "movements are enough to throw everyone ",
+        "translation": "Seus movimentos são suficientes para desestabilizar a todos",
+        "context": "16 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.4",
+        "source_string": "present into chaos.",
+        "translation": "Presente em um caos.",
+        "context": "16 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.objectName.0",
+        "source_string": "Stele of the End",
+        "translation": "Estela do Fim",
+        "context": "18 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.sentouryoku.0",
+        "source_string": "1",
+        "translation": "1",
+        "context": "18 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.0",
+        "source_string": "A long-neglected stone monument, ",
+        "translation": "Um monumento de pedra negligenciado há muito tempo, ",
+        "context": "18 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.1",
+        "source_string": "now cracked and weathered.",
+        "translation": "Agora rachado e desgastado.",
+        "context": "18 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.2",
+        "source_string": "You can tell it was once exquisitely carved.",
+        "translation": "Pode dizer-se que uma vez foi requintadamente entalhado.",
+        "context": "18 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.3",
+        "source_string": "Even after all these years, it still",
+        "translation": "Mesmo depois de todos esses anos, ele ainda",
+        "context": "18 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.4",
+        "source_string": "carries an aura that inspires quiet awe.",
+        "translation": "Possui uma aura que inspira uma admiração silenciosa",
+        "context": "18 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.objectName.0",
+        "source_string": "\\c[114]Maid Bunny",
+        "translation": "\\c[114]Coelha-Maid",
+        "context": "24 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.sentouryoku.0",
+        "source_string": "?77",
+        "translation": "?77",
+        "context": "24 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.description.0",
+        "source_string": "A strange girl always dressed as a maid with rabbit ears.",
+        "translation": "Uma garota estranha, sempre vestida como Maid e com orelhas de coelho.",
+        "context": "24 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.description.1",
+        "source_string": "Possesses the ability to teleport, ",
+        "translation": "Possuí a habilidade de teletransporte, ",
+        "context": "24 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.description.2",
+        "source_string": "appearing from all sorts of strange holes.",
+        "translation": "Aparece de todos os tipos de buracos estranhos.",
+        "context": "24 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.description.3",
+        "source_string": "Frequently teases adventurers but is mostly harmless.",
+        "translation": "Frequentemente provoca aventureiros, mas normalmente é inofensiva..",
+        "context": "24 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.1.0",
+        "source_string": "……Usa?",
+        "translation": "……Usa?",
+        "context": "24 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.1.1",
+        "source_string": "Why are you so ugly usa…?",
+        "translation": "Por que você é tão feia usa…?",
+        "context": "24 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.2.0",
+        "source_string": "Usa…… I smell…",
+        "translation": "Usa…… Eu sinto o cheiro…",
+        "context": "24 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.2.1",
+        "source_string": "you have the scent of carrots, usa…",
+        "translation": "Você tem cheiro de cenouras, usa…",
+        "context": "24 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.objectName.0",
+        "source_string": "Giant Sacabambaspis",
+        "translation": "Um peixe Gigante",
+        "context": "28 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.subtitle.0",
+        "source_string": "Dwelling in the water",
+        "translation": "Reside na água",
+        "context": "28 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.bossName.0",
+        "source_string": "The River Lord—wasn’t it extinct!?",
+        "translation": "O senhor do Rio—ele não estava extinto!?",
+        "context": "28 -> bossName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.sentouryoku.0",
+        "source_string": "999",
+        "translation": "999",
+        "context": "28 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "28 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.objectName.0",
+        "source_string": "Mysterious Gacha",
+        "translation": "Gacha Misteriosa",
+        "context": "32 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.sentouryoku.0",
+        "source_string": "9",
+        "translation": "9",
+        "context": "32 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.0",
+        "source_string": "A gacha machine summoned by a Tarot card.",
+        "translation": "Uma máquina de Gacha invocada por uma carta de Tarot.",
+        "context": "32 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.1",
+        "source_string": "It eats up whatever adventurers offer it.",
+        "translation": "Ela devora qualquer coisa que o aventureiro ofereça.",
+        "context": "32 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.2",
+        "source_string": "When satisfied, it happily spins and ",
+        "translation": "Quando satisfeita, ela roda alegremente e ",
+        "context": "32 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.3",
+        "source_string": "finally spits out a reward-filled capsule.",
+        "translation": "Finalmente cospe uma cápsula com uma recompensa dentro.",
+        "context": "32 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.4",
+        "source_string": "But be careful not to overfeed it—though it's",
+        "translation": "Mas tome cuidado para não alimentá-la em excesso, embora seja",
+        "context": "32 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.5",
+        "source_string": "a machine, it seems to get food poisoning...",
+        "translation": "Uma máquina, parece que ela pode ter intoxicação alimentar...",
+        "context": "32 -> description -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.1.0",
+        "source_string": "Still in the river!",
+        "translation": "Ainda no rio!",
+        "context": "32 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.2.0",
+        "source_string": "I found a weird gacha machine...",
+        "translation": "Eu encontrei uma estranha máquina de gacha...",
+        "context": "32 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.2.1",
+        "source_string": "Its expression looks like \\str[120]'s...",
+        "translation": "Sua expressão parece a da \\str[120]...",
+        "context": "32 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.3.0",
+        "source_string": "Try inserting money",
+        "translation": "Tentar inserir dinheiro",
+        "context": "32 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.3.1",
+        "source_string": "Try feeding it",
+        "translation": "Tentar a alimentar",
+        "context": "32 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.4.0",
+        "source_string": "But I don’t have enough money to feed it…",
+        "translation": "Mas eu não tenho dinheiro o suficiente para alimentá-la…",
+        "context": "32 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.5.0",
+        "source_string": "Should I really feed it ",
+        "translation": "Será que eu realmente deveria alimentá-la ",
+        "context": "32 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.5.1",
+        "source_string": "\\ii[\\v[90]]…?",
+        "translation": "\\ii[\u000b[90]]…?",
+        "context": "32 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.6.0",
+        "source_string": "Yeah",
+        "translation": "Yep",
+        "context": "32 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.6.1",
+        "source_string": "Nope",
+        "translation": "Não",
+        "context": "32 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.objectName.0",
+        "source_string": "\\c[114]NLCH Delivery!",
+        "translation": "Entregas da \\c[114]NLCH!",
+        "context": "41 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.sentouryoku.0",
+        "source_string": "?999",
+        "translation": "?999",
+        "context": "41 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.0",
+        "source_string": "A mobile shop run by two catgirls.",
+        "translation": "Uma lojinha ambulante mantida por duas Nekomimis.",
+        "context": "41 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.1",
+        "source_string": "They show up flashily when adventurers call.",
+        "translation": "Elas aparecem espalhafatosamente quando chamadas por aventureiros.",
+        "context": "41 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.2",
+        "source_string": "Goods are mostly Abyss junk they found.",
+        "translation": "Os produtos são basicamente lixo que encontraram no Abismo.",
+        "context": "41 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.3",
+        "source_string": "Watch out, prices can be a total ripoff.",
+        "translation": "Mas cuidado, os preços podem ser superfaturados.",
+        "context": "41 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.4",
+        "source_string": "Look down on them, and get beaten up...",
+        "translation": "Se ficar olhando muito, você vai ser espancado...",
+        "context": "41 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.5",
+        "source_string": "PS:\\c[2]Blacklisted by the Maid Bunnies ",
+        "translation": "PS:\\c[2]Estão na lista negra das Coelhas-Maid ",
+        "context": "41 -> description -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.6",
+        "source_string": "\\c[2]for stealing customers.",
+        "translation": "\\c[2]por roubar clientes.",
+        "context": "41 -> description -> 6",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.1.0",
+        "source_string": "Hi~! Welcome, nya♪ Take your time looking around,",
+        "translation": "Oi~! Bem-vindo, nya♪ Fique à vontade para olhar,",
+        "context": "41 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.1.1",
+        "source_string": "and feel free to ask me anything, nya!",
+        "translation": "e qualquer coisa é só me chamar, nya!",
+        "context": "41 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.objectName.0",
+        "source_string": "Walking Shroom",
+        "translation": "Cogumelo Ambulante",
+        "context": "43 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.sentouryoku.0",
+        "source_string": "120",
+        "translation": "120",
+        "context": "43 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.description.0",
+        "source_string": "A strange monster often found in jungles, ",
+        "translation": "Um monstro estranho normalmente encontrado na selva, ",
+        "context": "43 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.description.1",
+        "source_string": "much larger than regular mushrooms.",
+        "translation": "Muito maior que um cogumelo normal.",
+        "context": "43 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.description.2",
+        "source_string": "It can freely walk on its legs and is aggressive.",
+        "translation": "Ele é agressivo e pode andar livremente com suas pernas.",
+        "context": "43 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.description.3",
+        "source_string": "However, it's delicious, making it a favorite ",
+        "translation": "Porém, são deliciosos e minha coisa favorita, ",
+        "context": "43 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.description.4",
+        "source_string": "target for adventurers and chefs alike.",
+        "translation": "São alvos de aventureiros e chefes.",
+        "context": "43 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.objectName.0",
+        "source_string": "\\c[116]Lesser Orc",
+        "translation": "\\c[116]Mini Orc",
+        "context": "51 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.sentouryoku.0",
+        "source_string": "320",
+        "translation": "320",
+        "context": "51 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.description.0",
+        "source_string": "A young orc still in its growth phase, ",
+        "translation": "Um Orc jovem, ainda na fase de desenvolvimento, ",
+        "context": "51 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.description.1",
+        "source_string": "already about the size of a human.",
+        "translation": "Mas já tem um tamanho similar a um humano.",
+        "context": "51 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.description.2",
+        "source_string": "It reacts to living beings and greedily ",
+        "translation": "Ele reage vorazmente ao ver coisas vivas ",
+        "context": "51 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "51.description.3",
+        "source_string": "absorbs their life force.",
+        "translation": "Drenando sua força vital.",
+        "context": "51 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.objectName.0",
+        "source_string": "Zombie",
+        "translation": "Zumbi",
+        "context": "53 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.sentouryoku.0",
+        "source_string": "210",
+        "translation": "210",
+        "context": "53 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.description.0",
+        "source_string": "A corpse reanimated through necromancy.",
+        "translation": "Um defunto reanimado com necromancia.",
+        "context": "53 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.description.1",
+        "source_string": "It still retains aggression and possesses ",
+        "translation": "Eles ainda são agressivos e possuem  ",
+        "context": "53 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.description.2",
+        "source_string": "considerable combat ability.",
+        "translation": "Um poder de combate considerável.",
+        "context": "53 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.objectName.0",
+        "source_string": "Wonderland’s White Rabbit",
+        "translation": "Coelho Branco do País das Maravilhas",
+        "context": "59 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.subtitle.0",
+        "source_string": "Dwelling in Forest of Ruins",
+        "translation": "Habitando a Floresta da Ruína",
+        "context": "59 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.bossName.0",
+        "source_string": "Wonderland’s White Rabbit",
+        "translation": "Coelho Branco do País das Maravilhas",
+        "context": "59 -> bossName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.sentouryoku.0",
+        "source_string": "???",
+        "translation": "???",
+        "context": "59 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "59 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.objectName.0",
+        "source_string": "\\c[116]Monstrous Bird",
+        "translation": "\\c[116]Pássaro Monstruoso",
+        "context": "65 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.sentouryoku.0",
+        "source_string": "260",
+        "translation": "260",
+        "context": "65 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.description.0",
+        "source_string": "A massive avian beast.",
+        "translation": "Uma besta aviária gigante.",
+        "context": "65 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.description.1",
+        "source_string": "It charges at adventurers with its large body,",
+        "translation": "Ele ataca aventureiros com seu grande corpo, ",
+        "context": "65 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.description.2",
+        "source_string": "and also uses sonic attacks, so beware.",
+        "translation": "e também utiliza ataques sônicos, então tome cuidado.",
+        "context": "65 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "66.objectName.0",
+        "source_string": "\\c[114]Orange Tabby Cat Slime",
+        "translation": "\\c[114]Gato Lesma Laranja Malhado",
+        "context": "66 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "66.sentouryoku.0",
+        "source_string": "?10",
+        "translation": "?10",
+        "context": "66 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "66.description.0",
+        "source_string": "A slime that mutated after mistakenly ",
+        "translation": "Uma lesma que teve uma mutação após comer ",
+        "context": "66 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "66.description.1",
+        "source_string": "eating an adorable kitty,",
+        "translation": "comendo um gatinho adorável,",
+        "context": "66 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "66.description.2",
+        "source_string": "and became cute itself as a result.",
+        "translation": "Super fofa também como resultado.",
+        "context": "66 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "66.description.3",
+        "source_string": "It has lost its will to attack,",
+        "translation": "Ela perdeu seu instinto de atacar,",
+        "context": "66 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "66.description.4",
+        "source_string": "but will puff up like a cat when threatened...",
+        "translation": "Mas vai se eriçar como um gato quando ameaçada...",
+        "context": "66 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "66.1.0",
+        "source_string": "The cat slime seems to ",
+        "translation": "Parece que o Gato Lesma ",
+        "context": "66 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "66.1.1",
+        "source_string": "really like me...",
+        "translation": "Gostou muito de mim...",
+        "context": "66 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.objectName.0",
+        "source_string": "\\c[114]Striped Calico Cat Slime",
+        "translation": "\\c[114]Gato Lesma Tricolor Listrado",
+        "context": "67 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.sentouryoku.0",
+        "source_string": "?10",
+        "translation": "?10",
+        "context": "67 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.description.0",
+        "source_string": "A slime that mutated after mistakenly ",
+        "translation": "Uma lesma que teve uma mutação depois de comer ",
+        "context": "67 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.description.1",
+        "source_string": "eating an adorable kitty,",
+        "translation": "um adorável gatinho por acidente, e se tornou",
+        "context": "67 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.description.2",
+        "source_string": "and became cute itself as a result.",
+        "translation": "super fofinha também como resultado.",
+        "context": "67 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.description.3",
+        "source_string": "It has lost its will to attack,",
+        "translation": "Ela perdeu seu instinto de atacar,",
+        "context": "67 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.description.4",
+        "source_string": "but will puff up like a cat when threatened...",
+        "translation": "Mas vai se eriçar como um gato quando ameaçada...",
+        "context": "67 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.1.0",
+        "source_string": "The cat slime seems to ",
+        "translation": "Parece que o Gato Lesma ",
+        "context": "67 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.1.1",
+        "source_string": "really like me...",
+        "translation": "Gostou muito de mim...",
+        "context": "67 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.objectName.0",
+        "source_string": "\\c[114]White Tabby Cat Slime",
+        "translation": "\\c[114]Gato Lesma Branco Malhado",
+        "context": "68 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.sentouryoku.0",
+        "source_string": "?10",
+        "translation": "?10",
+        "context": "68 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.description.0",
+        "source_string": "A slime that mutated after mistakenly ",
+        "translation": "Uma lesma que teve uma mutação depois de comer ",
+        "context": "68 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.description.1",
+        "source_string": "eating an adorable kitty,",
+        "translation": "um adorável gatinho por acidente e se tornou",
+        "context": "68 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.description.2",
+        "source_string": "and became cute itself as a result.",
+        "translation": "super fofinha também como resultado.",
+        "context": "68 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.description.3",
+        "source_string": "It has lost its will to attack,",
+        "translation": "Ela perdeu seu instinto de atacar",
+        "context": "68 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.description.4",
+        "source_string": "but will puff up like a cat when threatened...",
+        "translation": "mas vai se eriçar como um gato quando ameaçada...",
+        "context": "68 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.1.0",
+        "source_string": "The cat slime seems to ",
+        "translation": "Parece que o Gato Lesma ",
+        "context": "68 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.1.1",
+        "source_string": "really like me...",
+        "translation": "Gostou muito de mim...",
+        "context": "68 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.objectName.0",
+        "source_string": "\\c[114]Siamese Cat Slime",
+        "translation": "\\c[114]Gato Lesma Siamês",
+        "context": "69 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.sentouryoku.0",
+        "source_string": "?10",
+        "translation": "?10",
+        "context": "69 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.description.0",
+        "source_string": "A slime that mutated after mistakenly ",
+        "translation": "Uma lesma que teve uma mutação após comer ",
+        "context": "69 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.description.1",
+        "source_string": "eating an adorable kitty,",
+        "translation": "Um gato por acidente, e se tornou",
+        "context": "69 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.description.2",
+        "source_string": "and became cute itself as a result.",
+        "translation": "Super meigo como resultado.",
+        "context": "69 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.description.3",
+        "source_string": "It has lost its will to attack,",
+        "translation": "Ela perdeu seu instinto de atacar,",
+        "context": "69 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.description.4",
+        "source_string": "but will puff up like a cat when threatened...",
+        "translation": "Mas vai se eriçar como um gato quando ameaçada...",
+        "context": "69 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.1.0",
+        "source_string": "The cat slime seems to ",
+        "translation": "Parece que o Gato Lesma ",
+        "context": "69 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.1.1",
+        "source_string": "really like me...",
+        "translation": "Gostou muito de mim...",
+        "context": "69 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.objectName.0",
+        "source_string": "Banana Fairy",
+        "translation": "Fada Banana",
+        "context": "70 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.sentouryoku.0",
+        "source_string": "?10",
+        "translation": "?10",
+        "context": "70 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.0",
+        "source_string": "A creature…? shaped like a banana.",
+        "translation": "Uma criatura…? com formato de banana.",
+        "context": "70 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.1",
+        "source_string": "A fairy born from the influence of the Abyssal ",
+        "translation": "Uma fada nascida sobre a influência da aura Abissal ",
+        "context": "70 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.2",
+        "source_string": "aura, It poses little threat to adventurers.",
+        "translation": "Apresenta pouco perigo para os aventureiros.",
+        "context": "70 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.3",
+        "source_string": "However, there are rumors it can ",
+        "translation": "Contudo, há rumores que ela pode ",
+        "context": "70 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.4",
+        "source_string": "easily send people flying…",
+        "translation": "Facilmente lançar pessoas pro ar…",
+        "context": "70 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "71.objectName.0",
+        "source_string": "Apple Fairy",
+        "translation": "Fada Maçã",
+        "context": "71 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "71.sentouryoku.0",
+        "source_string": "?10",
+        "translation": "?10",
+        "context": "71 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "71.description.0",
+        "source_string": "A creature…? shaped like an apple.",
+        "translation": "Uma criatura…? com formato de Maçã.",
+        "context": "71 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "71.description.1",
+        "source_string": "A fairy born from the influence of the Abyssal ",
+        "translation": "Uma fada nascida sobre a influência da aura Abissal ",
+        "context": "71 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "71.description.2",
+        "source_string": "aura, It poses little threat to adventurers.",
+        "translation": "Apresenta pouco por ogo",
+        "context": "71 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "71.description.3",
+        "source_string": "However, there are rumors it can ",
+        "translation": "Contudo, há rumores que ela pode ",
+        "context": "71 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "71.description.4",
+        "source_string": "easily send people flying…",
+        "translation": "facilmente lançar pessoas pro ar…",
+        "context": "71 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "72.objectName.0",
+        "source_string": "\\c[115]Fallen Mage’s Severed Hand",
+        "translation": "\\c[115]Mão Decepada do Mago",
+        "context": "72 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "72.sentouryoku.0",
+        "source_string": "480",
+        "translation": "480",
+        "context": "72 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "72.description.0",
+        "source_string": "The severed limb of a dead mage.",
+        "translation": "Um membro decepado de um mago que já morreu.",
+        "context": "72 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "72.description.1",
+        "source_string": "No one knows what its original owner went through,",
+        "translation": "Ninguém sabe o que aconteceu com seu dono original,",
+        "context": "72 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "72.description.2",
+        "source_string": "But infused with necromancy, this hand stays active.",
+        "translation": "Mas totalmente embebida em necromancia, ela continua ativa.",
+        "context": "72 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "72.description.3",
+        "source_string": "Adventurers often see it make obvious gestures ",
+        "translation": "Aventureiros costumam a ver fazendo gestos óbvios ",
+        "context": "72 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "72.description.4",
+        "source_string": "when attacking.",
+        "translation": "Durante o ataque.",
+        "context": "72 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.objectName.0",
+        "source_string": "WaterWeird",
+        "translation": "Água Esquisita",
+        "context": "73 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.sentouryoku.0",
+        "source_string": "180",
+        "translation": "180",
+        "context": "73 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.description.0",
+        "source_string": "An alchemical elemental creature composed of  ",
+        "translation": "Uma criatura elemental alquímica composta de ",
+        "context": "73 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.description.1",
+        "source_string": "water that wields elemental magic.",
+        "translation": "qualquer coisa que possua magia elemental.",
+        "context": "73 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.description.2",
+        "source_string": "It has high resistance to physical attacks,",
+        "translation": "Ela tem uma grande resistência a ataques físicos,",
+        "context": "73 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.description.3",
+        "source_string": "but cannot survive in environments without water.",
+        "translation": "mas não consegue sobreviver em ambientes sem água.",
+        "context": "73 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "77.objectName.0",
+        "source_string": "\\c[115]Demon Cat",
+        "translation": "\\c[115]Gato Demoníaco",
+        "context": "77 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "77.sentouryoku.0",
+        "source_string": "300",
+        "translation": "300",
+        "context": "77 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "77.description.0",
+        "source_string": "A stray cat possessed by demonic power.",
+        "translation": "Um gato selvagem possuído por poder demoníaco.",
+        "context": "77 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "77.description.1",
+        "source_string": "It gained the ability to fly along with ",
+        "translation": "Ganhou a habilidade de voar junto aos ",
+        "context": "77 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "77.description.2",
+        "source_string": "dark magical powers. But in the end, ",
+        "translation": "poderes de magia sombria. Mas ainda assim, ",
+        "context": "77 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "77.description.3",
+        "source_string": "it’s still just a cat—",
+        "translation": "ainda é só um gato—",
+        "context": "77 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "77.description.4",
+        "source_string": "At most, it just shoots small magic blasts.",
+        "translation": "No máximo dispara pequenas rajadas de magia.",
+        "context": "77 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "78.objectName.0",
+        "source_string": "\\c[115]Vengeful Spirit",
+        "translation": "\\c[115]Espírito vingativo",
+        "context": "78 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "78.sentouryoku.0",
+        "source_string": "400",
+        "translation": "400",
+        "context": "78 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "78.description.0",
+        "source_string": "A magical creature born from a dead soul’s grudge ",
+        "translation": "Uma criatura mágica nascida através de necromancia da alma ",
+        "context": "78 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "78.description.1",
+        "source_string": "through necromancy. It endlessly roams graveyards ",
+        "translation": "de alguém muito rancoroso. Ela vaga eternamente por cemitérios, ",
+        "context": "78 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "78.description.2",
+        "source_string": "and has high resistance to physical attacks,",
+        "translation": "tem uma grande resistência a ataques físicos,",
+        "context": "78 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "78.description.3",
+        "source_string": "and can spit out deadly ghost fire.",
+        "translation": "e pode lançar fogo fantasma altamente letal.",
+        "context": "78 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.bossName.0",
+        "source_string": "Frenzied Crimson Beast",
+        "translation": "Besta Frenética Carmesim",
+        "context": "80 -> bossName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.subtitle.0",
+        "source_string": "Dwelling in Forgotten Catacomb",
+        "translation": "Habita as Catacumbas Esquecidas",
+        "context": "80 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.sentouryoku.0",
+        "source_string": "1600",
+        "translation": "1600",
+        "context": "80 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "80 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "87.objectName.0",
+        "source_string": "Herbivore Slime",
+        "translation": "Slime Herbívora",
+        "context": "87 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "87.sentouryoku.0",
+        "source_string": "60",
+        "translation": "60",
+        "context": "87 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "87.description.0",
+        "source_string": "A common monster found in the outskirts of ",
+        "translation": "Uma criatura muito comum encontrada nos arredores do ",
+        "context": "87 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "87.description.1",
+        "source_string": "the Abyss. It evolved a green color due to its ",
+        "translation": "Abismo. É envolvida por uma coloração esverdeada devido ao ",
+        "context": "87 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "87.description.2",
+        "source_string": "habit of feeding on plants. When approached ",
+        "translation": "seu hábito alimentar baseado em plantas. Quando algo se ",
+        "context": "87 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "87.description.3",
+        "source_string": "suddenly, it becomes agitated,and starts ",
+        "translation": "aproxima de repente, ela fica agitada e começa a ",
+        "context": "87 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "87.description.4",
+        "source_string": "spraying corrosive slime.",
+        "translation": "borrifar musgo corrosivo.",
+        "context": "87 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "88.objectName.0",
+        "source_string": "Jack Slime",
+        "translation": "Slime Jack",
+        "context": "88 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "88.sentouryoku.0",
+        "source_string": "999",
+        "translation": "999",
+        "context": "88 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "88.description.0",
+        "source_string": "A slime that accidentally consumed a Jack Bomb.",
+        "translation": "Uma Slime que acidentalmente consumiu um Jack Bomb.",
+        "context": "88 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "88.description.1",
+        "source_string": "Though it didn’t explode right away, ",
+        "translation": "Pode não explodir instantaneamente, ",
+        "context": "88 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "88.description.2",
+        "source_string": "it remains extremely unstable, and becomes ",
+        "translation": "se mantém extremamente instável e agitada, se ",
+        "context": "88 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "88.description.3",
+        "source_string": "agitated and self-destructive when provoked.",
+        "translation": "provocada ela vai se autodestruir.",
+        "context": "88 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "89.objectName.0",
+        "source_string": "\\c[116]Wraith Slime",
+        "translation": "\\c[116]Slime Espectral",
+        "context": "89 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "89.sentouryoku.0",
+        "source_string": "340",
+        "translation": "340",
+        "context": "89 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "89.description.0",
+        "source_string": "A mutated slime influenced by the environment ",
+        "translation": "Uma Slime transformada pela influência do ambiente ",
+        "context": "89 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "89.description.1",
+        "source_string": "of a graveyard. It aggressively attacks adventurers ",
+        "translation": "de um cemitério. Ela ataca agressivamente aventureiros ",
+        "context": "89 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "89.description.2",
+        "source_string": "like a zombie, becoming more vicious,  ",
+        "translation": "como um zumbi, e com sua aura letal se torna ",
+        "context": "89 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "89.description.3",
+        "source_string": "and the deathly aura surrounding.",
+        "translation": "ainda mais perversa.",
+        "context": "89 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "89.description.4",
+        "source_string": "its body can infect others on contact,",
+        "translation": "Seu corpo pode infectar ou influenciar criaturas com o simples contato, ",
+        "context": "89 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "89.description.5",
+        "source_string": "causing instant death if you're not careful...",
+        "translation": "podendo causar morte instantânea se você ficar distraído...",
+        "context": "89 -> description -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "90.objectName.0",
+        "source_string": "\\c[116]Frost Slime",
+        "translation": "\\c[116]Slime Congelada",
+        "context": "90 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "90.sentouryoku.0",
+        "source_string": "400",
+        "translation": "400",
+        "context": "90 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "90.description.0",
+        "source_string": "A slime mutated after absorbing magic from ",
+        "translation": "Uma Slime transformada depois de absorver magia de ",
+        "context": "90 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "90.description.1",
+        "source_string": "an unknown source. It thrives in watery areas ",
+        "translation": "uma fonte desconhecida. Ela prospera em ambientes aquáticos ",
+        "context": "90 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "90.description.2",
+        "source_string": "and creates thick armor of ice using its magic. ",
+        "translation": "e pode criar uma grossa armadura de gelo com sua maia. ",
+        "context": "90 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "90.description.3",
+        "source_string": "It absorbs large amounts of water, ",
+        "translation": "Ele absorve grandes quantidades de água, ",
+        "context": "90 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "90.description.4",
+        "source_string": "rapidly cools it, and blasts it at adventurers.",
+        "translation": "resfria rapidamente e lança contra os aventureiros.",
+        "context": "90 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "91.objectName.0",
+        "source_string": "\\c[116]Crackling Slime",
+        "translation": "\\c[116]Slime Estalante",
+        "context": "91 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "91.sentouryoku.0",
+        "source_string": "280",
+        "translation": "280",
+        "context": "91 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "91.description.0",
+        "source_string": "A sparkling slime that can discharge electricity ",
+        "translation": "Uma Slime cintilante que pode usar descargas de energia ",
+        "context": "91 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "91.description.1",
+        "source_string": "all over its body. Even slimes don’t know what it ",
+        "translation": "por todo o seu corpo. Nem mesmo as Slimes sabem o que ",
+        "context": "91 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "91.description.2",
+        "source_string": "ate to mutate like this. But in its current state of ",
+        "translation": "comer para se transformar dessa forma. Mas nesse estado ",
+        "context": "91 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "91.description.3",
+        "source_string": "freely discharging electricity, getting close is dangerous...",
+        "translation": "lançando eletricidade livremente, chegar perto é perigoso...",
+        "context": "91 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "92.objectName.0",
+        "source_string": "Ore Slime",
+        "translation": "Slime Mineral",
+        "context": "92 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "92.sentouryoku.0",
+        "source_string": "350",
+        "translation": "350",
+        "context": "92 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "92.description.0",
+        "source_string": "A slime that consumed magic-infused crystals, ",
+        "translation": "Uma Slime que consumiu critais infusos com magia, ",
+        "context": "92 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "92.description.1",
+        "source_string": "hardening its body. Tough minerals grow on its ",
+        "translation": "assim enrijecendo seu corpo. Duros minerais crescem na ",
+        "context": "92 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "92.description.2",
+        "source_string": "surface, forming deadly weapons.",
+        "translation": "sua superfície, formando armas letais.",
+        "context": "92 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "92.description.3",
+        "source_string": "While tougher, it’s still a slime at heart. ",
+        "translation": "Mesmo sendo resistente, no fundo ainda é uma Slime. ",
+        "context": "92 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "92.description.4",
+        "source_string": "Also, the ore it drops seems to be quite valuable…",
+        "translation": "E os minérios que ela dropa parecem ser bastante valiosos…",
+        "context": "92 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.objectName.0",
+        "source_string": "\\c[116]Red Cub",
+        "translation": "\\c[116]Cubo vermelho",
+        "context": "101 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.sentouryoku.0",
+        "source_string": "380",
+        "translation": "380",
+        "context": "101 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.description.0",
+        "source_string": "A grotesque creature born from an egg.",
+        "translation": "Uma grotesca criatura nascida de um ovo.",
+        "context": "101 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.description.1",
+        "source_string": "Its malformed, unnatural growth environment ",
+        "translation": "Seu ambiente de crescimento mal formado e inatural  ",
+        "context": "101 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.description.2",
+        "source_string": "has twisted its body into a mass of tangled tissues.",
+        "translation": "torceu seu corpo em uma massa de tecidos emaranhados.",
+        "context": "101 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.description.3",
+        "source_string": "It possesses a fierce urge to attack, ",
+        "translation": "Possuí uma vontade feroz de atacar, ",
+        "context": "101 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "101.description.4",
+        "source_string": "driven by the desire to devour flesh and be reborn.",
+        "translation": "guiada por desejo de devorar carne tentando renascer.",
+        "context": "101 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.objectName.0",
+        "source_string": "Trash Bin",
+        "translation": "Lata de lixo",
+        "context": "102 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.sentouryoku.0",
+        "source_string": "???",
+        "translation": "???",
+        "context": "102 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.description.0",
+        "source_string": "Even in the deadly Abyss, littering isn’t cool.",
+        "translation": "Mesmo no mortífero Abismo, jogar lixo não é legal.",
+        "context": "102 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.description.1",
+        "source_string": "Still, Whatever you toss vanishes by next day...",
+        "translation": "Ainda assim, o que você jogar fora some no próximo dia...",
+        "context": "102 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.description.2",
+        "source_string": "Feels like someone’s cleaning up.",
+        "translation": "Parece que tem alguém que fazendo limpeza.",
+        "context": "102 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.description.3",
+        "source_string": "But be careful—don’t toss in flammable stuff.",
+        "translation": "Mas cuidado pra não jogar nada inflamável.",
+        "context": "102 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.description.4",
+        "source_string": "Treat it too rough, ",
+        "translation": "Trate isso de forma muito rude, ",
+        "context": "102 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.description.5",
+        "source_string": "and you might trigger something nasty.",
+        "translation": "e algo muito ruim pode acontecer.",
+        "context": "102 -> description -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.1.0",
+        "source_string": "Found a trash can...",
+        "translation": "Achei uma lata de lixo...",
+        "context": "102 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.1.1",
+        "source_string": "What to do with it?",
+        "translation": "O que eu posso fazer com ela?",
+        "context": "102 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.2.0",
+        "source_string": "Search Around",
+        "translation": "Procurar algo",
+        "context": "102 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.2.1",
+        "source_string": "Drop Weapon",
+        "translation": "Descartar Armas",
+        "context": "102 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.2.2",
+        "source_string": "Drop Gear",
+        "translation": "Descartar Ferramentas",
+        "context": "102 -> 2 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.3.0",
+        "source_string": "It’s just the stuff ",
+        "translation": "São só as coisas ",
+        "context": "102 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.3.1",
+        "source_string": "I just threw away...",
+        "translation": "que eu recém joguei fora...",
+        "context": "102 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.4.0",
+        "source_string": "(Ugh... My backpack is completely full...",
+        "translation": "(Ugh... Minha mochila está completamente cheia...",
+        "context": "102 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.4.1",
+        "source_string": "I’ll have to toss everything at once...)",
+        "translation": "vou ter que jogar tudo fora de uma vez...)",
+        "context": "102 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.5.0",
+        "source_string": "Throw all away!",
+        "translation": "Jogar tudo fora!",
+        "context": "102 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.5.1",
+        "source_string": "Think again...",
+        "translation": "Pensar melhor...",
+        "context": "102 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.6.0",
+        "source_string": "...Should I really throw these away?",
+        "translation": "...Eu deveria mesmo jogar isso fora?",
+        "context": "102 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.6.1",
+        "source_string": "\\str[8]",
+        "translation": "\\str[8]",
+        "context": "102 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "102.7.0",
+        "source_string": "\\fr${itemIcon}\\fr and ${itemLength} equipment in total.",
+        "translation": "\fr${itemIcon}\fr e ${itemLength} equipamentos no total.",
+        "context": "102 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.objectName.0",
+        "source_string": "Chili Pepper Tree",
+        "translation": "Árvore de Pimenta",
+        "context": "106 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.sentouryoku.0",
+        "source_string": "1",
+        "translation": "1",
+        "context": "106 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.description.0",
+        "source_string": "Wait, do peppers grow on trees?",
+        "translation": "Pera, pimentas crescem em árvores?",
+        "context": "106 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.description.1",
+        "source_string": "Although \\str[120] really hates it, ",
+        "translation": "Mesmo que a \\str[120] realmente odeie, ",
+        "context": "106 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.description.2",
+        "source_string": "I, as an adventurer, ",
+        "translation": "como um aventureiro eu não posso",
+        "context": "106 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "106.description.3",
+        "source_string": "can’t afford to be picky with food.",
+        "translation": "Não posso me dar ao luxo de ser exigente com a comida",
+        "context": "106 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.objectName.0",
+        "source_string": "Potato",
+        "translation": "Batata",
+        "context": "107 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.sentouryoku.0",
+        "source_string": "1",
+        "translation": "1",
+        "context": "107 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.description.0",
+        "source_string": "Easy to mistake for weeds ",
+        "translation": "Fácil de confundir com capim ",
+        "context": "107 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.description.1",
+        "source_string": "if you do not look closely. ",
+        "translation": "se não olhar de perto. ",
+        "context": "107 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.description.2",
+        "source_string": "Dig beneath the soil and you will find ",
+        "translation": "Cave um pouco na terra e você ",
+        "context": "107 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "107.description.3",
+        "source_string": "tasty potatoes.",
+        "translation": "vai achar uma deliciosa batata.",
+        "context": "107 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "108.objectName.0",
+        "source_string": "Tomato Tree",
+        "translation": "Árvore de Tomate",
+        "context": "108 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "108.sentouryoku.0",
+        "source_string": "1",
+        "translation": "1",
+        "context": "108 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "108.description.0",
+        "source_string": "Tomatoes brimming with juice and ",
+        "translation": "Tomates suculentos e com uma ",
+        "context": "108 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "108.description.1",
+        "source_string": "a gentle fragrance, ",
+        "translation": "fragrancia suave, ",
+        "context": "108 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "108.description.2",
+        "source_string": "as if someone had raised them with great care...",
+        "translation": "Parece que alguém planou eles com cuidado...",
+        "context": "108 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "109.objectName.0",
+        "source_string": "Strawberry Tree",
+        "translation": "Árvore de Morango",
+        "context": "109 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "109.sentouryoku.0",
+        "source_string": "1",
+        "translation": "1",
+        "context": "109 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "109.description.0",
+        "source_string": "A fruit tree laden with strawberries ",
+        "translation": "Uma árvore frutífera carregada de morangos",
+        "context": "109 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "109.description.1",
+        "source_string": "that looks absolutely delicious.",
+        "translation": "que parecem absolutamente deliciosos.",
+        "context": "109 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "109.description.2",
+        "source_string": "It often attracts a certain creature to come ",
+        "translation": "Normalmente atraí algumas criaturas que vêm ",
+        "context": "109 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "109.description.3",
+        "source_string": "and steal a bite.",
+        "translation": "e roubam umas frutinhas.",
+        "context": "109 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "110.objectName.0",
+        "source_string": "Scarecrow",
+        "translation": "Espantalho",
+        "context": "110 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "110.sentouryoku.0",
+        "source_string": "???",
+        "translation": "???",
+        "context": "110 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "110.description.0",
+        "source_string": "\"I'm just a scarecrow.",
+        "translation": "\"Eu sou só um espantalho.",
+        "context": "110 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "110.description.1",
+        "source_string": "Since I don't have a heart, ",
+        "translation": "Já que eu não tenho coração, ",
+        "context": "110 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "110.description.2",
+        "source_string": "I can't feel pain.\"",
+        "translation": "eu não sinto dor.\"",
+        "context": "110 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "113.objectName.0",
+        "source_string": "Horned Rabbit",
+        "translation": "Coelho com Chifres",
+        "context": "113 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "113.sentouryoku.0",
+        "source_string": "50",
+        "translation": "50",
+        "context": "113 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "113.description.0",
+        "source_string": "A wild rabbit mutated by magical contamination—",
+        "translation": "Um coelho selvagem com mutações devido a contaminação mágica—",
+        "context": "113 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "113.description.1",
+        "source_string": "the horn on its head is the mark of this change.",
+        "translation": "o chifre em sua testa é a marca da mudança que ocorreu.",
+        "context": "113 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "113.description.2",
+        "source_string": "However, it’s still in its growth stage ",
+        "translation": "No entanto, ainda tá no estágio de crescimento ",
+        "context": "113 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "113.description.3",
+        "source_string": "and not particularly dangerous.",
+        "translation": "e não é particularmente perigoso.",
+        "context": "113 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "113.description.4",
+        "source_string": "Also, its meat remains tender and delicious.",
+        "translation": "Sua carne é macia e deliciosa.",
+        "context": "113 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.objectName.0",
+        "source_string": "\\c[115]Burning Slime",
+        "translation": "\\c[115]Slime em Chamas",
+        "context": "115 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.sentouryoku.0",
+        "source_string": "620",
+        "translation": "620",
+        "context": "115 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.description.0",
+        "source_string": "A slime engulfed in blazing flames—",
+        "translation": "Uma Slime engolfada em chamas ardentes—",
+        "context": "115 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.description.1",
+        "source_string": "just getting close to it radiates intense heat.",
+        "translation": "Só de se aproximar, você pode sentir o calor intenso irradiado por ela.",
+        "context": "115 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.description.2",
+        "source_string": "Normal attacks are nearly useless against it,",
+        "translation": "Ataques normais são quase inúteis contra ele,",
+        "context": "115 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.description.3",
+        "source_string": "and adventurers can only be thankful",
+        "translation": "Ataques normais são basicamente inúteis contra ela,",
+        "context": "115 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.description.4",
+        "source_string": "that this kind of monster only appears in ",
+        "translation": " aventureiros ficam muito felizes que esse tipo de criatura ",
+        "context": "115 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "115.description.5",
+        "source_string": "extreme environments like lava fields.",
+        "translation": "aparece apenas em ambientes extremos como rios de lava.",
+        "context": "115 -> description -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "119.objectName.0",
+        "source_string": "\\c[10]Death Devil",
+        "translation": "\\c[10]Demônio da Morte",
+        "context": "119 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "119.garble.0",
+        "source_string": "true",
+        "translation": "verdadeiro",
+        "context": "119 -> garble -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "119.sentouryoku.0",
+        "source_string": "???",
+        "translation": "???",
+        "context": "119 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "119.description.0",
+        "source_string": "A mere shadow of the ",
+        "translation": "Uma mera sombra comparada ao desejo do Demônio da morte ",
+        "context": "119 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "119.description.1",
+        "source_string": "Death Devil's will—",
+        "translation": "nenhum mortal pode sobreviver ao seu encontro.",
+        "context": "119 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "119.description.2",
+        "source_string": "no mortal survives its price.",
+        "translation": "nenhum mortal sobrevive ao seu preço.",
+        "context": "119 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "119.description.3",
+        "source_string": "Even this echo brings death ",
+        "translation": "Até mesmo o seu eco",
+        "context": "119 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "119.description.4",
+        "source_string": "to all it sees,",
+        "translation": "traz a morte para quem escuta",
+        "context": "119 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "119.description.5",
+        "source_string": "summoner included. ",
+        "translation": "incluindo seu conjurador.",
+        "context": "119 -> description -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.objectName.0",
+        "source_string": "\\c[10]Aki",
+        "translation": "\\c[10]Aki",
+        "context": "97 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.sentouryoku.0",
+        "source_string": "\\c[10]It's rude to ask a girl's stats~♥",
+        "translation": "\\c[10]Perguntar os status de uma",
+        "context": "97 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.description.0",
+        "source_string": "Looks like a harmless little girl,",
+        "translation": "Parece como uma garotinha inofensiva,",
+        "context": "97 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.description.1",
+        "source_string": "but is actually a free-spirited Archdemon.",
+        "translation": "mas é uma Arquidemônia de espírito livre.",
+        "context": "97 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.description.2",
+        "source_string": "Friendly toward humans, but loves teasing them ",
+        "translation": "É amigável com os humanos, mas adora ",
+        "context": "97 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.description.3",
+        "source_string": "and savoring their flustered reactions.",
+        "translation": "provocar eles e saborear suas reações confusas.",
+        "context": "97 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.description.4",
+        "source_string": "She runs a shop out of whim, ",
+        "translation": "Ela tem uma loja só por capricho com ítens e ",
+        "context": "97 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.description.5",
+        "source_string": "with items and prices changing on a whim as well.",
+        "translation": "preços que também variam com seus caprichos.",
+        "context": "97 -> description -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.description.6",
+        "source_string": "Basically, she just wants to get her favorite salmon",
+        "translation": "Basicamente, ela so quer ganhar salmões",
+        "context": "97 -> description -> 6",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.description.7",
+        "source_string": "from humans however she can...",
+        "translation": "dos humanos, no entanto ela pode...",
+        "context": "97 -> description -> 7",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.1.0",
+        "source_string": "Oh my~ What a rare guest~ Hehe~",
+        "translation": "Meu deus~ Mas que convidado especial~ Hehe~",
+        "context": "97 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.1.1",
+        "source_string": "I’ve got some good stuff here, take your time♥",
+        "translation": "Eu tenho algumas coisas boas aqui, não precisa ter pressa♥",
+        "context": "97 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.2.0",
+        "source_string": "Yaho~! What a coincidence~ So nice to see you again~!",
+        "translation": "Yaho~! Que coincidência~ Tão bom te ver aqui novamente~!",
+        "context": "97 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.2.1",
+        "source_string": "Is it fate~? Or maybe you're just super lucky~?",
+        "translation": "Seria o destino~? Ou talvez você seja muito sortudo~?",
+        "context": "97 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.3.0",
+        "source_string": "Hehe, either way~! When luck’s on your side,",
+        "translation": "Hehe, de qualquer forma~! Quando a sorte está ao seu lado, é ",
+        "context": "97 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.3.1",
+        "source_string": "you better watch out—someone might just snatch it away♥",
+        "translation": "melhor tomar cuidado, alguém pode simplesmente roubar ela de você♥",
+        "context": "97 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.4.0",
+        "source_string": "My shop’s a special one, you know~",
+        "translation": "Minha loja é de um tipo especial, sabe né~",
+        "context": "97 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.4.1",
+        "source_string": "I sell things you won’t find anywhere else~",
+        "translation": "Eu vendo coisas que você não acharia em qualquer outro lugar~",
+        "context": "97 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.5.0",
+        "source_string": "Mhm~ What’s up? Your face is all red~ \\w[45]Hehe~ \\w[45]",
+        "translation": "Mhm~ Qual é? Seu rosto está todo vermelho~ \\w[45]Hehe~ \\w[45]",
+        "context": "97 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.5.1",
+        "source_string": "Did I charm you or something? You’re just too cute~",
+        "translation": "Por acaso eu te deixei encantado? É que você é tão fofo~",
+        "context": "97 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.6.0",
+        "source_string": "These items are…",
+        "translation": "Esses itens são…",
+        "context": "97 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.6.1",
+        "source_string": "Who even are you…?",
+        "translation": "Mas quem é você…?",
+        "context": "97 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.7.0",
+        "source_string": "Aha♥ Spiii~cy~ Adull~t~ only~",
+        "translation": "Aha♥ Safaa~dos~ Só para Maioo~res~",
+        "context": "97 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.7.1",
+        "source_string": "You’re into this kind of thing, huh?",
+        "translation": "Você gosta desse tipo de coisa, heim?",
+        "context": "97 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.8.0",
+        "source_string": "Of course~ I’ve got them♥",
+        "translation": "Mas claro~ Eu tenho aqui♥",
+        "context": "97 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.8.1",
+        "source_string": "onii-san... are you interested~?",
+        "translation": "onii-san... Você está interessado~?",
+        "context": "97 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.9.0",
+        "source_string": "Oh~ wanna know more about me?",
+        "translation": "Oh~ quer saber mais sobre mim",
+        "context": "97 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.9.1",
+        "source_string": "Fair enough~ I haven’t introduced myself, have I~",
+        "translation": "Justo~ Eu nem me apresentei, não é~",
+        "context": "97 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.10.0",
+        "source_string": "Well then, I’m~ The Archdemon from",
+        "translation": "Bem, então, eu sou~ a Arquidemônia das ",
+        "context": "97 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.10.1",
+        "source_string": "the depths of the Abyss! Aki~!",
+        "translation": "profundezas do Abismo! Aki~!",
+        "context": "97 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.11.0",
+        "source_string": "Hey now! Don’t give me that scary face~",
+        "translation": "Hey! Não olha pra mim com essa cara assustada~",
+        "context": "97 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.11.1",
+        "source_string": "I’m just here to make a little trade today~!",
+        "translation": "Hoje eu to aqui só pra fazer algumas vendas~!",
+        "context": "97 -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.12.0",
+        "source_string": "Sniff sniff…",
+        "translation": "Snif snif…",
+        "context": "97 -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.12.1",
+        "source_string": "\\w[90]\\^",
+        "translation": "\\w[90]\\^",
+        "context": "97 -> 12 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.13.0",
+        "source_string": "Yes! That smell!",
+        "translation": "Siim! Esse cheiro!",
+        "context": "97 -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.13.1",
+        "source_string": "That’s it! Gimme it♥ Pleaaaase~!",
+        "translation": "Isso é! Me daa♥ Por Favorzinho~!",
+        "context": "97 -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.14.0",
+        "source_string": "Come on~",
+        "translation": "Vamo lá~",
+        "context": "97 -> 14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.14.1",
+        "source_string": "You’ll give it to me, won’t you♥",
+        "translation": "Você vai me dar, não vai♥",
+        "context": "97 -> 14 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.15.0",
+        "source_string": "(Ah, so it was the salmon in my bag",
+        "translation": "(Ahh, então era o salmão na minha bolsa ",
+        "context": "97 -> 15 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.15.1",
+        "source_string": "that lured her in...)",
+        "translation": "ele atraiu ela ate aqui...)",
+        "context": "97 -> 15 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.16.0",
+        "source_string": "Mhm mhm~! This is exactly what I wanted!",
+        "translation": "Mhm mhm~! Isso é exatamente o que eu queria!",
+        "context": "97 -> 16 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.16.1",
+        "source_string": "I’ll make sure to thank you properly♥",
+        "translation": "Eu vou me certificar de te agradecer certinho♥",
+        "context": "97 -> 16 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.17.0",
+        "source_string": "Please~ Even just a little bit is fine…",
+        "translation": "Por Favorzinho~ Só um pedacinho já tá bom…",
+        "context": "97 -> 17 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.17.1",
+        "source_string": "Share it with me? Pretty please♥",
+        "translation": "Me dá um pouquinho ? Muito por favorzinho♥",
+        "context": "97 -> 17 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.18.0",
+        "source_string": "(What should I do… Looks like",
+        "translation": "(O que eu devo fazer… Parece que",
+        "context": "97 -> 18 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.18.1",
+        "source_string": "this brat really wants some salmon…)",
+        "translation": "essa pirralha realmente quer muito esse salmão…)",
+        "context": "97 -> 18 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.19.0",
+        "source_string": "Give nothing",
+        "translation": "Não dar nada",
+        "context": "97 -> 19 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.20.0",
+        "source_string": "Hoh~    \\w[45]",
+        "translation": "Hoh~    \\w[45]",
+        "context": "97 -> 20 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.20.1",
+        "source_string": "Are you trying to defy Lady Aki?",
+        "translation": "Você se atreve a desafiar a Lady Aki?",
+        "context": "97 -> 20 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.21.0",
+        "source_string": "Tsk tsk~ Such a naughty boy~!",
+        "translation": "Tsk tsk~ Que menino travesso~!",
+        "context": "97 -> 21 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.21.1",
+        "source_string": "Guess I’ll have to punish you properly♥",
+        "translation": "Parece que terei que puni-lo adequadamente♥",
+        "context": "97 -> 21 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.22.0",
+        "source_string": "\\>\\c[10]《Demonic Contract Ritual: Purehearted Human’s Absolute Curse =",
+        "translation": "\\>\\c[10]《Contrato de Ritual demoníaco: Humano de coração puro está totalmente Amaldiçoado =",
+        "context": "97 -> 22 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.22.1",
+        "source_string": "\\>From Today, Your Life Is Hell Mode》!!     \\w[90]",
+        "translation": "\\>De hoje em diante, sua vida estará no modo Infernal》!!     \\w[90]",
+        "context": "97 -> 22 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.23.0",
+        "source_string": "And with that—",
+        "translation": "E assim—",
+        "context": "97 -> 23 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.23.1",
+        "source_string": "You’ve been cursed—",
+        "translation": "Você foi amaldiçoado—",
+        "context": "97 -> 23 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.24.0",
+        "source_string": "So much salmon for me♥ You're too sweet, onii-san~",
+        "translation": "Olha quanto salmão pra mim♥ Você é um docinho, onii-san~",
+        "context": "97 -> 24 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.24.1",
+        "source_string": "Trying to win my heart, huh~?",
+        "translation": "Tá tentando ganhar meu coração, hein~?",
+        "context": "97 -> 24 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.25.0",
+        "source_string": "So cute♥ I just can’t resist~",
+        "translation": "Tão fofo♥ Eu só não consigo resistir~",
+        "context": "97 -> 25 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.25.1",
+        "source_string": "Hehe~!",
+        "translation": "Hehe~!",
+        "context": "97 -> 25 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.26.0",
+        "source_string": "Take this little cutie with you~",
+        "translation": "Leva essa fofura pra você~",
+        "context": "97 -> 26 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.26.1",
+        "source_string": "If you want to find me, just send it with a message~♥",
+        "translation": "Se você quiser me encontrar, é só mandar uma mensagem~♥",
+        "context": "97 -> 26 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.27.0",
+        "source_string": "You want to buy this item?",
+        "translation": "Você quer comprar esse ítem?",
+        "context": "97 -> 27 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.27.1",
+        "source_string": "Sure~ I’ll sell it to you~!",
+        "translation": "Claro~ Eu vendo ele pra você~!",
+        "context": "97 -> 27 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.28.0",
+        "source_string": "Ah! But you know, I don’t really care about money~",
+        "translation": "Ah! Mas sabe né, Eu realmente não me importo com dinheiro~",
+        "context": "97 -> 28 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.28.1",
+        "source_string": "For a demon like me, that stuff’s totally worthless~",
+        "translation": "Para uma demonia como eu, essas coisas são totalmente inúteis~",
+        "context": "97 -> 28 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.29.0",
+        "source_string": "Hmm, you’ve got some decent muscles there,",
+        "translation": "Hmm, to vendo que você é bem fortinho e musculoso,",
+        "context": "97 -> 29 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.29.1",
+        "source_string": "So I’m sure you can manage~!",
+        "translation": "Então eu tenho certeza que você vai conseguir~!",
+        "context": "97 -> 29 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.30.0",
+        "source_string": "...Hehe, if you want this item~!",
+        "translation": "...Hehe, se você quiser esse item~!",
+        "context": "97 -> 30 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.30.1",
+        "source_string": "Then trade it for some salmon~!",
+        "translation": "Você vai precisar trocar ele por salmão~!",
+        "context": "97 -> 30 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.31.0",
+        "source_string": "There’s water all over the place nearby, right?",
+        "translation": "Tam água por toda parte aqui perto, percebeu?",
+        "context": "97 -> 31 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.31.1",
+        "source_string": "Shouldn’t be that hard for you to catch a few fish~?",
+        "translation": "Não deve ser tão difícil de você pegar alguns peixinhos~?",
+        "context": "97 -> 31 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.32.0",
+        "source_string": "If you thought that was the end, you’re soooo wrong~♥",
+        "translation": "Se você achou que esse era o fim, você tá tãaao errado~♥",
+        "context": "97 -> 32 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.32.1",
+        "source_string": "Unless you properly reflect, I’m never letting you off the hook!",
+        "translation": "A não ser que você reflita bem, eu nunca vou deixar você escapar!",
+        "context": "97 -> 32 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.33.0",
+        "source_string": "Also~ This curse? ",
+        "translation": "E também~ Essa maldição? ",
+        "context": "97 -> 33 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.33.1",
+        "source_string": "It’s gonna stick around for a while~♥",
+        "translation": "Ela vai ficar com você por um tempo~♥",
+        "context": "97 -> 33 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.34.0",
+        "source_string": "Ahaha♥ What a pain, huh~?",
+        "translation": "Ahaha♥ Mas que dor, huh~?",
+        "context": "97 -> 34 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.34.1",
+        "source_string": "Bet this is super annoying for you, onii-san♥",
+        "translation": "Aposto que isso deve ser muito incomodo pra você, onii-san♥",
+        "context": "97 -> 34 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.35.0",
+        "source_string": "Aww~ Wanna beg me to lift the curse~?",
+        "translation": "Aww~ Quer implorar pra que eu quebre a maldição~?",
+        "context": "97 -> 35 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.35.1",
+        "source_string": "What should I do~♥",
+        "translation": "O que eu deveria fazer~♥",
+        "context": "97 -> 35 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.36.0",
+        "source_string": "And what if I say no~? What’ll you do~?",
+        "translation": "E se eu disser não~? O que você vai fazer~?",
+        "context": "97 -> 36 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.36.1",
+        "source_string": "Aww, don’t make that face~ That’s not gonna work on me~",
+        "translation": "Aww, não me olha com essa carinha~ Isso não vai funcionar comigo~",
+        "context": "97 -> 36 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.37.0",
+        "source_string": "Now I just wanna bully you more, onii-san♥",
+        "translation": "Agora eu quero te maltratar ainda mais, onii-san♥",
+        "context": "97 -> 37 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.37.1",
+        "source_string": "No curse lifting for you~ Ahaha♥",
+        "translation": "Sem quebra de maldição pra você~ Ahaha♥",
+        "context": "97 -> 37 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.38.0",
+        "source_string": "Wow, you’re really desperate, huh? Such a ZAKO♥",
+        "translation": "Wow, você tá realmente desesperado, huh? Mas que ZAKO♥",
+        "context": "97 -> 38 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.38.1",
+        "source_string": "Show me you’re sorry with more sincerity~♥",
+        "translation": "Me mostre que você está arrependido com mais sinceridade~♥",
+        "context": "97 -> 38 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.39.0",
+        "source_string": "(If I wanna break the curse…",
+        "translation": "(Se eu quiser quebrar a maldição…",
+        "context": "97 -> 39 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.39.1",
+        "source_string": "I guess I really do have to offer her some fish…)",
+        "translation": "Eu acho que realmente vou ter que oferecer mais peixes pra ela…)",
+        "context": "97 -> 39 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.40.0",
+        "source_string": "Waa~! Thanks a bunch",
+        "translation": "Waa~! Brigadão",
+        "context": "97 -> 40 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.40.1",
+        "source_string": "onii-san~♥",
+        "translation": "onii-san~♥",
+        "context": "97 -> 40 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.41.0",
+        "source_string": "So much salmon for me♥ sluuurp♥",
+        "translation": "Olha quanto salmão pra mim♥ sluuurp♥",
+        "context": "97 -> 41 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.41.1",
+        "source_string": "Ahh~ It’s salmon heaven♥",
+        "translation": "Ahh~ É o paraíso do salmão♥",
+        "context": "97 -> 41 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.42.0",
+        "source_string": "Alrighty~! The curse is lifted now~!",
+        "translation": "Certinho~! agora a maldição foi quebrada~!",
+        "context": "97 -> 42 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.42.1",
+        "source_string": "Hope we can play again soon, onii-san♥",
+        "translation": "Espero poder brincar com você logo logo, onii-san♥",
+        "context": "97 -> 42 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.43.0",
+        "source_string": "Well well~ Long time no see, onii-san~",
+        "translation": "Ora Ora~ \"Long time no see\", onii-san~",
+        "context": "97 -> 43 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.43.1",
+        "source_string": "You showed up at just the right time~♥",
+        "translation": "Você apareceu na hora certinha~♥",
+        "context": "97 -> 43 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.44.0",
+        "source_string": "Wanna try out a brand-new item?",
+        "translation": "Quer tentar o lançamento que eu trouxe?",
+        "context": "97 -> 44 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.44.1",
+        "source_string": "It's a Mizumanju I made myself~",
+        "translation": "É um Manjū que eu mesma fiz~",
+        "context": "97 -> 44 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.45.0",
+        "source_string": "The effect, you ask? Hehe~!",
+        "translation": "Qual o efeito você pergunta? Hehe~!",
+        "context": "97 -> 45 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.45.1",
+        "source_string": "It makes your body extra sensitive♥",
+        "translation": "Ele torna o seu corpo extremamente sensível♥",
+        "context": "97 -> 45 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.46.0",
+        "source_string": "And it doesn't just work on humans~",
+        "translation": "E não funciona só em humanos não~",
+        "context": "97 -> 46 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.46.1",
+        "source_string": "It’s super effective on monsters too!",
+        "translation": "É super efetivo em monstros também!",
+        "context": "97 -> 46 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.47.0",
+        "source_string": "So, what do you think? Just ten salmon~?",
+        "translation": "Então, o que você acha? Só dez salmões~?",
+        "context": "97 -> 47 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.47.1",
+        "source_string": "Wanna buy it? No? Hurry up and decide♥",
+        "translation": "Quer comprar? Não? Se apressa e decide♥",
+        "context": "97 -> 47 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.48.0",
+        "source_string": "I’ll buy it!",
+        "translation": "Eu vou comprar!",
+        "context": "97 -> 48 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.48.1",
+        "source_string": "Never mind…",
+        "translation": "Agora não…",
+        "context": "97 -> 48 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.49.0",
+        "source_string": "Seriously, ZAKO onii-san, even your brain turned to ZAKO~?",
+        "translation": "Sério, ZAKO onii-san, até seu cérebro se transformou em ZAKO~?",
+        "context": "97 -> 49 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.49.1",
+        "source_string": "Can’t even cough up a few fish… so useless♥",
+        "translation": "Não consegue nem pegar uns peixinhos… tão inútil♥",
+        "context": "97 -> 49 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.50.0",
+        "source_string": "No money, no salmon—what a weak, pathetic onii-san~",
+        "translation": "Sem dinheiro, sem salmão,que semana patética onii-san~",
+        "context": "97 -> 50 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.50.1",
+        "source_string": "No wonder you're single and still a virgin~",
+        "translation": "Não me impressiona que você este solteiro e ainda e virgem~hummm",
+        "context": "97 -> 50 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.51.0",
+        "source_string": "If you change your mind someday, come back and buy it~",
+        "translation": "Se um dia mudar de ideia, pode voltar e comprar~",
+        "context": "97 -> 51 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.51.1",
+        "source_string": "Not that I care or anything♥",
+        "translation": "Não que eu me importe ou nada do tipo♥",
+        "context": "97 -> 51 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.52.0",
+        "source_string": "Tch~ So boring, nya~",
+        "translation": "Tch~ Tão chato, nya~",
+        "context": "97 -> 52 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.52.1",
+        "source_string": "Can’t believe you passed on something this amazing♥",
+        "translation": "Não acredito que você deixou passar uma coisa tão incrivel♥",
+        "context": "97 -> 52 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.53.0",
+        "source_string": "Thanks for the purchase, nya~",
+        "translation": "Obrigadinha pela compra, nya~",
+        "context": "97 -> 53 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.53.1",
+        "source_string": "Now I can go eat sooo much salmon again~",
+        "translation": "Agora eu posso voltar ir comer um montão de salmão~",
+        "context": "97 -> 53 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.54.0",
+        "source_string": "Tch~ So boring, nya~",
+        "translation": "Tch~ Tão chato, nya~",
+        "context": "97 -> 54 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.54.1",
+        "source_string": "Can’t believe you passed on something this amazing♥",
+        "translation": "Não acredito que você deixou passar uma coisa tão incrivel♥",
+        "context": "97 -> 54 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.55.0",
+        "source_string": "Ah~ I mean, probably nothing will happen♥",
+        "translation": "Ah~ Eu digo, provavelmente nada vai acontecer♥",
+        "context": "97 -> 55 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.55.1",
+        "source_string": "But onii-san, you do look suuuper weak~",
+        "translation": "Mas onii-san, você parece tão fraco hoje~",
+        "context": "97 -> 55 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.56.0",
+        "source_string": "So I figured I better warn you~",
+        "translation": "Então eu pensei que era melhor te avisar~",
+        "context": "97 -> 56 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.56.1",
+        "source_string": "This, you know, you can use it on yourself too~",
+        "translation": "Isso, você sabe, você pode usar isso em você mesmo~",
+        "context": "97 -> 56 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.57.0",
+        "source_string": "And yeah, the effect is making your body suuuper sensitive♥",
+        "translation": "E sim, o efeito é fazer seu corpo suuuper sensivel♥",
+        "context": "97 -> 57 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.57.1",
+        "source_string": "So like, definitely don’t try it on yourself, okay~?",
+        "translation": "Então tiop, definitivamente não tente isso em você mesmo, okay~?",
+        "context": "97 -> 57 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.58.0",
+        "source_string": "Or wait, you actually want to use it?",
+        "translation": "Ou Espera, você realmente quer usar isso?",
+        "context": "97 -> 58 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.58.1",
+        "source_string": "onii-san’s totally a hopeless little masochist, huh♥",
+        "translation": "onii-san’s você é um masoquistazinho degenerado, huh♥",
+        "context": "97 -> 58 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.59.0",
+        "source_string": "Kidding~♥ Well then,",
+        "translation": "Brincadeirinha~♥ Bom, então,",
+        "context": "97 -> 59 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.59.1",
+        "source_string": "come visit me again next time, okay~♥",
+        "translation": "venha me visitar de novo na próxima vez, okay~♥",
+        "context": "97 -> 59 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.60.0",
+        "source_string": "Too bad~ It's already sold out~?",
+        "translation": "Que peninha~ Já esgotou~?",
+        "context": "97 -> 60 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.60.1",
+        "source_string": "Geez, onii-san, you really are that desperate, huh♥",
+        "translation": "Geez, onii-san, você realmente está desesperado, huh♥",
+        "context": "97 -> 60 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.61.0",
+        "source_string": "If you want more, you’ll have to wait till next time~",
+        "translation": "Se você quiser mais, vai ter que esperar até a próxima vez~",
+        "context": "97 -> 61 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.61.1",
+        "source_string": "Buuut if you bring me salmon, I might make an exception♥",
+        "translation": "Maaas, se você me trazer salmões, eu posso abrir uma exceção♥",
+        "context": "97 -> 61 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.62.0",
+        "source_string": "Oh my♥ You want more? So greedy~!",
+        "translation": "Meu deus♥ Você quer mais? Ambicioso~!",
+        "context": "97 -> 62 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.62.1",
+        "source_string": "Buying this much... are you planning something naughty~?",
+        "translation": "Comprando tanto assim... você tá planejando uma coisa danadinha, né~?",
+        "context": "97 -> 62 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.63.0",
+        "source_string": "Whoaaa—♥ Such high-quality salmon—!",
+        "translation": "Whoaaa—♥ Que salmão gigante!",
+        "context": "97 -> 63 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.63.1",
+        "source_string": "you should’ve brought this out way earlier~",
+        "translation": "Você devia ter me trazido ele ha muito tempo~",
+        "context": "97 -> 63 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.64.0",
+        "source_string": "If it’s that kind~",
+        "translation": "Se for salmão desse tipo~",
+        "context": "97 -> 64 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "97.64.1",
+        "source_string": "Just give me one and I’ll sell it to you~♥",
+        "translation": "Só precisa me dar um e eu vendo pra você~♥",
+        "context": "97 -> 64 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.objectName.0",
+        "source_string": "Candy Machine",
+        "translation": "Máquina de doces",
+        "context": "98 -> objectName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.sentouryoku.0",
+        "source_string": "???",
+        "translation": "???",
+        "context": "98 -> sentouryoku -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.description.0",
+        "source_string": "A candy machine filled with all sorts of ",
+        "translation": "Uma máquina de doces repleta com todos os tipos de ",
+        "context": "98 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.description.1",
+        "source_string": "colorful sweets. All of them are handmade konpeitō ",
+        "translation": "doces coloridos. Todos eles são Kompeitōs feitos a mão ",
+        "context": "98 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.description.2",
+        "source_string": "by the shop owner.",
+        "translation": "feitos pela dona da loja.",
+        "context": "98 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.description.3",
+        "source_string": "It seems to be made with some special ingredients, ",
+        "translation": "Parece que são feitos com alguns ingredientes especiais, ",
+        "context": "98 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.description.4",
+        "source_string": "giving off a strange but pleasant aroma…",
+        "translation": "dando um estranho mas agradavel aroma…",
+        "context": "98 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.description.5",
+        "source_string": "But even if you ask out of curiosity what’s inside,",
+        "translation": "Mas mesmo se você pedir por curiosidade o que tem dentro,",
+        "context": "98 -> description -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.description.6",
+        "source_string": "All you’ll get is a meaningful smile from the girl...",
+        "translation": "tudo o que você vai receber é um sorriso expressivo da garota...",
+        "context": "98 -> description -> 6",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.1.0",
+        "source_string": "found a candy machine ",
+        "translation": "encontrou uma máquina de doces ",
+        "context": "98 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.1.1",
+        "source_string": "filled with brightly colored sweets—",
+        "translation": "repleta com doces brilhantes e coloridos—",
+        "context": "98 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.2.0",
+        "source_string": "Let’s see... One spin costs... ",
+        "translation": "Vamos ver... Uma tentativa custa... ",
+        "context": "98 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.2.1",
+        "source_string": "\\w[60]\\^",
+        "translation": "\\w[60]\\^",
+        "context": "98 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.3.0",
+        "source_string": "\\>Let’s see... One spin costs...",
+        "translation": "\\>Vamos ver... Uma tentativa custa...",
+        "context": "98 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.3.1",
+        "source_string": "\\c[6]\\v[86]\\c[0]yen!? \\< That’s expensive!!",
+        "translation": "\\c[6]\u000b[86]\\c[0]yen!? \\< Isso é bem caro!!",
+        "context": "98 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.4.0",
+        "source_string": "\\str[120] might like these kinds of snacks...",
+        "translation": "\\str[120] pode gostar desses doces...",
+        "context": "98 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.4.1",
+        "source_string": "What should I do? Should I give it a try?",
+        "translation": "O que eu devo fazer? Será que eu devo tentar?",
+        "context": "98 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.5.0",
+        "source_string": "Let’s see... One spin costs... \\w[60]\\c[6]\\v[86]\\c[0]yen",
+        "translation": "Vamos ver... Uma tentativa custa... \\c[6]\u000b[86]\\c[0]yen!? ",
+        "context": "98 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.5.1",
+        "source_string": "What should I do? Should I give it a try?",
+        "translation": "O que eu devo fazer? Será que devo tentar?",
+        "context": "98 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.6.0",
+        "source_string": "Pay with money",
+        "translation": "Pagar com dinheiro",
+        "context": "98 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.6.1",
+        "source_string": "Trade with fish",
+        "translation": "Trocar por peixe",
+        "context": "98 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.7.0",
+        "source_string": "But... I don’t have ",
+        "translation": "Mas... Eu não tenho ",
+        "context": "98 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.7.1",
+        "source_string": "that much money on me...",
+        "translation": "Esse tanto de dinheiro comigo...",
+        "context": "98 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.8.0",
+        "source_string": "Yes, yes~♥",
+        "translation": "Sim, sim~♥",
+        "context": "98 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "98.8.1",
+        "source_string": "Just offer a bit more salmon then...",
+        "translation": "Basta oferecer um pouco mais de salmão...",
+        "context": "98 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    }
+]
