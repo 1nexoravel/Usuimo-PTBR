@@ -1,0 +1,714 @@
+[
+    {
+        "identifier": "skillToggle.0",
+        "source_string": "Activated",
+        "translation": "Ativada",
+        "context": "skillToggle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "skillToggle.1",
+        "source_string": "Inactive",
+        "translation": "Inativada",
+        "context": "skillToggle -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.name.0",
+        "source_string": "Magic Storage Bag",
+        "translation": "Bolsa de carga mágica",
+        "context": "1 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "1 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.description.0",
+        "source_string": "A portable magical tool that allows you to carry ",
+        "translation": "Uma ferramenta mágica que permite você carregar ",
+        "context": "1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.description.1",
+        "source_string": "far more items than usual. However, ",
+        "translation": "muito mais itens que o normal. Porém, ",
+        "context": "1 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.description.2",
+        "source_string": "even magical tools have their storage limits..",
+        "translation": "até itens mágicos tem limites de armazenamento..",
+        "context": "1 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.ability.0",
+        "source_string": "Weapon capacity: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
+        "translation": "Capacidade de Itens: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
+        "context": "1 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.ability.1",
+        "source_string": "Gear capacity: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}",
+        "translation": "Capacidade de Ferramentas: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}",
+        "context": "1 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.name.0",
+        "source_string": "Senpo",
+        "translation": "SenPo",
+        "context": "2 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "2 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.description.0",
+        "source_string": "A quick step on the ground covers a short distance,",
+        "translation": "Um pequeno passo que cobre uma pequena distância,",
+        "context": "2 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.description.1",
+        "source_string": "allowing you to dodge some attacks. It’s merely a starting dash ",
+        "translation": "permitindo você desviar de alguns ataques. É um simples técnica ",
+        "context": "2 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.description.2",
+        "source_string": "technique, but the user insists on giving it a cool name",
+        "translation": "de corrida, mas o usuário insiste em dar um nome legal pra ela",
+        "context": "2 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.ability.0",
+        "source_string": "Hold Space Bar to activate",
+        "translation": "Segure a barra de espaço para ativar",
+        "context": "2 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.name.0",
+        "source_string": "Senpo Tachi",
+        "translation": "Senpo Tachi",
+        "context": "3 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "3 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.description.0",
+        "source_string": "A sword-drawing technique learned from the young Sword Master.",
+        "translation": "Uma técnica de sacar a espada apreendida com o jovem Espadachim.",
+        "context": "3 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.description.1",
+        "source_string": "By combining with SenPo, you unleash a speed-enhanced  ",
+        "translation": "Combinada com SenPo, você liberta um golpe com o encantamento da ",
+        "context": "3 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.description.2",
+        "source_string": "strike — enough to knock enemies away if timed right.",
+        "translation": "velocidade — suficiente para derrubar inimigos se bem sincronizada.",
+        "context": "3 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.ability.0",
+        "source_string": "Left Click during Senpo: Slash, damage scales with speed",
+        "translation": "Clique esquerdo durante SenPo: Dano de corte aumenta com a velocidade",
+        "context": "3 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.ability.1",
+        "source_string": "Hold Right Click during Senpo: Charge, effects scale with momentum",
+        "translation": "Clique direito durante  Senpo: Dano de Investida aumenta com momentum",
+        "context": "3 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.mobileAbility.0",
+        "source_string": "Tap the skill button to slash, damage scales with movement speed",
+        "translation": "Toque o botão de slikk para cortar, dano aumenta com a velocidade de movimento",
+        "context": "3 -> mobileAbility -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.mobileAbility.1",
+        "source_string": "Hold the skill button to charge, effect scales with momentum",
+        "translation": "Segure o botão de skill para uma Investida, efeito aumento com o momentum",
+        "context": "3 -> mobileAbility -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.name.0",
+        "source_string": "Whirlwind Slash",
+        "translation": "Corte do Redemoinho",
+        "context": "4 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "4 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.description.0",
+        "source_string": "Spin while swinging your weapon to launch continuous attacks. ",
+        "translation": "Girando enquanto empunha a sua arma para atacar continuamente. ",
+        "context": "4 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.description.1",
+        "source_string": "The attack speed increases over time. For those who aren't great ",
+        "translation": "A velocidade aumenta com o tempo. Para aqueles que não são bons  ",
+        "context": "4 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.description.2",
+        "source_string": "with sword techniques, this move is easy to learn and effective.",
+        "translation": "com técnicas de espadas, esse movimento é efetivo e fácil de aprender.",
+        "context": "4 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.ability.0",
+        "source_string": "Hold Right Click to activate the skill",
+        "translation": "Segure o botão direito para ativar a skill",
+        "context": "4 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.ability.1",
+        "source_string": "Cancel during spinning to throw your weapon",
+        "translation": "largue o botão para lançar sua arma",
+        "context": "4 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.mobileAbility.0",
+        "source_string": "Hold the skill button to activate the skill",
+        "translation": "Segure o botão de skill para iniciar o ataque",
+        "context": "4 -> mobileAbility -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.mobileAbility.1",
+        "source_string": "Cancel while spinning to throw your weapon",
+        "translation": "Largue o botão durante o giro para lançar a sua arma",
+        "context": "4 -> mobileAbility -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.name.0",
+        "source_string": "Danger Sense",
+        "translation": "Senso de Perigo",
+        "context": "7 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "7 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.0",
+        "source_string": "Often called ‘Mind's Eye’, but it's actually a sense ",
+        "translation": "Comummente chamado Often called ‘O Olho da Mente’, mas na verdade ",
+        "context": "7 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.1",
+        "source_string": "sharpened by countless brushes with death.",
+        "translation": "é um sentido aprimorado depois de incontáveis encontros com a morte.",
+        "context": "7 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.2",
+        "source_string": "In other words, more like a trauma reflex than an actual skill...",
+        "translation": "Em outras palavras, é mais um reflexo de trauma do que uma skill...",
+        "context": "7 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.ability.0",
+        "source_string": "Hover the mouse over the target to view detailed info",
+        "translation": "Passe o mouse sobre o alvo para ver suas informações detalhadas",
+        "context": "7 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.mobileAbility.0",
+        "source_string": "Tap the target to view detailed info",
+        "translation": "Pressione o alvo para ver suas informações detalhadas",
+        "context": "7 -> mobileAbility -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.name.0",
+        "source_string": "Breath Concealment",
+        "translation": "Ocultação da respiração",
+        "context": "10 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.subtitle.0",
+        "source_string": "true",
+        "translation": "true",
+        "context": "10 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.description.0",
+        "source_string": "A ninja technique. I only picked it up in a rush, but…",
+        "translation": "Uma técnica ninja. Eu acabei aprendendo de forma apressada, mas…",
+        "context": "10 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.description.1",
+        "source_string": "somehow, I got the hang of it pretty quickly.",
+        "translation": "de alguma forma, eu peguei o jeito bem rápido.",
+        "context": "10 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.ability.0",
+        "source_string": "Press Shift while active to enter stealth",
+        "translation": "Pressione Shift para inicar o stealth",
+        "context": "10 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.ability.1",
+        "source_string": "Reduces the monster's detection range by \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] tile",
+        "translation": "Reduz o raio de detecção por monstros por \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] tile",
+        "context": "10 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.ability.2",
+        "source_string": "Reduces \\str[120]’s alert increase rate during peeking by \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]",
+        "translation": "Reduz a razão de percepção da \\str[120] quando espiando por \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]",
+        "context": "10 -> ability -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.name.0",
+        "source_string": "Backstab",
+        "translation": "Facada pelas Costas",
+        "context": "11 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.subtitle.0",
+        "source_string": "true",
+        "translation": "true",
+        "context": "11 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.description.0",
+        "source_string": "A ninja technique. Can be activated while in stealth",
+        "translation": "Uma técnica ninja. Pode ser ativada quando estiver stealth",
+        "context": "11 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.description.1",
+        "source_string": "Strike an unguarded enemy from behind for massive damage!",
+        "translation": "Ataca um inimigo desavisado pelas costas causando um dano imenso!",
+        "context": "11 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.ability.0",
+        "source_string": "Skill Proficiency: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+        "translation": "Proficiência da Skill: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+        "context": "11 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.ability.1",
+        "source_string": "Assassination Damage Bonus: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]",
+        "translation": "Bonos de dado para Assassinato: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]",
+        "context": "11 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.name.0",
+        "source_string": "Musou Burst Stream",
+        "translation": "Fluxo explosivo de Musou",
+        "context": "12 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "12 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.description.0",
+        "source_string": "A secret finisher inherited from ASABA, who embraced sorrow",
+        "translation": "Uma finalização secreta herdada de ASABA, que abraçou a tristeza ",
+        "context": "12 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.description.1",
+        "source_string": "In an instant too fast for the eye to see, a hundred strikes land—",
+        "translation": "em um instante rápido de mais para os olhos conseguirem ver, cem ",
+        "context": "12 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.description.2",
+        "source_string": "leaving the enemy with nothing but final darkness!",
+        "translation": "golpes, deixando o inimigo com nada além da escuridão final!",
+        "context": "12 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.ability.0",
+        "source_string": "Skill command:  \\{⬆⬇⬅⮕⬆⬇\\}",
+        "translation": "Comando da Skill:  \\{⬆⬇⬅⮕⬆⬇\\}",
+        "context": "12 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.ability.1",
+        "source_string": "Each use of the skill consumes some HP",
+        "translation": "Cada uso consome um pouco de HP",
+        "context": "12 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.name.0",
+        "source_string": "Crossdressing",
+        "translation": "Roupas de Mulher",
+        "context": "15 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "15 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.0",
+        "source_string": "You put on clothes not meant for you… and something inside you ",
+        "translation": "Você botou roupas que não foram feitas pra você… e algo dentro de você ",
+        "context": "15 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.1",
+        "source_string": "stirred. No combat bonus—might even mess with your head a little.",
+        "translation": "se agitou. Sem bônus de combate, pode até mesmo mexer um pouco com a sua cabeça.",
+        "context": "15 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.2",
+        "source_string": "Your companions glance oddly, and enemies might pause… maybe.",
+        "translation": "Seus parceiros te olham estranhamente, e inimigos podem esperar… talvez.",
+        "context": "15 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.3",
+        "source_string": "After all, in this world—cuteness is justice!",
+        "translation": "Parece que, nesse mundo, fofura é justiça!",
+        "context": "15 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.ability.0",
+        "source_string": "Increases Sin based on the number of crossdressing items equipped!",
+        "translation": "Aumenta o Pecado baseado em quantidades de roupas femininas equipadas!",
+        "context": "15 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.name.0",
+        "source_string": "Bladekeepers",
+        "translation": "Guardiões de Lâminas",
+        "context": "16 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "16 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.0",
+        "source_string": "\"No matter how you swing your weapons!\" \"We’ll rise to call you out!\"",
+        "translation": "\"Não importa como você maneja suas armas!\" \"Nós nos levantaremos ao seu chamado!\"",
+        "context": "16 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.1",
+        "source_string": "\"To stop the blades from wearing away!\" \"To protect the dignity of arms!\"",
+        "translation": "\"Para evitar as lâminas a se desgastarem!\" \"Para proteger a dignidade das armas!\"",
+        "context": "16 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.2",
+        "source_string": "\"For we believe the sword is master, and humans are but servants!\"",
+        "translation": "\"Pois nós acreditamos que as espadas são os mestres e os humanos os servos!\"",
+        "context": "16 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.3",
+        "source_string": "\"The most absurd yet unshakable believers!\"",
+        "translation": "\"Os que tem a fé mais absurda, porém inabalável!\"",
+        "context": "16 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.4",
+        "source_string": "\"We are—Weapon Preservationists—the Bladekeepers!\"",
+        "translation": "\"Nós somos os Preservacionistas de armas - Os Guardiões de Lâminas!\"",
+        "context": "16 -> description -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.ability.0",
+        "source_string": "Wearing the badge makes you one of them now",
+        "translation": "Vestir o distintivo faz você um de nós agora",
+        "context": "16 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.name.0",
+        "source_string": "Weapon Break",
+        "translation": "Quebra de Armas",
+        "context": "18 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "18 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.0",
+        "source_string": "All weapons have durability limits, ",
+        "translation": "Todas as armas tem seu limite de durabilidade, ",
+        "context": "18 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.1",
+        "source_string": "and since the user isn’t good at precise attacks.",
+        "translation": "e o usuário não sendo bom em ataques precisos.",
+        "context": "18 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.2",
+        "source_string": "there’s a risk of breaking them. But when the weapon does break —",
+        "translation": "Há um risco de elas quebrarem. Mas quando a arma quebrar —",
+        "context": "18 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.3",
+        "source_string": "it’ll land a powerful critical hit!",
+        "translation": "ela vai desferir um poderoso ataque crítico!",
+        "context": "18 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.ability.0",
+        "source_string": "Final hit damage boost: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]",
+        "translation": "Boost de Dano Final: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]",
+        "context": "18 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.name.0",
+        "source_string": "Swordsmanship Training",
+        "translation": "Treinamento de Espadachim",
+        "context": "26 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.subtitle.0",
+        "source_string": "true",
+        "translation": "true",
+        "context": "26 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.description.0",
+        "source_string": "Sought advice from a swordmaster girl on how to get stronger",
+        "translation": "Buscou conselhos de uma espadachim de como ficar mais forte",
+        "context": "26 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.description.1",
+        "source_string": "All she said was ‘Just swing your sword 1,000 times every day!’",
+        "translation": "Tudo que ela disse foi ‘Apenas balance sua espada 1,000 vezes, todos os dias!’",
+        "context": "26 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.description.2",
+        "source_string": "—Will that really work!? Anyway, let’s give it a try...",
+        "translation": "—Será que isso vai mesmo funcionar!? De qualquer forma, vamos tentar...",
+        "context": "26 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.ability.0",
+        "source_string": "Practice Swings Completed: \\{\\c[6]${$gameActors.actor(1).skillMasteryUses(26)}\\c[0]",
+        "translation": "Prática de Movimento Completa: \\{\\c[6]${$gameActors.actor(1).skillMasteryUses(26)}\\c[0]",
+        "context": "26 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.ability.1",
+        "source_string": "Base attack damage of melee weapons increased by \\c[6]${Math.ceil(1.8**$gameActors.actor(1).skillMasteryLevel(26))}%",
+        "translation": "Dano Base Ataque de armas brancas aumentado em \\c[6]${Math.ceil(1.8**$gameActors.actor(1).skillMasteryLevel(26))}%",
+        "context": "26 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    }
+]
