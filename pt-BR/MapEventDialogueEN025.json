@@ -1,0 +1,946 @@
+[
+    {
+        "identifier": "2.0.0",
+        "source_string": "\\nl< >\"\\str[121]... hang in there...    \\w[90]",
+        "translation": "\\nl< >\"\\str[121]... espere aqui...    \\w[90]",
+        "context": "2 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.1",
+        "source_string": "You’ll definitely get better.\"",
+        "translation": "Você definitivamente vai melhorar.\"",
+        "context": "2 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.1.0",
+        "source_string": "What’s gonna happen to my dignity as her \\str[121]...",
+        "translation": "O que aconteceria com a minha dignidade |enquanto| ela \\str[121]...",
+        "context": "2 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.0",
+        "source_string": "\\nl< >\"\\str[121]... don’t be sad.\"",
+        "translation": "\\nl< >\"\\str[121]... não fique triste.\"",
+        "context": "2 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.0",
+        "source_string": "\\nl< >\"\\{Hemorrhoids\\}? That must’ve been caused by bad habits...\"",
+        "translation": "\\nl< >\"\\{Hemorroidas\\}? Isso deve ter sido causado por maus hábitos...\"",
+        "context": "2 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.4.0",
+        "source_string": "This is bad. The misunderstanding’s only getting worse—",
+        "translation": "Isso é mal. O desentendimento só piora—",
+        "context": "2 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.0",
+        "source_string": "\"Ah, that’s why I’m not——\"",
+        "translation": "\"Ah, é por isso que eu não sou——\"",
+        "context": "2 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.1",
+        "source_string": "\\w[45]\\^",
+        "translation": "\\w[45]\\^",
+        "context": "2 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.6.0",
+        "source_string": "\\nl< >\\{  \"Could it be something even more serious!?\"   ",
+        "translation": "\\nl< >\\{  \"Isso poderia ser algo ainda mais sério!?\"   ",
+        "context": "2 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.7.0",
+        "source_string": "\"Sorry, it’s just hemorrhoids.\"",
+        "translation": "\"Desculpa, realmente é só hemorroidas.\"",
+        "context": "2 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.8.0",
+        "source_string": "And so, my reason for spending too long in the toilet ",
+        "translation": "Então, a razão de eu ficar tanto tempo no banheiro ",
+        "context": "2 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.8.1",
+        "source_string": "was officially decided…",
+        "translation": "foi oficialmente explicada…",
+        "context": "2 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.9.0",
+        "source_string": "\\nl< >\"…So it really was constipation?\"",
+        "translation": "\\nl< >\"…Então, era constipação mesmo?\"",
+        "context": "2 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.10.0",
+        "source_string": "Not good—",
+        "translation": "Isso não é bom—",
+        "context": "2 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.10.1",
+        "source_string": "\\str[120]’s starting to get the wrong idea.",
+        "translation": "\\str[120] começou a ter a ideia errada.",
+        "context": "2 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.11.0",
+        "source_string": "\"Oh dear \\str[120], your \\str[121] ",
+        "translation": "\"Oh querida \\str[120], seu \\str[121] estava só ",
+        "context": "2 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.11.1",
+        "source_string": "was simply pondering deep thoughts, you know?\"",
+        "translation": "ponderando sobre alguns pensamentos profundos, você sabe?\"",
+        "context": "2 -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.12.0",
+        "source_string": "\\nl< >\"I see...! That’s amazing, \\str[121].\"",
+        "translation": "\\nl< >\"Eu entendo...! Isso é incrível, \\str[121].\"",
+        "context": "2 -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.13.0",
+        "source_string": "Amazing, right? ",
+        "translation": "Incrível, né? ",
+        "context": "2 -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.13.1",
+        "source_string": "Your \\str[121] just temporarily ascended into sage mode.",
+        "translation": "Seu \\str[121] apenas ascendeu temporariamente ao modo sábio.",
+        "context": "2 -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.14.0",
+        "source_string": "\"Anyway, let’s start making dinner!\"",
+        "translation": "\"De qualquer forma, vamos começar a fazer o jantar!\"",
+        "context": "2 -> 14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.15.0",
+        "source_string": "\\nl< >\"\\str[121], you were in the toilet for so long again.\"",
+        "translation": "\\nl< >\"\\str[121], você ficou no banheiro por muito tempo de novo.\"",
+        "context": "2 -> 15 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.16.0",
+        "source_string": "Can’t even deny it... I really was in there forever...",
+        "translation": "Eu não posso nem negar... Parece que eu estava uma eternidade lá...",
+        "context": "2 -> 16 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.17.0",
+        "source_string": "\"Ahem…! That doesn’t matter right now,",
+        "translation": "\"Ahem…! Isso não importa agora,",
+        "context": "2 -> 17 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.17.1",
+        "source_string": "come on, let’s get dinner started!\"",
+        "translation": "vamos, vamos começar a fazer o jantar!\"",
+        "context": "2 -> 17 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.18.0",
+        "source_string": "\\nl< >\"So suspicious…\"",
+        "translation": "\\nl< >\"Tão suspeito…\"",
+        "context": "2 -> 18 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.19.0",
+        "source_string": "\\nl< >\"You’re so slow, \\str[121]! Are you constipated?!\"",
+        "translation": "\\nl< >\"Você está tão lento, \\str[121]! Você está constipado?!\"",
+        "context": "2 -> 19 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.20.0",
+        "source_string": "\"Ahaha… no way…\"",
+        "translation": "\"Ahaha… sem chance…\"",
+        "context": "2 -> 20 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.21.0",
+        "source_string": "\"You’re hungry already, right? ",
+        "translation": "\"Você já está com fome, né? ",
+        "context": "2 -> 21 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.21.1",
+        "source_string": "Okay, let’s get started on dinner—!!\"",
+        "translation": "Okay, vamos começar o jantar—!!\"",
+        "context": "2 -> 21 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.0.0",
+        "source_string": "\\nl< >\"\\str[121]... You’re still there, right?\"",
+        "translation": "\\\nl< >\"\\str[121]... Você ainda tá aí, não é?\"",
+        "context": "3 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.1.0",
+        "source_string": "\\nl< >\"Bugs are so scary, ",
+        "translation": "\\\nl< >\"Insetos são tão assustadores, ",
+        "context": "3 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.1.1",
+        "source_string": "but \\str[121] came to help me right away.\"",
+        "translation": "mas \\str[121] veio me ajudar na hora.\"",
+        "context": "3 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.2.0",
+        "source_string": "\\nl< >\"You came so fast,",
+        "translation": "\\\nl< >\"Você chegou tão rápido,",
+        "context": "3 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.2.1",
+        "source_string": "it’s like you were waiting right outside the toilet.\"",
+        "translation": "parece que você estava esperando bem do outo lado da porta.\"",
+        "context": "3 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.3.0",
+        "source_string": "\\>\\{\"—Ack!\"",
+        "translation": "\\>\\{\"—Ack!\"",
+        "context": "3 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.3.1",
+        "source_string": "\\w[90]",
+        "translation": "\\w[90]",
+        "context": "3 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.4.0",
+        "source_string": "Overcome with guilt,",
+        "translation": "Dominado pela culpa,",
+        "context": "3 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.4.1",
+        "source_string": "I lost focus for a moment, slipped, and almost fell.",
+        "translation": "Eu perdi o foco por um momento, escorreguei e quase caí.",
+        "context": "3 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.5.0",
+        "source_string": "\\nl< >\"\\str[121]... are you okay!?\"",
+        "translation": "\\\nl< >\"\\str[121]... você tá bem!?\"",
+        "context": "3 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.6.0",
+        "source_string": "\"N-no, I’m fine! I just ran over too fast,",
+        "translation": "\"S-sim, eu to bem! Eu só corri rápido de mais e",
+        "context": "3 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.6.1",
+        "source_string": "and twisted my ankle a little, ahaha...\"",
+        "translation": "torci um pouco meu tornozelo, ahaha...\"",
+        "context": "3 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.7.0",
+        "source_string": "After that, I somehow managed to brush it off with \\str[120].",
+        "translation": "Depois disso, eu consegui fazer a \\str[120] esquecer a razão original.",
+        "context": "3 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.8.0",
+        "source_string": "\\nl< >\"\\str[121], honestly— you were so cool just a moment ago...",
+        "translation": "\\\nl< >\"\\str[121], honestamente— você estava tão de boas agora pouco...",
+        "context": "3 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.8.1",
+        "source_string": "and now you’re teasing me again!\"",
+        "translation": "E agora você tá me provocando de novo!\"",
+        "context": "3 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.9.0",
+        "source_string": "\\nl< >\"Come to think of it, \\str[121] showed up really fast this time.",
+        "translation": "\\\nl< >\"Pensando bem, \\str[121] apareceu bem rápido dessa vez.",
+        "context": "3 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.9.1",
+        "source_string": "Don’t tell me you were actually waiting outside the toilet from the start...?\"",
+        "translation": "Você não estava esperando fora do banheiro dês do início, não é...?\"",
+        "context": "3 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.10.0",
+        "source_string": "\\nl< >\"Ugh, bugs really are scary...",
+        "translation": "\\\nl< >\"Ugh, insetos são muito assistadores...",
+        "context": "3 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.10.1",
+        "source_string": "I’m so glad \\str[121] came just in time.\"",
+        "translation": "Eu to tão feliz que o \\str[121] chegou bem na hora.\"",
+        "context": "3 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.11.0",
+        "source_string": "\"Don’t worry, ",
+        "translation": "\"Não se preocupe, ",
+        "context": "3 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.11.1",
+        "source_string": "I’ll always come running whenever you’re in danger!\"",
+        "translation": "eu vou sempre vir correndo sempre que você estiver em perigo!\"",
+        "context": "3 -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.12.0",
+        "source_string": "\\nl< >\"But you know, \\str[121]...",
+        "translation": "\\\nl< >\"Mas, sabe \\str[121]...",
+        "context": "3 -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.12.1",
+        "source_string": "hiding outside the toilet from the start,",
+        "translation": "Se esconder do outro lado da porta assim,",
+        "context": "3 -> 12 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.12.2",
+        "source_string": "that’s pretty careless of you〜\"",
+        "translation": "isso é muita irresponsabilidade sua〜\"",
+        "context": "3 -> 12 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.13.0",
+        "source_string": "\\nl< >\"That’s not okay, you know? ",
+        "translation": "\\\nl< >\"Isso não tá certo, entende? ",
+        "context": "3 -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.13.1",
+        "source_string": "Peeking at a girl while she’s using the toilet~!\"",
+        "translation": "Espiar uma garota enquanto ela está no banheiro~!\"",
+        "context": "3 -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.14.0",
+        "source_string": "\\nl< >\"So, how was it? ",
+        "translation": "\\\nl< >\"Então, como foi? ",
+        "context": "3 -> 14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.14.1",
+        "source_string": "Watching a girl pee with those lewd eyes of yours—",
+        "translation": "Assistir uma garota fazendo xixi com esses seus olhos pervertidos—",
+        "context": "3 -> 14 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.14.2",
+        "source_string": "what did it feel like?\"",
+        "translation": "como foi o sentimento?\"",
+        "context": "3 -> 14 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.15.0",
+        "source_string": "\"Ahaha... so I’ve been found out, huh...?\"",
+        "translation": "\"Ahaha... então, eu fui descoberto, huh...?\"",
+        "context": "3 -> 15 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.16.0",
+        "source_string": "Cold sweat ran down my back as I looked at \\str[120]’s mischievous smile.",
+        "translation": "Suor frio correu pelas minhas coistas enquanto olhava para sorriso",
+        "context": "3 -> 16 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.16.1",
+        "source_string": "For a moment, I couldn’t even tell if she was actually angry—",
+        "translation": "travesso da \\str[120].",
+        "context": "3 -> 16 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.16.2",
+        "source_string": "maybe... I’m the one being toyed with here...",
+        "translation": "Por um momento, eu não sabia dizer se ela realmente zangada—",
+        "context": "3 -> 16 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.0.0",
+        "source_string": "I wanted to cheer \\str[120] up a bit more,",
+        "translation": "Eu queria animar a \\str[120] um pouco mais,",
+        "context": "4 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.0.1",
+        "source_string": "but I got kicked out of the room.\"",
+        "translation": "mas eu fui chutado do quarto.\"",
+        "context": "4 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.1.0",
+        "source_string": "Oh well, guess I’ll just sleep for now—",
+        "translation": "Então, acho que vou dormir por enquanto—",
+        "context": "4 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.1.1",
+        "source_string": "I’ll think of something tomorrow...",
+        "translation": "Eu vou pensar em algo amanhã...",
+        "context": "4 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.0.0",
+        "source_string": "Phew... good thing I didn’t embarrass myself ",
+        "translation": "Phew... ainda bem que eu não passei vergonha ",
+        "context": "6 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.0.1",
+        "source_string": "in front of \\str[120]...",
+        "translation": "na frente da \\str[120]...",
+        "context": "6 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.0.2",
+        "source_string": "But———",
+        "translation": "Mas———",
+        "context": "6 -> 0 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.1.0",
+        "source_string": "\\{\"Ugh———\"  \\w[60]",
+        "translation": "\\{\"Ugh———\"  \\w[60]",
+        "context": "6 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.2.0",
+        "source_string": "This is worse than I thought...",
+        "translation": "Isso é pior do que eu pensava...",
+        "context": "6 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.2.1",
+        "source_string": "Has it been going on for over half an hour now...?",
+        "translation": "Já faz mais de meia hora...?",
+        "context": "6 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.3.0",
+        "source_string": "Feels like my whole body’s being drained...",
+        "translation": "Eu senti como se todo o meu corpo estivesse sendo drenado...",
+        "context": "6 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.3.1",
+        "source_string": "Maybe there really was something wrong ",
+        "translation": "Talvez realmente algo estava errado ",
+        "context": "6 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.3.2",
+        "source_string": "with dinner?",
+        "translation": "com o jantar?",
+        "context": "6 -> 3 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.4.0",
+        "source_string": "\\nl< >\"\\str[121]... are you okay...?",
+        "translation": "\\nl< >\"\\str[121]... você está bem...?",
+        "context": "6 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.4.1",
+        "source_string": "I heard... some really scary noises...\"",
+        "translation": "Eu escutei alguns sons muito assustadores...\"",
+        "context": "6 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.5.0",
+        "source_string": "\"Ahaha… maybe I ate something bad…",
+        "translation": "\"Ahaha… talvez eu tenha comigo algo estragado…",
+        "context": "6 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.5.1",
+        "source_string": "Don’t come close… it’s dangerous here…\"",
+        "translation": "Não chega perto… aqui tá perigoso…\"",
+        "context": "6 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.6.0",
+        "source_string": "I heard \\str[120]’s worried voice from ",
+        "translation": "Eu escutei a voz preocupada da \\str[120] de ",
+        "context": "6 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.6.1",
+        "source_string": "outside the door. As much as I wanted to ",
+        "translation": "fora da porta. Por mais que eu quisesse ",
+        "context": "6 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.6.2",
+        "source_string": "get out of here quickly, even the strength to ",
+        "translation": "sair daqui voando, até mesmo a força para ",
+        "context": "6 -> 6 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.6.3",
+        "source_string": "stand was slipping away from me...",
+        "translation": "me manter em pé estava se esvaindo de mim ...",
+        "context": "6 -> 6 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.7.0",
+        "source_string": "\\{\"Uooohhhh—\"  \\w[60]",
+        "translation": "\\{\"Uooohh—\" \\w[60]",
+        "context": "6 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.8.0",
+        "source_string": "I can’t…",
+        "translation": "Eu não posso…",
+        "context": "6 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.8.1",
+        "source_string": "It just won’t stop...",
+        "translation": "Parece que isso não vai parar nunca...",
+        "context": "6 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.9.0",
+        "source_string": "\\nl< >\"\\str[121]… are you still in there?\"",
+        "translation": "\\nl< >\"\\str[121]… você ainda está ai dentro?\"",
+        "context": "6 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.10.0",
+        "source_string": "\\nl< >\"U-um... actually...",
+        "translation": "\\nl< >\"U-um... Eu ...",
+        "context": "6 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.10.1",
+        "source_string": "I kind of need to use the toilet too...\"",
+        "translation": "Eu meio que preciso usar o banheiro também...\"",
+        "context": "6 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.11.0",
+        "source_string": "\\{\"Gwoooaaahhh—\" \\w[60]",
+        "translation": "\\{\"Gwoooaaahhh—\" \\w[60]",
+        "context": "6 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.12.0",
+        "source_string": "\\{\"N-not yet—",
+        "translation": "\\{\"A-ainda não—",
+        "context": "6 -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.12.1",
+        "source_string": "I still... can’t come out—!\"",
+        "translation": "Eu ainda... não posso sair—!\"",
+        "context": "6 -> 12 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.13.0",
+        "source_string": "\\nl< >\"Eh... it’s been another ten minutes already...\\w[120]",
+        "translation": "\\nl< >\"Eh... já se passaram mais dez minutos...\\w[120]",
+        "context": "6 -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.13.1",
+        "source_string": "I... I really need to go too...\"",
+        "translation": "Eu... Eu preciso muito ir agora...\"",
+        "context": "6 -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.14.0",
+        "source_string": "\"Uwooaaahhhh—!",
+        "translation": "\"Uwooaaahhhh—!",
+        "context": "6 -> 14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.14.1",
+        "source_string": "I-it won’t stop—!\"",
+        "translation": "I-Isso não vai acabar—!\"",
+        "context": "6 -> 14 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.15.0",
+        "source_string": "\\nl< >\"\\str[121]... is already...\"",
+        "translation": "\\nl< >\"\\str[121]... já é...\"",
+        "context": "6 -> 15 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.16.0",
+        "source_string": "\"Uwooaaaaooooqaswdectfrvtghunijopioijoh——!\"",
+        "translation": "\"Uwooaaaaooooqaswdectfrvtghunijopioijoh——!\"",
+        "context": "6 -> 16 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.17.0",
+        "source_string": "\\nl< >\"Uwaaaahhh——!",
+        "translation": "\\nl< >\"Uwaaaahhh——!",
+        "context": "6 -> 17 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.17.1",
+        "source_string": "I can’t hold it anymore...!\"",
+        "translation": "Eu não consigo mais segurar...!\"",
+        "context": "6 -> 17 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.18.0",
+        "source_string": "\"Uwaaaaahhhhhhh——!\"",
+        "translation": "\"Uwaaaaahhhhhhh——!\"",
+        "context": "6 -> 18 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.18.1",
+        "source_string": "\"Uwooooohhhhhhh——!\"",
+        "translation": "\"Uwooooohhhhhhh——!\"",
+        "context": "6 -> 18 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.19.0",
+        "source_string": "That night, from an obscure house,",
+        "translation": "Aquela noite, de uma casa obscura...",
+        "context": "6 -> 19 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.19.1",
+        "source_string": "came the agonized roars of a wild beast,",
+        "translation": "Se ouviu os rugidos agoniados de uma besta selvagem",
+        "context": "6 -> 19 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.19.2",
+        "source_string": "intermixed with blush-inducing cries ",
+        "translation": "Misturados com gemidos que deixariam qualquer um rosado.",
+        "context": "6 -> 19 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.19.3",
+        "source_string": "and indescribable moans.",
+        "translation": "e gemidos indescritíveis.",
+        "context": "6 -> 19 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.20.0",
+        "source_string": "Sometimes low like a dying beast’s struggle,",
+        "translation": "Ora grave como sofrimento de uma fera ao morrer...",
+        "context": "6 -> 20 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.20.1",
+        "source_string": "sometimes sharp like a shy girl’s scream,",
+        "translation": "Ora agudo como o grito de uma garota envergonhada...",
+        "context": "6 -> 20 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.20.2",
+        "source_string": "they blended into a chaotic and ambiguous ,",
+        "translation": "Eles se misturaram em uma sinfonia caótica e ambígua. ",
+        "context": "6 -> 20 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.20.3",
+        "source_string": "symphony.",
+        "translation": "sinfonia.",
+        "context": "6 -> 20 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.21.0",
+        "source_string": "Meanwhile, deep in the far-off night,",
+        "translation": "Enquanto isso, nas profundezas da noite,",
+        "context": "6 -> 21 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.21.1",
+        "source_string": "even the adventurers still fighting at ",
+        "translation": "até mesmo os aventureiros que ainda lutam ",
+        "context": "6 -> 21 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.21.2",
+        "source_string": "the abyss’s edge shivered,",
+        "translation": "na borda do abismo estremeceram,",
+        "context": "6 -> 21 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.21.3",
+        "source_string": "instinctively pausing with swords in hand,",
+        "translation": "instintivamente parando com espadas em mãos,",
+        "context": "6 -> 21 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.21.4",
+        "source_string": "exchanging glances, briefly wondering",
+        "translation": "trocando olhares e brevemente imaginando",
+        "context": "6 -> 21 -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.21.5",
+        "source_string": "if somewhere in the shadows, a new and ",
+        "translation": "se em algum lugar nas trevas, uma nova criatura ",
+        "context": "6 -> 21 -> 5",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.21.6",
+        "source_string": "unknown abyssal creature had been born.",
+        "translation": "abissal desconhecida acabou de nascer.",
+        "context": "6 -> 21 -> 6",
+        "labels": null,
+        "max_length": null
+    }
+]
