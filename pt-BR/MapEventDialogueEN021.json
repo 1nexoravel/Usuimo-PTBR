@@ -1,0 +1,410 @@
+[
+    {
+        "identifier": "1.0.0",
+        "source_string": "Mmm, I can't seem to fall asleep...",
+        "translation": "Hum, eu não consigo pegar no sono...",
+        "context": "1 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.1.0",
+        "source_string": "My stomach hurts... Is it indigestion?",
+        "translation": "Meu estômago dói... Será que é indigestão?",
+        "context": "1 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.1.1",
+        "source_string": "Maybe that dinner was too much after all...",
+        "translation": "Talvez eu tenha exagerado no jantar...",
+        "context": "1 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.2.0",
+        "source_string": "Ah, I suddenly woke up...!",
+        "translation": "Ah, eu acordei de repente ...!",
+        "context": "1 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.3.0",
+        "source_string": "It's still the middle of the night.",
+        "translation": "Ainda está no meio da noite.",
+        "context": "1 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.3.1",
+        "source_string": "I can sleep a bit more...\\w[30].\\w[30].\\w[30].",
+        "translation": "Então eu posso dormir um pouco mais...\\w[30].\\w[30].\\w[30].",
+        "context": "1 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.3.2",
+        "source_string": "Should I go check on my sister?",
+        "translation": "Deveria dar uma olhada na minha imouto?",
+        "context": "1 -> 3 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.4.0",
+        "source_string": "To \\str[120]'s Room",
+        "translation": "Para o Quarto da \\str[120]",
+        "context": "1 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.4.1",
+        "source_string": "Go to sleep",
+        "translation": "Voltar a Dormir",
+        "context": "1 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.5.0",
+        "source_string": "Just gonna sleep till morning...?",
+        "translation": "Só vou dormir até o dia clarear...?",
+        "context": "1 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.6.0",
+        "source_string": "Sleep",
+        "translation": "Dormir",
+        "context": "1 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.6.1",
+        "source_string": "Hold on",
+        "translation": "Ainda Não",
+        "context": "1 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.7.0",
+        "source_string": "\"Ahhhhhhhhhhh—!!?\"",
+        "translation": "\"Ahhhhhhhhhhh—!!?\"",
+        "context": "1 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.8.0",
+        "source_string": "W-What? Oh, it was just a nightmare...",
+        "translation": "Q-Que? Oh, acho que foi só um pesadelo...",
+        "context": "1 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.9.0",
+        "source_string": "That scared me so bad... ",
+        "translation": "Aquilo realmente me assustou... ",
+        "context": "1 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.9.1",
+        "source_string": "I think I saw a really terrifying version of \\str[120].",
+        "translation": "Eu acho que eu vi uma versão aterrorizante da \\str[120].",
+        "context": "1 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.10.0",
+        "source_string": "…I should go check on \\str[120].",
+        "translation": "…Eu deveria ir checar a \\str[120].",
+        "context": "1 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.10.1",
+        "source_string": "What if that dream—",
+        "translation": "E se aquele sonho—",
+        "context": "1 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.11.0",
+        "source_string": "Yeah, that dream was so scary...",
+        "translation": "É, aquele sonho foi muito assustador...",
+        "context": "1 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.11.1",
+        "source_string": "It’s better to get some rest early...",
+        "translation": "É melhor ir descansar mais cedo...",
+        "context": "1 -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.0",
+        "source_string": "\\c[10]—Data update request detected from version \\str[1].  \\w[60]",
+        "translation": "\\c[10]—Requisição de atualização de dados da versão \\str[1].  \\w[60]",
+        "context": "2 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.0.1",
+        "source_string": "Would you like to perform the auto-update now?",
+        "translation": "Você gostaria de executar essa atualização automática agora?",
+        "context": "2 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.1.0",
+        "source_string": "Start Update",
+        "translation": "Atualizar",
+        "context": "2 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.1.1",
+        "source_string": "Never mind",
+        "translation": "Não agora",
+        "context": "2 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.0",
+        "source_string": "...Is it morning already? ",
+        "translation": "...Já é manhã? ",
+        "context": "2 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.1",
+        "source_string": "I feel like I had some kind of dream about ",
+        "translation": "Eu sinto que eu tive um tipo de sonho sobre a ",
+        "context": "2 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.2",
+        "source_string": "my little sister, ",
+        "translation": "\\str[120] mas eu não consigo lembrar...",
+        "context": "2 -> 2 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.2.3",
+        "source_string": "but I can’t remember it...",
+        "translation": "mas não consigo lembrar dele...",
+        "context": "2 -> 2 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.0",
+        "source_string": "...Is it already morning? ",
+        "translation": "...Já é manhã? ",
+        "context": "2 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.3.1",
+        "source_string": "I don't feel like I slept well...",
+        "translation": "Acho que não dormi muito bem...",
+        "context": "2 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.4.0",
+        "source_string": "Ah, is it morning already? I slept so well.",
+        "translation": "Ah, já é manhã? Eu dormi muito bem.",
+        "context": "2 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.0",
+        "source_string": "It's a nice day today...\\w[45]huh? ",
+        "translation": "Hoje está um dia lindo...\\w[45]huh? ",
+        "context": "2 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.5.1",
+        "source_string": "Feels like the sunlight’s a bit too intense?",
+        "translation": "Parece que a luz do sol está um pouco mais intensa?",
+        "context": "2 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.6.0",
+        "source_string": "It's a nice day today.",
+        "translation": "Hoje está um dia lindo.",
+        "context": "2 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.7.0",
+        "source_string": "The weather doesn't look so great today.",
+        "translation": "O tempo não parece muito bom hoje.",
+        "context": "2 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.8.0",
+        "source_string": "Is it raining? ",
+        "translation": "Tá chovendo? ",
+        "context": "2 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.8.1",
+        "source_string": "I hope it won't affect our adventure...",
+        "translation": "Espero que isso não afete nossa aventura...",
+        "context": "2 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.9.0",
+        "source_string": "Haven’t checked on my sister for a few days… ",
+        "translation": "Faz alguns dias que não dou uma olhada na minha irmã… ",
+        "context": "2 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.9.1",
+        "source_string": "Guess I should drop by today.",
+        "translation": "Acho que devo dar uma passada lá hoje.",
+        "context": "2 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.10.0",
+        "source_string": "Alright, I'm up. What’s the plan for today—",
+        "translation": "Ok, Estou acordado. Qual o plano pra hoje—",
+        "context": "2 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.11.0",
+        "source_string": "To \\str[120]'s Room",
+        "translation": "Ver a \\str[120]",
+        "context": "2 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.11.1",
+        "source_string": "Head Out Now",
+        "translation": "Sair agora",
+        "context": "2 -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.12.0",
+        "source_string": "Okay, let’s check on \\str[120]!",
+        "translation": "Okay, vamos dar uma olhada na \\str[120]!",
+        "context": "2 -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.13.0",
+        "source_string": "Okay, time to get everything in order ",
+        "translation": "Okay, hora de botar tudo em ordem ",
+        "context": "2 -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.13.1",
+        "source_string": "and head out for an adventure!",
+        "translation": "e partir para uma aventura!",
+        "context": "2 -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.0.0",
+        "source_string": "\"...Huh!?\\w[60]...Wait, \\w[60]",
+        "translation": "\"...Huh!?\\w[60]...Espera, \\w[60]",
+        "context": "4 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.0.1",
+        "source_string": "is it already morning...?\"",
+        "translation": "já é manhã...?\"",
+        "context": "4 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.1.0",
+        "source_string": "My head feels dizzy... ",
+        "translation": "Minha cabeça tá girando... ",
+        "context": "4 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.1.1",
+        "source_string": "Did I just fall asleep like that last night...?",
+        "translation": "Será que eu acabei dormindo dessa forma ontem a noite...?",
+        "context": "4 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.2.0",
+        "source_string": "\"I can't remember what happened last night...  \\w[90]",
+        "translation": "\"Eu não consigo lembrar de nada do que aconteceu ontem ",
+        "context": "4 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "4.2.1",
+        "source_string": "Oh well, I was probably just too exhausted.\"",
+        "translation": "a noite...  \\w[90] Eu provavelmente só estava exausto.\"",
+        "context": "4 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    }
+]
