@@ -1,0 +1,842 @@
+[
+    {
+        "identifier": "13.0.0",
+        "source_string": "...Oh my? Has another ",
+        "translation": "...Ah? Outro ",
+        "context": "13 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.0.1",
+        "source_string": "cute little lamb wandered in?",
+        "translation": "cordeirinho fofo entrou?",
+        "context": "13 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.1.0",
+        "source_string": "Hehehe~ Are you here to seek power from me?",
+        "translation": "Hehehe~ Você veio aqui buscar poder de mim?",
+        "context": "13 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.1.1",
+        "source_string": "This is a deal with a demon, you know~",
+        "translation": "Isso é um acordo com um demônio, sabia",
+        "context": "13 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.2.0",
+        "source_string": "But unfortunately, it's 'not the time' yet~",
+        "translation": "Mas infelizmente, 'ainda não é a hora'",
+        "context": "13 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.2.1",
+        "source_string": "It's not time for you to face your fate just yet~",
+        "translation": "Ainda não é hora de você enfrentar seu destino",
+        "context": "13 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.3.0",
+        "source_string": "Right now, you're still just a lost little lamb~",
+        "translation": "Agora, você ainda é só um cordeirinho perdido",
+        "context": "13 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.3.1",
+        "source_string": "One who knows nothing and hasn’t realized anything yet~",
+        "translation": "Alguém que não sabe de nada e ainda não percebeu nada",
+        "context": "13 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.4.0",
+        "source_string": "Heyyy~~ Are you sitting there ",
+        "translation": "Ei~~ Você está aí sentado ",
+        "context": "13 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.4.1",
+        "source_string": "hoping to hear my prayers?",
+        "translation": "com esperanças de escutar minhas preces?",
+        "context": "13 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.5.0",
+        "source_string": "Too bad♥ I'm a great demon~",
+        "translation": "Que pena Eu sou um grande demônio",
+        "context": "13 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.5.1",
+        "source_string": "I don't do things like that for you~",
+        "translation": "Eu não faço coisas assim por você",
+        "context": "13 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.6.0",
+        "source_string": "Hee—ey~~ you ♥",
+        "translation": "Ei~~ você ",
+        "context": "13 -> 6 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.6.1",
+        "source_string": "You’re giving off an awfully dangerous aura~",
+        "translation": "Você está exalando uma aura bem perigosa",
+        "context": "13 -> 6 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.7.0",
+        "source_string": "Impulse, destruction, rampage— Hehe♥",
+        "translation": "Impulso, destruição, fúria— Hehe",
+        "context": "13 -> 7 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.7.1",
+        "source_string": "I can tell you’ve been holding it in for a long time, haven’t you?",
+        "translation": "Eu sei que você está se contendo há muito tempo, não é?",
+        "context": "13 -> 7 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.8.0",
+        "source_string": "Well~? You’re about to lose control, aren’t you ♥",
+        "translation": "E aí? Você está prestes a perder o controle, não é ",
+        "context": "13 -> 8 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.8.1",
+        "source_string": "That restless desire… is it about to spill out of your chest?",
+        "translation": "Esse desejo inquieto… está prestes a transbordar do seu peito?",
+        "context": "13 -> 8 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.9.0",
+        "source_string": "Even if this place is ruled by a demon—",
+        "translation": "Mesmo que esse lugar seja governado por um demônio—",
+        "context": "13 -> 9 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.9.1",
+        "source_string": "it’s still a church, you know ♥",
+        "translation": "ainda é uma igreja, sabia ",
+        "context": "13 -> 9 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.10.0",
+        "source_string": "Come now~ before the sister...",
+        "translation": "Venha antes da irmã...",
+        "context": "13 -> 10 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.10.1",
+        "source_string": "Speak out all your true desires ♥",
+        "translation": "Fale todos os seus desejos verdadeiros ",
+        "context": "13 -> 10 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.11.0",
+        "source_string": "Hurt",
+        "translation": "Machucar",
+        "context": "13 -> 11 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.11.1",
+        "source_string": "Confess",
+        "translation": "Confessar",
+        "context": "13 -> 11 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.12.0",
+        "source_string": "...Oh my?",
+        "translation": "...Ah?",
+        "context": "13 -> 12 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.12.1",
+        "source_string": "And what exactly does that mean~?",
+        "translation": "E o que exatamente isso significa?",
+        "context": "13 -> 12 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.13.0",
+        "source_string": "Is that your choice?",
+        "translation": "É essa a sua escolha?",
+        "context": "13 -> 13 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.13.1",
+        "source_string": "Even though you were just gasping under my teasing~",
+        "translation": "Mesmo você tendo acabado de ofegar com minhas provocações",
+        "context": "13 -> 13 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.14.0",
+        "source_string": "That foolish arrogance of yours…",
+        "translation": "Essa arrogância tola sua…",
+        "context": "13 -> 14 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.14.1",
+        "source_string": "let me crush it deep into the floor ♥",
+        "translation": "deixe-me esmagá-la bem no chão ",
+        "context": "13 -> 14 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.15.0",
+        "source_string": "Hehe ♥",
+        "translation": "Hehe ",
+        "context": "13 -> 15 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.15.1",
+        "source_string": "You can’t hold it back anymore, can you?",
+        "translation": "Você não consegue mais se conter, né?",
+        "context": "13 -> 15 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.16.0",
+        "source_string": "Come now ♥ show me that unrestrained desire—",
+        "translation": "Venha  me mostre esse desejo sem freios—",
+        "context": "13 -> 16 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.16.1",
+        "source_string": "I’m very curious to see what you’ll turn into next~",
+        "translation": "Estou bem curiosa para ver no que você vai se transformar depois",
+        "context": "13 -> 16 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.17.0",
+        "source_string": "Good ♥ yes, that posture…",
+        "translation": "Bom  sim, essa postura…",
+        "context": "13 -> 17 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.17.1",
+        "source_string": "what a well-behaved little thing you are~ ♥",
+        "translation": "que coisinha bem-comportada você é ",
+        "context": "13 -> 17 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.18.0",
+        "source_string": "Fully exposed, self-aware of your own inferiority, utterly obedient—",
+        "translation": "Totalmente exposto, ciente da sua própria inferioridade, completamente obediente—",
+        "context": "13 -> 18 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.18.1",
+        "source_string": "a lost little lamb should always stay just like this ♥",
+        "translation": "um cordeirinho perdido deve sempre ficar assim ",
+        "context": "13 -> 18 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.19.0",
+        "source_string": "Don’t move ♥ don’t even try to resist my power~",
+        "translation": "Não se mexa  nem tente resistir ao meu poder",
+        "context": "13 -> 19 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.19.1",
+        "source_string": "Not that you’re capable of it anymore~",
+        "translation": "Não que você ainda seja capaz disso",
+        "context": "13 -> 19 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.20.0",
+        "source_string": "Aww ♥ what’s wrong with you now?",
+        "translation": "Aww  o que há com você agora?",
+        "context": "13 -> 20 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.20.1",
+        "source_string": "Your breathing is already a mess and we’ve barely begun?",
+        "translation": "Sua respiração já está uma bagunça e mal começamos?",
+        "context": "13 -> 20 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.21.0",
+        "source_string": "Ah ♥ all that sin in you…",
+        "translation": "Ah  todo esse pecado em você…",
+        "context": "13 -> 21 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.21.1",
+        "source_string": "it just keeps pouring out~!",
+        "translation": "ele só continua jorrando!",
+        "context": "13 -> 21 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.22.0",
+        "source_string": "In a situation like this,",
+        "translation": "Numa situação como essa,",
+        "context": "13 -> 22 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.22.1",
+        "source_string": "you can still get excited ♥",
+        "translation": "você ainda consegue ficar excitado ",
+        "context": "13 -> 22 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.23.0",
+        "source_string": "You’re supposed to be confessing your sins~",
+        "translation": "Você deveria estar confessando seus pecados",
+        "context": "13 -> 23 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.23.1",
+        "source_string": "but your mind has been completely taken over by desire, hasn’t it? ♥",
+        "translation": "mas sua mente foi completamente dominada pelo desejo, não foi? ",
+        "context": "13 -> 23 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.24.0",
+        "source_string": "As expected from a naughty child like you~",
+        "translation": "Como esperado de uma criança travessa como você",
+        "context": "13 -> 24 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.24.1",
+        "source_string": "I’ll just have to punish you with something even harsher ♥",
+        "translation": "Vou ter que punir você com algo ainda mais severo ",
+        "context": "13 -> 24 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.25.0",
+        "source_string": "Hehe~ ♥",
+        "translation": "Hehe ",
+        "context": "13 -> 25 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.25.1",
+        "source_string": "Nothing left to say now, is there~?",
+        "translation": "Nada mais a dizer agora, né?",
+        "context": "13 -> 25 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.26.0",
+        "source_string": "Your impulses, your anxiety, your gloom…",
+        "translation": "Seus impulsos, sua ansiedade, sua melancolia…",
+        "context": "13 -> 26 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.26.1",
+        "source_string": "I’m absorbing all of it ♥",
+        "translation": "Estou absorvendo tudo ",
+        "context": "13 -> 26 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.27.0",
+        "source_string": "You can feel it, can’t you?",
+        "translation": "Você consegue sentir, não é?",
+        "context": "13 -> 27 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.27.1",
+        "source_string": "your heart growing emptier and emptier~",
+        "translation": "seu coração ficando cada vez mais vazio",
+        "context": "13 -> 27 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.28.0",
+        "source_string": "That’s right ♥ the deeper you sink,",
+        "translation": "Isso mesmo  quanto mais fundo você afunda,",
+        "context": "13 -> 28 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.28.1",
+        "source_string": "the more I can satisfy your craving for salvation~",
+        "translation": "mais eu posso satisfazer sua ânsia por salvação",
+        "context": "13 -> 28 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.29.0",
+        "source_string": "Come now… offer everything to me like a good little one ♥",
+        "translation": "Venha… ofereça tudo para mim como um bom menininho ",
+        "context": "13 -> 29 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.29.1",
+        "source_string": "That is the only reason you exist here, after all ♥♥",
+        "translation": "Essa é a única razão para você existir aqui, afinal ",
+        "context": "13 -> 29 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.30.0",
+        "source_string": "Just you wait, my little lamb♥",
+        "translation": "Só espera, meu cordeirinho",
+        "context": "13 -> 30 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.30.1",
+        "source_string": "I'm gonna wring every last drop of sin out of you~",
+        "translation": "Vou espremer até a última gota de pecado de você",
+        "context": "13 -> 30 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.31.0",
+        "source_string": "(M-My body… it won’t obey me…",
+        "translation": "(M-Meu corpo… ele não me obedece…",
+        "context": "13 -> 31 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.31.1",
+        "source_string": "I can’t move…!)",
+        "translation": "Não consigo me mexer…!)",
+        "context": "13 -> 31 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.0.0",
+        "source_string": "By the sweat of your brow you will eat ",
+        "translation": "No suor do teu rosto comerás o ",
+        "context": "16 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.0.1",
+        "source_string": "your food until you return to the ground,",
+        "translation": "teu pão, até que te tornes à terra;",
+        "context": "16 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.0.2",
+        "source_string": "since from it you were taken; ",
+        "translation": "porque dela foste tomado;",
+        "context": "16 -> 0 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.0.3",
+        "source_string": "for dust you are and to dust you will return.",
+        "translation": "porquanto és pó e em pó te tornarás.",
+        "context": "16 -> 0 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.1.0",
+        "source_string": "I have seen all the things that are done under the sun; ",
+        "translation": "Atentei para todas as obras que se fazem debaixo do sol, ",
+        "context": "16 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.1.1",
+        "source_string": "all of them are meaningless, a chasing after the wind.",
+        "translation": "e eis que tudo era vaidade e aflição de espírito.",
+        "context": "16 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.2.0",
+        "source_string": "And we know that all things work together ",
+        "translation": "E sabemos que todas as coisas contribuem juntamente, ",
+        "context": "16 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.2.1",
+        "source_string": "for good for those who love God,",
+        "translation": "para o bem daqueles que amam a Deus ,",
+        "context": "16 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.2.2",
+        "source_string": "who are called according to His purpose.",
+        "translation": "daqueles que são chamados segundo o seu propósito.",
+        "context": "16 -> 2 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.3.0",
+        "source_string": "For all have sinned and fall ",
+        "translation": "Porque todos pecaram e ",
+        "context": "16 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.3.1",
+        "source_string": "short of the glory of God.",
+        "translation": "destituídos estão da glória de Deus .",
+        "context": "16 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.4.0",
+        "source_string": "For the vision is yet for an appointed time;",
+        "translation": "Porque a visão é ainda para o tempo determinado, ",
+        "context": "16 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.4.1",
+        "source_string": "it speaks of the end and will not prove false.",
+        "translation": "mas se apressa para o fim, e não enganará;",
+        "context": "16 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.4.2",
+        "source_string": "Though it lingers, wait for it; ",
+        "translation": "se tardar, espera-o, ",
+        "context": "16 -> 4 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.4.3",
+        "source_string": "it will certainly come and will not delay.",
+        "translation": "porque certamente virá, não tardará.",
+        "context": "16 -> 4 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.5.0",
+        "source_string": "My guilt has overwhelmed me ",
+        "translation": "Pois já as minhas iniquidades ultrapassam a minha cabeça; ",
+        "context": "16 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.5.1",
+        "source_string": "like a burden too heavy to bear.",
+        "translation": "como carga pesada são demais para as minhas forças.",
+        "context": "16 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.0.0",
+        "source_string": "Jesus asked him, \"What is your name?\"",
+        "translation": "E perguntou-lhe: Qual é o teu nome?",
+        "context": "17 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.0.1",
+        "source_string": "He replied, \"My name is Legion, for we are many.\"",
+        "translation": "E lhe respondeu, dizendo: Legião é o meu nome, porque somos muitos. ",
+        "context": "17 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.1.0",
+        "source_string": "Then another sign appeared in heaven: ",
+        "translation": "E viu-se outro sinal no céu; e eis que era um grande dragão vermelho, ",
+        "context": "17 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.1.1",
+        "source_string": "a great red dragon with seven heads and ten horns,",
+        "translation": "que tinha sete cabeças e dez chifres, e sobre as suas cabeças sete ",
+        "context": "17 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.1.2",
+        "source_string": "and on its heads were seven crowns. Its tail swept ",
+        "translation": "diademas. E a sua cauda levou após si a terça parte das estrelas ",
+        "context": "17 -> 1 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.1.3",
+        "source_string": "a third of the stars from the sky and cast them to the earth",
+        "translation": "do céu, e lançou-as sobre a terra;",
+        "context": "17 -> 1 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.2.0",
+        "source_string": "O shining one, son of the morning! ",
+        "translation": "Como caíste do céu, ó estrela da manhã, ",
+        "context": "17 -> 2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.2.1",
+        "source_string": "How have you fallen from heaven?",
+        "translation": "filho da alva! Como foste lançado por terra,",
+        "context": "17 -> 2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.2.2",
+        "source_string": "You who once laid nations low, ",
+        "translation": "tu que debilitavas as nações!",
+        "context": "17 -> 2 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.2.3",
+        "source_string": "how have you been cast down to the earth?",
+        "translation": "como você foi lançado para a terra?",
+        "context": "17 -> 2 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.3.0",
+        "source_string": "And I saw a beast rising out of the sea. ",
+        "translation": "E eu pus-me sobre a areia do mar, e vi subir do mar uma besta ",
+        "context": "17 -> 3 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.3.1",
+        "source_string": "It had ten horns and seven heads,",
+        "translation": "que tinha sete cabeças e dez chifres,",
+        "context": "17 -> 3 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.3.2",
+        "source_string": "with ten crowns on its horns, ",
+        "translation": "e sobre os seus chifres dez diademas, ",
+        "context": "17 -> 3 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.3.3",
+        "source_string": "and blasphemous names on its heads.",
+        "translation": "e sobre as suas cabeças um nome de blasfêmia.",
+        "context": "17 -> 3 -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.4.0",
+        "source_string": "Even though I walk through the valley of the shadow of death, ",
+        "translation": "Ainda que eu andasse pelo vale da sombra da morte, ",
+        "context": "17 -> 4 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.4.1",
+        "source_string": "I will fear no evil, for You are with me;",
+        "translation": "não temeria mal algum, porque tu estás comigo;",
+        "context": "17 -> 4 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.4.2",
+        "source_string": "Your rod and Your staff, they comfort me.",
+        "translation": "a tua vara e o teu cajado me consolam..",
+        "context": "17 -> 4 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.5.0",
+        "source_string": "The Lord said to Satan, \"Where have you come from?\"",
+        "translation": "Então o Senhor disse a Satanás: Donde vens?",
+        "context": "17 -> 5 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.5.1",
+        "source_string": "Satan answered, \"From roaming the earth, ",
+        "translation": "E Satanás respondeu ao Senhor, e disse: ",
+        "context": "17 -> 5 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.5.2",
+        "source_string": "going back and forth upon it.\"",
+        "translation": "De rodear a terra, e passear por ela.",
+        "context": "17 -> 5 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.0.0",
+        "source_string": "...It's a teleportation circle.",
+        "translation": "...É um circulo de teletransporte.",
+        "context": "18 -> 0 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.0.1",
+        "source_string": "Leaving this place now…?",
+        "translation": "Sair desse local agora…?",
+        "context": "18 -> 0 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.1.0",
+        "source_string": "Leave",
+        "translation": "Sair",
+        "context": "18 -> 1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.1.1",
+        "source_string": "Wait a bit…",
+        "translation": "Esperar um pouco…",
+        "context": "18 -> 1 -> 1",
+        "labels": null,
+        "max_length": null
+    }
+]
