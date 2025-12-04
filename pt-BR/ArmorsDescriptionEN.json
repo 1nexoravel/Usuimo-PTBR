@@ -1,0 +1,4106 @@
+[
+    {
+        "identifier": "1.name.0",
+        "source_string": "Anvil",
+        "translation": "Bigorna",
+        "context": "1 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "1 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.description.0",
+        "source_string": "A heavy anvil from a blacksmith’s workshop, somehow carried ",
+        "translation": "Uma pesada bigorna da oficina de um ferreiro, carregada ",
+        "context": "1 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.description.1",
+        "source_string": "around as equipment. Its hardness and weight make it perfect for",
+        "translation": "como equipamento. Sua dureza e peso a tornam perfeita para",
+        "context": "1 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.description.2",
+        "source_string": "sharpening weapons, though it may be tough for the inexperienced...",
+        "translation": "afiar armas, embora possa ser difícil de manejar para os novatos...",
+        "context": "1 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.ability.0",
+        "source_string": "Senpo changes to pulling out the anvil to repair weapons",
+        "translation": "Senpo muda para puxar a bigorna e reparar armas",
+        "context": "1 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "1.ability.1",
+        "source_string": "Cannot repair magic weapons or golden-quality weapons",
+        "translation": "Não repara armas mágicas ou de qualidade dourada",
+        "context": "1 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.name.0",
+        "source_string": "Jeweled Armament",
+        "translation": "Arma Joalhada",
+        "context": "2 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "2 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.description.0",
+        "source_string": "Minerals slumbering underground are good alchemical media",
+        "translation": "Minerais adormecidos no subsolo são bons meios alquímicos",
+        "context": "2 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.description.1",
+        "source_string": "This dagger-shaped magitech device channels the power of precious ",
+        "translation": "Dispositivo de magitecnologia em forma de adaga canaliza o poder de ",
+        "context": "2 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.description.2",
+        "source_string": "gems, but its costly use led most alchemists to abandon it…",
+        "translation": "gemas preciosas, mas foi abandonada devido ao alto custo…",
+        "context": "2 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.ability.0",
+        "source_string": "Randomly consumes a gem on attack to charge and enhance damage",
+        "translation": "Consome uma gema aleatória ao atacar para carregar e aumentar o dano",
+        "context": "2 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "2.ability.1",
+        "source_string": "The more precious the gem, the greater the added magic damage",
+        "translation": "Quanto mais preciosa a gema, maior o dano mágico adicional",
+        "context": "2 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.name.0",
+        "source_string": "Odd Hair Accessory",
+        "translation": "Acessório de Cabelo Ímpar",
+        "context": "3 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "3 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.description.0",
+        "source_string": "A hair accessory adorned with an unusual ornament",
+        "translation": "Um acessório de cabelo adornado com um ornamento incomum",
+        "context": "3 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.description.1",
+        "source_string": "Is it a rabbit… or a bun…?",
+        "translation": "É uma coelha… ou uma garota fantasiada de…?",
+        "context": "3 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "3.ability.0",
+        "source_string": null,
+        "translation": null,
+        "context": "3 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.name.0",
+        "source_string": "Safety Gloves",
+        "translation": "Luvas de Proteção",
+        "context": "5 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "5 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.description.0",
+        "source_string": "Protective gloves made from insulating materials, ",
+        "translation": "Luvas de proteção feitas de materiais isolantes, originalmente ",
+        "context": "5 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.description.1",
+        "source_string": "originally used by workers as everyday safety gear. Surprisingly, ",
+        "translation": "usadas por trabalhadores como EPI, Surpreendentemente, ",
+        "context": "5 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.description.2",
+        "source_string": "they also provide strong resistance against magical attacks...",
+        "translation": "elas também oferecem forte resistência contra ataques mágicos...",
+        "context": "5 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "5.ability.0",
+        "source_string": "Greatly reduces the effect of lightning when equipped",
+        "translation": "Reduz consideravelmente o efeito de raios quando equipado",
+        "context": "5 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.name.0",
+        "source_string": "Birth of Misfortune",
+        "translation": "Nascimento da Infortuna",
+        "context": "6 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "6 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.description.0",
+        "source_string": "Parasitized by a Philosopher Stone, a weak creature was forcibly",
+        "translation": "Parasitada por uma Pedra Filosofal, uma fraca criatura foi",
+        "context": "6 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.description.1",
+        "source_string": "infused with endless vitality, endlessly cycling between life and",
+        "translation": "imbuída de vitalidade infinita, presa em um ciclo interminável",
+        "context": "6 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.description.2",
+        "source_string": "death until madness took over. Even removed, this power remains",
+        "translation": "até que a loucura tomou conta. Mesmo removida, esse poder permanece",
+        "context": "6 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.ability.0",
+        "source_string": "Increases HP. Enhances HP recovery effects by 25%",
+        "translation": "Aumenta o HP. Aumenta os efeitos de recuperação de HP em 25%",
+        "context": "6 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "6.ability.1",
+        "source_string": "Grants automatic regeneration when equipped",
+        "translation": "Concede regeneração automática quando equipado",
+        "context": "6 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.name.0",
+        "source_string": "Cursed Fetus",
+        "translation": "Feto Amaldiçoado",
+        "context": "7 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "7 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.0",
+        "source_string": "An undeveloped cursed fetus that, despite everything,",
+        "translation": "Um feto amaldiçoado que, apesar de tudo,",
+        "context": "7 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.1",
+        "source_string": "remains alive.Its intense will to survive and overflowing",
+        "translation": "permanece vivo.Sua intensa vontade de sobreviver e transbordar",
+        "context": "7 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.description.2",
+        "source_string": "vitality can even influence its bearer",
+        "translation": "vitalidade pode até mesmo influenciar seu portador",
+        "context": "7 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "7.ability.0",
+        "source_string": "Increases HP. Enhances HP recovery effects by 20%",
+        "translation": "Aumenta o HP. Aumenta os efeitos de recuperação de HP em 20%",
+        "context": "7 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.name.0",
+        "source_string": "Mana Crystal Cluster",
+        "translation": "Aglomerado de Cristais de Mana",
+        "context": "8 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "8 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.0",
+        "source_string": "A mineral shaped by the Great Labyrinth, containing trace mana",
+        "translation": "Um mineral moldado pelo Grande Labirinto, contendo traços de mana",
+        "context": "8 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.description.1",
+        "source_string": "Carrying it enhances magical understanding",
+        "translation": "Carregá-lo aprimora a compreensão mágica",
+        "context": "8 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.ability.0",
+        "source_string": "Equipping it boosts casting speed and magic power",
+        "translation": "Equipá-lo aumenta a velocidade de conjuração e o poder mágico",
+        "context": "8 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "8.ability.1",
+        "source_string": "Magical weapons’ attacks deal an extra 5% magic damage",
+        "translation": "Os ataques de armas mágicas causam 5% de dano mágico adicional",
+        "context": "8 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.name.0",
+        "source_string": "Abyssal Mana Cluster",
+        "translation": "Aglomerado Abissal de Mana",
+        "context": "9 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "9 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.description.0",
+        "source_string": "A rare cluster infused with dense mana,",
+        "translation": "Um raro aglomerado infundido com mana densa,",
+        "context": "9 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.description.1",
+        "source_string": "radiating palpable magical waves. Highly sought after by alchemists",
+        "translation": "irradiando ondas mágicas. Altamente cobiçado por alquimistas",
+        "context": "9 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.ability.0",
+        "source_string": "Equipping it boosts casting speed and magic power",
+        "translation": "Ao equipá-lo, aumenta a velocidade de conjuração e o poder mágico",
+        "context": "9 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "9.ability.1",
+        "source_string": "Magical weapons’ attacks deal an extra 10% magic damage",
+        "translation": "Os ataques de armas mágicas causam 10% de dano mágico adicional",
+        "context": "9 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.name.0",
+        "source_string": "Focus Circlet",
+        "translation": "Tiara do Foco",
+        "context": "10 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "10 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.description.0",
+        "source_string": "A circlet worn by the great sage during their youth as an",
+        "translation": "Uma tiara usada pelo grande sábio em sua juventude como",
+        "context": "10 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.description.1",
+        "source_string": "adventurer. It helps focus the mind and blocks external distractions",
+        "translation": "aventureiro. Foca a mente e repele distrações externas",
+        "context": "10 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.ability.0",
+        "source_string": "Immune to Stun",
+        "translation": "Imune a Atordoamento",
+        "context": "10 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "10.ability.1",
+        "source_string": "Enhances magic power and casting scale",
+        "translation": "Aprimora o poder mágico e a escala de conjuração",
+        "context": "10 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.name.0",
+        "source_string": "Mana Draining Gloves",
+        "translation": "Luvas Drenadoras de Mana",
+        "context": "11 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "11 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.description.0",
+        "source_string": "Gloves worn by the great sage during their youth as",
+        "translation": "Luvas usadas pelo grande sábio em sua juventude como",
+        "context": "11 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.description.1",
+        "source_string": "an adventurer. They gather mana naturally,",
+        "translation": "aventureiro. Elas reúnem mana naturalmente,",
+        "context": "11 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.description.2",
+        "source_string": "imbuing weapons with magical properties",
+        "translation": "imbuindo as armas com propriedades mágicas",
+        "context": "11 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.ability.0",
+        "source_string": "When equipped, the held weapon transforms into a magical weapon",
+        "translation": "Quando equipado, a arma empunhada se transforma em uma arma mágica",
+        "context": "11 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "11.ability.1",
+        "source_string": "Magical weapons’ attacks deal an extra 30% magic damage",
+        "translation": "Os ataques de armas mágicas causam 30% de dano mágico adicional",
+        "context": "11 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.name.0",
+        "source_string": "Borrowed Neko Claws",
+        "translation": "Garras de Neko Emprestadas",
+        "context": "12 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.subtitle.0",
+        "source_string": " \"...Meow~?\"",
+        "translation": " “…Miau~?”",
+        "context": "12 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.description.0",
+        "source_string": "Neko claws hidden inside a Neko Slime, seemingly infused",
+        "translation": "Garras de Neko escondidas dentro de um Slime Neko, aparentemente imbuídas",
+        "context": "12 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.description.1",
+        "source_string": "with a cat’s spirit. Equipping them boosts your agility!",
+        "translation": "com o espírito de um gato. Ao equipá-las, aumentam sua agilidade!",
+        "context": "12 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "12.ability.0",
+        "source_string": "Increases attack power and attack speed",
+        "translation": "Aumenta o poder de ataque e a velocidade de ataque",
+        "context": "12 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.name.0",
+        "source_string": "Borrowed Neko Paws",
+        "translation": "Garras de Neko Emprestadas",
+        "context": "13 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.subtitle.0",
+        "source_string": " \"...Meow~?\"",
+        "translation": " “…Miau~?”",
+        "context": "13 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.description.0",
+        "source_string": "Neko paws hidden inside a Neko Slime, seemingly infused",
+        "translation": "Patinhas de Neko escondidas dentro de um Slime Neko, aparentemente imbuídas",
+        "context": "13 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.description.1",
+        "source_string": "with a cat’s spirit. Equipping them boosts your agility!",
+        "translation": "com o espírito de um gato. Ao equipá-las, aumentam sua agilidade!",
+        "context": "13 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "13.ability.0",
+        "source_string": "Increases attack and movement speed, reduces Senpo cooldown",
+        "translation": "Aumenta a velocidade de ataque e de movimento, reduz a recarga de Senpo",
+        "context": "13 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.name.0",
+        "source_string": "Fragrant Grass Ring",
+        "translation": "Anel da Relva Fragrante",
+        "context": "14 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "14 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.description.0",
+        "source_string": "A ring woven from leaves and rhizomes, emitting a herbal scent",
+        "translation": "Forjado de folhas e rizomas entrelaçados, este anel libera um suave perfume herbal",
+        "context": "14 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.description.1",
+        "source_string": "Once a charm for travelers, it symbolizes vitality and energy",
+        "translation": "Antes usado como talismã por viajantes, tornou-se um símbolo de vitalidade e energia",
+        "context": "14 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.ability.0",
+        "source_string": "Max HP +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
+        "translation": "PV Máx. +\\c[29]${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}\\c[0]",
+        "context": "14 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "14.ability.1",
+        "source_string": "Wearing multiple of this gear enhances its effect",
+        "translation": "Usar múltiplas peças deste equipamento aprimora seu efeito",
+        "context": "14 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.name.0",
+        "source_string": "Neko Plush Suit",
+        "translation": "Traje de Pelúcia de Neko",
+        "context": "15 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "15 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.0",
+        "source_string": "A soft and cuddly cat plush costume — fluffy and oversized",
+        "translation": "Um traje de pelúcia de gato aconchegante — felpudo e super grande",
+        "context": "15 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.description.1",
+        "source_string": "Its roomy design wraps you up and even hides extra goodies~",
+        "translation": "Seu design espaçoso envolve você e até esconde alguns extras~",
+        "context": "15 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.ability.0",
+        "source_string": "Extra carry capacity for weapons +10",
+        "translation": "Aumenta a capacidade de transportar armas em +10",
+        "context": "15 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "15.ability.1",
+        "source_string": "Extra carry capacity for gears +20",
+        "translation": "Aumenta a capacidade de transportar equipamentos em +20",
+        "context": "15 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.name.0",
+        "source_string": "Piercing Spike Helmet",
+        "translation": "Elmo de Espinhos Perfurantes",
+        "context": "16 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "16 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.0",
+        "source_string": "A spiked metal armor exuding danger from every angle,",
+        "translation": "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
+        "context": "16 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.description.1",
+        "source_string": "offering solid defense and automatically damaging nearby enemies",
+        "translation": "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos",
+        "context": "16 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "16.ability.0",
+        "source_string": "Automatically damages nearby enemies",
+        "translation": "Causa dano automaticamente a inimigos próximos",
+        "context": "16 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.name.0",
+        "source_string": "Piercing Spike Armour",
+        "translation": "Armadura de Espinhos Perfurantes",
+        "context": "17 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "17 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.description.0",
+        "source_string": "A spiked metal armor exuding danger from every angle,",
+        "translation": "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
+        "context": "17 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.description.1",
+        "source_string": "offering solid defense and automatically damaging nearby enemies",
+        "translation": "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos",
+        "context": "17 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "17.ability.0",
+        "source_string": "Automatically damages nearby enemies",
+        "translation": "Causa dano automaticamente a inimigos próximos",
+        "context": "17 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.name.0",
+        "source_string": "Piercing Spike Gauntlets",
+        "translation": "Manoplas de Espinhos Perfurantes",
+        "context": "18 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "18 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.0",
+        "source_string": "A spiked metal armor exuding danger from every angle,",
+        "translation": "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
+        "context": "18 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.description.1",
+        "source_string": "offering solid defense and automatically damaging nearby enemies",
+        "translation": "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos",
+        "context": "18 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "18.ability.0",
+        "source_string": "Automatically damages nearby enemies when attacking",
+        "translation": "Causa dano automaticamente a inimigos próximos ao atacar",
+        "context": "18 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.name.0",
+        "source_string": "Piercing Spike Boots",
+        "translation": "Botas de Espinhos Perfurantes",
+        "context": "19 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "19 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.description.0",
+        "source_string": "A spiked metal armor exuding danger from every angle,",
+        "translation": "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
+        "context": "19 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.description.1",
+        "source_string": "offering solid defense and automatically damaging nearby enemies",
+        "translation": "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos",
+        "context": "19 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "19.ability.0",
+        "source_string": "Automatically damages nearby enemies when moving",
+        "translation": "Causa dano automaticamente a inimigos próximos ao se mover",
+        "context": "19 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.name.0",
+        "source_string": "Knight's Helmet",
+        "translation": "Elmo do Cavaleiro",
+        "context": "20 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "20 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.description.0",
+        "source_string": "The standard armor of court knights. Its ornate and sturdy design",
+        "translation": "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
+        "context": "20 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.description.1",
+        "source_string": "symbolizes their adherence to the chivalric code",
+        "translation": "simboliza a adesão deles ao código da cavalaria",
+        "context": "20 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "20.ability.0",
+        "source_string": "Increases defense when HP is below \\c[10]30%\\c[0]",
+        "translation": "Aumenta a defesa quando o PV está abaixo de \\c[10]30%\\c[0]",
+        "context": "20 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.name.0",
+        "source_string": "Knight's Armour",
+        "translation": "Armadura do Cavaleiro",
+        "context": "21 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "21 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.description.0",
+        "source_string": "The standard armor of court knights. Its ornate and sturdy design",
+        "translation": "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
+        "context": "21 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.description.1",
+        "source_string": "symbolizes their adherence to the chivalric code",
+        "translation": "Simboliza a adesão deles ao código da cavalaria",
+        "context": "21 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "21.ability.0",
+        "source_string": "Increases defense when HP is below \\c[10]30%\\c[0]",
+        "translation": "Aumenta a defesa quando o PV está abaixo de \\c[10]30%\\c[0]",
+        "context": "21 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.name.0",
+        "source_string": "Knight's Gauntlets",
+        "translation": "Manoplas do Cavaleiro",
+        "context": "22 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "22 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.description.0",
+        "source_string": "The standard armor of court knights. Its ornate and sturdy design",
+        "translation": "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
+        "context": "22 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.description.1",
+        "source_string": "symbolizes their adherence to the chivalric code",
+        "translation": "Simboliza a adesão deles ao código da cavalaria",
+        "context": "22 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "22.ability.0",
+        "source_string": "Increases attack and defense when HP is below \\c[10]30%\\c[0]",
+        "translation": "Aumenta o ataque e a defesa quando o PV está abaixo de \\c[10]30%\\c[0]",
+        "context": "22 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "23.name.0",
+        "source_string": "Knight's Greaves",
+        "translation": "Caneleiras do Cavaleiro",
+        "context": "23 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "23.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "23 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "23.description.0",
+        "source_string": "The standard armor of court knights. Its ornate and sturdy design",
+        "translation": "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
+        "context": "23 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "23.description.1",
+        "source_string": "symbolizes their adherence to the chivalric code",
+        "translation": "Simboliza a adesão deles ao código da cavalaria",
+        "context": "23 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "23.ability.0",
+        "source_string": "Increases movement speed when HP is below \\c[10]30%\\c[0]",
+        "translation": "Aumenta a velocidade de movimento quando o PV está abaixo de \\c[10]30%\\c[0]",
+        "context": "23 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.name.0",
+        "source_string": "Hunter’s Garb",
+        "translation": "Traje do Caçador",
+        "context": "24 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "24 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.description.0",
+        "source_string": "Stitched from thick hide and tough linen, it was once the everyday ",
+        "translation": "Feito de couro grosso e linho resistente, já foi o traje cotidiano ",
+        "context": "24 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.description.1",
+        "source_string": "gear of forest hunters. Though defense is limited, it’s light and ",
+        "translation": "Dos caçadores da floresta. Defesa limitada, mas leve e flexível ",
+        "context": "24 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.description.2",
+        "source_string": "flexible, letting the wearer move quickly through the woods",
+        "translation": "Ideal para se mover rapidamente pela floresta",
+        "context": "24 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "24.ability.0",
+        "source_string": "Slowly regenerates HP when standing on grassy terrain",
+        "translation": "Regenera lentamente o HP ao permanecer em terreno gramado",
+        "context": "24 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.name.0",
+        "source_string": "Hunter’s Belt",
+        "translation": "Cinto do Caçador",
+        "context": "25 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "25 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.description.0",
+        "source_string": "Crafted from sturdy leather and adorned with durable buckles",
+        "translation": "Confeccionado em couro resistente, com fivelas e bolsas duráveis",
+        "context": "25 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.description.1",
+        "source_string": "and pouches. Once essential for forest hunters on their journeys, ",
+        "translation": "um dia essencial para os caçadores da floresta em suas jornadas, ",
+        "context": "25 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.description.2",
+        "source_string": "it remains light and unburdensome even during long treks",
+        "translation": "Continua leve e não sobrecarrega mesmo durante longas caminhadas",
+        "context": "25 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.ability.0",
+        "source_string": "Max HP +20, movement speed increased",
+        "translation": "PV Máx +20, velocidade de movimento aumentada",
+        "context": "25 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "25.ability.1",
+        "source_string": "Extra carry capacity for weapons +5, for gear +5",
+        "translation": "Capacidade extra de carga: armas +5, equipamentos +5",
+        "context": "25 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.name.0",
+        "source_string": "Feather of Firebird",
+        "translation": "Pena da Ave de Fogo",
+        "context": "26 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "26 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.description.0",
+        "source_string": "A Firebird feather.",
+        "translation": "Uma pena da Ave de Fogo.",
+        "context": "26 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.description.1",
+        "source_string": "symbolizing eternal life, still burning with a warm flame.",
+        "translation": "Símbolo da vida eterna, continua queimando com uma chama cálida.",
+        "context": "26 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.description.2",
+        "source_string": "Even a single feather holds the power to revive the dead.",
+        "translation": "Mesmo uma única pena guarda o poder de reviver os mortos.",
+        "context": "26 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.ability.0",
+        "source_string": "Activates when HP drops to zero, fully restores HP",
+        "translation": "Ativa quando o PV chega a zero, restaurando totalmente o HP",
+        "context": "26 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "26.ability.1",
+        "source_string": "The item is destroyed after activation",
+        "translation": "O ‘item’ é destruído após a ativação",
+        "context": "26 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.name.0",
+        "source_string": "Toilet Paper",
+        "translation": "Papel Higiênico",
+        "context": "27 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "27 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.description.0",
+        "source_string": "A Toilet Paper take from Home",
+        "translation": "Um papel higiênico trazido de casa",
+        "context": "27 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.description.1",
+        "source_string": "A handy item for adventurers who suddenly need",
+        "translation": "Um item útil para aventureiros que de repente precisam",
+        "context": "27 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.description.2",
+        "source_string": "a toilet break in a dangerous dungeon",
+        "translation": "De uma pausa para ir ao banheiro em uma masmorra perigosa",
+        "context": "27 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "27.ability.0",
+        "source_string": "Reduces Bleed damage taken by \\c[10]30%\\c[0]",
+        "translation": "Reduz o dano de Sangramento recebido em \\c[10]30%\\c[0]",
+        "context": "27 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.name.0",
+        "source_string": "Oni Hand",
+        "translation": "Mão do demônio",
+        "context": "28 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "28 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.description.0",
+        "source_string": "A massive arm brimming with the brute strength of the Oni clan",
+        "translation": "Um braço maciço flamejante com a força bruta do clã dos demônios",
+        "context": "28 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.description.1",
+        "source_string": "It symbolizes a power so fierce it can easily crush solid rock",
+        "translation": "Simboliza uma potência tão feroz que pode facilmente esmagar pedra sólida",
+        "context": "28 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.description.2",
+        "source_string": "For humans, it is a force far too difficult to control",
+        "translation": "Para humanos, é uma força muito difícil de controlar",
+        "context": "28 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.ability.0",
+        "source_string": "Physical attack power +100%. Attack speed decreases",
+        "translation": "Poder de ataque físico +100%, velocidade de ataque diminui",
+        "context": "28 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "28.ability.1",
+        "source_string": "Weapons are more likely to break during attacks",
+        "translation": "É provável",
+        "context": "28 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.name.0",
+        "source_string": "Saucy Jacky",
+        "translation": "Jack Atrevido",
+        "context": "29 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.subtitle.0",
+        "source_string": "\"This one craves screams...\"",
+        "translation": "“Este anseia por gritos...”",
+        "context": "29 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.description.0",
+        "source_string": "One of the deadly weapons of a notorious killer,",
+        "translation": "Uma das armas letais de um infame assassino,",
+        "context": "29 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.description.1",
+        "source_string": "still twitching with anticipation",
+        "translation": "Ainda tremendo em antecipação",
+        "context": "29 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "29.ability.0",
+        "source_string": "Deals more damage to lower HP foes, up to \\c[10]30%\\c[0]",
+        "translation": "Causa mais dano a inimigos com menos HP, até \\c\\[10]30%\\c\\[0]",
+        "context": "29 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.name.0",
+        "source_string": "Hunter's Dagger",
+        "translation": "Adaga do Caçador",
+        "context": "30 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.subtitle.0",
+        "source_string": "\"Death from the muzzle, fortune from the blade\"",
+        "translation": "“Morte pelo cano, fortuna pela lâmina”",
+        "context": "30 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.description.0",
+        "source_string": "A small, sharp dagger that fits easily in a boot",
+        "translation": "Uma pequena e afiada adaga que cabe facilmente em uma bota",
+        "context": "30 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.description.1",
+        "source_string": "To a hunter, it always draws out the prey’s final offering",
+        "translation": "Para um caçador, ela sempre extrai a última oferenda da presa",
+        "context": "30 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "30.ability.0",
+        "source_string": "Increases chances of meat drops",
+        "translation": "Aumenta as chances de obter carne",
+        "context": "30 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.name.0",
+        "source_string": "Misty Night Phantom",
+        "translation": "Fantasma da Noite Nebulosa",
+        "context": "31 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.subtitle.0",
+        "source_string": "\"This one longs to vanish...\"",
+        "translation": "“Este anseia por desaparecer...”",
+        "context": "31 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.description.0",
+        "source_string": "One of the deadly tools of a notorious murderer,",
+        "translation": "Uma das ferramentas letais de um infame assassino,",
+        "context": "31 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.description.1",
+        "source_string": "crafted to conceal its presence",
+        "translation": "Projetada para ocultar sua presença",
+        "context": "31 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.ability.0",
+        "source_string": "Periodically enters an invisible state",
+        "translation": "Entra periodicamente em estado invisível",
+        "context": "31 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "31.ability.1",
+        "source_string": "Assassinations while invisible deal double damage",
+        "translation": "Execuções enquanto invisível causam o dobro de dano",
+        "context": "31 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.name.0",
+        "source_string": "Neko Punch",
+        "translation": "Soco de Neko",
+        "context": "32 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "32 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.0",
+        "source_string": "\"Hyaa—!! Don’t mess with me nya!\"",
+        "translation": "\"Hyaa! Não mexe comigo, miau!\"",
+        "context": "32 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.1",
+        "source_string": "Soft-padded cat paw gloves, the prized weapon of a certain catgirl",
+        "translation": "Luvas de patinha de gato acolchoadas, a arma preciosa de uma certa catgirl",
+        "context": "32 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.description.2",
+        "source_string": "Wearing them grants feline agility—and a craving for fish…",
+        "translation": "Usá-las concede agilidade felina e uma vontade de comer peixe…",
+        "context": "32 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.ability.0",
+        "source_string": "Attack speed increased. Extra attack hits +1",
+        "translation": "Velocidade de ataque aumentada. +1 ataque extra por ataque",
+        "context": "32 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "32.ability.1",
+        "source_string": "Chance of extra attack hits triggering special effects is halved",
+        "translation": "A chance de ataques extras ativarem efeitos especiais é reduzida pela metade",
+        "context": "32 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "33.name.0",
+        "source_string": "Apple Headgear",
+        "translation": "Capacete de Maçã",
+        "context": "33 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "33.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "33 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "33.description.0",
+        "source_string": "A headgear made from apples, so you can't",
+        "translation": "Um capacete feito de maçãs, então não dá para",
+        "context": "33 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "33.description.1",
+        "source_string": "really expect any defense. But the apples are so delicious",
+        "translation": "Esperar muita defesa. Mas as maçãs são tão deliciosas",
+        "context": "33 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "33.ability.0",
+        "source_string": "There’s a chance to activate healing when injured",
+        "translation": "Há uma chance de ativar cura ao ser ferido",
+        "context": "33 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.name.0",
+        "source_string": "Sharpblade Ring",
+        "translation": "Anel da Lâmina Afiada",
+        "context": "34 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "34 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.description.0",
+        "source_string": "Legend says an adventurer, too afraid of fighting barehanded, ",
+        "translation": "Diz a lenda que um aventureiro, com medo de lutar de mãos vazias, ",
+        "context": "34 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.description.1",
+        "source_string": "embedded a sword into a ring. It’s far too small to use, ",
+        "translation": "embutiu uma espada em um anel. Pequeno demais para ",
+        "context": "34 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.description.2",
+        "source_string": "but it sure boosts one’s presence",
+        "translation": "ser usada como arma, mas aumenta a presença de quem a carrega",
+        "context": "34 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "34.ability.0",
+        "source_string": "Physical attack power +15%",
+        "translation": "Poder de ataque físico +15%",
+        "context": "34 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.name.0",
+        "source_string": "Wakizashi",
+        "translation": "Wakizashi",
+        "context": "35 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "35 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.description.0",
+        "source_string": "A finely crafted short blade, often carried by foreign samurai ",
+        "translation": "Lâmina curta forjada com precisão, portada por samurais ",
+        "context": "35 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.description.1",
+        "source_string": "as a sidearm. Though short, its edge can tear flesh wide open,",
+        "translation": "estrangeiros como arma secundária. Causa cortes profundos",
+        "context": "35 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.description.2",
+        "source_string": "leaving wounds that won’t easily stop bleeding",
+        "translation": "e sangramento persistente",
+        "context": "35 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.ability.0",
+        "source_string": "Normal attack count with melee weapons +1",
+        "translation": "Contagem de ataques normais com armas corpo a corpo +1",
+        "context": "35 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "35.ability.1",
+        "source_string": "Extra attack has a chance to inflict Bleed",
+        "translation": "O ataque extra tem chance de infligir Sangramento",
+        "context": "35 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.name.0",
+        "source_string": "Maneki Neko",
+        "translation": "Neko da Sorte",
+        "context": "36 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "36 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.description.0",
+        "source_string": "A greedy little Servant with a perpetually unsatisfied look",
+        "translation": "Um pequeno Servo ganancioso, com um olhar eternamente insatisfeito",
+        "context": "36 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.description.1",
+        "source_string": "It eagerly gathers all dropped items, regardless of their value",
+        "translation": "Recolhe com entusiasmo todos os itens, sem se importar com o valor",
+        "context": "36 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.ability.0",
+        "source_string": "Maneki Neko automatically collects all types of drops for you",
+        "translation": "O Neko da Sorte coleta automaticamente todos os itens para você",
+        "context": "36 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "36.ability.1",
+        "source_string": "Equipping multiple will only increase the collection range",
+        "translation": "Ao equipar mais de um, apenas o alcance de coleta é ampliado",
+        "context": "36 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "37.name.0",
+        "source_string": " Piggy Bank",
+        "translation": " Cofrinho",
+        "context": "37 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "37.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "37 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "37.description.0",
+        "source_string": "A cute Servant that stores collected money",
+        "translation": "Um Servo fofinho que guarda o dinheiro coletado",
+        "context": "37 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "37.description.1",
+        "source_string": "Something might happen when full, but for now, it's just fragile",
+        "translation": "Algo pode acontecer quando estiver cheio, mas por enquanto, ele é apenas frágil",
+        "context": "37 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "37.ability.0",
+        "source_string": "Happily collects money. Current savings: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+        "translation": "Guarda o dinheiro com alegria. Poupança atual:\\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0] ienes!",
+        "context": "37 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "37.ability.1",
+        "source_string": "Easily breaks when attacked, losing all stored money",
+        "translation": "Quebra facilmente quando atacado, perdendo todo o dinheiro armazenado",
+        "context": "37 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "38.name.0",
+        "source_string": " Greedy Piggy Bank",
+        "translation": " Cofrinho Ganancioso",
+        "context": "38 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "38.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "38 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "38.description.0",
+        "source_string": "A piggy bank overflowing with wealth, a dream come true",
+        "translation": "Um cofrinho cheio até a boca de riquezas — um sonho que virou realidade",
+        "context": "38 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "38.description.1",
+        "source_string": "Yet, even with a belly full of gold, its greed knows no bounds",
+        "translation": "Ainda assim, mesmo com a barriga cheia de ouro, sua ganância não conhece limites",
+        "context": "38 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "38.ability.0",
+        "source_string": "Emits Mamon’s Demand aura. Current savings: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+        "translation": "Emite a aura da Demanda de Mamon. Poupança atual: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0] iene!",
+        "context": "38 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "38.ability.1",
+        "source_string": "Collects money endlessly, spitting out interest every 10 seconds",
+        "translation": "Acumula riquezas incessantemente, liberando juros a cada 10 segundos",
+        "context": "38 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "39.name.0",
+        "source_string": "Green Turtle Shell",
+        "translation": "Casco de Tartaruga Verde",
+        "context": "39 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "39.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "39 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "39.description.0",
+        "source_string": "A tough and heavy turtle shell",
+        "translation": "Uma carapaça de tartaruga dura e pesada",
+        "context": "39 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "39.description.1",
+        "source_string": "Carrying it on land makes it impossible to lift your feet…!",
+        "translation": "Carregá-la em terra firme impossibilita levantar os pés…!",
+        "context": "39 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "39.ability.0",
+        "source_string": "Slows movement speed, but increases swimming speed",
+        "translation": "Reduz a velocidade de movimento e aumenta a velocidade de nado",
+        "context": "39 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.name.0",
+        "source_string": "Maid Uniform",
+        "translation": "Uniforme de Maid",
+        "context": "40 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "40 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.description.0",
+        "source_string": "A trophy obtained after teaching a lesson to the mischievous",
+        "translation": "Um troféu obtido após dar uma lição na travessa garota de",
+        "context": "40 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.description.1",
+        "source_string": "rabbit-eared girl. It still carries the scent of dirt and carrots",
+        "translation": "Orelhas de coelho. Ainda carrega o cheiro de terra e cenouras",
+        "context": "40 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.ability.0",
+        "source_string": "When equipped, disguises as a monster but cannot attack",
+        "translation": "Ao equipar, te disfarça como um monstro, mas não pode atacar",
+        "context": "40 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "40.ability.1",
+        "source_string": "Equipping it makes you best friends with Maid Bunny",
+        "translation": "Ao equipá-lo, você se torna o melhor amigo da Maid Bunny",
+        "context": "40 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.name.0",
+        "source_string": "Moe Bunny Ears",
+        "translation": "Orelhas de Coelhinha Moe",
+        "context": "41 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "41 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.0",
+        "source_string": "A detachable bunny ear accessory",
+        "translation": "Um acessório de orelhas de coelho destacável",
+        "context": "41 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.description.1",
+        "source_string": "No matter who wears it, they’ll look absolutely adorable!",
+        "translation": "Não importa quem use, vai ficar absolutamente adorável!",
+        "context": "41 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "41.ability.0",
+        "source_string": "Blessed with luck! Items are more likely to drop!",
+        "translation": "Abençoado com sorte! É provável que itens sejam dropados!",
+        "context": "41 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.name.0",
+        "source_string": "Bomb Fiend's Soul",
+        "translation": "Alma do Demônio das Bombas",
+        "context": "42 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.subtitle.0",
+        "source_string": "\"Explo————sion!!\"",
+        "translation": "\"Explo————são!\"",
+        "context": "42 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.description.0",
+        "source_string": "A will that sacrificed everything for explosions",
+        "translation": "Uma determinação que abandonou tudo, consumida pelo desejo de explodir",
+        "context": "42 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.description.1",
+        "source_string": "Now that you bear it, won’t you strive for even bigger blasts?",
+        "translation": "Agora que a carrega, não vai almejar explosões ainda maiores?",
+        "context": "42 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.ability.0",
+        "source_string": "Small chance to trigger an explosion when attacking or hit",
+        "translation": "Pequena chance de causar uma explosão ao atacar ou ao ser atingido",
+        "context": "42 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "42.ability.1",
+        "source_string": "Reduce self-taken explosion damage by 50%",
+        "translation": "Reduz em 50% o dano de explosões sofrido pelo próprio usuário",
+        "context": "42 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.name.0",
+        "source_string": "Bladekeepers’ Badge",
+        "translation": "Insígnia dos Guardiões da Lâmina",
+        "context": "43 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.subtitle.0",
+        "source_string": "\"You adventurers make me sick!",
+        "translation": "\"Vocês, aventureiros, me dão nojo!",
+        "context": "43 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.subtitle.1",
+        "source_string": "Swinging your blades only to kill, never caring about their pain!\"",
+        "translation": "Só empunham suas lâminas para matar, sem ligar para o sofrimento deles",
+        "context": "43 -> subtitle -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.description.0",
+        "source_string": "A badge worn only by comrades who believe in weapon preservation",
+        "translation": "Uma insígnia de camaradas que defendem a preservação das armas",
+        "context": "43 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.ability.0",
+        "source_string": "Attack power -20%, max attack capped at 200",
+        "translation": "Poder de ataque -20%, ataque máximo limitado a 200",
+        "context": "43 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "43.ability.1",
+        "source_string": "Reduces all weapon durability loss by 20%",
+        "translation": "Reduz em 20% toda a perda de durabilidade das armas",
+        "context": "43 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "44.name.0",
+        "source_string": "◉▽◉",
+        "translation": "◉▽◉",
+        "context": "44 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "44.subtitle.0",
+        "source_string": "\"The Sacabambaspis has seen it all before.\"",
+        "translation": "\"A Sacabambaspis já viu de tudo.\"",
+        "context": "44 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "44.description.0",
+        "source_string": "A legendary ancient Servant—though it’s a fish, it can’t swim",
+        "translation": "Uma antiga e lendária Serva-mesmo sendo um peixe, ela não consegue nadar",
+        "context": "44 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "44.description.1",
+        "source_string": "It has tough skin, and its special move is a Cyclone Jet Cannon!",
+        "translation": "Tem uma pele resistente, seu movimento especial é o Jato de Canhão Ciclônico!",
+        "context": "44 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "44.ability.0",
+        "source_string": "Can lift up the Saccabankame turtle and throw it as an attack",
+        "translation": "Consegue levantar a tartaruga Saccabankame e arremessá-la como um ataque",
+        "context": "44 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "44.ability.1",
+        "source_string": "Once it falls into the water, it can’t get back out...",
+        "translation": "Se cair na água, não consegue mais sair...",
+        "context": "44 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "45.name.0",
+        "source_string": "Venomous Embrace",
+        "translation": "Abraço Venenoso",
+        "context": "45 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "45.subtitle.0",
+        "source_string": "\"This dagger's loaded with deadly poison, y'know— (lick\"",
+        "translation": "\"Esta adaga está carregada com um veneno mortal, sabia— (lambe\"",
+        "context": "45 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "45.description.0",
+        "source_string": "A poisonous magical shortsword—keep your distance",
+        "translation": "Uma adaga curta mágica e venenosa — mantenha distância",
+        "context": "45 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "45.ability.0",
+        "source_string": "An auto-orbiting Servant",
+        "translation": "Um Servo que orbita automaticamente ao seu redor",
+        "context": "45 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "45.ability.1",
+        "source_string": "High chance to inflict Poison on contact",
+        "translation": "Alta chance de envenenar ao contato",
+        "context": "45 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "46.name.0",
+        "source_string": "Fist of Fury",
+        "translation": "Punho da Fúria",
+        "context": "46 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "46.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "46 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "46.description.0",
+        "source_string": "A powerful magical fist",
+        "translation": "Um poderoso punho mágico",
+        "context": "46 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "46.description.1",
+        "source_string": "Seething with unknown rage, it remains tightly clenched…",
+        "translation": "Transbordando de uma fúria insondável, continua fechado em punho…",
+        "context": "46 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "46.ability.0",
+        "source_string": "An auto-orbiting Servant",
+        "translation": "Um Servo que orbita automaticamente ao seu redor",
+        "context": "46 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "46.ability.1",
+        "source_string": "Knocks back any enemy it touches",
+        "translation": "Empurra para trás qualquer inimigo que tocar",
+        "context": "46 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "47.name.0",
+        "source_string": "Xerise’s Cursed Hand",
+        "translation": "Mão Amaldiçoada de Xerise",
+        "context": "47 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "47.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "47 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "47.description.0",
+        "source_string": "A severed hand imbued with undead power",
+        "translation": "Uma mão decepada imbuída de poder necromântico",
+        "context": "47 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "47.description.1",
+        "source_string": "Even without a body, it remains lively and aggressive",
+        "translation": "Mesmo sem um corpo, permanece agitada e agressiva",
+        "context": "47 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "47.ability.0",
+        "source_string": "An auto-orbiting Servant",
+        "translation": "Um Servo que orbita automaticamente ao seu redor",
+        "context": "47 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "47.ability.1",
+        "source_string": "Curses any target it points its middle finger at",
+        "translation": "Amaldiçoa qualquer alvo para o qual aponte o dedo do meio",
+        "context": "47 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "48.name.0",
+        "source_string": "Chain SpellBinding Contract",
+        "translation": "Contrato de Encadeamento de Feitiços",
+        "context": "48 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "48.subtitle.0",
+        "source_string": "\"When the one you love dies, you must take your own life.",
+        "translation": "\"Quando a pessoa que você ama morre, você deve tirar a própria vida.",
+        "context": "48 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "48.subtitle.1",
+        "source_string": "When the one you love dies, there is no other way.\"",
+        "translation": "Quando a pessoa que você ama morre, não há outro caminho.\"",
+        "context": "48 -> subtitle -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "48.description.0",
+        "source_string": "To save his familiar, a certain alchemist forged this contract…",
+        "translation": "Para salvar seu familiar, um certo alquimista forjou este contrato…",
+        "context": "48 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "48.ability.0",
+        "source_string": "Link with your servant—any damage they take will be yours",
+        "translation": "Vincule-se ao seu servo — qualquer dano que ele receber será seu",
+        "context": "48 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "48.ability.1",
+        "source_string": "Each linked servant grants you a healing effect",
+        "translation": "Cada servo vinculado concede a você um efeito de cura",
+        "context": "48 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "49.name.0",
+        "source_string": "Red Horn",
+        "translation": "Chifre vermelho",
+        "context": "49 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "49.subtitle.0",
+        "source_string": "\"Don't you ever stop！\"",
+        "translation": "\"Você nunca parou!\"",
+        "context": "49 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "49.description.0",
+        "source_string": "A crimson horn filled with the Jackalope’s magic",
+        "translation": "Um chifre carmesim repleto de magia de Jackalope",
+        "context": "49 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "49.description.1",
+        "source_string": "If magic could be supplied endlessly, it might keep accelerating ",
+        "translation": "Se a magia pudesse ser fornecida infinitamente, continuará acelerando ",
+        "context": "49 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "49.description.2",
+        "source_string": "until it became a comet streaking across the sky!",
+        "translation": "Até que se tornou um cometa que atravessou o céu!",
+        "context": "49 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "49.ability.0",
+        "source_string": "When fully charged, Senpo has no cooldown and moves faster",
+        "translation": "Quando totalmente carregado, o Senpo não tem recuperação e se move mais rápido",
+        "context": "49 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "49.ability.1",
+        "source_string": "Once the charge is depleted, it will auto-recharge",
+        "translation": "Quando a carga estiver esgotada, ela irá recarregar automaticamente",
+        "context": "49 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "50.name.0",
+        "source_string": "Potato Chips",
+        "translation": "Batata Frita",
+        "context": "50 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "50.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "50 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "50.description.0",
+        "source_string": "Freshly fried with a warm,",
+        "translation": "Frito na hora com um molho quente,",
+        "context": "50 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "50.description.1",
+        "source_string": "savory aroma. Watch out for seagulls!",
+        "translation": "Quente e saboroso. Cuidado com as gaivotas!",
+        "context": "50 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "50.ability.0",
+        "source_string": "Attracts seagulls that steal your chips",
+        "translation": "Atrai gaivotas que roubam suas batatas fritas",
+        "context": "50 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.name.0",
+        "source_string": "Shadowcrawler Gift",
+        "translation": "Presente de Shadowcrawler",
+        "context": "52 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "52 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.description.0",
+        "source_string": "Said to be a symbol from the depths where shadows creep",
+        "translation": "Disse ser um símbolo das profundezas onde as sombras espreitem",
+        "context": "52 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.description.1",
+        "source_string": "holding it makes you feel as if something is ",
+        "translation": "Segurando isso faz você se sentir como se algo fosse ",
+        "context": "52 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.description.2",
+        "source_string": "quietly writhing behind you—",
+        "translation": "Silenciosamente escrevendo atrás de você —",
+        "context": "52 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.ability.0",
+        "source_string": "Movement speed increases",
+        "translation": "Velocidade de movimento aumenta",
+        "context": "52 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "52.ability.1",
+        "source_string": "Gain the attention of ▓▓▓▓▓▓▓",
+        "translation": "Conquiste a atenção de ├├├├├├-de.",
+        "context": "52 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.name.0",
+        "source_string": "Hanged Man's Bone Ring",
+        "translation": "Anel de Osso do Enforcado",
+        "context": "53 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "53 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.description.0",
+        "source_string": "A ring made from the bones of the deceased Hanged Man",
+        "translation": "Um anel feito com os ossos do falecido Enforcado",
+        "context": "53 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.description.1",
+        "source_string": "Though most of its power is lost,",
+        "translation": "Embora a maior parte de seu poder tenha se perdido,",
+        "context": "53 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.description.2",
+        "source_string": "it still grants the wearer a bit of freedom from gravity",
+        "translation": "ainda concede ao portador um pouco de liberdade da gravidade",
+        "context": "53 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "53.ability.0",
+        "source_string": "Reduces fall damage by 66%",
+        "translation": "Reduz o dano de queda em 50%",
+        "context": "53 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.name.0",
+        "source_string": "Incomplete Golden Grail",
+        "translation": "Cálice Dourado Incompleto",
+        "context": "54 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "54 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.description.0",
+        "source_string": "A saint’s relic yet to be filled, it blesses the holder with",
+        "translation": "Uma relíquia de santo ainda não preenchida, que abençoa",
+        "context": "54 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.description.1",
+        "source_string": "immense luck. The source of this blessing remains unknown,",
+        "translation": "Imensa sorte. A origem dessa bênção permanece desconhecida,",
+        "context": "54 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.description.2",
+        "source_string": "as it quietly awaits the day it will be complete",
+        "translation": "Enquanto aguarda silenciosamente o dia em que será completada",
+        "context": "54 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "54.ability.0",
+        "source_string": "Greatly increases luck. Doubles money earned",
+        "translation": "Aumenta grandemente a sorte. Dobra o dinheiro obtido",
+        "context": "54 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.name.0",
+        "source_string": "Arsonist’s Gloves",
+        "translation": "Luvas do Incendiário",
+        "context": "55 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.subtitle.0",
+        "source_string": "\"Hah, Such filthy fireworks.\"",
+        "translation": "\"Hah, que fogos de artifício imundos.\"",
+        "context": "55 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.description.0",
+        "source_string": "Thick, heatproof gloves reeking of gunpowder",
+        "translation": "Luvas grossas e à prova de calor, com cheiro forte de pólvora",
+        "context": "55 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.ability.0",
+        "source_string": "+30% explosion radius for self-triggered bombs",
+        "translation": "+30% de raio de explosão para bombas acionadas por você",
+        "context": "55 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "55.ability.1",
+        "source_string": "Bombs have a chance to trigger chain explosions",
+        "translation": "Bombas têm chance de desencadear explosões em cadeia",
+        "context": "55 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.name.0",
+        "source_string": "Saint Maiden’s Mercy",
+        "translation": "Misericórdia da Santa Donzela",
+        "context": "56 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.subtitle.0",
+        "source_string": "\"Good child, good child...\"",
+        "translation": "\"Boa criança, boa criança...\"",
+        "context": "56 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.description.0",
+        "source_string": "One of the nun's attires, silky smooth to the touch, unforgettable",
+        "translation": "Uma das vestes da freira, sedosa ao toque, inesquecível",
+        "context": "56 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.description.1",
+        "source_string": "Holy radiance flows through its fibers, offering comfort",
+        "translation": "A radiância sagrada flui por suas fibras, oferecendo conforto",
+        "context": "56 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.ability.0",
+        "source_string": "Forcibly enters Sage Mode",
+        "translation": "Entra à força no Modo Sábio",
+        "context": "56 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "56.ability.1",
+        "source_string": "Gain more affinity when patting \\str[120]’s head",
+        "translation": "Ganha mais afinidade ao afagar a cabeça da \\str\\[120]",
+        "context": "56 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.name.0",
+        "source_string": "Ichigo Wo Torimodose!!",
+        "translation": "Recupere o Ichigo!",
+        "context": "57 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "57 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.description.0",
+        "source_string": "ASABA, consumed by grief over the lost strawberry, ",
+        "translation": "ASABA, consumido pela tristeza pelo morango perdido, ",
+        "context": "57 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.description.1",
+        "source_string": "unleashes his ultimate art. Once targeted, you’re swallowed",
+        "translation": "Libera sua arte suprema. Uma vez marcado, você é engolido",
+        "context": "57 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.description.2",
+        "source_string": "by an unavoidable storm of combos… But sorrow lingers—",
+        "translation": "Por uma tempestade inevitável de combos… Mas a tristeza permanece—",
+        "context": "57 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.description.3",
+        "source_string": "burned by fate’s emotions, you too inherit this forbidden technique! ",
+        "translation": "queimado pelas emoções do destino, você herda esta técnica proibida! ",
+        "context": "57 -> description -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.ability.0",
+        "source_string": "Unleash a special move with the right command ",
+        "translation": "Liberte um golpe especial com o comando correto ",
+        "context": "57 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "57.ability.1",
+        "source_string": "The lower your HP, the stronger the special move",
+        "translation": "Quanto menor o seu PV, mais forte será o golpe especial",
+        "context": "57 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.name.0",
+        "source_string": "Rubrum Pendant",
+        "translation": "Pingente Rubrum",
+        "context": "59 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "59 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.description.0",
+        "source_string": "The Fallen Magician’s Precious Relic. ",
+        "translation": "A Preciosa Relíquia do Mago Caído. ",
+        "context": "59 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.description.1",
+        "source_string": "A pendant crafted from a small amount of Philosopher's Fragment ",
+        "translation": "Um pingente forjado a partir de uma pequena quantidade de Fragmento do Filósofo ",
+        "context": "59 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.description.2",
+        "source_string": "imbued with a faint yet everlasting alchemical power",
+        "translation": "Imbuído de um poder alquímico tênue, porém eterno",
+        "context": "59 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.ability.0",
+        "source_string": "Boosts magic attack based on held Philosopher's Fragment count",
+        "translation": "Aumenta o ataque mágico com base na quantidade de Fragmentos do Filósofo em posse",
+        "context": "59 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "59.ability.1",
+        "source_string": "Reduces weapon durability use when casting magic by \\c[6]24%\\c[0]",
+        "translation": "Reduz o desgaste da durabilidade da arma ao conjurar magia em \\c[6]24%\\c[0]",
+        "context": "59 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.name.0",
+        "source_string": "Fallen Mage's Circlet",
+        "translation": "Diadema do Mago Caído",
+        "context": "60 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "60 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.description.0",
+        "source_string": "A cursed circlet tainted by dark magic,",
+        "translation": "Um círculo amaldiçoada, corrompida por magia negra,",
+        "context": "60 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.description.1",
+        "source_string": "haunted by a stubborn grudge that gnaws at the flesh",
+        "translation": "Assombrada por um rancor teimoso que corrói a carne",
+        "context": "60 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.ability.0",
+        "source_string": "Magic attack power +100%",
+        "translation": "Poder de ataque mágico +100%",
+        "context": "60 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "60.ability.1",
+        "source_string": "Max HP -50%",
+        "translation": "PV Máx -50%",
+        "context": "60 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.name.0",
+        "source_string": "Fallen Mage's Cloak",
+        "translation": "Manto do Mago Caído",
+        "context": "61 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "61 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.description.0",
+        "source_string": "A cursed cloak tainted by dark magic,",
+        "translation": "Um manto amaldiçoado, corrompido por magia sombria,",
+        "context": "61 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.description.1",
+        "source_string": "haunted by a vengeful spirit craving retribution",
+        "translation": "Assombrado por um espírito vingativo sedento por retribuição",
+        "context": "61 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.ability.0",
+        "source_string": "Afterimages created by Senpo linger longer",
+        "translation": "As pós-imagens criadas por Senpo permanecem por mais tempo",
+        "context": "61 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "61.ability.1",
+        "source_string": "Objects touched by them are frozen in place",
+        "translation": "Objetos tocados por elas ficam congelados no lugar",
+        "context": "61 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.name.0",
+        "source_string": "Fallen Mage's Gloves",
+        "translation": "Luvas do Mago Caído",
+        "context": "62 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "62 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.description.0",
+        "source_string": "Cursed gloves tainted by dark magic,",
+        "translation": "Luvas amaldiçoadas manchadas por magia negra,",
+        "context": "62 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.description.1",
+        "source_string": "infused with a vengeful spirit eager to attack",
+        "translation": "Imbuídas de um espírito vingativo ansioso para atacar",
+        "context": "62 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "62.ability.0",
+        "source_string": "Projectiles track nearby enemies",
+        "translation": "Projéteis perseguem inimigos próximos",
+        "context": "62 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.name.0",
+        "source_string": "Fallen Mage's Shoes",
+        "translation": "Botas do Mago Caído",
+        "context": "63 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "63 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.description.0",
+        "source_string": "Cursed shoes tainted by dark magic,",
+        "translation": "Botas amaldiçoadas manchadas por magia negra,",
+        "context": "63 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.description.1",
+        "source_string": "infused with a vengeful spirit that grants ghost-like agility",
+        "translation": "Imbuídas de um espírito vingativo que concede agilidade fantasmagórica",
+        "context": "63 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "63.ability.0",
+        "source_string": "Boosts movement speed, grants void state when using Senpo",
+        "translation": "Aumenta a velocidade de movimento, concede estado de vazio ao usar Senpo",
+        "context": "63 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.name.0",
+        "source_string": "Determination Headband",
+        "translation": "Faixa de Determinação",
+        "context": "65 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.subtitle.0",
+        "source_string": "\"Who the hell do you think I am!?\"",
+        "translation": "\"Quem diabos você pensa que eu sou!?\"",
+        "context": "65 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.description.0",
+        "source_string": "A headband that stirs passion when worn",
+        "translation": "Uma faixa que desperta paixão quando usada",
+        "context": "65 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.description.1",
+        "source_string": "No real effect, but its unyielding spirit is unmatched",
+        "translation": "Sem efeito real, mas com um espírito inabalável incomparável",
+        "context": "65 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.ability.0",
+        "source_string": "reduces abnormal status chance",
+        "translation": "Reduz a chance de status anormal",
+        "context": "65 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "65.ability.1",
+        "source_string": "Has a small chance to resist fatal damage",
+        "translation": "Tem uma pequena chance de resistir a dano fatal",
+        "context": "65 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.name.0",
+        "source_string": "Martial Artist's Bracers",
+        "translation": "Braçadeiras do Artista Marcial",
+        "context": "67 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "67 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.description.0",
+        "source_string": "Bandaged bracers worn by martial artists during sparring",
+        "translation": "Braçadeiras enfaixadas usadas por artistas marciais durante os treinos",
+        "context": "67 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.description.1",
+        "source_string": "They protect joints while improving movement precision",
+        "translation": "Protegem as articulações enquanto melhoram a precisão dos movimentos",
+        "context": "67 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.ability.0",
+        "source_string": "-12% weapon durability consumption",
+        "translation": "— 12% de consumo de durabilidade da arma",
+        "context": "67 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "67.ability.1",
+        "source_string": "Increased attack speed & boosted unarmed combo damage",
+        "translation": "Velocidade de ataque aumentada e dano de combos desarmado reforçado",
+        "context": "67 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.name.0",
+        "source_string": "Martial Artist's Shoes",
+        "translation": "Botas do Artista Marcial",
+        "context": "68 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "68 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.description.0",
+        "source_string": "Shoes commonly worn by martial artists who have",
+        "translation": "Sapatos comumente usados por artistas marciais que",
+        "context": "68 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.description.1",
+        "source_string": "mastered their craft, radiating a powerful aura",
+        "translation": "Dominaram sua arte, irradiando uma aura poderosa",
+        "context": "68 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "68.ability.0",
+        "source_string": "Movement speed increased. Senpo enhanced",
+        "translation": "Velocidade de movimento aumentada. Senpo aprimorado",
+        "context": "68 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.name.0",
+        "source_string": "Face Breaker",
+        "translation": "Quebra-Faces",
+        "context": "69 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.subtitle.0",
+        "source_string": "\"Damn it... I just wanna punch someone in the face...!\"",
+        "translation": "\"Droga... eu só quero socar alguém na cara...!\"",
+        "context": "69 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.description.0",
+        "source_string": "Punching gloves left behind by a legendary boxer.",
+        "translation": "Luvas de soco deixadas por um boxeador lendário.",
+        "context": "69 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.description.1",
+        "source_string": "You can still feel the overwhelming force lingering on them.",
+        "translation": "Ainda é possível sentir a força avassaladora que permanece nelas.",
+        "context": "69 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.ability.0",
+        "source_string": "Cannot use weapons while equipped",
+        "translation": "Não é possível usar armas enquanto equipado",
+        "context": "69 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "69.ability.1",
+        "source_string": "Punch attacks may deal bonus damage based on target HP",
+        "translation": "Ataques de soco podem causar dano extra baseado no PV do alvo",
+        "context": "69 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.name.0",
+        "source_string": "Scarecrow's Heart",
+        "translation": "Coração do Espantalho",
+        "context": "70 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "70 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.0",
+        "source_string": "A hollow body of a scarecrow",
+        "translation": "Um corpo oco de um espantalho",
+        "context": "70 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.description.1",
+        "source_string": "No warmth, no heartbeat—yet it can live in your place",
+        "translation": "Sem calor, sem batimento cardíaco — ainda assim pode viver em seu lugar",
+        "context": "70 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.ability.0",
+        "source_string": "Prevents all forms of HP recovery while equipped",
+        "translation": "Impede todas as formas de recuperação de PV enquanto equipado",
+        "context": "70 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "70.ability.1",
+        "source_string": "At 0 HP, you remain active a bit longer before falling",
+        "translation": "Com 0 PV, você permanece ativo por um pouco mais de tempo antes de cair",
+        "context": "70 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.name.0",
+        "source_string": "Lava Ring",
+        "translation": "Anel de Lava",
+        "context": "73 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "73 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.description.0",
+        "source_string": "A ring forged from rock flowing with scorching magma",
+        "translation": "Um anel forjado a partir de rocha que flui com magma escaldante",
+        "context": "73 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.description.1",
+        "source_string": "Wearing it eases the pain from both frost and flame",
+        "translation": "Usá-lo alivia a dor tanto do gelo quanto da chama",
+        "context": "73 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.ability.0",
+        "source_string": "Greatly reduces the chance of being frozen",
+        "translation": "Reduz muito a chance de ser congelado",
+        "context": "73 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "73.ability.1",
+        "source_string": "Reduces the chance of being burned",
+        "translation": "Reduz a chance de ser queimado",
+        "context": "73 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "74.name.0",
+        "source_string": "Volumen Salamandrae",
+        "translation": "Volumen Salamandrae",
+        "context": "74 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "74.subtitle.0",
+        "source_string": "\"Yes, they do like chili peppers...\"",
+        "translation": "\"Sim, eles realmente gostam de pimentas...\"",
+        "context": "74 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "74.description.0",
+        "source_string": "A grimoire bound with salamander scales. Though it resembles",
+        "translation": "Um grimório encadernado com escamas de salamandra. Embora se assemelhe",
+        "context": "74 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "74.description.1",
+        "source_string": "an encyclopedia, its records of volcano-dwelling salamanders ",
+        "translation": "a uma enciclopédia, seus registros de salamandras que habitam vulcões ",
+        "context": "74 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "74.description.2",
+        "source_string": "grant deeper insight into fire when studied.",
+        "translation": "Concedem uma compreensão mais profunda sobre o fogo quando estudado.",
+        "context": "74 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "74.ability.0",
+        "source_string": "Strengthens the damage and form of fire-element magic",
+        "translation": "Fortalece o dano e a forma da magia do elemento fogo",
+        "context": "74 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.name.0",
+        "source_string": "Royal Decree",
+        "translation": "Decreto Real",
+        "context": "80 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "80 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.description.0",
+        "source_string": "A ring symbolizing the supreme glory of a true king",
+        "translation": "Um anel que simboliza a glória suprema de um verdadeiro rei",
+        "context": "80 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.description.1",
+        "source_string": "Greatly boosts follower morale!",
+        "translation": "Aumenta muito o moral dos seguidores!",
+        "context": "80 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.ability.0",
+        "source_string": "Slightly increases all stats",
+        "translation": "Aumenta um pouco todos os atributos",
+        "context": "80 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "80.ability.1",
+        "source_string": "Enlarges all servants and enhances their special attributes",
+        "translation": "Aumenta todos os servos e aprimora seus atributos especiais",
+        "context": "80 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "100.name.0",
+        "source_string": "Unit I Nexus",
+        "translation": "Unidade I Nexus",
+        "context": "100 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "100.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "100 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "100.description.0",
+        "source_string": "A core far more advanced than modern tech, its surface glowing ",
+        "translation": "Um núcleo muito mais avançado que a tecnologia moderna, sua superfície brilhante ",
+        "context": "100 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "100.description.1",
+        "source_string": "with mysterious energy circuits. Even with most parts missing, ",
+        "translation": "Com circuitos de energia misteriosos. Mesmo com a maioria das partes faltando, ",
+        "context": "100 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "100.description.2",
+        "source_string": "it still shows incredible computational and sensing power",
+        "translation": "Ainda mostra um poder incrível de detecção e computação",
+        "context": "100 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "100.ability.0",
+        "source_string": "Grants area detection when equipped",
+        "translation": "Concede detecção de área quando equipado",
+        "context": "100 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "100.ability.1",
+        "source_string": "Detected object types increase as the core’s level rises",
+        "translation": "Aumentam os tipos dos objetos detectados conforme o nível do núcleo aumenta",
+        "context": "100 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "125.name.0",
+        "source_string": "Atsu Atsu Bouzu",
+        "translation": "Atsu Atsu Bouzu",
+        "context": "125 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "125.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "125 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "125.description.0",
+        "source_string": "A cloth doll made with someone's heartfelt prayers. It carries",
+        "translation": "Um boneco de pano feito com as orações sinceras de alguém. Ele",
+        "context": "125 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "125.description.1",
+        "source_string": "wishes, bringing slight changes to regular weather patterns",
+        "translation": "carrega desejos, trazendo pequenas mudanças aos padrões climáticos normais",
+        "context": "125 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "125.description.2",
+        "source_string": "However, The doll quietly disappears afterward",
+        "translation": "No entanto, o boneco desaparece silenciosamente em seguida",
+        "context": "125 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "125.ability.0",
+        "source_string": "Ensures scorching hot weather the next day when equipped",
+        "translation": "Quando equipado, garante clima escaldante no dia seguinte",
+        "context": "125 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "126.name.0",
+        "source_string": "Teru Teru Bouzu",
+        "translation": "Teru Teru Bouzu",
+        "context": "126 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "126.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "126 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "126.description.0",
+        "source_string": "A cloth doll made with someone's heartfelt prayers. It carries",
+        "translation": "Um boneco de pano feito com as orações sinceras de alguém. Ele",
+        "context": "126 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "126.description.1",
+        "source_string": "wishes, bringing slight changes to regular weather patterns",
+        "translation": "Carrega desejos, trazendo pequenas mudanças aos padrões climáticos normais",
+        "context": "126 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "126.description.2",
+        "source_string": "However, The doll quietly disappears afterward",
+        "translation": "No entanto, o boneco desaparece silenciosamente em seguida",
+        "context": "126 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "126.ability.0",
+        "source_string": "Ensures sunny weather the next day when equipped",
+        "translation": "Quando equipado, garante clima ensolarado no dia seguinte",
+        "context": "126 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "127.name.0",
+        "source_string": "Kumo Kumo Bouzu",
+        "translation": "Kumo Kumo Bouzu",
+        "context": "127 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "127.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "127 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "127.description.0",
+        "source_string": "A cloth doll made with someone's heartfelt prayers. It carries",
+        "translation": "Um boneco de pano feito com as orações sinceras de alguém. Ele",
+        "context": "127 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "127.description.1",
+        "source_string": "wishes, bringing slight changes to regular weather patterns",
+        "translation": "Carrega desejos, trazendo pequenas mudanças aos padrões climáticos normais",
+        "context": "127 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "127.description.2",
+        "source_string": "However, The doll quietly disappears afterward",
+        "translation": "No entanto, o boneco desaparece silenciosamente em seguida",
+        "context": "127 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "127.ability.0",
+        "source_string": "Ensures cloudy weather the next day when equipped",
+        "translation": "Quando equipado, garante clima nublado no dia seguinte",
+        "context": "127 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "128.name.0",
+        "source_string": "Ame Ame Bouzu",
+        "translation": "Ame Ame Bouzu",
+        "context": "128 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "128.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "128 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "128.description.0",
+        "source_string": "A cloth doll made with someone's heartfelt prayers. It carries",
+        "translation": "Um boneco de pano feito com as orações sinceras de alguém. Ele",
+        "context": "128 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "128.description.1",
+        "source_string": "wishes, bringing slight changes to regular weather patterns",
+        "translation": "Carrega desejos, trazendo pequenas mudanças aos padrões climáticos normais",
+        "context": "128 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "128.description.2",
+        "source_string": "However, The doll quietly disappears afterward",
+        "translation": "No entanto, o boneco desaparece silenciosamente em seguida",
+        "context": "128 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "128.ability.0",
+        "source_string": "Ensures rainy weather the next day when equipped",
+        "translation": "Quando equipado, garante clima chuvoso no dia seguinte",
+        "context": "128 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "129.name.0",
+        "source_string": "A girl's smile",
+        "translation": "O sorriso de uma garota",
+        "context": "129 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "129.subtitle.0",
+        "source_string": "\"\\str[121], you kept your promise well!\"",
+        "translation": "\"\\str[121], Você cumpriu bem a sua promessa!\"",
+        "context": "129 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "129.description.0",
+        "source_string": "The little sister who always admired and worried about",
+        "translation": "A imouto-chan que sempre admirou e se preocupou com seu",
+        "context": "129 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "129.description.1",
+        "source_string": "her \\str[121] finally shows a satisfied smile",
+        "translation": "\\str[121] finalmente mostra um sorriso satisfeito",
+        "context": "129 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "129.description.2",
+        "source_string": "For \\str[121], it's enough to be the motivation to keep going",
+        "translation": "Para \\str[121], isso é suficiente para ser a motivação para continuar",
+        "context": "129 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "129.ability.0",
+        "source_string": "Desire up, all stats up",
+        "translation": "Desejo aumentado, todos os atributos aumentados",
+        "context": "129 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "130.name.0",
+        "source_string": "\\str[120]'s removed panties",
+        "translation": "calcinha da \\str[120] foi removida",
+        "context": "130 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "130.subtitle.0",
+        "source_string": "\"It still carries \\str[120]'s scent...\"",
+        "translation": "\"Ainda carrega o aroma da \\str[120]...\"",
+        "context": "130 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "130.description.0",
+        "source_string": "Panties received from \\str[120] due to a misunderstanding",
+        "translation": "Calcinha recebida da \\str\\[120] devido a um mal-entendido",
+        "context": "130 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "130.description.1",
+        "source_string": "Never returned, but deep down, there's happiness",
+        "translation": "Nunca devolvida, mas, no fundo, há felicidade",
+        "context": "130 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "130.ability.0",
+        "source_string": "Inspired by \\str[120]. When HP < 50%, gain auto-recovery",
+        "translation": "Inspirado por \\str\\[120]. Quando o HP < 50%, ganha auto-recuperação",
+        "context": "130 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "131.name.0",
+        "source_string": "Bunny Plush",
+        "translation": "Coelho de Pelúcia",
+        "context": "131 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "131.subtitle.0",
+        "source_string": "\"Waaah—! Don’t break it~~!\"",
+        "translation": "\"Waaah—! Não rasgue ele~~!\"",
+        "context": "131 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "131.description.0",
+        "source_string": "A stuffed bunny plush that \\str[120] always carries in ",
+        "translation": "Um coelho de pelúcia que \\str[120] sempre carrega ",
+        "context": "131 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "131.description.1",
+        "source_string": "her arms, filled with her scent",
+        "translation": "Seus braços, impregnado com seu aroma",
+        "context": "131 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "131.description.2",
+        "source_string": "Come to think of it… why is this in my hands?",
+        "translation": "Pensando bem… por que isso está em minhas mãos?",
+        "context": "131 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "131.ability.0",
+        "source_string": null,
+        "translation": null,
+        "context": "131 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "147.name.0",
+        "source_string": "Woundplast",
+        "translation": "Curativo",
+        "context": "147 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "147.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "147 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "147.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "147 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "150.name.0",
+        "source_string": "Bonus T-shirt",
+        "translation": "Camiseta Bônus",
+        "context": "150 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "150.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "150 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "150.description.0",
+        "source_string": "A custom-made outfit from the knight,",
+        "translation": "Uma roupa feita sob medida pelo cavaleiro,",
+        "context": "150 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "150.description.1",
+        "source_string": "supposedly for promoting the game",
+        "translation": "Supostamente para promover o jogo",
+        "context": "150 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "150.description.2",
+        "source_string": "But I don’t really want to wear it",
+        "translation": "Mas eu realmente não quero usá-la",
+        "context": "150 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "152.name.0",
+        "source_string": "\\str[120]’s Pajamas",
+        "translation": "Pijama da \\str[120]",
+        "context": "152 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "152.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "152 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "152.description.0",
+        "source_string": "A camisole pajama that \\str[120] usually wears, ",
+        "translation": "Um pijama de camisola que \\str[120] geralmente usa, ",
+        "context": "152 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "152.description.1",
+        "source_string": "decorated with the bows she loves.",
+        "translation": "Decorado com os laços que ela ama.",
+        "context": "152 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "152.description.2",
+        "source_string": "Come to think of it… why is this in my hands?",
+        "translation": "Pensando bem… por que isso está em minhas mãos?",
+        "context": "152 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "153.name.0",
+        "source_string": "\\str[120]’s Shorts",
+        "translation": "Shortinho da \\str\\[120]",
+        "context": "153 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "153.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "153 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "153.description.0",
+        "source_string": "Soft and fluffy shorts that \\str[120] usually wears, ",
+        "translation": "Shortinho macio e fofinho que \\str\\[120] geralmente usa, ",
+        "context": "153 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "153.description.1",
+        "source_string": "decorated with the bows she loves.",
+        "translation": "Decorado com os laços que ela ama.",
+        "context": "153 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "153.description.2",
+        "source_string": "Come to think of it… why is this in my hands?",
+        "translation": "Pensando bem… por que isso está em minhas mãos?",
+        "context": "153 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "154.name.0",
+        "source_string": "Blue white panties",
+        "translation": "Calcinha azul e branca",
+        "context": "154 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "154.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "154 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "154.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "154 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "155.name.0",
+        "source_string": "Pink white panties",
+        "translation": "Calcinha rosa e branca",
+        "context": "155 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "155.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "155 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "155.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "155 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "156.name.0",
+        "source_string": "White panties",
+        "translation": "Calcinha branca",
+        "context": "156 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "156.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "156 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "156.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "156 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "157.name.0",
+        "source_string": "Woundplast",
+        "translation": "Curativo",
+        "context": "157 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "157.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "157 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "157.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "157 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "159.name.0",
+        "source_string": "No panties...",
+        "translation": "Sem calcinha...",
+        "context": "159 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "159.subtitle",
+        "source_string": null,
+        "translation": null,
+        "context": "159 -> subtitle",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "159.description.0",
+        "source_string": null,
+        "translation": null,
+        "context": "159 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "296.name.0",
+        "source_string": "Ruika’s Lucky Mallet",
+        "translation": "Martelo da sorte da Ruika",
+        "context": "296 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "296.subtitle.0",
+        "source_string": "\"Head Maid Ruika always uses it to bonk the disobedient bunnies.\"",
+        "translation": "\"A chefe Maid-Ruika sempre o usa para bater em coelhos desobedientes.\"",
+        "context": "296 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "296.description.0",
+        "source_string": "A hidden treasure of Maid Bunnies, said to be why they took over the ",
+        "translation": "Um tesouro escondido das Coelhas-Maid, dizem ser o motivo de terem ",
+        "context": "296 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "296.description.1",
+        "source_string": "market so fast. With a light swing, it grants the wielder’s wishes—",
+        "translation": "Dominado o mercado tão rápido. Com um leve movimento, garante desejos ao portador—",
+        "context": "296 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "296.description.2",
+        "source_string": "Adventurers often see it fixing machines broken by troublemakers",
+        "translation": "Aventureiros costumam ver consertando máquinas quebradas por arruaceiros",
+        "context": "296 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "296.ability.0",
+        "source_string": "Increases money and item drop rates",
+        "translation": "Aumenta a chance de dropar ítens de dinheiro",
+        "context": "296 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "297.name.0",
+        "source_string": "Mio’s First Aid Kit",
+        "translation": "Kit de primeiros socorros da Mio",
+        "context": "297 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "297.subtitle.0",
+        "source_string": "\"Oh my god! I fell into the hole again!?\"",
+        "translation": "\"Droga! Eu caí no buraco de novo!?\"",
+        "context": "297 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "297.description.0",
+        "source_string": "Originally a tool the admin used to test the healing system",
+        "translation": "Originalmente, uma ferramenta usada pelo dev para testar o sistemas de cura ",
+        "context": "297 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "297.description.1",
+        "source_string": "but he forgot to delete it later. Still, it’s useless ",
+        "translation": "mas ele acabou esquecendo de apagar. Ainda é inútil ",
+        "context": "297 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "297.description.2",
+        "source_string": "against instant-death mechanics",
+        "translation": "Contra coisas que podem causar hit kill",
+        "context": "297 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "297.ability.0",
+        "source_string": "Restores 100% HP per second when equipped",
+        "translation": "Restaura 100% de HP por segundo quando equipado",
+        "context": "297 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "298.name.0",
+        "source_string": "Shiroin’s Golden Finger",
+        "translation": "Dedo dourado de Shiroin",
+        "context": "298 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "298.subtitle.0",
+        "source_string": "\"You know this thing will ruin the game, right?\"",
+        "translation": "\"Você sabe que isso vai estragar o jogo né?\"",
+        "context": "298 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "298.subtitle.1",
+        "source_string": "\"I know.\"",
+        "translation": "\"Eu sei.\"",
+        "context": "298 -> subtitle -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "298.subtitle.2",
+        "source_string": "\"And you still want to equip it?\"",
+        "translation": "\"E ainda assim você quer equipar?\"",
+        "context": "298 -> subtitle -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "298.subtitle.3",
+        "source_string": "\"Of course.\"",
+        "translation": "\"Claro que sim.\"",
+        "context": "298 -> subtitle -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "298.description.0",
+        "source_string": "A relic that turns touch to gold — the Bladekeepers’ ultimate dream",
+        "translation": "Uma relíquia que turna tudo que toca em ouro — o sonho de quem se apaixonou por uma arma.",
+        "context": "298 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "298.ability.0",
+        "source_string": "Weapons no longer break from attacks",
+        "translation": "Armas não quebram mais ao atacar",
+        "context": "298 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "299.name.0",
+        "source_string": "Absolute Territory",
+        "translation": "Território Absoluto",
+        "context": "299 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "299.subtitle.0",
+        "source_string": null,
+        "translation": null,
+        "context": "299 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "299.description.0",
+        "source_string": "The sacred space between a girl's miniskirt and thigh-high socks",
+        "translation": "O espaço sagrado entre a minissaia de uma garota e suas meias 3/4",
+        "context": "299 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "299.description.1",
+        "source_string": "Not only does it grant high magic resistance, but also the absurd ",
+        "translation": "Não apenas concede alta resistência mágica, mas também a habilidade ",
+        "context": "299 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "299.description.2",
+        "source_string": "ability to pull out all sorts of items from under the skirt at will",
+        "translation": "Absurda de tirar todo tipo de item debaixo da saia à vontade",
+        "context": "299 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "299.ability.0",
+        "source_string": "Extra carry capacity for weapons +99",
+        "translation": "Aumenta a capacidade de transportar armas em +99",
+        "context": "299 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "299.ability.1",
+        "source_string": "Extra carry capacity for gears +99",
+        "translation": "Aumenta a capacidade de transportar equipamentos em +99",
+        "context": "299 -> ability -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "300.name.0",
+        "source_string": "Catalyst Amatoria",
+        "translation": "Catalisador Amatoria",
+        "context": "300 -> name -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "300.subtitle.0",
+        "source_string": "\"Give me your love—! Otherwise, let’s just die together~~~!\"",
+        "translation": "\"Me dê o seu amor—! Caso contrário, vamos apenas morrer juntos~~~!\"",
+        "context": "300 -> subtitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "300.description.0",
+        "source_string": "A forbidden artifact forged by a certain yandere archdemon",
+        "translation": "Um artefato proibido forjado por uma certa arquidemônia yandere",
+        "context": "300 -> description -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "300.description.1",
+        "source_string": "It forcibly makes anyone it touches fall in love with the wearer",
+        "translation": "Faz com que qualquer um que tocar se apaixone à força pelo portador",
+        "context": "300 -> description -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "300.description.2",
+        "source_string": "ignoring their will",
+        "translation": "Ignorando sua vontade",
+        "context": "300 -> description -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "300.ability.0",
+        "source_string": "Greatly boosts the stats gained when patting \\str[120]",
+        "translation": "Aumenta grandemente os atributos ganhos ao afagar \\str\\[120]",
+        "context": "300 -> ability -> 0",
+        "labels": null,
+        "max_length": null
+    }
+]
