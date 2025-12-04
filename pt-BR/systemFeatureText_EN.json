@@ -1,0 +1,546 @@
+[
+    {
+        "identifier": "gameTitle.0",
+        "source_string": "A Simple Life with My Unobtrusive Girl ",
+        "translation": "Uma Vida Simples com Minha Imouto Discreta ",
+        "context": "gameTitle -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "goldHeld.0",
+        "source_string": "Gold",
+        "translation": "Gold",
+        "context": "goldHeld -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "quantityHeld.0",
+        "source_string": "\\fs[16]•Quantity Held:\\c[17] ${} \\c[0]\\py[-8]",
+        "translation": "\fs[16]•Quantidade Possuída:\\c[17] ${} \\c[0]\\py[-8]",
+        "context": "quantityHeld -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "autoUpdate.0",
+        "source_string": "Update available: Version ${} game data detected. ",
+        "translation": "Atualização disponível: Dados do jogo da versão ${} detectados. ",
+        "context": "autoUpdate -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "autoUpdate.1",
+        "source_string": "Would you like to download and update now?",
+        "translation": "Deseja baixar e atualizar agora?",
+        "context": "autoUpdate -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "fullScreen.0",
+        "source_string": "Full Screen",
+        "translation": "Tela Cheia",
+        "context": "fullScreen -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "masterVolume.0",
+        "source_string": "Master Volume",
+        "translation": "Volume Geral",
+        "context": "masterVolume -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "voiceVolume.0",
+        "source_string": "Voice Volume",
+        "translation": "Volume da Voz",
+        "context": "voiceVolume -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "BgmVolume.0",
+        "source_string": "BGM Volume",
+        "translation": "Volume do BGM",
+        "context": "BgmVolume -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "BgsVolume.0",
+        "source_string": "BGS Volume",
+        "translation": "Volume do Ambiente",
+        "context": "BgsVolume -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "SeVolume.0",
+        "source_string": "SE Volume",
+        "translation": "Volume dos Efeitos Sonoros",
+        "context": "SeVolume -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "MaxPlayerMsgs.0",
+        "source_string": "Max Player Msgs",
+        "translation": "Máx. de Mensagens por Jogador",
+        "context": "MaxPlayerMsgs -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "GameFAQ.0",
+        "source_string": "Game Guide",
+        "translation": "Guia do Jogo",
+        "context": "GameFAQ -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ShowWeaponDurability.0",
+        "source_string": "Show Weapon Durability",
+        "translation": "Mostrar Durabilidade da Arma",
+        "context": "ShowWeaponDurability -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "DisableAutoUpdate.0",
+        "source_string": "Disable Auto Update",
+        "translation": "Desativar Atualização Automática",
+        "context": "DisableAutoUpdate -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "LockedFPS.0",
+        "source_string": "Locked 60 FPS",
+        "translation": "Travar a 60 FPS",
+        "context": "LockedFPS -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "Language.0",
+        "source_string": "Game Language",
+        "translation": "Idioma do Jogo",
+        "context": "Language -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "SwitchLanguage.0",
+        "source_string": "Game language change detected!",
+        "translation": "Mudança de idioma do jogo detectado!",
+        "context": "SwitchLanguage -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "SwitchLanguage.1",
+        "source_string": "Restarting now to apply the new language settings!",
+        "translation": "Reiniciando agora para aplicar as novas configurações de idioma!",
+        "context": "SwitchLanguage -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ErrorReport.0",
+        "source_string": "An error occurred. Please report the bug on the NLCH Discord server.",
+        "translation": "Um erro ocorreu. Pedimos que relate o bug no servidor do Discord do NLCH.",
+        "context": "ErrorReport -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ErrorReport.1",
+        "source_string": "(Click 'OK' to open the invite link)",
+        "translation": "(Clique em 'OK' para abrir o link de convite)",
+        "context": "ErrorReport -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "ErrorReport.2",
+        "source_string": "(Attach a screenshot of the error)",
+        "translation": "(Anexe uma captura de tela do erro)",
+        "context": "ErrorReport -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "UpdateComplete1.0",
+        "source_string": "Game update completed!",
+        "translation": "Atualização do jogo concluída!",
+        "context": "UpdateComplete1 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "UpdateComplete1.1",
+        "source_string": "The game will restart automatically after closing this window.",
+        "translation": "O jogo será reiniciado automaticamente após fechar esta janela.",
+        "context": "UpdateComplete1 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "UpdateComplete1.2",
+        "source_string": "You can load the auto-save to resume progress!",
+        "translation": "Você pode carregar o salvamento automático para continuar sua jornada!",
+        "context": "UpdateComplete1 -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "UpdateComplete2.0",
+        "source_string": "Game update completed!",
+        "translation": "Atualização do jogo concluída!",
+        "context": "UpdateComplete2 -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "UpdateComplete2.1",
+        "source_string": "The game will restart shortly to apply the update!",
+        "translation": "O jogo será reiniciado em breve para aplicar a atualização!",
+        "context": "UpdateComplete2 -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "RemindToUpdate.0",
+        "source_string": "An error has occurred and the game is frozen.",
+        "translation": "Ocorreu um erro e o jogo está travado.",
+        "context": "RemindToUpdate -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "RemindToUpdate.1",
+        "source_string": "A newer patch is available—",
+        "translation": "Um patch mais recente está disponível—",
+        "context": "RemindToUpdate -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "RemindToUpdate.2",
+        "source_string": "Please use auto-update to fix the issue!",
+        "translation": "Por favor, use a atualização automática para corrigir o problema!",
+        "context": "RemindToUpdate -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "bagFull.0",
+        "source_string": "Inventory limit exceeded!!",
+        "translation": "Limite de inventário excedido!",
+        "context": "bagFull -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "noStatusEffects.0",
+        "source_string": "No status effects at all!",
+        "translation": "Sem efeitos de status!",
+        "context": "noStatusEffects -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "unimplementedDoor.0",
+        "source_string": "This door won't push open from this side",
+        "translation": "Esta porta não vai abrir deste lado",
+        "context": "unimplementedDoor -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "zipUpdateComplete.0",
+        "source_string": "Patch installed successfully. ",
+        "translation": "Atualização instalada com sucesso. ",
+        "context": "zipUpdateComplete -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "zipUpdateComplete.1",
+        "source_string": "Restarting the game to apply the update!",
+        "translation": "Reiniciando o jogo para aplicar a atualização!",
+        "context": "zipUpdateComplete -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "zipUpdateFail.0",
+        "source_string": "Failed to extract and install the patch!",
+        "translation": "Erro ao extrair e instalar atualizações!",
+        "context": "zipUpdateFail -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "zipUpdateFail.1",
+        "source_string": "Please try the auto-update again or",
+        "translation": "Por favor, tente atualizar automaticamente novamente ou",
+        "context": "zipUpdateFail -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "zipUpdateFail.2",
+        "source_string": "manually extract the patch files to install!",
+        "translation": "extraia manualmente os arquivos da atualização para instalar!",
+        "context": "zipUpdateFail -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "fileDownloadedSuccessfully.0",
+        "source_string": "${} downloaded successfully!",
+        "translation": "${} baixado com sucesso!",
+        "context": "fileDownloadedSuccessfully -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "fileDownloadFailed.0",
+        "source_string": "${} failed to download! Retrying now!",
+        "translation": "${} falhou ao baixar! Tente novamente agora!",
+        "context": "fileDownloadFailed -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "installPatch.0",
+        "source_string": "Patch requires extraction—installing now. This may cause the game to lag, please be patient!",
+        "translation": "A atualização requer extração — instalando agora. Isso pode causar lentidão no jogo, por favor, seja paciente!",
+        "context": "installPatch -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "totalFilesToUpdate.0",
+        "source_string": "Detected ${} file(s) to update—starting download process!",
+        "translation": "Foram detectados ${} arquivo(s) para atualizar — começando a baixar os arquivos!",
+        "context": "totalFilesToUpdate -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "renameCharacter.0",
+        "source_string": "I remember now—",
+        "translation": "Lembrei agora—",
+        "context": "renameCharacter -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "renameCharacter.1",
+        "source_string": "she is...",
+        "translation": "ela é...",
+        "context": "renameCharacter -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "heroName.0",
+        "source_string": "Onii-chan",
+        "translation": "Onii-chan",
+        "context": "heroName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "heroineName.0",
+        "source_string": "Imouto",
+        "translation": "Imouto",
+        "context": "heroineName -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "nonHardwareAccelerated.0",
+        "source_string": "The game is currently running on integrated graphics!",
+        "translation": "O jogo está sendo executado na placa gráfica integrada!",
+        "context": "nonHardwareAccelerated -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "nonHardwareAccelerated.1",
+        "source_string": "If your PC has a dedicated GPU, we recommend setting Game.exe ",
+        "translation": "Se o seu PC tiver uma GPU dedicada, recomendamos configurar o Game.exe ",
+        "context": "nonHardwareAccelerated -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "nonHardwareAccelerated.2",
+        "source_string": "to use it in your graphics control panel for a smoother gaming experience.",
+        "translation": "para usá-la no painel de controle gráfico, para uma experiência de jogo mais fluida.",
+        "context": "nonHardwareAccelerated -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "isAmdCPU.0",
+        "source_string": "Your CPU is detected as an AMD processor.",
+        "translation": "Seu CPU foi identificado como um processador AMD.",
+        "context": "isAmdCPU -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "isAmdCPU.1",
+        "source_string": "Some AMD chips may experience frame drops when playing VP9 (WebM) videos ",
+        "translation": "Alguns processadores AMD podem ter queda de quadros ao rodar vídeos VP9 (WebM) ",
+        "context": "isAmdCPU -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "isAmdCPU.2",
+        "source_string": "in a Chromium environment. If you encounter this issue, try forcing the game to",
+        "translation": "em um ambiente Chromium. Se você encontrar esse problema, tente forçar o jogo",
+        "context": "isAmdCPU -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "isAmdCPU.3",
+        "source_string": "use GPU rendering or update your drivers to help alleviate the problem.",
+        "translation": "a usar renderização via GPU ou atualize seus drivers para ajudar a amenizar a situação.",
+        "context": "isAmdCPU -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "failedToLoad.0",
+        "source_string": "This kind of issue may be caused by:",
+        "translation": "Este tipo de problema pode ser causado por:",
+        "context": "failedToLoad -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "failedToLoad.1",
+        "source_string": "① Game files corrupted or filenames garbled due to encoding issues during extraction/installation.",
+        "translation": "① Arquivos do jogo corrompidos ou nomes de arquivos ilegíveis devido a problemas de codificação durante a extração/instalação.",
+        "context": "failedToLoad -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "failedToLoad.2",
+        "source_string": "② The developer forgetting to include the file—please wait for a patch update to fix it.",
+        "translation": "② O desenvolvedor esqueceu de incluir o arquivo — aguarde uma atualização/patch para corrigir o problema.",
+        "context": "failedToLoad -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "LowResMode.0",
+        "source_string": "Low Graphics Mode",
+        "translation": "Modo Com Gráficos Reduzidos",
+        "context": "LowResMode -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "lowResModeWarning.0",
+        "source_string": "This feature is mainly for performance optimization on Android devices and may have little effect on the PC version.",
+        "translation": "Essa função melhora a performance em dispositivos Android, essa função deve ter pouco ou nenhum efeito na versão de PC",
+        "context": "lowResModeWarning -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "lowResModeWarning.1",
+        "source_string": "When enabled, the game renders maps and images at a lower resolution and then scales them up, ",
+        "translation": "Quando ativada, o jogo renderiza mapas e imagens em uma resolução mais baixa e então faz o upscaling, ",
+        "context": "lowResModeWarning -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "lowResModeWarning.2",
+        "source_string": "reducing GPU load on mobile devices and lowering heat generation and power consumption.",
+        "translation": "reduzindo a carga da GPU em dispositivos móveis, baixando a temperatura e consumo de bateria.",
+        "context": "lowResModeWarning -> 2",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "lowResModeWarning.3",
+        "source_string": "Note: This is an experimental feature, and its effectiveness may vary depending on the device.",
+        "translation": "Nota: Essa é uma função experimental e sua eficiência pode variar dependendo do dispositivo.",
+        "context": "lowResModeWarning -> 3",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "lowResModeWarning.4",
+        "source_string": "You can disable this feature at any time to immediately restore full image clarity.",
+        "translation": "Você pode desabilitar essa função a qualquer momento para restaurar imediatamente a resolução da imagem.",
+        "context": "lowResModeWarning -> 4",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "nearbyMonstersCount.0",
+        "source_string": "Detected nearby monsters",
+        "translation": "Monstro detectado nas proximidades",
+        "context": "nearbyMonstersCount -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "nearbyTreasuresCount.0",
+        "source_string": "Detected nearby treasures",
+        "translation": "Tesouro detectado nas proximidades",
+        "context": "nearbyTreasuresCount -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "underwaterTreasuresCount.0",
+        "source_string": "Detected underwater treasures",
+        "translation": "Tesouro submerso detectado nas proximidades",
+        "context": "underwaterTreasuresCount -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "steamWishlist.0",
+        "source_string": "Our Steam store page is finally live!",
+        "translation": "Nosa página na loja da Steam finalmente está ativa!",
+        "context": "steamWishlist -> 0",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "steamWishlist.1",
+        "source_string": "Please add us to your wishlist and support us! (*´∀`)~♥",
+        "translation": "Você pode ajudar nos adicionando a sua Wishlist! (*´∀`)~♥",
+        "context": "steamWishlist -> 1",
+        "labels": null,
+        "max_length": null
+    },
+    {
+        "identifier": "steamWishlist.2",
+        "source_string": "⬇Click below to open the Steam page.",
+        "translation": "Clique no link abaixo para ir à página da Steam.",
+        "context": "steamWishlist -> 2",
+        "labels": null,
+        "max_length": null
+    }
+]
