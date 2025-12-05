@@ -55,17 +55,17 @@
             "Não agora"
         ],
         "2": [
-            "...Já é manhã? ",
+            "...Já é de manhã? ",
             "Eu sinto que eu tive um tipo de sonho sobre a ",
             "\\str[120] mas eu não consigo lembrar...",
             "mas não consigo lembrar dele..."
         ],
         "3": [
-            "...Já é manhã? ",
+            "...Já é de manhã? ",
             "Acho que não dormi muito bem..."
         ],
         "4": [
-            "Ah, já é manhã? Eu dormi muito bem."
+            "Ah, já é manhã? Eu dormi tão bem."
         ],
         "5": [
             "Hoje está um dia lindo...\\w[45]huh? ",
@@ -103,7 +103,7 @@
   "4": {
         "0": [
             "\"...Huh!?\\w[60]...Espera, \\w[60]",
-            "já é manhã...?\""
+            "já é de manhã…?"
         ],
         "1": [
             "Minha cabeça tá girando... ",

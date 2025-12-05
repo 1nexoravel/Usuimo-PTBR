@@ -1,6 +1,6 @@
 {
   "gameTitle": [
-    "Uma Vida Simples com Minha Imouto Discreta "
+    "Uma Vida Simples com a Minha Discreta Irmãzinha "
   ],
   "goldHeld": [
     "Gold"
@@ -131,7 +131,7 @@
     "Modo Com Gráficos Reduzidos"
   ],
   "lowResModeWarning": [
-    "Essa função melhora a performance em dispositivos Android, essa função deve ter pouco ou nenhum efeito na versão de PC",
+    "Essa função melhora o desempenho em dispositivos Android, essa função deve ter pouco ou nenhum efeito na versão de PC.",
     "Quando ativada, o jogo renderiza mapas e imagens em uma resolução mais baixa e então faz o upscaling, ",
     "reduzindo a carga da GPU em dispositivos móveis, baixando a temperatura e consumo de bateria.",
     "Nota: Essa é uma função experimental e sua eficiência pode variar dependendo do dispositivo.",
@@ -147,7 +147,7 @@
     "Tesouro submerso detectado nas proximidades"
   ],
   "steamWishlist": [
-    "Nosa página na loja da Steam finalmente está ativa!",
+    "Nossa página na loja da Steam finalmente está ativa!",
     "Você pode ajudar nos adicionando a sua Wishlist! (*´∀`)~♥",
     "Clique no link abaixo para ir à página da Steam."
   ]

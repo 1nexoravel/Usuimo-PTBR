@@ -67,7 +67,7 @@
             "até que a loucura tomou conta. Mesmo removida, esse poder permanece"
         ],
         "ability": [
-            "Aumenta o HP. Aumenta os efeitos de recuperação de HP em 25%",
+            "Aumenta o PV. Aumenta os efeitos de recuperação de PV em 25%",
             "Concede regeneração automática quando equipado"
         ]
     },
@@ -82,7 +82,7 @@
             "vitalidade pode até mesmo influenciar seu portador"
         ],
         "ability": [
-            "Aumenta o HP. Aumenta os efeitos de recuperação de HP em 20%"
+            "Aumenta o PV. Aumenta os efeitos de recuperação de PV em 20%"
         ]
     },
     "8": {
@@ -393,7 +393,7 @@
             "Ainda tremendo em antecipação"
         ],
         "ability": [
-            "Causa mais dano a inimigos com menos HP, até \\c\\[10]30%\\c\\[0]"
+            "Causa mais dano a inimigos com menos PV, até \\c\\[10]30%\\c\\[0]"
         ]
     },
     "30": {
@@ -1082,7 +1082,7 @@
             "Nunca devolvida, mas, no fundo, há felicidade"
         ],
         "ability": [
-            "Inspirado por \\str\\[120]. Quando o HP < 50%, ganha auto-recuperação"
+            "Inspirado pela \\str\\[120]. Quando o PV < 50%, ganha auto-recuperação"
         ]
     },
     "131": {
@@ -1226,7 +1226,7 @@
             "Contra coisas que podem causar hit kill"
         ],
         "ability": [
-            "Restaura 100% de HP por segundo quando equipado"
+            "Restaura 100% do PV por segundo quando equipado"
         ]
     },
     "298": {

@@ -70,13 +70,13 @@
             " "
         ],
         "16": [
-            "\\\nl< >\"...\\str[121], vai um pouco pro lado...\""
+            "\\nl< >\"...\\str[121], afasta um pouco...\""
         ],
         "17": [
-            "\\\nl< >\"Daí eu também estou entrando...\""
+            "\\nl< >\"Então eu vou entrar também...\""
         ],
         "18": [
-            "\\\nl< >\"Eu estou entrando agora... ",
+            "\\nl< >\"Eu vou entrar agora... ",
             "\\str[121], não olha pra cá ainda...\""
         ],
         "19": [
@@ -97,7 +97,7 @@
             "\"Mhm... o ambiente ficou muito melhor agora.\""
         ],
         "24": [
-            "\\\nl< >\"Quu~ que, um pato fofinho!",
+            "\\nl< >\"Uau~ que patinho fofo!",
             "Você trouxe ele pra casa, \\str[121]?\""
         ],
         "25": [
@@ -105,7 +105,7 @@
             "Ele parecia muito triste lá, então eu trouxe ele pra casa.\""
         ],
         "26": [
-            "\\\nl< >\"Eh? O rio...? Te levou?",
+            "\\nl< >\"Hã? Pelo rio…? Foi levado pela correnteza?",
             "...Você não ta fazendo coisas perigosas de novo, não é?\""
         ],
         "27": [
@@ -113,7 +113,7 @@
             "pareceu tão triste, então eu trouxe ele comigo.\""
         ],
         "28": [
-            "\\\nl< >\"Parece que nossa família ganhou mais um membro~\""
+            "\\nl< >\"Parece que nossa família ganhou mais um membro~\""
         ],
         "29": [
             "Sentar Juntos",
@@ -137,11 +137,11 @@
             "Pensando nisso, eu descaradamente pedi novamente se eu podia me aproximar."
         ],
         "34": [
-            "\\\nl< >\"Eh...!?",
+            "\\nl< >\"Eh...!?",
             "\\str[121], você tá se passando \\str[121]!\""
         ],
         "35": [
-            "\\\nl< >\"...Nem pensa nisso!",
+            "\\nl< >\"...De jeito nenhum!",
             "\\str[121], sua cara tá entregando que você quer fazer,",
             "algo tarado...\""
         ],
@@ -150,11 +150,11 @@
             " "
         ],
         "37": [
-            "\\\nl< >\"\\str[121], para agora!",
+            "\\nl< >\"\\str[121], para!",
             "O patinho parece tão indefeso!\""
         ],
         "38": [
-            "\\\nl< >\"\\str[121]? Por que você tá abusando do pato asim?\""
+            "\\nl< >\"\\str[121]? Por que você está maltratando o patinho assim?\""
         ],
         "39": [
             "Ugh... Levei uma bronca da \\str[120] por apertar de mais o pato."
@@ -171,13 +171,13 @@
             "Conversa Casual"
         ],
         "43": [
-            "\\\nl< >\"Eu mal posso esperar pra tomar um leite de morango depouis do banho~\""
+            "\\nl< >\"Mal posso esperar para tomar leite de morango depois do banho~\""
         ],
         "44": [
-            "\\\nl< >\"\\str[121], seus músculos ficaram mais definidos?\""
+            "\\nl< >\"\\str[121], seus músculos ficaram mais definidos?\""
         ],
         "45": [
-            "\\\nl< >\"Parece que a água fica ainda mais quente com nos dois juntos~\""
+            "\\nl< >\"Parece que a água fica ainda mais quente quando tomamos banho juntos~\""
         ],
         "46": [
             "Eu conversei casualmente com a \\str[120] por um tempo, ",
@@ -194,11 +194,11 @@
             "falassemos sobre algumas coisas taradas."
         ],
         "49": [
-            "\\\nl< >\"...Taradas? Acho que não entendi...",
+            "\\nl< >\"...Safado? Não entendo bem...",
             "Então, o que o \\str[121] quer falar...?\""
         ],
         "50": [
-            "\\\nl< >\"...De novo? \\str[121], Você é tão provocador—  \\w[120]",
+            "\\nl< >\"...De novo? \\str[121], você é tão provocador—  \\w[120]",
             "Então, o que é dessa vez?\""
         ],
         "51": [
@@ -206,7 +206,7 @@
             "Locais Sensíveis"
         ],
         "52": [
-            "\\\nl< >\"Geez, \\str[121] tá sempre sempre mechendo comigo!",
+            "\\nl< >\"Credo, \\str[121] sempre pegando no meu pé!",
             "To saindo fora!\""
         ],
         "53": [
@@ -217,11 +217,11 @@
             "Phew... Meu corpo tá cozinhando; acho que é hora de sair."
         ],
         "55": [
-            "\\\nl< >\"Geez... você não tá nem tentando não olhar.",
+            "\\nl< >\"Credo... você nem tenta olhar pra outro lado.",
             "\\str[121], você totalmente consegue ver tudo...\""
         ],
         "56": [
-            "\\\nl< >\"Eh...? Por que você faria isso...?\""
+            "\\nl< >\"Eh...? Por que você faria isso...?\""
         ],
         "57": [
             "Eu só Quero Ver",
@@ -229,16 +229,16 @@
             "Vai Parecer Gostosa"
         ],
         "58": [
-            "\\\nl< >\"...Bem, acho que não tem problema.\""
+            "\\nl< >\"...Bem, acho que tudo bem.\""
         ],
         "59": [
-            "\\\nl< >\"\\str[121]... você tá sempre pensando nesse tipo de coisa.",
+            "\\nl< >\"\\str[121]... você sempre pensa nesse tipo de coisa.",
             "É realmente preocupante, sabe..."
         ]
   },
   "2": {
         "0": [
-            "\\nl< >\"Vamos começar o banho lavando seu braço…\""
+            "\\nl< >\"Vamos começar lavando seu braço…\""
         ],
         "1": [
             "\\str[120] levantou gentilmente meu braço e o colocou entre suas macias coxas.",
@@ -265,7 +265,7 @@
             "deixei-a continuar o seu peculiar serviço de 'lavar'."
         ],
         "4": [
-            "\\nl< >\"E ai, como foi... \\str[121]...♥",
+            "\\nl< >\"Como está... \\str[121]...♥",
             "Você não se sente... mais limpo quando lava seu braço com sua própria mão?\""
         ],
         "5": [
@@ -273,7 +273,7 @@
             "Meio estranho"
         ],
         "6": [
-            "\\nl< >\"O sentimento foi estranho...?",
+            "\\nl< >\"A sensação é estranha...?",
             "Então... \\str[121], ",
             "você poderia me ensinar como eu devo fazer isso~?\""
         ],
@@ -318,7 +318,7 @@
             "\\w[30]\\^"
         ],
         "16": [
-            "\\\nl< >\"Os braços foram completamente limpos...",
+            "\\nl< >\"Os braços foram limpos direitinho...",
             "O resto, \\str[121], você pode se virar sozinho~\""
         ],
         "17": [
@@ -353,7 +353,7 @@
             "engolindo e soltando ele pouco a pouco."
         ],
         "23": [
-            "\\\nl< >\"Que tal isso~?",
+            "\\nl< >\"Que tal isso~?",
             "Estou fazendo isso só pra você, \\str[121]〜♪      \\w[180]",
             "Então, como você quer que eu te lave agora〜？\""
         ],
@@ -386,66 +386,66 @@
             "Então, de qual forma eu devo pedir pra ela finalizar!?"
         ],
         "29": [
-            "\\\nl< >\"Se eu posso fazer o que eu quiser—um, o-ok...              \\w[120]",
+            "\\nl< >\"Se eu puder fazer o que quiser—hum, t-tudo bem...              \\w[120]",
             "Isso significa \\str[121], pode deixar tudo comigo agora♥♥\"     \\w[180]"
         ],
         "30": [
-            "\\\nl< >\"I-Isso parece tão escorregadio... ",
+            "\\nl< >\"E-Está tão escorregadio... ",
             "\\str[121] aqui em baixo... está se movendo junto comigo♥",
             "Você está sendo tão mau~? Se você não conseguir se conter e se mexer um pouco mais...",
             "Você cometeria um erro, não é?♥\"     \\w[210]"
         ],
         "31": [
-            "\\\nl< >\"Hah♥ Hah♥",
+            "\\nl< >\"Hah♥ Hah♥",
             "\\str[121]♥ está tremendo tanto♥♥",
             "Será que minha limpeza é assim tão boa?\"     \\w[210]"
         ],
         "32": [
-            "\\\nl< >\"Você está prestes a perder o controle?♥",
+            "\\nl< >\"Você está prestes a perder o controle?♥",
             "\\str[121]♥ você está prestes a deixar de se conter?♥",
             "Será que eu deveria... Tentar um pouco mais forte?♥♥\"     \\w[210]"
         ],
         "33": [
-            "\\\nl< >\"M-mais rápido?",
+            "\\nl< >\"M-Mais rápido?",
             "O-Ok... Eu vou tentar...\"       \\w[210]"
         ],
         "34": [
-            "\\\nl< >\"E-eu vou dar o meu melhor...!",
+            "\\nl< >\"V-Vou dar o meu melhor...!",
             "Puxei... ei...                  \\w[120]",
             "Isso te faze sentir bem?\"     \\w[120]"
         ],
         "35": [
-            "\\\nl< >\"Hah♥ Hah♥",
+            "\\nl< >\"Hah♥ Hah♥",
             "Hehe~ \\str[121], aqui embaixo está latejando~    \\w[120]",
             "É estimulação de mais?\"                        \\w[120]"
         ],
         "36": [
-            "\\\nl< >\"Mais rápido♥ Mais Rápido♥",
+            "\\nl< >\"Mais rápido♥ Mais rápido♥",
             "O \\str[121] ficou todo pegajoso♥    \\w[120]",
             "S-Só aguenta um pouco mais...♥\"               \\w[120]"
         ],
         "37": [
-            "\\\nl< >\"M-Mais devagar?",
+            "\\nl< >\"M-Mais devagar?",
             "O-Ok... Eu vou tentar...\"       \\w[210]"
         ],
         "38": [
-            "\\\nl< >\"Li-limpando lentamente...",
+            "\\nl< >\"L-Limpando lentamente...",
             "Ah, parece que algo acabou de me cutucar♥\"   \\w[210]"
         ],
         "39": [
-            "\\\nl< >\"Hah♥ Hah♥",
+            "\\nl< >\"Hah♥ Hah♥",
             "Aqui em baixo, tá tão quente♥                          \\w[120]",
             "E-Eu vou ser gentil... pra fazer lentamente... você se sentir bem♥\"   \\w[120]"
         ],
         "40": [
-            "\\\nl< >\"\\str[121]♥\\str[121]♥               \\w[120]",
+            "\\nl< >\"\\str[121]♥\\str[121]♥               \\w[120]",
             "Eu gosto de você♥Eu quero te fazer se sentir bem também♥\"    \\w[120]"
         ],
         "41": [
             "\\{Já... no limite...!!"
         ],
         "42": [
-            "\\{\\\nl< >\"Aah~~♥♥\"",
+            "\\{\\nl< >\"Aah~~♥♥\"",
             "\\w[60]\\^"
         ],
         "43": [
@@ -461,12 +461,12 @@
             "mover o seu corpo."
         ],
         "45": [
-            "\\\nl< >\"\\str[121]...? Você tá bem?",
+            "\\nl< >\"\\str[121]...? Você está bem?",
             "V-você ainda está se sentindo bem? ",
             "Eu vou te... a-ajudar se se limpar mais ok?\""
         ],
         "46": [
-            "\\\nl< >\"\\str[121]...? Você tá bem?",
+            "\\nl< >\"\\str[121]...? Você está bem?",
             "E-eu esfreguei... muito forte?\""
         ],
         "47": [
@@ -474,7 +474,7 @@
             "Você fez um bom trabalho~\""
         ],
         "48": [
-            "\\\nl< >\"Ehehe♥",
+            "\\nl< >\"Ehehe♥",
             "\\str[121] aqui... ainda tá quente, e pulsando...♥",
             "Eu devo limpar ele um pouco mais pra você?♥\""
         ],
@@ -493,13 +493,13 @@
   },
   "3": {
         "0": [
-            "\\\nl< >\"...Mas, não vai ficar um pouco apertado?\""
+            "\\nl< >\"...Mas não vai ficar um pouco apertado?\""
         ],
         "1": [
-            "\\\nl< >\"Mm... bem... se o \\str[121] quer...\""
+            "\\nl< >\"Mm... bem... se \\str[121] quiser...\""
         ],
         "2": [
-            "\\\nl< >\"Okay! Pode vir \\str[121]!\""
+            "\\nl< >\"Tudo bem! Pode vir, \\str[121]!\""
         ],
         "3": [
             "Mesmo que a \\str[120] não tivesse recusado—",
@@ -540,18 +540,18 @@
             "da banheira e gentilmente puxei ela para os meus braços."
         ],
         "12": [
-            "\\\nl< >\"\\str[121]? Você está com frio?\""
+            "\\nl< >\"\\str[121]? Você está com frio?\""
         ],
         "13": [
             "\"Yeah… Você é quentinha e fofa,",
             "me faz querer te segurar assim pra sempre…\""
         ],
         "14": [
-            "\\\nl< >\"Oh qual é—! \\str[121], ",
+            "\\nl< >\"Ah vai—! \\str[121], ",
             "você tá me tratando igual uma garotinha de novo...!\""
         ],
         "15": [
-            "\\\nl< >\"Eu sou uma dama por completo agora, entendeu! ",
+            "\\nl< >\"Eu sou uma moça de verdade agora, sabia? ",
             "Você realmente deveria começar a me tratar como uma \\str[121]!\""
         ],
         "16": [
@@ -589,14 +589,14 @@
             "Então eu só peguei sua pequena mãos dentro das minhas."
         ],
         "22": [
-            "\\\nl< >\"\\str[121]...? Algo errado? ",
+            "\\nl< >\"\\str[121]...? O que foi? ",
             "Você tá o tempo todo franzindo a testa.\""
         ],
         "23": [
             "\"Não é nada—só pensando o quão fofa você sempre é.\""
         ],
         "24": [
-            "\\\nl< >\"Uuueeh... O que isso quer dizer...?\""
+            "\\nl< >\"Uuueeh... O que isso quer dizer...?\""
         ],
         "25": [
             "Eu movi minha outra mão e casualmente mexendo em seu cabelo.",
@@ -614,10 +614,10 @@
             "Porque eles estavam aí!    \\w[120]"
         ],
         "28": [
-            "\\\nl< >\"...Yah! \\str[121], de novo não...!?\""
+            "\\nl< >\"...Yah! \\str[121], de novo...!?\""
         ],
         "29": [
-            "\\\nl< >\"Yah!? \\str[121]… o que você tá fazendo…!?\""
+            "\\nl< >\"Yah!? \\str[121]… o que você está fazendo…!?\""
         ],
         "30": [
             "Minha ação repentina claramente deixou a \\str[120] confusa.",
@@ -633,14 +633,14 @@
             "aproveitando a maciez com as palmas da minha mão."
         ],
         "33": [
-            "\\\nl< >\"mesmo se esse for o caso, ",
+            "\\nl< >\"mesmo que seja o caso, ",
             "você não pode só chegar e me assustar dessa forma...\""
         ],
         "34": [
             "Huh? Desde que não seja tão repentino, está tudo bem...?"
         ],
         "35": [
-            "\\\nl< >\"Bem, se sua mão escorregou, ",
+            "\\nl< >\"Bem, se sua mão escorregou, ",
             "acho que não tem nada que você possa fazer...\""
         ],
         "36": [
@@ -652,17 +652,17 @@
             "e decidi pedir permissão antes."
         ],
         "38": [
-            "\\\nl< >\"Eh!? Isso foi meio inesperado...\""
+            "\\nl< >\"Eh!? Isso é tão repentino...\""
         ],
         "39": [
             "\"Claro! É só pra confirmar se você tem mesmo ",
             "as graças de uma verdadeira dama!\""
         ],
         "40": [
-            "\\\nl< >\"Mmm... Você só quer uma desculpa pra pegar nos meus peitos não é?\""
+            "\\nl< >\"Mmm... Você só quer uma desculpa para tocar, né?\""
         ],
         "41": [
-            "\\\nl< >\"Você sempre faz isso... ",
+            "\\nl< >\"Você sempre faz isso... ",
             "Suas técnicas estranhas sempre me deixam formigando...\""
         ],
         "42": [
@@ -673,7 +673,7 @@
             "Isso é uma coisa que eu nunca queria escutar...!"
         ],
         "44": [
-            "\\\nl< >\"Te odiar? Não mesmo... Eu acho que é bom...",
+            "\\nl< >\"Odeio? Não exatamente... acho que tudo bem...",
             "Desde que você seja gentil \\str[121]...\""
         ],
         "45": [
@@ -684,13 +684,13 @@
             "e só encostei minhas mãos gentilmente nos peitos da \\str[120], acariciando lentamente."
         ],
         "47": [
-            "\\\nl< >\"\\str[121], seu rosto tá muito assustador...\""
+            "\\nl< >\"\\str[121], sua cara parece meio assustadora agora...\""
         ],
         "48": [
-            "\\\nl< >\"Hehe... faz cócegas...\""
+            "\\nl< >\"Hehe... faz cócegas...\""
         ],
         "49": [
-            "\\\nl< >\"Mmm... mmn...\""
+            "\\nl< >\"Mmm... mmn...\""
         ],
         "50": [
             "Mesmo que a toalha estivesse no caminho, ",
@@ -720,7 +720,7 @@
             "Apertar o Pato"
         ],
         "55": [
-            "\\\nl< >\"Ha... haa...             \\[60]",
+            "\\nl< >\"Ha... haa...             \\[60]",
             "E... Eu não posso... mais...       \\[60]",
             "\\str[121], tira pra mim...\""
         ],
@@ -741,7 +741,7 @@
             "Por que parece que ele tá me encarando... tão intensamente?"
         ],
         "60": [
-            "\\\nl< > \"N-não! Você não pode mais me tocar!",
+            "\\nl< > \"N-não! Você não pode me tocar mais!",
             "É tudo sua culpa \\str[121]... ",
             "Agora todo meu corpo se sente... estranho!\""
         ],
@@ -750,10 +750,10 @@
             "A cara dela ficou super vermelha e ela saiu correndo..."
         ],
         "62": [
-            "\\\nl< >\"a…\\str[121]……      \\w[160]\\^"
+            "\\nl< >\"a…\\str[121]……      \\w[160]\\^"
         ],
         "63": [
-            "\\^\\\nl< >\"Ugh...!\"        \\w[40]\\^"
+            "\\^\\nl< >\"Ugh...!\"        \\w[40]\\^"
         ],
         "64": [
             "\\{A não!",
@@ -774,7 +774,7 @@
             "Acho que é hora de sair."
         ],
         "67": [
-            "\\\nl< > \"Es-espera, \\str[121]…    \\w[60]",
+            "\\nl< > \"E-espera, \\str[121]…    \\w[60]",
             "Eu to começando a me sentir estranha…\""
         ],
         "68": [
@@ -782,7 +782,7 @@
             "Só relaxe seu corpo, tudo bem?\""
         ],
         "69": [
-            "\\\nl< > \"Hngh… ahh…   \\w[60]",
+            "\\nl< > \"Hngh… ahh…   \\w[60]",
             "Sério…? Eu sinto que… \\str[121] só…    \\w[120]\"",
             "está me provocando o tempo todo…\""
         ],
@@ -791,7 +791,7 @@
             "Eu digo, você está tão fofinha agora~!\""
         ],
         "71": [
-            "\\\nl< > \"Mmm… ngh…    \\w[90]",
+            "\\nl< > \"Mmm… ngh…    \\w[90]",
             "E… Eu nem sei mais o que está acontecendo…\""
         ],
         "72": [
@@ -800,7 +800,7 @@
             "Aah… talvés eu deva ir até o fim…!           \\w[30]\\^"
         ],
         "73": [
-            "\\\nl< > \"Um… eu não aguento mais…\""
+            "\\nl< > \"Hum… isso é muito para mim…\""
         ],
         "74": [
             "\\str[120] murmurou baixinho, parecendo confusa—",
@@ -809,15 +809,15 @@
             "só fez meu coração bater ainda mais forte e minhas mãos começaram a se mover sozinhas."
         ],
         "75": [
-            "\\\nl< >\"Ahh… \\str[121]…   \\w[60]",
+            "\\nl< >\"Ahh… \\str[121]…   \\w[60]",
             "nós ainda… ainda continuando?\""
         ],
         "76": [
-            "\\\nl< > \"Mmm… ngh…  \\w[30]\\{",
+            "\\nl< > \"Mmm… ngh…  \\w[30]\\{",
             "Ah—!?\""
         ],
         "77": [
-            "\\\nl< > \"Haah… haa…\""
+            "\\nl< > \"Haah… haa…\""
         ],
         "78": [
             "\\str[120] tentou abafar sua voz inquietamente… poderia seria que—",
@@ -826,10 +826,10 @@
             "e fizeram meus movimentos ainda mais ousados."
         ],
         "79": [
-            "\\\nl< > \"Mmm… ngh…\""
+            "\\nl< > \"Mmm… ngh…\""
         ],
         "80": [
-            "\\\nl< > \"Hehe… faz cosquinhas…\""
+            "\\nl< > \"Hehe… faz cócegas…\""
         ],
         "81": [
             "Mesmo que eu não conseguia resistir tocar seus peitos macios novamente,",
@@ -839,10 +839,10 @@
             "Eu continuei meus movimentos enquanto cuidadosamente pedia à \\str[120] como se sentia."
         ],
         "83": [
-            "\\\nl< >\"E-eu nem consigo entender mais o que você tá falando…\""
+            "\\nl< >\"E-Eu nem entendo mais o que você está dizendo…\""
         ],
         "84": [
-            "\\\nl< >\"Eu não entendo o que você quer dizer com… se sentindo bem…\""
+            "\\nl< >\"Não entendo bem o que você quer dizer com… se sentir bem…\""
         ],
         "85": [
             "O rosto envergonhado e corado da \\str[120] era engraçado de se ver."
@@ -932,7 +932,7 @@
             "Eu pedi a \\str[120] se ela podia ajudar a escovar minhas costas—"
         ],
         "23": [
-            "\\nl< >\"Okay! Só um segundo~!\""
+            "\\nl< >\"Tudo bem! Só um segundinho~!\""
         ],
         "24": [
             "\\nl< >\"Tudo bem se eu esfregar um pouco mais forte, ",
@@ -942,7 +942,7 @@
             "\"Ah... sim, tudo bem.\""
         ],
         "26": [
-            "\\nl< >\"Ok, lá vou eu—!  \\w[90]",
+            "\\nl< >\"Certo, lá vou eu—!  \\w[90]",
             "Puxe—puxe—!           \\w[120]",
             "Puxe—puxe—!           \\w[120]"
         ],

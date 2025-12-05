@@ -89,8 +89,8 @@
         ],
         "7": [
             "Minha \\str[120] teve uma sorte insana no cassino e ",
-            "ganhou a Arma Definitiva, então disparou contra o ",
-            "castelo do Lorde Demônio com lvl muito baixo.",
+            "ganhou a arma suprema, depois invadiu o ",
+            "castelo do Senhor dos Demônios bem antes da hora.",
             "Fim de jogo."
         ],
         "8": [
@@ -254,9 +254,9 @@
             "\\str[120] parece estar dormindo tranquilamente..."
         ],
         "1": [
-            "Se aproximar",
-            "Se exercitar!",
-            "Voltar pra cama"
+            "Chegar de Fininho",
+            "Malhar!",
+            "Voltar"
         ],
         "2": [
             "Finalmente é hora de me exibir ",
@@ -380,7 +380,7 @@
             "Se o \\str[121] gosta, eu vou continuar fazendo o meu melhor!\""
         ],
         "15": [
-            "Eh…!? Ela vai cozinhar novamente...? ",
+            "Eh…!? Ela vai cozinhar de novo...? ",
             "Isso é meio preocupante..."
         ]
   },
@@ -572,10 +572,10 @@
             "Ah~ Eu to cansada...\""
         ],
         "45": [
-            "Enquanto eu cuidadosamente corrigia o ângulo do secador e gentilmente ",
-            "penteava o seu cabelo, \\str[120] silenciosamente cooperou,",
-            "e mesmo não dizendo nada, nós dois aproveitamos esse",
-            "momento tão tranquilo juntos."
+            "Enquanto eu ajustava com cuidado o ângulo do secador e ",
+            "penteei gentilmente o cabelo dela,",
+            "minha \\str[120] cooperou quietinha, e embora não disséssemos nada, ",
+            "nós dois curtimos esse momento tranquilo juntos."
         ],
         "46": [
             "Mas pelo ângulo, só baixando os olhos eu podia ",
@@ -941,14 +941,14 @@
             "Quero fazer algo junto com a \\str[120]…?"
         ],
         "17": [
-            "\\\nl< >\"\\str[121]! Você já pensou em um desejo melhor~?\""
+            "\\nl< >\"\\str[121]! Você já pensou em um desejo melhor~?\""
         ],
         "18": [
             "Hmm… Eu ainda tenho aquele \"Passe Livre\" que a \\str[120] me deu.",
             "Talvez… Eu deveria usar ele agora e ver o que vai acontecer…"
         ],
         "19": [
-            "\\\nl< >\"Isso é…!?          \\w[90]",
+            "\\nl< >\"Isso é…!?          \\w[90]",
             "\\str[121]! Você já decidiu usar ele~?\""
         ],
         "20": [
@@ -959,7 +959,7 @@
             "acho que eu não deveria testar minha sorte com tanta frequência…"
         ],
         "22": [
-            "\\\nl< >\"Contanto que seja uma coisa que o \\str[121] queira que eu faça, ",
+            "\\nl< >\"Desde que seja algo que \\str[121] queira que eu faça, ",
             "por mim está tudo bem!",
             "Eu vou fazer o meu melhor pra te fazer feliz!\""
         ],
@@ -978,7 +978,7 @@
             "Acho que vou guardar ele pra próxima vez…"
         ],
         "26": [
-            "\\\nl< >\"Eh… \\str[121]. Não tem nada que você queira que eu faça?\""
+            "\\nl< >\"Eh… \\str[121] não tem nada que quer que eu faça?\""
         ],
         "27": [
             "\\\nl< >\"…É isso?\"",
@@ -988,11 +988,11 @@
             "Huh…? Por que será que ela ficou decepcionada do nada?"
         ],
         "29": [
-            "\\\nl< >\"Uma coisa como essa você pode me pedir qualquer hora, sabe!",
+            "\\nl< >\"Algo assim — você podia só me dizer a qualquer hora, sabia!",
             "Você não deveria desperdiçar um Passe tão precioso em uma coisa tão simples…!\""
         ],
         "30": [
-            "\\\nl< >\"Be… beijo…? \\str[121], v-você quer um beijo?\"",
+            "\\nl< >\"B… beijo…? \\str[121], v-você quer um beijo?\"",
             "\\w[120]"
         ],
         "31": [
@@ -1000,12 +1000,12 @@
             "visivelmente constrangida por esse pedido…"
         ],
         "32": [
-            "\\\nl< >\"É-é claro que você pode! I-isso não é nada de mais!",
+            "\\nl< >\"C-claro que pode! N-não é nada demais!",
             "Eu não sou mais uma criança, eu certatmente consigo fazer algo como isso!",
             "Então, você não precisa gastar seu Passe com isso, \\str[121]!\""
         ],
         "33": [
-            "\\\nl< >\"Be-beijo é uma coisa completamente normal para os adultos, certo!",
+            "\\nl< >\"B-beijar é algo totalmente normal pra adultos, né!",
             "Não precisa desperdiçar um Passe tão precios nisso! ",
             "Você está exagerando, \\str[121]!\""
         ],
@@ -1015,11 +1015,11 @@
             "tentando muito pra parecer calma e confiante…"
         ],
         "35": [
-            "\\\nl< >\"Eh… usar minhas pernas como travesseiro?\"",
+            "\\nl< >\"Eh… um travesseiro de colo?\"\\w[120]",
             "\\w[120]"
         ],
         "36": [
-            "\\\nl< >\"Só… deitar sua cabeça no meu colo…? É isso?\""
+            "\\nl< >\"Só… um travesseiro de colo…? Só isso?\""
         ],
         "37": [
             "Depois de finalmente pensar em algo que achei apropriado,",
@@ -1027,14 +1027,14 @@
             "Mas porque…? Minha resposta não foi boa o suficiente?"
         ],
         "38": [
-            "\\\nl< >\"Se você só quiser deitar no meu colo, você poderia só ter pedido!",
+            "\\nl< >\"Se for só um travesseiro de colo, você podia ter pedido direto pra mim!",
             "Não gaste seu precioso Passe em algo assim!\""
         ],
         "39": [
             "\"Ah!?\""
         ],
         "40": [
-            "\\\nl< >\"Eu fiz isso pra que você possa realmente ser mimado, entendeu~",
+            "\\nl< >\"Isso foi feito pra você se mimar de verdade, sabia~",
             "Então guarde ele até pensar em algo ainda melhor, daí você me pede!\""
         ],
         "41": [
@@ -1045,7 +1045,7 @@
             "Pera, sério? Ela tá levando isso bem a sério!?"
         ],
         "43": [
-            "\\\nl< >\"Então, \\str[121], se for algo pequeno assim,",
+            "\\nl< >\"Então você vê, \\str[121]—se for algo pequeno assim,",
             "Eu posso muito bem fazer isso pra você sem precisar do Passe~\""
         ],
         "44": [
@@ -1519,10 +1519,10 @@
   },
   "25": {
         "0": [
-            "Pervertido",
+            "Assuntos Safados",
             "Mimar a \\str[120]",
-            "Aventuras",
-            "Conversa fiada"
+            "Falar de Aventura",
+            "Bater Papo"
         ],
         "1": [
             "Conversei casualmente com a \\str[120] sobre coisas aleatórias."
@@ -2168,7 +2168,7 @@
             "\\nl< >\"Eba! Podemos comer lanches juntos!\""
         ],
         "17": [
-            "Nós aproveitamos um drink juntos."
+            "Curtimos um tempinho e tomamos um chá juntos."
         ],
         "18": [
             "\\nl< >\"\\str[121], Eu to com um pouco de sede. ",
@@ -2218,7 +2218,7 @@
             "Estava gelado e refrescante, muito saboroso."
         ],
         "30": [
-            "Nós aproveitamos um drink juntos."
+            "Curtimos um tempinho e tomamos um chá juntos."
         ],
         "31": [
             "Ná próxima vez, compre uma bebida,",

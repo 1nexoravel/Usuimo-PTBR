@@ -53,8 +53,8 @@
             "Clique direito durante  Senpo: Dano de Investida aumenta com momentum"
             ],
             "mobileAbility": [
-            "Toque o botão de slikk para cortar, dano aumenta com a velocidade de movimento",
-            "Segure o botão de skill para uma Investida, efeito aumento com o momentum"
+            "Toque o botão da habilidade para cortar, dano aumenta com a velocidade de movimento",
+            "Segure o botão da habilidade para uma Investida, efeito aumento com o momentum"
             ]
 	},
 	"4": {
@@ -70,11 +70,11 @@
             "com técnicas de espadas, esse movimento é efetivo e fácil de aprender."
             ],
             "ability": [
-            "Segure o botão direito para ativar a skill",
+            "Segure o botão direito para ativar a habilidade",
             "largue o botão para lançar sua arma"
             ],
             "mobileAbility": [
-            "Segure o botão de skill para iniciar o ataque",
+            "Segure o botão da habilidade para iniciar o ataque",
             "Largue o botão durante o giro para lançar a sua arma"
             ]
 	},
@@ -88,7 +88,7 @@
             "description": [
             "Comummente chamado Often called ‘O Olho da Mente’, mas na verdade ",
             "é um sentido aprimorado depois de incontáveis encontros com a morte.",
-            "Em outras palavras, é mais um reflexo de trauma do que uma skill..."
+            "Em outras palavras, é mais um reflexo de trauma do que uma habilidade..."
             ],
             "ability": [
             "Passe o mouse sobre o alvo para ver suas informações detalhadas"
@@ -143,8 +143,8 @@
             "golpes, deixando o inimigo com nada além da escuridão final!"
             ],
             "ability": [
-            "Comando da Skill:  \\{⬆⬇⬅⮕⬆⬇\\}",
-            "Cada uso consome um pouco de HP"
+            "Comando da habilidade:  \\{⬆⬇⬅⮕⬆⬇\\}",
+            "Cada uso da habilidade consome algum PV"
             ]
 	},
 	"15": {
@@ -196,7 +196,7 @@
             "ela vai desferir um poderoso ataque crítico!"
             ],
             "ability": [
-            "Boost de Dano Final: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
+            "Aumento do dano final: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
             ]
 	},
 	"26": {

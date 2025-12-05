@@ -108,7 +108,7 @@
             "Hoje vai ter peixe!"
         ],
         "4": [
-            "\\str[121]!? Isso sequer é comestível!?"
+            "\\str[121]!? Isso é mesmo comestível!?"
         ],
         "5": [
             "Sem coisas apimentadas!"
@@ -210,8 +210,8 @@
             "será que eu devo inventar alguma coisa?"
         ],
         "1": [
-            "\\str[120] vai cozinhar",
-            "\\str[121] vai cozinhar"
+            "Deixar \\str[120] Cozinhar",
+            "Fazer Eu Mesmo"
         ],
         "2": [
             "\\nl< >\"Me desculpa,\\str[121]...       \\w[60]",
@@ -224,7 +224,7 @@
         ],
         "4": [
             "\\nl< >\\{\"\\str[121]!",
-            "você quer comer a comida que eu preparei!?\""
+            "você quer comer a comida que eu vou preparar?\""
         ],
         "5": [
             "\\nl< >\"Meu Deus, Eu realmente não posso dizer não pra você~\""
@@ -301,7 +301,7 @@
             "\\{ \"Pff!?\""
         ],
         "14": [
-            "\\nl< >\"\\str[121]!? O que tem de errado!?\""
+            "\\nl< >\"\\str[121]!? O-o que houve!?\""
         ],
         "15": [
             "Eu senti como se tivesse tomado um refrigerante com muito gas, ",

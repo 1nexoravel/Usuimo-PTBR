@@ -6,7 +6,7 @@
         "subtitle": "",
         "description": [
             "Dizem que o herói também começou sua",
-            "jornada na vila inicial com uma espada de madeira",
+            "Jornada na vila inicial com uma espada de madeira",
             "Isso se tornou um ideal para muitos aventureiros seguirem"
         ],
         "ability": [
@@ -20,7 +20,7 @@
         "subtitle": "",
         "description": [
             "Um bastão de madeira robusto de ótimo formato ",
-            "perfeito para crianças; também serve como arma"
+            "Perfeito para crianças; também serve como arma"
         ],
         "ability": [
             "Causa dano extra quando a arma está prestes a quebrar"
@@ -48,7 +48,7 @@
         "description": [
             "Sem arma equipada? Então descarregue uma saraivada de socos!",
             "Pode ser um quebra-galho, mas um punho cheio dá um senhor impacto",
-            "Pra que usar arma quando seus punhos dão conta do recado?"
+            "Para que usar arma quando seus punhos dão conta do recado?"
         ],
         "ability": [
             "O dano dos socos escala com o PV máximo!"
@@ -61,7 +61,7 @@
         "subtitle": "",
         "description": [
             "Uma arma usada por meu pai na juventude,",
-            "bem cuidada e aparentemente fornecida aos cavaleiros da corte"
+            "Bem cuidada e aparentemente fornecida aos cavaleiros da corte"
         ],
         "ability": [
             "Quando o PV<\\c[10]30%\\c[0], o ataque desta arma dobra"
@@ -142,7 +142,7 @@
         "subtitle": "",
         "description": [
             "Um martelo de madeira parrudo",
-            "Levar uma no topo da cabeça vai te deixar zonzo!"
+            "Levar uma topo da cabeça vai te deixar zonzo!"
         ],
         "ability": [
             "33% de chance de aplicar Atordoamento ao atacar",

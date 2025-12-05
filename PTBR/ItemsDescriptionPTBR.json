@@ -261,7 +261,7 @@
             "Esqueça o sabor, por que tem uma máquina dessas aqui?"
         ],
         "ability": [
-            "PV+120、adquire o status Delicioso!!"
+            "PV+120, adquire o status Delicioso!"
         ]
     },
     "24": {
@@ -276,7 +276,7 @@
             "Esqueça o sabor, por que tem uma máquina dessas aqui?"
         ],
         "ability": [
-            "PV+75、remove aleatoriamente 1 efeito negativo"
+            "PV+75, remove aleatoriamente 1 efeito negativo"
         ]
     },
     "25": {
@@ -291,7 +291,7 @@
             "Esqueça o sabor, por que tem uma máquina dessas aqui?"
         ],
         "ability": [
-            "PV+75、Ataque+50% por um tempo"
+            "PV+75, Ataque+50% por um tempo"
         ]
     },
     "26": {
@@ -306,7 +306,7 @@
             "Esqueça o sabor, por que tem uma máquina dessas aqui?"
         ],
         "ability": [
-            "PV+75、Ataque Mágico+50% por um tempo"
+            "PV+75, Ataque Mágico+50% por um tempo"
         ]
     },
     "27": {
@@ -321,7 +321,7 @@
             "Esqueça o sabor, por que tem uma máquina dessas aqui?"
         ],
         "ability": [
-            "PV+75、Aumenta a velocidade por um tempo"
+            "PV+75, aumenta a velocidade por um tempo"
         ]
     },
     "30": {
@@ -821,11 +821,11 @@
     },
     "102": {
         "name": [
-            "Bloco de Curry"
+            "Cubo de Curry"
         ],
         "subtitle": "",
         "description": [
-            "Um bloco de curry picante feito com especiarias exóticas",
+            "Um cubo de curry picante feito com especiarias exóticas",
             "Combina bem com arroz e pode ser adicionado a vários ingredientes"
         ],
         "ability": ""
