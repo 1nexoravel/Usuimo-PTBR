@@ -36,21 +36,21 @@
 		    ],
 		    "description": [
 		    "Uma criatura estranha que adora devorar morangos",
-		    "Tem uma pele muito grossa e defesa absurda, mas sendo ",
-		    "Tão aficionado por morangos, ",
-		    "Não tem o instinto de atacar. Por isso,",
-		    "Aventureiros que passam muitas vezes acabam o alimentando…"
+		    "Tem pele resistente e defesa absurda, mas como ",
+		    "está tão focada em morangos,  ",
+		    "tem pouca vontade de atacar. Por isso,",
+		    "aventureiros de passagem acabam alimentando-a…"
 		    ],
 		    "1": [
-		    "ASABA olha para mim com expectativa—",
-		    "Será que ela sentiu algum cheiro em mim...?"
+		    "ASABA me olha com expectativa—",
+		    "Será que sentiu algum cheiro em mim...?"
 		    ],
 		    "2": [
-		    "ASABA olha pra mim com curiosidade—",
-		    "Será que ela sentiu algum cheiro em mim...?"
+		    "ASABA me olha curiosamente—",
+		    "Será que sentiu algum cheiro em mim...?"
 		    ],
 		    "3": [
-		    "Uma ASABA olha com nojo para mim —",
+		    "ASABA me olha com nojo—",
 		    "Será que eu a deixei chateada...?"
 		    ],
 		    "4": [
@@ -92,9 +92,9 @@
 		    "1"
 		    ],
 		    "description": [
-		    "A sombra de um peixe nadando rapidamente em baixo da água ",
-		    "Ele se esconde quando percebe alguém se aproximando.",
-		    "Qual seria a maneira correta de capturá-los...?"
+		    "Uma sombra de peixe nadando debaixo d'água rapidamente ",
+		    "foge quando sente alguém se aproximando.",
+		    "Qual poderia ser a maneira certa de pegar eles...?"
 		    ]
   },
   "13": {
@@ -102,10 +102,10 @@
 		    "Shione"
 		    ],
 		    "subtitle": [
-		    "A irmã Demoníaca da Igreja Caída"
+		    "A Irmã Demoníaca da Igreja Caída"
 		    ],
 		    "bossName": [
-		    "O demônio do orgulho"
+		    "O Demônio do Orgulho"
 		    ],
 		    "garble": true
   },
@@ -117,7 +117,7 @@
 		    "1"
 		    ],
 		    "description": [
-		    "Parece haver algo debaixo da água"
+		    "Parece haver algo debaixo d'água"
 		    ]
   },
   "15": {
@@ -128,12 +128,12 @@
 		    "555"
 		    ],
 		    "description": [
-		    "Um monstro de alto escalão evoluiu a partir do",
-		    "Coelho com chifres. Para um monstro, os chifres servem a ambos os propósitos",
-		    "Como armas e núcleos para armazenar mana?",
+		    "Um monstro de alto nível evoluído do ",
+		    "Coelho com Chifres. Para os monstros, os chifres servem ",
+		    "tanto como armas quanto como núcleos para armazenar mana.",
 		    "Diferente do Coelho de Chifres, esse e altamente agressivo",
 		    "Quando excitado, seu corpo fica vermelho à medida que a mana flui",
-		    "E lança cargas rápidas e repetidas."
+		    "e lança investidas rápidas e repetidas."
 		    ]
   },
   "16": {
@@ -144,11 +144,11 @@
 		    "9"
 		    ],
 		    "description": [
-		    "Um ser tão infame que até o nome ",
-		    "Tornou-se um tabu. Em teoria, é quase inofensivo",
-		    "Mas sua aparência aterradora e imprevisível",
-		    "Seus movimentos são suficientes para desestabilizar a todos",
-		    "Presente em um caos."
+		    "Um ser tão infame que até mesmo o seu nome ",
+		    "se tornou um tabu. Em teoria, ela é quase inofensiva—",
+		    "mas sua aparência aterradora e seus movimentos imprevisíveis ",
+		    "são suficientes para lançar todos ",
+		    "os presentes no caos."
 		    ]
   },
   "18": {
@@ -159,44 +159,44 @@
 		    "1"
 		    ],
 		    "description": [
-		    "Um monumento de pedra negligenciado há muito tempo, ",
-		    "Agora rachado e desgastado.",
-		    "Pode dizer-se que uma vez foi requintadamente entalhado.",
-		    "Mesmo depois de todos esses anos, ele ainda",
-		    "Possui uma aura que inspira uma admiração silenciosa"
+		    "Um monumento de pedra há muito negligenciado, ",
+		    "agora rachado e gasto pelo tempo.",
+		    "Ainda é possível perceber que um dia foi esculpido com esmero.",
+		    "Mesmo após tantos anos, ele ainda",
+		    "carrega uma aura que inspira um silencioso respeito."
 		    ]
   },
   "24": {
 		    "objectName": [
-		    "\\c[114]Coelha-Maid"
+		    "\\c[114]Coelhinha Empregada"
 		    ],
 		    "sentouryoku": [
 		    "?77"
 		    ],
 		    "description": [
-		    "Uma garota estranha, sempre vestida como Maid e com orelhas de coelho.",
+		    "Uma garota estranha sempre vestida como empregada com orelhas de coelho.",
 		    "Possuí a habilidade de teletransporte, ",
-		    "Aparece de todos os tipos de buracos estranhos.",
-		    "Frequentemente provoca aventureiros, mas normalmente é inofensiva.."
+		    "aparecendo de todo tipo de buraco estranho.",
+		    "Costuma provocar aventureiros, mas é em grande parte inofensiva."
 		    ],
 		    "1": [
 		    "……Usa?",
-		    "Por que você é tão feia usa…?"
+		    "Por que você é tão feio, usa…?"
 		    ],
 		    "2": [
-		    "Usa…… Eu sinto o cheiro…",
-		    "Você tem cheiro de cenouras, usa…"
+		    "Usa…… Estou sentindo…",
+		    "você tem cheiro de cenouras, usa…"
 		    ]
   },
   "28": {
 		    "objectName": [
-		    "Um peixe Gigante"
+		    "Sacabambaspis Gigante"
 		    ],
 		    "subtitle": [
 		    "Reside na água"
 		    ],
 		    "bossName": [
-		    "O senhor do Rio—ele não estava extinto!?"
+		    "O Senhor do Rio — não estava extinto!?"
 		    ],
 		    "sentouryoku": [
 		    "999"
@@ -207,45 +207,45 @@
   },
   "32": {
 		    "objectName": [
-		    "Gacha Misteriosa"
+		    "Gacha Misterioso"
 		    ],
 		    "sentouryoku": [
 		    "9"
 		    ],
 		    "description": [
-		    "Uma máquina de Gacha invocada por uma carta de Tarot.",
+		    "Uma máquina de gacha invocada por uma carta de Tarô.",
 		    "Ela devora qualquer coisa que o aventureiro ofereça.",
-		    "Quando satisfeita, ela roda alegremente e ",
-		    "Finalmente cospe uma cápsula com uma recompensa dentro.",
-		    "Mas tome cuidado para não alimentá-la em excesso, embora seja",
-		    "Uma máquina, parece que ela pode ter intoxicação alimentar..."
+		    "Quando satisfeita, gira feliz e ",
+		    "por fim cospe uma cápsula cheia de recompensas.",
+		    "Mas cuidado para não alimentá-la demais—ainda que seja",
+		    "uma máquina, parece sofrer de intoxicação alimentar..."
 		    ],
 		    "1": [
 		    "Ainda no rio!"
 		    ],
 		    "2": [
-		    "Eu encontrei uma estranha máquina de gacha...",
-		    "Sua expressão parece a da \\str[120]..."
+		    "Encontrei uma máquina de gacha estranha...",
+		    "A expressão dela parece a de \\str[120]..."
 		    ],
 		    "3": [
-		    "Tentar inserir dinheiro",
-		    "Tentar a alimentar"
+		    "Tentar Inserir Dinheiro",
+		    "Tentar Alimentá-la"
 		    ],
 		    "4": [
-		    "Mas eu não tenho dinheiro o suficiente para alimentá-la…"
+		    "Mas não tenho dinheiro suficiente para alimentá-la…"
 		    ],
 		    "5": [
-		    "Será que eu realmente deveria alimentá-la ",
-		    "\\ii[\u000b[90]]…?"
+		    "Será que devo mesmo alimentá-la ",
+		    "\\ii[\\v[90]]…?"
 		    ],
 		    "6": [
-		    "Yep",
+		    "Sim",
 		    "Não"
 		    ]
   },
   "41": {
 		    "objectName": [
-		    "Entregas da \\c[114]NLCH!"
+		    "\\c[114]Entrega da NLCH!"
 		    ],
 		    "sentouryoku": [
 		    "?999"

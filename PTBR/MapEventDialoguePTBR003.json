@@ -65,81 +65,81 @@
             "a voz da \\str[120] perfeitamente—"
         ],
         "15": [
-            "Isso só me fez ficar ainda mais excitado…"
+            "Isso só me deixou ainda mais animado…"
         ],
         "16": [
-            "A tensão está ficando muito intensa… ",
-            "Eu preciso encontrar algo para me distrair.",
-            "Ok, então—\\w[60]\\{vamos dançar!"
+            "A tensão está ficando intensa demais… ",
+            "Preciso encontrar algo para me distrair.",
+            "Certo então—\\w[60]\\{vamos dançar!"
         ],
         "17": [
             "\\{Aqui nesse banheiro!",
-            "Neste lugar apertado cheio de perigos!",
-            "Mova meu corpo!",
-            "Afiar meus sentidos de ninja e me equilibrar!"
+            "Neste espaço apertado cheio de perigo!",
+            "Mova-se meu corpo!",
+            "Afie meus sentidos ninjas e equilíbrio!"
         ],
         "18": [
             "\\{Aqui nesse banheiro!",
-            "Neste lugar apertado cheio de perigos!",
+            "Neste espaço apertado cheio de perigo!",
             "Deixar meu corpo se mover livremente!"
         ],
         "19": [
             "\\{...Hah!\\w[60] Hah!  \\w[60]"
         ],
         "20": [
-            "Respiração, coração movimento—tudo em perfeita sincronia.",
-            "Isso não é só mais um treinamento. É uma arte.",
-            "Só um verdadeiro ninja conseguiria fazer um ",
-            "ato tão perigoso!"
+            "Respiração, coração movimento — tudo em perfeita sincronia.",
+            "Isso não é mais só treinamento. É arte.",
+            "Só um verdadeiro ninja pode se apresentar em um ",
+            "palco tão perigoso!"
         ],
         "21": [
             "—\\str[120] nunca saberá.",
-            "Que um dia, uma sombra dançou logo atrás dela",
-            "e desapareceu despercebidamente."
+            "Que atrás dela, uma sombra uma vez dançou ",
+            "e escapou despercebidamente."
         ],
         "22": [
-            "Meus passos ecoavam e desapareciam com cada movimento.",
-            "Isso não é somente uma dança…",
-            "É um ritual—um tributo à arte da furtividade."
+            "Meus passos ecoaram, depois sumiram com cada movimento.",
+            "Isso não é só uma dança…",
+            "É um ritual — uma homenagem ao caminho da furtividade."
         ],
         "23": [
             "…\\str[120] ainda não notou nada.",
-            "Agora eu posso ir e vir nessa casa sem emitir um único som."
+            "Agora posso ir e vir nessa casa sem fazer barulho."
         ],
         "24": [
             "Eu sou a sombra! Eu sou o vento! Eu sou— \\w[60]",
-            "…Não, Eu sou só um idiota dançando no banheiro…"
+            "…Não, sou só um idiota dançando no banheiro…"
         ],
         "25": [
             "…Pensando bem, ",
-            "talvez eu tenha me deixado levar por isso?"
+            "talvez eu tenha me empolgado demais?"
         ],
         "26": [
-            "…Parece que eu aprimorei minha habilidade de furtividade ",
-            "só um pouco."
+            "…Sinto que melhorei minhas habilidades de furtividade ",
+            "só um pouquinho."
         ],
         "27": [
-            "…Ugh! Eu escorreguei, quase bati na ",
+            "…Ugh! Escorreguei — quase bati na ",
             "máquina de lavar…!"
         ],
         "28": [
-            "Ufa, essa sensação de tirar o fôlego…",
-            "traz um sentimento de conquista.",
-            "Meio emocionante na verdade?"
+            "Ufa — esse sentimento de coração acelerado…",
+            "há um estranho senso de conquista.",
+            "Até que é emocionante?"
         ],
         "29": [
             "“Nngh… Está vindo…! \\w[30]”",
-            "Vamos imaginar como seria——"
+            "Vamos imaginar como seria—— "
         ],
         "30": [
             "Fechei os olhos e foquei minha atenção.",
-            "Meus sentidos, que se aguçavam gradualmente, imediatamente captaram o vapor quente,",
-            "perfumado de xampu, que saía flutuando do banheiro."
+            "Meus sentidos, gradualmente se aguçando, captaram imediatamente o vapor quente",
+            "com cheiro de xampu que saía do banheiro."
         ],
         "31": [
             "{Eu consigo fazer isso!      \\w[30]}",
-            "Com isso, vou conseguir imaginar ",
-            "a figura perfeita de \\str[120]!"
+            "Com isso, poderei imaginar ",
+            "a figura perfeita da \\str[120]!"
         ],
         "32": [
             "\\{Haaah……….!     \\w[30]\\^"
@@ -162,15 +162,15 @@
   },
   "11": {
         "0": [
-            "Depois de lavar seu rosto, ",
-            "\\str[120] parece muito mais energética.",
-            "Agora, estamos de pé, lado a lado, ",
+            "Depois de lavar o rosto, ",
+            "\\str[120] parecia muito mais energética.",
+            "Agora estamos lado a lado, ",
             "escovando os dentes em frente ao espelho."
         ],
         "1": [
-            "Compartilhar uma rotina matinal com ela dessa forma ",
-            "é muito raro, e por um momento, me fez sentir um pouco inquieto.",
-            "Bem… Acho que vou só bater um papo—",
+            "Compartilhar uma rotina matinal assim com ela ",
+            "é bem raro, e por um momento,",
+            "me deixou um pouco inquieto.",
             "Bem… acho que vou só bater um papo—"
         ],
         "2": [
@@ -186,9 +186,9 @@
             "\\nl< >\"O-nii-cha... você é... único—!\"    \\w[330]\\^"
         ],
         "6": [
-            "Hmm… Eu não consegui entender porra nenhuma.",
-            "Estando com a boca cheia de espuma ",
-            "fica bem difícil de falar."
+            "Hmm… não entendo uma palavra do que ela diz.",
+            "Ter a boca cheia de espuma ",
+            "torna falar uma chatice."
         ],
         "7": [
             "Terminamos de escovar os dentes enquanto conversávamos em ",
@@ -197,33 +197,33 @@
   },
   "13": {
         "0": [
-            "\\nl< >\"...Uma pegadinha nova, huh?\""
+            "\\nl< >\"...Uma pegadinha nova, hein?\""
         ],
         "1": [
-            "Mesmo que \\str[120] ainda fique fazendo doce,",
-            "ela só me xingou um pouco em vez de me chutar pra fora como antes."
+            "Mesmo que minha \\str[120] ainda mantivesse uma frente forte,",
+            "desta vez ela apenas resmungou um pouco, em vez de me expulsar como antes."
         ],
         "2": [
-            "Entendi—ela só é envergonhada.",
-            "Ela só precisa de um empurrãozinho ",
-            "em um momento como esse!"
+            "Entendi — ela só é tímida.",
+            "Tudo que ela precisa é de um empurrãozinho extra ",
+            "num momento como esse!"
         ],
         "3": [
-            "\"Na verdade...",
-            "Acho que fui amaldiçoado por um arquidemônio na floresta novamente.\""
+            "\"Na verdade, ",
+            "Acho que fui amaldiçoado por um arquidemônio na floresta de novo.\""
         ],
         "4": [
-            "Com a \\str[120] bem na minha frente ",
-            "eu baixei minhas calças em um movimento,",
-            "puxando meu pau pulsante e duraço."
+            "Bem na frente da minha \\str[120], ",
+            "arranquei minhas calças num movimento só,",
+            "sacando meu pau duro e latejante."
         ],
         "5": [
             "\\nl< >\"Eh?! \\str[121]...!    \\w[30]",
-            "Por que você está se pelando aqui...?!\""
+            "Por que você tá tirando a roupa aqui...?!\""
         ],
         "6": [
-            "Ela parecia espantada, querendo cobrir seus olhos,",
-            "mas ela não podia mover suas mãos porque ",
+            "Ela parecia agitada, querendo cobrir os olhos,",
+            "mas não podia liberar as mãos já que ",
             "estava ocupada cobrindo seus peitos."
         ],
         "7": [

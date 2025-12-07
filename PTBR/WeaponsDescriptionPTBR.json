@@ -132,21 +132,21 @@
             "embora seu material verdadeiro permaneça desconhecido"
         ],
         "ability": [
-            "Quando o HP é menor que \\c[29]400\\c[0], o potencial da arma é limitado!"
+            "Quando o PV é menor que \\c[29]400\\c[0], o potencial da arma é limitado!"
         ]
     },
     "11": {
         "name": [
-            "Malho Pesado"
+            "Marreta Pesada"
         ],
         "subtitle": "",
         "description": [
             "Um martelo de madeira parrudo",
-            "Levar uma topo da cabeça vai te deixar zonzo!"
+            "Levar uma no topo da cabeça vai te deixar zonzo!"
         ],
         "ability": [
             "33% de chance de aplicar Atordoamento ao atacar",
-            "Quando o HP é menor que \\c[29]400\\c[0], o potencial da arma é limitado!"
+            "Quando o PV é menor que \\c[29]400\\c[0], o potencial da arma é limitado!"
         ]
     },
     "12": {
@@ -159,8 +159,8 @@
             "mas também é ótimo para dar umas tacadas nos outros."
         ],
         "ability": [
-            "Durabilidade aumentada!",
-            "O dano é multiplicado para projéteis rebatidos"
+            "Durabilidade Aumentada!",
+            "Projéteis Refletidos se movem mais rápido e causam mais dano"
         ]
     },
     "13": {
@@ -175,7 +175,7 @@
             "ainda grudada, exalando um fedor insuportável"
         ],
         "ability": [
-            "66% de chance em infligir o estado de envenenamento ao atacar",
+            "66% de chance em infligir o estado de Envenenamento ao atacar",
             "Exala um fedor tão forte que até os monstros fogem!"
         ]
     },
@@ -335,7 +335,7 @@
         ],
         "ability": [
             "Tem chance de liberar uma rajada de vento ao atacar",
-            "Quando o HP é menor que \\c[29]400\\c[0], o potencial da arma é limitado!"
+            "Quando o PV é menor que \\c[29]400\\c[0], o potencial da arma é limitado!"
         ]
     },
     "26": {
@@ -506,9 +506,9 @@
         ],
         "subtitle": "",
         "description": [
-            "Uma cenoura de altíssima qualidade cultivada secretamente pela",
-            "Coelha-Maid, ao ganhar o poder da pedra, cresceu e virou iguaria ",
-            "tão tentadora que poderia fazer uma Coelha-Maid chorar de desejo"
+            "Uma cenoura de altíssima qualidade cultivada secretamente pela Coelhinha Empregada",
+            "Imbuído com o poder da pedra, ele cresceu em excesso e acabou se tornando uma iguaria ",
+            "tão tentadora que poderia fazer uma Coelhinha Empregada chorar de desejo"
         ],
         "ability": [
             "Pode ser comida ao atacar...",
@@ -521,8 +521,8 @@
         ],
         "subtitle": "",
         "description": [
-            "Uma cenoura de altíssima qualidade cultivada secretamente pela",
-            "Após congelado, fica duro como pedra e impossível de morder ",
+            "Uma cenoura de altíssima qualidade cultivada secretamente pela Coelhinha Empregada",
+            "Após congelada, fica dura como pedra, impossível de morder ",
             "Dizem por aí que esse era o estoque de inverno da coelhinha empregada"
         ],
         "ability": [
@@ -536,9 +536,9 @@
         ],
         "subtitle": "",
         "description": [
-            "Uma cenoura de altíssima qualidade cultivada secretamente pela",
-            "Coelha-Maid, mas ficou guardada por muito tempo, está mofada e podre... ",
-            "não se pode mais comer. Então a Coelha-Maid usa para espantar inimigos"
+            "Uma cenoura de altíssima qualidade cultivada secretamente pela Coelhinha Empregada",
+            "Armazenada por muito tempo, agora está mofado e estragado...",
+            "não se pode mais comer. Então a Coelhinha Empregada usa para espantar inimigos"
         ],
         "ability": [
             "40% de chance em infligir o estado Veneno ao atacar",
@@ -771,7 +771,7 @@
         ],
         "ability": [
             "Segure e solte o botão direito: dispara \\c[27]Flecha Perfurante de Sangue\\c[0]",
-            "Consome HP; flechas que matam drenam sangue"
+            "Consome PV; flechas que matam drenam sangue"
         ]
     }
 }
