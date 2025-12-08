@@ -8,11 +8,11 @@ set "DESTINO2=E:\sister-windows-beta\www\data\PTBR"
 if not exist "%DESTINO%" mkdir "%DESTINO%"
 
 for %%F in (*PTBR*.json) do (
-    move "%%F" "%DESTINO%"
+    copy "%%F" "%DESTINO2%"
 )
 
 for %%F in (*PTBR*.json) do (
-    copy "%%F" "%DESTINO2%"
+    move "%%F" "%DESTINO%"
 )
 
 
