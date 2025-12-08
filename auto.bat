@@ -3,12 +3,12 @@ call crowdin download sources
 call crowdin download translations -l pt-BR
 
 set "DESTINO=C:\Users\Ruy_R\OneDrive\Documents\GitHub\Usuimo-PTBR\PTBR"
-set "DESTINO2=E:\sister-windows-beta\www\data\PTBR"
+set "DESTINOa=E:\sister-windows-beta\www\data\PTBR"
 
 if not exist "%DESTINO%" mkdir "%DESTINO%"
 
 for %%F in (*PTBR*.json) do (
-    copy "%%F" "%DESTINO2%"
+    copy /Y "%%F" "%DESTINOa%"
 )
 
 for %%F in (*PTBR*.json) do (
