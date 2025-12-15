@@ -562,7 +562,7 @@
         ],
         "42": [
             "\\nl< >\"Ele tá bem fofinho agora...!     \\w[45]",
-            "Obrigado, \\str[121]~!\""
+            "Obrigada, \\str[121]~!\""
         ],
         "43": [
             "\"Isso é ótimo!\""
@@ -1467,8 +1467,8 @@
             "Mmm... Eu acho que é hora de tomar um banho."
         ],
         "18": [
-            "Convidar a \\str[120]",
-            "Ir sozinho"
+            "Convidar \\str[120]",
+            "Ir Sozinho"
         ],
         "19": [
             "É uma oportunidade rara, ",

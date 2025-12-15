@@ -1,39 +1,39 @@
 {
 	"skillToggle": [
             "Ativada",
-            "Inativada"
+            "Desativada"
 	],
 	"1": {
             "name": [
-            "Bolsa de carga mágica"
+            "Bolsa de Armazenamento Mágica"
             ],
             "subtitle": [
             ""
             ],
             "description": [
-            "Uma ferramenta mágica que permite você carregar ",
-            "muito mais itens que o normal. Porém, ",
-            "até itens mágicos tem limites de armazenamento.."
+            "Uma ferramenta mágica portátil que lhe permite carregar ",
+            "muito mais itens do que o normal. No entanto, ",
+            "mesmo ferramentas mágicas têm seus limites de armazenamento.."
             ],
             "ability": [
-            "Capacidade de Itens: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
-            "Capacidade de Ferramentas: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"
+            "Capacidade de Armas: ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
+            "Capacidade de Acessórios: ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"
             ]
 	},
 	"2": {
             "name": [
-            "SenPo"
+            "Senpo"
             ],
             "subtitle": [
             ""
             ],
             "description": [
-            "Um pequeno passo que cobre uma pequena distância,",
-            "permitindo você desviar de alguns ataques. É um simples técnica ",
-            "de corrida, mas o usuário insiste em dar um nome legal pra ela"
+            "Um passo rápido no chão cobre uma curta distância,",
+            "permitindo que você esquive de alguns ataques. É apenas uma técnica de movimento ",
+            "inicial, mas o usuário insiste em dar um nome maneiro"
             ],
             "ability": [
-            "Segure a barra de espaço para ativar"
+            "Segure a Barra de Espaço para ativar"
             ]
 	},
 	"3": {

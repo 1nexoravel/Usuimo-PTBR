@@ -22,7 +22,7 @@
     "Volume da Voz"
   ],
   "BgmVolume": [
-    "Volume do BGM"
+    "Volume da Música"
   ],
   "BgsVolume": [
     "Volume do Ambiente"
@@ -137,6 +137,16 @@
     "Nota: Essa é uma função experimental e sua eficiência pode variar dependendo do dispositivo.",
     "Você pode desabilitar essa função a qualquer momento para restaurar imediatamente a resolução da imagem."
   ],
+  "cloudSaveServiceWarning": [
+    "Este recurso solicitará acesso ao seu Google Drive",
+    "para poder armazenar os arquivos de salvamento do jogo na pasta NLCH/save.",
+    "Os arquivos de salvamento enviados serão utilizados posteriormente para sincronização e para serem baixados novamente para o jogo.",
+    "Você concorda em conceder ao jogo acesso ao Google Drive?"
+  ],
+  "uploadSaveFile": [
+    "Baixar um arquivo de salvamento do Google Drive substituirá os dados de salvamento locais atuais!",
+    "Você deseja continuar?"
+  ],
   "nearbyMonstersCount": [
     "Monstro detectado nas proximidades"
   ],
@@ -148,7 +158,39 @@
   ],
   "steamWishlist": [
     "Nossa página na loja da Steam finalmente está ativa!",
-    "Você pode ajudar nos adicionando a sua Wishlist! (*´∀`)~♥",
-    "Clique no link abaixo para ir à página da Steam."
-  ]
+    "Por favor, adicione-nos a sua lista de desejos e apoie-nos! (*´∀`)~♥",
+    "⬇Clique abaixo para abrir a página da Steam."
+  ],
+  "AdventurersPathway": {
+    "mapName": "  – Caminho do Aventureiro – "
+  },
+  "ShallowRuinsLabyrinth": {
+    "mapName": "– Labirinto das Ruínas Rasas –",
+    "mapDescription": "Um vasto labirinto repleto de inúmeros mistérios "
+  },
+  "ForgottenCatacombe": {
+    "mapName": " – Catacumba Esquecida – \n"
+  },
+  "ForestofRuins": {
+    "mapName": " – Floresta das Ruínas – "
+  },
+  "AbandonedForest": {
+    "mapName": " – Floresta Abandonada – "
+  },
+  "ExcavationSite": {
+    "mapName": " – Sítio de Escavação – "
+  },
+  "TheFallenChurch": {
+    "mapName": " – A Igreja Caída – "
+  },
+  "DoorofStar": {
+    "mapName": " – Porta da Estrela – "
+  },
+  "ScorchingLavaZone": {
+    "mapName": "– Zona de Lava Escaldante –",
+    "mapDescription": " Uma terra ardente entrelaçada pelo fogo, onde as provações queimam eternamente "
+  },
+  "Nibelungen": {
+    "mapName": " – Nibelungen – "
+  }
 }

@@ -389,6 +389,12 @@
 	         "\\str[120] se encolhe como uma gatinha, ",
 	         "lançando olhares furtivos para mim."
 		   ]
+	  },
+	  "1": {
+		   "description": [
+	         "Ela se aconchegou junto a mim, ",
+	         "como se estivesse abraçando um travesseiro quente."
+		   ]
 	  }
     }
   },
