@@ -15,7 +15,10 @@ for %%F in (*PTBR*.json) do (
     move "%%F" "%DESTINO%"
 )
 
+
 del /f /q *EN*.json
+
+setlocal
 
 git add .
 
@@ -23,12 +26,20 @@ git diff --cached --quiet
 if %errorlevel%==0 (
     echo Nenhuma alteracao detectada. Commit nao criado.
 ) else (
-    set /p COMMIT_MSG=Digite a mensagem do commit: 
-    if "!COMMIT_MSG!"=="" (
-        echo Mensagem vazia. Commit cancelado.
-    ) else (
-        git commit -m "!COMMIT_MSG!"
-    )
+    call :DO_COMMIT
 )
-echo Concluído!
+
+git fetch origin
+git push
+echo Concluido!
 pause
+exit /b
+
+:DO_COMMIT
+set /p COMMIT_MSG=Digite a mensagem do commit: 
+if "%COMMIT_MSG%"=="" (
+    echo Mensagem vazia. Commit cancelado.
+    exit /b
+)
+git commit -m "%COMMIT_MSG%"
+exit /b
