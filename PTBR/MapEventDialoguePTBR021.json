@@ -16,7 +16,7 @@
             "Deveria dar uma olhada na minha imouto?"
         ],
         "4": [
-            "Para o Quarto da \\str[120]",
+            "Quarto da \\str[120]",
             "Voltar a Dormir"
         ],
         "5": [
@@ -90,7 +90,7 @@
         ],
         "11": [
             "Ver a \\str[120]",
-            "Sair agora"
+            "Sair Agora"
         ],
         "12": [
             "Okay, vamos dar uma olhada na \\str[120]!"
