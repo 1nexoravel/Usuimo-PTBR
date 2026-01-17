@@ -14,7 +14,7 @@
         ],
         "4": [
             "\\nl< >\"O tempo não parece tão bom hoje,",
-            "então tome cuidado, okay…\""
+            "então tenha cuidado, ok…\""
         ],
         "5": [
             "\\nl< >\"Se você acha que não vai conseguir se segurar, ",
@@ -32,7 +32,7 @@
             "\\{\"Eu vou voltar em breve!\""
         ],
         "9": [
-            "\"Certo… Seja boazinha e tome conta da casa, okay?\""
+            "\"Certo… Seja boazinha e tome conta da casa, tá bem?\""
         ],
         "10": [
             "Eu acenei para \\str[120] enquanto eu saia de casa,",
@@ -54,7 +54,7 @@
             "então vai ficar tudo bem.\""
         ],
         "15": [
-            "\"Certo… Seja boazinha e tome conta da casa, okay?\""
+            "\"Certo… Seja boazinha e tome conta da casa, tá bem?\""
         ],
         "16": [
             "\\nl< >\"Okay… mas tome cuidado…\""
@@ -298,7 +298,7 @@
         ],
         "7": [
             "Eu fiz um leve cafuné na cabeça da \\str[120]",
-            "e tentei à confortar um pouco. "
+            "Certo — o que devo fazer em seguida?"
         ],
         "8": [
             "Fazer o Jantar",
@@ -319,10 +319,10 @@
             " para a \\str[120] que uma dieta balanceada é muito importante."
         ],
         "13": [
-            "Ugh, Eu sinto que preciso ir pro banheiro…"
+            "Ugh, eu meio que estou sentindo vontade de ir ao banheiro…"
         ],
         "14": [
-            "\"Desculpa, espera só um pouquinho, Eu vou preparar o jantar logo.\""
+            "\"Desculpe, só espere um pouco, vou preparar o jantar depois.\""
         ],
         "15": [
             "\\nl< >\"Certo.\""
@@ -405,7 +405,7 @@
         ],
         "18": [
             "\\nl< >\"Eh!?     \\w[30]",
-            "‘Mesmo… coisas safadas seriam ok…?’",
+            "‘Até mesmo… coisas safadas seriam ok…?’",
             "Uhm, hum…\""
         ],
         "19": [
@@ -477,7 +477,7 @@
             "Rápido tira isso e bota outra roupa primeiro.\""
         ],
         "14": [
-            "\\nl< >\"Ok~\""
+            "\\nl< >\"Certo~\""
         ]
   },
   "15": {

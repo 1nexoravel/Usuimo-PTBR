@@ -407,7 +407,7 @@
         ],
         "33": [
             "\\nl< >\"M-Mais rápido?",
-            "O-Ok... Eu vou tentar...\"       \\w[210]"
+            "T-Tudo bem... Vou tentar...\"       \\w[210]"
         ],
         "34": [
             "\\nl< >\"V-Vou dar o meu melhor...!",
@@ -426,7 +426,7 @@
         ],
         "37": [
             "\\nl< >\"M-Mais devagar?",
-            "O-Ok... Eu vou tentar...\"       \\w[210]"
+            "T-Tudo bem... Vou tentar...\"       \\w[210]"
         ],
         "38": [
             "\\nl< >\"L-Limpando lentamente...",
@@ -463,7 +463,7 @@
         "45": [
             "\\nl< >\"\\str[121]...? Você está bem?",
             "V-você ainda está se sentindo bem? ",
-            "Eu vou te... a-ajudar se se limpar mais ok?\""
+            "Vou... a-ajudar a limpar mais, tá?\""
         ],
         "46": [
             "\\nl< >\"\\str[121]...? Você está bem?",
@@ -637,7 +637,7 @@
             "você não pode só chegar e me assustar dessa forma...\""
         ],
         "34": [
-            "Huh? Desde que não seja tão repentino, está tudo bem...?"
+            "An? Então desde que não seja repentino, tudo bem...?"
         ],
         "35": [
             "\\nl< >\"Bem, se sua mão escorregou, ",
@@ -778,7 +778,7 @@
             "Eu to começando a me sentir estranha…\""
         ],
         "68": [
-            "\"Tá tudo certo, eu vou ser gentil.",
+            "\"Tudo bem, vou ser gentil.",
             "Só relaxe seu corpo, tudo bem?\""
         ],
         "69": [
@@ -979,7 +979,7 @@
         ],
         "33": [
             "\\nl< >\"Então… O \\str[121] não sendo mais criança,               \\w[120]",
-            "eu vou ter que te limpar como um adulto de agora em diante… okay?\"       \\w[120]"
+            "eu vou ter que te limpar como um adulto de agora em diante… certo?\"       \\w[120]"
         ],
         "34": [
             "\\nl< >\"Heh-heh-heh... Ná próxima,                              \\w[60]",

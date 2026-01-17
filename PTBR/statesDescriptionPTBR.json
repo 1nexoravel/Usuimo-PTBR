@@ -136,7 +136,7 @@
   "28": {
     "name": [],
     "subtitle": [
-	  "\\str[120] jogando"
+	  "\\str[120] está jogando"
     ],
     "description": [
 	  ""
@@ -159,7 +159,7 @@
   "29": {
     "name": [],
     "subtitle": [
-	  "\\str[120] se banhando"
+	  "\\str[120] está se banhando"
     ],
     "description": [
 	  ""
@@ -182,7 +182,7 @@
   "30": {
     "name": [],
     "subtitle": [
-	  "\\str[120] descançando"
+	  "\\str[120] está descasando"
     ],
     "description": [
 	  ""
@@ -229,7 +229,7 @@
   "31": {
     "name": [],
     "subtitle": [
-	  "\\str[120] dormindo"
+	  "\\str[120] está dormindo"
     ],
     "description": [
 	  ""
@@ -282,7 +282,7 @@
   "32": {
     "name": [],
     "subtitle": [
-	  "\\str[120] faminta"
+	  "\\str[120]  está faminta"
     ],
     "description": [
 	  ""
@@ -311,7 +311,7 @@
   "33": {
     "name": [],
     "subtitle": [
-	  "\\str[120] relaxando"
+	  "\\str[120] está relaxando"
     ],
     "description": [
 	  ""
@@ -328,7 +328,7 @@
   "34": {
     "name": [],
     "subtitle": [
-	  "\\str[120] escovando os dentes"
+	  "\\str[120] está escovando os dentes"
     ],
     "description": [
 	  ""
@@ -360,7 +360,7 @@
   "40": {
     "name": [],
     "subtitle": [
-	  "\\str[120] chorando"
+	  "\\str[120] está chorando"
     ],
     "description": [
 	  ""

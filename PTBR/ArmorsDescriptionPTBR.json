@@ -393,7 +393,7 @@
             "Ainda tremendo em antecipação"
         ],
         "ability": [
-            "Causa mais dano a inimigos com menos PV, até \\c\\[10]30%\\c\\[0]"
+            "Causa mais dano a inimigos com menos PV, até \\c[10]30%\\c[0]"
         ]
     },
     "30": {
@@ -776,7 +776,7 @@
         ],
         "ability": [
             "Entra à força no Modo Sábio",
-            "Ganha mais afinidade ao afagar a cabeça da \\str\\[120]"
+            "Ganha mais afinidade ao afagar a cabeça da \\str[120]"
         ]
     },
     "57": {
@@ -1080,12 +1080,12 @@
             "\"Ainda carrega o aroma da \\str[120]...\""
         ],
         "description": [
-            "Calcinha recebida da \\str\\[120] devido a um mal-entendido",
+            "Calcinha recebida da \\str[120] devido a um mal-entendido",
             "Nunca devolvida, mas, no fundo, há felicidade",
             "bem no fundo, uma leve e silenciosa sensação de felicidade paira..."
         ],
         "ability": [
-            "Inspirado pela \\str\\[120]. Quando o PV < 50%, ganha auto-recuperação"
+            "Regenera o PV automaticamente quando abaixo de 50%"
         ]
     },
     "131": {
@@ -1140,11 +1140,11 @@
     },
     "153": {
         "name": [
-            "Shortinho da \\str\\[120]"
+            "Shortinho da \\str[120]"
         ],
         "subtitle": "",
         "description": [
-            "Shortinho macio e fofinho que \\str\\[120] geralmente usa, ",
+            "Shortinho macio e fofinho que \\str[120] geralmente usa, ",
             "Decorado com os laços que ela ama.",
             "Pensando bem… por que isso está em minhas mãos?"
         ],
@@ -1279,7 +1279,7 @@
             "Ignorando sua vontade"
         ],
         "ability": [
-            "Aumenta grandemente os atributos ganhos ao afagar \\str\\[120]"
+            "Aumenta grandemente os atributos ganhos ao afagar \\str[120]"
         ]
     }
 }

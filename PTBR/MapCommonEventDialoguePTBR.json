@@ -325,10 +325,10 @@
   },
   "cookingSystem": {
         "0": [
-            "\\ii[\\v[\\v[85]]]está pronto. O que devo fazer?"
+            "\\ii[\\v[\\v[85]]] está pronto. O que devo fazer?"
         ],
         "1": [
-            "Trocar isso",
+            "Trocar Isso",
             "Remover isso"
         ],
         "2": [
@@ -483,8 +483,8 @@
             "e preparar algo simples?"
         ],
         "7": [
-            "Vamos nessa!",
-            "Deixa para lá."
+            "Vamos Nessa!",
+            "Deixa para Lá."
         ],
         "8": [
             "Hmm… Talvez eu deva trocar por",

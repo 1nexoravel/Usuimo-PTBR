@@ -120,8 +120,8 @@
             "Devo falar com ela?"
         ],
         "16": [
-            "Chegar mais perto",
-            "Melhor não"
+            "Chegar Mais Perto",
+            "Melhor Não"
         ],
         "17": [
             "Eu me sinto um tanto sozinho,",
@@ -222,7 +222,7 @@
         ],
         "16": [
             "\\nl< >\"\\str[121]……   \\w[150]",
-            "Iso foi um acidente…? O-Ok, Eu entendo…\"    \\w[210]\\^"
+            "Foi um acidente…? T-Tá bem, eu entendi…\"    \\w[210]\\^"
         ],
         "17": [
             "\\nl< >\"Não meche comigo desse jeito…  \\w[150]",
@@ -593,8 +593,8 @@
             "Será que eu poderia usar o vento para fazer um milagre acontecer!?"
         ],
         "49": [
-            "Vou tentar!",
-            "Melhor não..."
+            "Vou Tentar!",
+            "Melhor Não..."
         ],
         "50": [
             "Ok, lá vamos nós!",
@@ -602,7 +602,7 @@
             "e mirei o vento direto na direção dos seus peitos—"
         ],
         "51": [
-            "Vamo lá vento, faz o milagre acontecer!"
+            "Vai vento, faça um milagre acontecer!"
         ],
         "52": [
             "Mas não houve nenhum milagre..."
@@ -765,7 +765,7 @@
         "24": [
             "Ir Agora!",
             "Esperar Um Pouco",
-            "Ficar aqui"
+            "Ficar Aqui"
         ],
         "25": [
             "Ela recém entrou, então ela deve estar trocando de roupa agora…",
@@ -886,8 +886,8 @@
         ],
         "2": [
             "Beber Algo",
-            "Jogar alguma coisa",
-            "Assistir algo",
+            "Jogar Algo",
+            "Assistir Algo",
             "Me Mimar",
             "Dar um Presente"
         ],
@@ -1377,10 +1377,10 @@
         ],
         "52": [
             "\"Então na próxima eu vou trazer ainda mais carne,",
-            "e nós vamos fazer um baita churrasco juntos, okay?\""
+            "e nós vamos fazer um baita churrasco juntos, certo?\""
         ],
         "53": [
-            "\\nl< >\"Yay! \\str[121], você é incrivel!\""
+            "\\nl< >\"Eba! \\str[121], você é incrível!\""
         ],
         "54": [
             "\\nl< >\"Filé~♪ Contrafilé~♪    \\w[90]",
@@ -1423,10 +1423,10 @@
             "Bem, eu acho que foi merecido…"
         ],
         "4": [
-            "\\nl< >\"Yay, bora pro banho~!\""
+            "\\nl< >\"Eba, vamos para o banho~!\""
         ],
         "5": [
-            "\\nl< >\"Yay, hora do banho~\""
+            "\\nl< >\"Eba, hora do banho~\""
         ],
         "6": [
             "\\nl< >\"...Ok ♥\""
@@ -2073,8 +2073,8 @@
             "Eu devo só ir pra cama? "
         ],
         "2": [
-            "Ir dormir",
-            "Ainda não"
+            "Dormir",
+            "Ainda Não"
         ],
         "3": [
             "Já está tarde, hora de dormir———"
