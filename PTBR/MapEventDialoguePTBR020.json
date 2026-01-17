@@ -14,7 +14,7 @@
         ],
         "3": [
             "Esse espaço apertado — o que poderia estar escondido aqui...?    \\w[45]",
-            "Mesmo eu dizendo isso, eu comecei a cavar sem nem pensar.."
+            "Mesmo enquanto eu dizia isso, não pude evitar começar a vasculhar."
         ],
         "4": [
             "\"Ooooh!! Isso é…!\""
@@ -26,50 +26,50 @@
             "————Um lixo."
         ],
         "7": [
-            "\"Bom, a final de contar, eu to no banheiro.\""
+            "\"Bem, eu estou no banheiro afinal.\""
         ],
         "8": [
-            "Parece que foi perda de tempo."
+            "Parece que perdi meu tempo."
         ],
         "9": [
-            "\"Hm? O que foi esse barulho?\""
+            "\"Hm? Que som foi esse?\""
         ],
         "10": [
-            "É um C."
+            "É uma B."
         ],
         "11": [
-            "Um C apareceu sei lá de onde, e passou voando pelos meus pés."
+            "Uma B entrou de sabe-se lá de onde e passou correndo pelos meus pés."
         ],
         "12": [
-            "Seu desgraçado, se aparecendo dessa forma bem na minha frente!    \\{",
-            "Toma isso!"
+            "Seu desgraçado, se mostrando tão ousadamente na minha frente!    \\{",
+            "Receba essa!"
         ],
         "13": [
-            "Ná mosca. O C caíu morto bem na minha frente."
+            "Na mosca. A B caiu morta no local."
         ],
         "14": [
             "\"Hmph, como esperado de mim...\""
         ],
         "15": [
             "Errei! ",
-            "Assustei o C e ele desapareceu do nada sem nenhum rastro."
+            "Assustada, a B desapareceu rapidamente sem deixar rastro."
         ],
         "16": [
             "\"Droga, essa coisa é rápida!\""
         ],
         "17": [
-            "……Isso não  vai funcionar pra sempre.",
-            "Talvez seja melhor comprar um inseticida..."
+            "……Isso não vai funcionar para sempre.",
+            "Talvez seja hora de pegar um inseticida..."
         ],
         "18": [
-            "\"Hm? O que foi esse barulho?\""
+            "\"Hm? Que som foi esse?\""
         ],
         "19": [
-            "…O barulho parou. Será que foi só minha imaginação?"
+            "…O som sumiu. Foi só imaginação minha?"
         ],
         "20": [
-            "Eu não posso ficar sentado aqui pra sempre.",
-            "Provavelmente eu deveria sair—"
+            "Não posso ficar sentado aqui para sempre.",
+            "Provavelmente devo sair—"
         ]
   },
   "9": {
@@ -77,18 +77,18 @@
             "\\nl< >\"\\str[121]! Você ainda está no banheiro?\""
         ],
         "1": [
-            "\"...To saindo já já!\""
+            "\"...Eu saio em um segundo!\""
         ],
         "2": [
-            "Eu provavelmente já perdi muito tempo, melhor ir embora..."
+            "Provavelmente perdi tempo demais — melhor ir embora..."
         ]
   },
   "21": {
         "0": [
-            "Nesse momento, eu escutei um som familiar."
+            "Bem nessa hora, um som familiar ecoou."
         ],
         "1": [
-            "\\{Espera...\\w[45] esse som, é um C!"
+            "\\{Espera...\\w[45] esse som, é uma B!"
         ],
         "2": [
             "\\nl< >\\{\"…………Huh?\""
@@ -97,33 +97,33 @@
             "\\nl< >\\{\"Aaaaahhhh—!!\""
         ],
         "4": [
-            "\\str[120] também viu um C!",
-            "Isso é ruim! Se um C atacar em uma situação como essa, ",
-            "ela pode desmaiar de susto!!"
+            "\\str[120] também notou a B!",
+            "Isso é ruim! Se uma B atacar em uma situação como essa, ",
+            "ela pode desmaiar do choque!"
         ],
         "5": [
             "\\{\"……！\""
         ],
         "6": [
-            "Antes mesmo que eu pudesse pensar, meu corpo agiu sozinho",
-            "e eu corri para o banheiro igual um raio."
+            "Antes que eu pudesse pensar, meu corpo se moveu sozinho,",
+            "e eu entrei correndo no banheiro na velocidade da luz."
         ],
         "7": [
-            "\\{\"Foi você que fez a \\str[120] chorar!?\""
+            "\\{\"Você é o que fez minha \\str[120] chorar!?\""
         ],
         "8": [
-            "Na mosca. O C morreu na hora."
+            "Na mosca. A B morreu na hora."
         ],
         "9": [
-            "\\nl< >\"Uuuh... \\str[121]...\""
+            "\\nl< >\"Éééé... \\str[121]...\""
         ],
         "10": [
-            "\"Tá tudo bem agora. ",
-            "Aquele negócio não está mais lá—\\str[121] deu conta daquilo.\""
+            "\"Está tudo bem agora. ",
+            "A coisa ruim se foi — \\str[121] cuidou dela.\""
         ],
         "11": [
             "\\nl< >\"Huh...?",
-            "\\str[121]... sua calça...\""
+            "\\str[121]... suas calças...\""
         ],
         "12": [
             "\"——————————Ah.\""

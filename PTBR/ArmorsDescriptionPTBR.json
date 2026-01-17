@@ -3,7 +3,7 @@
         "name": [
             "Bigorna"
         ],
-        "subtitle": "",
+        "subtitle": "[empty string]",
         "description": [
             "Uma pesada bigorna da oficina de um ferreiro, carregada ",
             "como equipamento. Sua dureza e peso a tornam perfeita para",
@@ -633,7 +633,9 @@
         "name": [
             "Punho da Fúria"
         ],
-        "subtitle": "",
+        "subtitle": [
+            "\"Mão esquerda bate pesado, mão direita bate ainda mais pesado.\""
+        ],
         "description": [
             "Um poderoso punho mágico",
             "Transbordando de uma fúria insondável, continua fechado em punho…"
@@ -1079,7 +1081,8 @@
         ],
         "description": [
             "Calcinha recebida da \\str\\[120] devido a um mal-entendido",
-            "Nunca devolvida, mas, no fundo, há felicidade"
+            "Nunca devolvida, mas, no fundo, há felicidade",
+            "bem no fundo, uma leve e silenciosa sensação de felicidade paira..."
         ],
         "ability": [
             "Inspirado pela \\str\\[120]. Quando o PV < 50%, ganha auto-recuperação"

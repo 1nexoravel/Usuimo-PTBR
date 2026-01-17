@@ -7,7 +7,7 @@
             "\"Certo, estou saindo.\""
         ],
         "2": [
-            "\"Ok, tudo pronto!\""
+            "\"Certo, tudo pronto!\""
         ],
         "3": [
             "\\nl< >\"Tome cuidado na estrada, \\str[121]!\""
@@ -60,7 +60,7 @@
             "\\nl< >\"Okay… mas tome cuidado…\""
         ],
         "17": [
-            "É. \\str[120]… ela sofre de uma estranha doença."
+            "Sim, \\str[120]… ela sofre de uma doença estranha."
         ],
         "18": [
             "Ela não pode sair e nem se expor à luz solar. ",
@@ -294,18 +294,18 @@
             "\\nl< >\"Meu estômago tá vazio…\""
         ],
         "6": [
-            "\"Ok, ok, Eu vou preparar o jantar agora mesmo.\""
+            "\"Certo, certo vou preparar o jantar agora mesmo.\""
         ],
         "7": [
             "Eu fiz um leve cafuné na cabeça da \\str[120]",
             "e tentei à confortar um pouco. "
         ],
         "8": [
-            "Fazer o jantar",
-            "Ir pro banheiro"
+            "Fazer o Jantar",
+            "Ir ao Banheiro"
         ],
         "9": [
-            "Yeah, está ficando um pouco tarde, é melhor eu preparar o jantar."
+            "Sim, está ficando tarde, é melhor eu ir preparar o jantar."
         ],
         "10": [
             "\"O que você gostaria de comer hoje a noite?\""

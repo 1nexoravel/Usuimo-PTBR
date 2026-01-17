@@ -11,6 +11,22 @@
             "\\w[120]"
         ]
   },
+  "usingItem": {
+        "0": [
+            "Retirou \\ii[\\v[90]]  ",
+            "o que eu devo fazer…?"
+        ],
+        "1": [
+            "Usar",
+            "Deixa para lá",
+            "Descartar"
+        ]
+  },
+  "Abyss": {
+        "0": [
+            " Torre Eterna Abandonada "
+        ]
+  },
   "ElixirCraft": {
         "0": [
             " Criar Elixir"
@@ -94,6 +110,21 @@
             "Pesca com bombas é estritamente proibida!",
             "Faça por sua conta e risco!"
         ]
+  },
+  "nekoTruck": {
+        "0": [
+            "Quer comprar \\v[84]?",
+            "Custa \\c[6]\\v[85]\\c[0]yen!"
+        ],
+        "1": [
+            "comprar!",
+            "Deixa pra lá…",
+            "Pegar sorrateiramente…"
+        ],
+        "10": "Não há uma área suficientemente larga!",
+        "11": "Há obstáculos na pista!",
+        "12": "O carro (Chariot) foi invocado com sucesso!",
+        "13": "O carro (Chariot) não pode ser invocado nesta área!"
   },
   "sela": {
         "1": [

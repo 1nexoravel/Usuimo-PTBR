@@ -97,6 +97,501 @@
 		    "Qual poderia ser a maneira certa de pegar eles...?"
 		    ]
   },
+  "10": {
+		    "objectName": [
+		    "Misteriosa Espadachim"
+		    ],
+		    "sentouryoku": [
+		    "?99"
+		    ],
+		    "description": [
+		    "Uma garota com orelhas de gato de uma vila pequena, ",
+		    "parecendo tanto fofa e enérgica.",
+		    "A katana na cintura dela sugere que ",
+		    "ela está longe de ser ordinária.",
+		    "Ela viaja por aí procurando duelos com ",
+		    "oponentes fortes, embora seu comportamento chamativo ",
+		    "sempre trás uma preocupação que ela possa atrair ",
+		    "alguns adultos obscuros..."
+		    ],
+		    "1": [
+		    "Só estou aqui para me desafiar. Eu realmente não estou ",
+		    "interessada na verdade do Grande Labirinto."
+		    ],
+		    "2": [
+		    "Isso que você está carregando é...!",
+		    "Você também é fã de yuusha-sama!?"
+		    ],
+		    "3": [
+		    "Uma espada de madeira de tão alta qualidade",
+		    "não é fácil achar..."
+		    ],
+		    "4": [
+		    "Um—!",
+		    "Se não se importar..."
+		    ],
+		    "5": [
+		    "Você gostaria de praticar comigo?",
+		    "Gostaria realmente de ver como nos medimos como rivais."
+		    ],
+		    "6": [
+		    "Aceitar",
+		    "Declinar"
+		    ],
+		    "7": [
+		    "Isso é ótimo!",
+		    "Vamos começar imediatamente!"
+		    ],
+		    "8": [
+		    "Entendo...",
+		    "É uma pena."
+		    ],
+		    "9": [
+		    "Mas se você ficar interessado,",
+		    "Terei prazer em lutar contra você a qualquer hora."
+		    ],
+		    "10": [
+		    "Nascida na Vila Shiri...",
+		    "A minha ambição é me tornar uma Santa da Espada!"
+		    ],
+		    "11": [
+		    "\\{…Koko ni mairi mashita!"
+		    ],
+		    "12": [
+		    "Ahh... parece que você está bem.",
+		    "Isso é um alívio!"
+		    ],
+		    "13": [
+		    "Sinto muito",
+		    "por propor um duelo assim tão cedo!"
+		    ],
+		    "14": [
+		    "Parece que eu posso ter ido ",
+		    "um pouco longe demais... Mas!"
+		    ],
+		    "15": [
+		    "Uma vez que é um duelo, vou dar ",
+		    "meu melhor sem me segurar."
+		    ],
+		    "16": [
+		    "Desafie-a!",
+		    "Deixa para lá"
+		    ],
+		    "17": [
+		    "É um impressionante espírito de luta!",
+		    "Não precisa nem perguntar, eu jamais recusaria seu desafio!"
+		    ],
+		    "18": [
+		    "Hah... hah...",
+		    "Eu perdi..."
+		    ],
+		    "19": [
+		    "Você é realmente incrível.",
+		    "Aquele último golpe foi bonito."
+		    ],
+		    "20": [
+		    "Estilo de combate imprevisível",
+		    "realmente abriu meus olhos!"
+		    ],
+		    "21": [
+		    "Arrastando você para um duelo tão irrazoável",
+		    "sem oferecer qualquer recompensa parece errado..."
+		    ],
+		    "22": [
+		    "Por favor, leve isto — é uma habilidade que eu mesma desenvolvi.",
+		    "Tenho certeza de que será útil para você!"
+		    ],
+		    "23": [
+		    "Isso pode parecer um pouco arrogante,",
+		    "mas eu já sou a mais forte do meu vilarejo."
+		    ],
+		    "24": [
+		    "Ainda assim, graças a você, eu aprendi que ",
+		    "sempre há alguém mais forte lá fora."
+		    ],
+		    "25": [
+		    "Bem, então—",
+		    "Hora de treinar mais com a minha espada!!"
+		    ]
+  },
+  "11": {
+		    "objectName": [
+		    "Cavaleiro Estranho"
+		    ],
+		    "sentouryoku": [
+		    "???"
+		    ],
+		    "description": [
+		    "Um cavaleiro em uma armadura que irradia uma sinistra ",
+		    "aura. Porque o capacete é bem selado, ",
+		    "sua voz fica abafada, tornando impossível de ",
+		    "determinar sua idade ou gênero.",
+		    "o cavaleiro diz ser um desenvolvedor de jogos e, ",
+		    "em busca de inspiração criativa, ",
+		    "pergunta aos aventureiros sobre suas viagens ",
+		    "e oferece suporte material em retorno. ",
+		    "Além disso, cavaleiro parece conhecer bem o Abismo -"
+		    ],
+		    "1": [
+		    "……Ohhh! Você também veio aqui ",
+		    "em busca do Grande Labirinto?"
+		    ],
+		    "2": [
+		    "Você pode ter ouvido falar de mim —",
+		    "Eu sou apenas um humilde desenvolvedor de jogos de profissão."
+		    ],
+		    "3": [
+		    "Atraído por este Grande Labirinto,",
+		    "Queria compartilhar misteriosa fascinação com o mundo."
+		    ],
+		    "4": [
+		    "No entanto, devo admitir com alguma vergonha que não sou um guerreiro,",
+		    "e só posso expressar essa paixão através da criação."
+		    ],
+		    "5": [
+		    "…Hm?Será que você ",
+		    "está curioso sobre essa armadura?"
+		    ],
+		    "6": [
+		    "Hahaha… Não é nada mais ",
+		    "do que um hobby pessoal meu!"
+		    ],
+		    "7": [
+		    "Ao vestir um equipamento como esse,",
+		    "Eu posso pelo menos me sentir um pouco como um aventureiro."
+		    ],
+		    "8": [
+		    "É claro—é incrivelmente pesado!",
+		    "Na verdade, eu mal posso me mover por conta do seu peso…"
+		    ],
+		    "9": [
+		    "Mas mesmo assim…!",
+		    "Eu nunca vou desistir!"
+		    ],
+		    "10": [
+		    "Muitos heróis e lendas se reuniram nesse local,",
+		    "e eu tenho de continuar a recolher inspiração e materiais."
+		    ],
+		    "11": [
+		    "Dito isso, se você não se importa,",
+		    "você estaria disposto a tentar meu humilde trabalho?"
+		    ],
+		    "12": [
+		    "Tenho certeza de que será de ajuda",
+		    "em sua exploração —"
+		    ],
+		    "13": [
+		    "…o que!? Você não sabe quem eu sou,",
+		    "e não tem um dispositivo capaz de rodar jogos!?"
+		    ],
+		    "14": [
+		    "Não tema! Estando preparado para tais situações,",
+		    "Eu sempre carrego ferramentas de missionário comigo!"
+		    ],
+		    "15": [
+		    "Nosso encontro aqui é uma espécie de destino,",
+		    "então vou oferecer o dispositivo pelo preço de custo!"
+		    ],
+		    "16": [
+		    "Além disso, para ajudar outros aventureiros,",
+		    "eu também administro uma pequena loja—"
+		    ],
+		    "17": [
+		    "Naturalmente, isso também é porque preciso",
+		    "garantir recursos para continuar o desenvolvimento…"
+		    ],
+		    "18": [
+		    "Então, se você se interessar,",
+		    "eu ficaria imensamente grato pelo seu apoio!"
+		    ],
+		    "19": [
+		    "Hahaha, então o pacto está selado.",
+		    "Fico no aguardo das suas impressões depois que você jogar."
+		    ],
+		    "20": [
+		    "E, se você estiver disposto a compartilhar suas histórias,",
+		    "elas ainda poderão inspirar minhas criações futuras."
+		    ],
+		    "30": [
+		    "Conversar",
+		    "Negociar",
+		    "Compartilhar Histórias"
+		    ],
+		    "31": [
+		    "Oh? Nos encontramos de novo!",
+		    "meu companheiro."
+		    ],
+		    "32": [
+		    "Nossos caminhos se cruzam mais uma vez.",
+		    "Pois bem—",
+		    "então, você se interessou em ",
+		    "participar da minha grande empreitada?"
+		    ],
+		    "33": [
+		    "E então? Você tirou ",
+		    "algo do meu jogo?"
+		    ],
+		    "34": [
+		    "Então você busca um antídoto para sua família—",
+		    "Uma determinação digna de respeito."
+		    ],
+		    "35": [
+		    "Lamentavelmente, ",
+		    "devo confessar minha própria limitação.",
+		    "Do segredo alquímico conhecido como Elixir Rubrum, ",
+		    "sei muito pouco…"
+		    ],
+		    "36": [
+		    "Com o seu nível atual de armas e equipamentos,",
+		    "a descida ao Abismo não será uma provação fácil."
+		    ],
+		    "37": [
+		    "Aconselho que você prepare mais suprimentos ou que",
+		    "dedique um tempo para estudar a verdadeira natureza de suas armas."
+		    ],
+		    "38": [
+		    "Muitos vestígios alquímicos de eras passadas ",
+		    "estão espalhados por aqui.",
+		    "Observe-os com atenção—",
+		    "talvez você ainda descubra o verdadeiro propósito deles."
+		    ],
+		    "39": [
+		    "Eu também coleciono itens de utilidade prática.",
+		    "Se desejar, eu ficaria feliz em contar com o seu apoio."
+		    ],
+		    "40": [
+		    "Entre os monstros vivem raças inteligentes, versadas na fala humana,",
+		    "algumas das quais não nutrem má vontade contra a humanidade."
+		    ],
+		    "41": [
+		    "Se você encontrá-los em sua jornada,",
+		    "não se surpreenda— ",
+		    "talvez você até possa negociar por informações valiosas.\n",
+		    " "
+		    ],
+		    "42": [
+		    "“Cuide-se em sua jornada,",
+		    "meu companheiro."
+		    ],
+		    "43": [
+		    "Não há necessidade de pressa.",
+		    "Retorne quando a necessidade surgir."
+		    ],
+		    "44": [
+		    "Você precisa de \\ii[\\v[84]]?",
+		    "Então o preço será \\c[6]\\v[85]\\c[0] ienes."
+		    ],
+		    "45": [
+		    "Você precisa de \\ii[\\v[84]]?",
+		    "Para um companheiro de espécie, \\c[6]\\v[85]\\c[0] ienes serão suficientes."
+		    ],
+		    "46": [
+		    "Comprar",
+		    "Sair"
+		    ],
+		    "47": [
+		    "Que este item o ajude a superar ",
+		    "as provações que estão à sua frente."
+		    ],
+		    "48": [
+		    "Uma decisão sábia. Que ele ",
+		    "lhe seja útil quando mais importar."
+		    ],
+		    "49": [
+		    "Você parece um tanto impaciente.",
+		    "Mesmo entre aventureiros, toda negociação exige termos justos."
+		    ],
+		    "50": [
+		    "Não se force.",
+		    "Volte quando sua bolsa estiver melhor preparada."
+		    ],
+		    "51": [
+		    "Impressionante — você comprou tudo.",
+		    "Isso é tudo o que posso oferecer por hoje."
+		    ],
+		    "52": [
+		    "Meu estoque agora está esgotado.",
+		    "Saber que esses itens encontraram seu caminho até você já é satisfação suficiente."
+		    ],
+		    "53": [
+		    "Ah. ",
+		    "Essa falha foi minha.",
+		    "Você estava procurando por isto? ",
+		    "Encontrá-lo aos meus pés… que curioso."
+		    ],
+		    "54": [
+		    "Pois bem, a sorte ",
+		    "lhe trouxe algo de interessante?"
+		    ],
+		    "55": [
+		    "(Hmm… não parece haver nada",
+		    "que valha a pena compartilhar…)"
+		    ],
+		    "56": [
+		    "Compartilhou algumas reflexões sobre ",
+		    "\\str[120] jogando Shadow Souls."
+		    ],
+		    "57": [
+		    "Ah! Receber elogios da sua família—",
+		    "isso é realmente uma grande honra para mim."
+		    ],
+		    "58": [
+		    "Com isso, sinto-me ainda mais ",
+		    "motivado a trabalhar em atualizações."
+		    ],
+		    "59": [
+		    "Dito isso, parece que ainda",
+		    "não ouvi sua própria avaliação."
+		    ],
+		    "60": [
+		    "Hm? Grande… branco…",
+		    "e muito macio?"
+		    ],
+		    "61": [
+		    "…Existe mesmo algo no meu jogo",
+		    "que despertaria uma impressão assim?"
+		    ],
+		    "62": [
+		    "Ah não. Acabei me deixando absorver demais ",
+		    "por aquela sensação e falei errado…"
+		    ],
+		    "63": [
+		    "Compartilhou a informação de que os cogumelos que crescem em ",
+		    "cogumelos ambulantes são, na verdade, bem saborosos."
+		    ],
+		    "64": [
+		    "Culinária de monstros, é? Que ideia tão inovadora!",
+		    "Como era de se esperar de você."
+		    ],
+		    "65": [
+		    "Compartilhou a informação de que os pássaros estranhos na",
+		    "masmorra têm gritos extremamente barulhentos."
+		    ],
+		    "66": [
+		    "Talvez uma Garuda juvenil… fico me perguntando qual seria mais ",
+		    "ensurdecedora em comparação ao rugido do dragão lendário."
+		    ],
+		    "67": [
+		    "Compartilhou a informação de que a carne",
+		    "de orc é surpreendentemente deliciosa."
+		    ],
+		    "68": [
+		    "Compartilhou informações sobre uma passagem secreta no Labirinto",
+		    "que se conecta ao mundo exterior."
+		    ],
+		    "69": [
+		    "It looks like a passage left behind by a previous engineering team.",
+		    "I heard they once planned to excavate the entire Labyrinth."
+		    ],
+		    "70": [
+		    "However, the project suddenly stalled halfway through.",
+		    "No one knows what kind of trouble they ran into."
+		    ],
+		    "71": [
+		    "Shared information about a strange mushroom house",
+		    "at the end of the forest where people get lost."
+		    ],
+		    "72": [
+		    "I’ve heard many adventurers lose their way inside…",
+		    "but as expected of you, you managed to make it through safely."
+		    ],
+		    "73": [
+		    "As for that enormous mushroom house…",
+		    "it certainly makes one curious what kind of creature lives within."
+		    ],
+		    "74": [
+		    "Shared an experience of unfortunately",
+		    "falling into a pit inside the dungeon."
+		    ],
+		    "75": [
+		    "Hahaha…! That truly is an embarrassing experience.",
+		    "As an adventurer, one must always be aware of their surroundings."
+		    ],
+		    "76": [
+		    "Shared information about discovering a mech",
+		    "in an unknown area."
+		    ],
+		    "77": [
+		    "I see… what a remarkable encounter. As expected,",
+		    "the Great Labyrinth still hides traces of ancient civilizations."
+		    ],
+		    "78": [
+		    "…So it has already vanished.",
+		    "I have no reason to doubt your account."
+		    ],
+		    "79": [
+		    "This must be a matter of fate.",
+		    "Someday, it will surely appear once again."
+		    ],
+		    "80": [
+		    "Shared information that jelly made from slimes",
+		    "surprisingly has quite a good texture."
+		    ],
+		    "81": [
+		    "Oh, meu companheiro!",
+		    "Come and take this!"
+		    ],
+		    "82": [
+		    "During these days, you’ve given me ",
+		    "quite a lot of interesting inspiration.",
+		    "If I didn’t offer at least a small token of thanks, ",
+		    "it would hardly feel right."
+		    ],
+		    "83": [
+		    "This is an outfit I personally designed",
+		    "for promoting the game.",
+		    "Please accept it as a gift that ",
+		    "represents my appreciation."
+		    ],
+		    "84": [
+		    "(Huh... a bonus T-shirt...?",
+		    "W-what should I do...)"
+		    ],
+		    "85": [
+		    "(I really don’t want to wear ",
+		    "something like this outside...",
+		    "I wonder if \\str[120] would like ",
+		    "this kind of outfit...)"
+		    ]
+  },
+  "12": {
+		    "objectName": [
+		    "Vending Machine"
+		    ],
+		    "sentouryoku": [
+		    "1"
+		    ],
+		    "description": [
+		    "It seems to be a machine operated and ",
+		    "managed by the Maid Bunny.",
+		    "It’s not entirely clear why monsters would want ",
+		    "to imitate humans and run a business,",
+		    "but everyone has naturally come to accept it.",
+		    "By the way, carrot milk has the worst reviews."
+		    ],
+		    "1": [
+		    "A strange vending machine...",
+		    "A bottle of drink... \\c[6]\\v[86]\\c[0] yen."
+		    ],
+		    "2": [
+		    "Buy one",
+		    "Never mind"
+		    ],
+		    "3": [
+		    "No...",
+		    "I don't have enough money..."
+		    ],
+		    "4": [
+		    "\"Due to damage by unknown individuals, ",
+		    "a temporary repair penalty has been added...\"",
+		    "Until the penalty is fully paid... ",
+		    "a bottle of drink... \\c[6]\\v[86]\\c[0] yen!?"
+		    ],
+		    "5": [
+		    "(There’s already…",
+		    "no drinks left inside.)"
+		    ]
+  },
   "13": {
 		    "objectName": [
 		    "Shione"
@@ -251,12 +746,12 @@
 		    "?999"
 		    ],
 		    "description": [
-		    "Uma lojinha ambulante mantida por duas Nekomimis.",
+		    "Uma lojinha ambulante mantida por duas gatinhas.",
 		    "Elas aparecem espalhafatosamente quando chamadas por aventureiros.",
 		    "Os produtos são basicamente lixo que encontraram no Abismo.",
 		    "Mas cuidado, os preços podem ser superfaturados.",
-		    "Se ficar olhando muito, você vai ser espancado...",
-		    "PS:\\c[2]Estão na lista negra das Coelhas-Maid ",
+		    "Se você as esnobar, será espancado...",
+		    "PS:\\c[2]Estão na lista negra das Coelhinhas Empregadas ",
 		    "\\c[2]por roubar clientes."
 		    ],
 		    "1": [
@@ -273,24 +768,40 @@
 		    ],
 		    "description": [
 		    "Um monstro estranho normalmente encontrado na selva, ",
-		    "Muito maior que um cogumelo normal.",
+		    "bem maior que um cogumelo normal.",
 		    "Ele é agressivo e pode andar livremente com suas pernas.",
-		    "Porém, são deliciosos e minha coisa favorita, ",
-		    "São alvos de aventureiros e chefes."
+		    "Porém, é delicioso, fazendo dele um dos ",
+		    "alvos favoritos de aventureiros e chefes de cozinha."
+		    ]
+  },
+  "47": {
+		    "objectName": [
+		    "\\c[114]Door of Star"
+		    ],
+		    "sentouryoku": [
+		    "1"
+		    ],
+		    "description": [
+		    "A passable door summoned by the Star Tarot.",
+		    "The stars are believed to guide one back home.",
+		    "Passing through this door returns the traveler ",
+		    "to a safe area. Adventurers often use it ",
+		    "to return to a place of rest, or to retreat ",
+		    "temporarily when the situation turns unfavorable."
 		    ]
   },
   "51": {
 		    "objectName": [
-		    "\\c[116]Mini Orc"
+		    "\\c[116]Orc Juvenil"
 		    ],
 		    "sentouryoku": [
 		    "320"
 		    ],
 		    "description": [
-		    "Um Orc jovem, ainda na fase de desenvolvimento, ",
-		    "Mas já tem um tamanho similar a um humano.",
-		    "Ele reage vorazmente ao ver coisas vivas ",
-		    "Drenando sua força vital."
+		    "Um Orc jovem, ainda em fase de crescimento, ",
+		    "com tamanho similar ao de um humano.",
+		    "Ele reage vorazmente ao ver seres vivos ",
+		    "e drena sua força vital com avidez."
 		    ]
   },
   "53": {
@@ -301,9 +812,9 @@
 		    "210"
 		    ],
 		    "description": [
-		    "Um defunto reanimado com necromancia.",
-		    "Eles ainda são agressivos e possuem  ",
-		    "Um poder de combate considerável."
+		    "Um cadáver reanimado com necromancia.",
+		    "Eles ainda são agressivos e possuem ",
+		    "uma capacidade de combate considerável."
 		    ]
   },
   "59": {
@@ -311,7 +822,7 @@
 		    "Coelho Branco do País das Maravilhas"
 		    ],
 		    "subtitle": [
-		    "Habitando a Floresta da Ruína"
+		    "Habitando a Floresta das Ruínas"
 		    ],
 		    "bossName": [
 		    "Coelho Branco do País das Maravilhas"
@@ -332,84 +843,84 @@
 		    ],
 		    "description": [
 		    "Uma besta aviária gigante.",
-		    "Ele ataca aventureiros com seu grande corpo, ",
+		    "Ele ataca aventureiros com seu corpo enorme,",
 		    "e também utiliza ataques sônicos, então tome cuidado."
 		    ]
   },
   "66": {
 		    "objectName": [
-		    "\\c[114]Gato Lesma Laranja Malhado"
+		    "\\c[114]Gato Geleca Laranja Malhado"
 		    ],
 		    "sentouryoku": [
 		    "?10"
 		    ],
 		    "description": [
-		    "Uma lesma que teve uma mutação após comer ",
-		    "comendo um gatinho adorável,",
-		    "Super fofa também como resultado.",
-		    "Ela perdeu seu instinto de atacar,",
-		    "Mas vai se eriçar como um gato quando ameaçada..."
+		    "Uma gosma que sofreu uma mutação após comer ",
+		    "acidentalmente um adorável gatinho,",
+		    "tornando-se fofa como resultado.",
+		    "Ele perdeu seu instinto de atacar,",
+		    "mas ficará eriçado como um gato se ameaçado..."
 		    ],
 		    "1": [
-		    "Parece que o Gato Lesma ",
-		    "Gostou muito de mim..."
+		    "Parece que o Gato Geleca ",
+		    "gostou de mim..."
 		    ]
   },
   "67": {
 		    "objectName": [
-		    "\\c[114]Gato Lesma Tricolor Listrado"
+		    "\\c[114]Gato Geleca Tricolor Listrado"
 		    ],
 		    "sentouryoku": [
 		    "?10"
 		    ],
 		    "description": [
-		    "Uma lesma que teve uma mutação depois de comer ",
-		    "um adorável gatinho por acidente, e se tornou",
-		    "super fofinha também como resultado.",
-		    "Ela perdeu seu instinto de atacar,",
-		    "Mas vai se eriçar como um gato quando ameaçada..."
+		    "Uma gosma que sofreu uma mutação após comer ",
+		    "acidentalmente um adorável gatinho,",
+		    "tornando-se fofa como resultado.",
+		    "Ele perdeu seu instinto de atacar,",
+		    "mas ficará eriçada como um gato se ameaçada..."
 		    ],
 		    "1": [
-		    "Parece que o Gato Lesma ",
-		    "Gostou muito de mim..."
+		    "Parece que o Gato Slime ",
+		    "parece ter gostado de mim..."
 		    ]
   },
   "68": {
 		    "objectName": [
-		    "\\c[114]Gato Lesma Branco Malhado"
+		    "\\c[114]Gato Slime Branco Malhado"
 		    ],
 		    "sentouryoku": [
 		    "?10"
 		    ],
 		    "description": [
-		    "Uma lesma que teve uma mutação depois de comer ",
-		    "um adorável gatinho por acidente e se tornou",
-		    "super fofinha também como resultado.",
-		    "Ela perdeu seu instinto de atacar",
-		    "mas vai se eriçar como um gato quando ameaçada..."
+		    "Uma gosma que sofreu uma mutação após comer ",
+		    "acidentalmente um adorável gatinho,",
+		    "tornando-se fofa como resultado.",
+		    "Ela perdeu seu instinto de atacar,",
+		    "mas ficará eriçada como um gato se ameaçada..."
 		    ],
 		    "1": [
-		    "Parece que o Gato Lesma ",
-		    "Gostou muito de mim..."
+		    "O Gato Slime ",
+		    "parece ter gostado de mim..."
 		    ]
   },
   "69": {
 		    "objectName": [
-		    "\\c[114]Gato Lesma Siamês"
+		    "\\c[114]Gato Slime Siamês"
 		    ],
 		    "sentouryoku": [
 		    "?10"
 		    ],
 		    "description": [
-		    "Uma lesma que teve uma mutação após comer ",
-		    "Um gato por acidente, e se tornou",
-		    "Super meigo como resultado.",
-		    "Ela perdeu seu instinto de atacar,",
-		    "Mas vai se eriçar como um gato quando ameaçada..."
+		    "Uma gosma que sofreu uma mutação após comer ",
+		    "acidentalmente um adorável gatinho,",
+		    "tornando-se fofa como resultado.",
+		    "Ele perdeu seu instinto de atacar,",
+		    "mas ficará eriçada como um gato se ameaçada..."
 		    ],
 		    "1": [
-		    "Parece que o Gato Lesma ",
-		    "Gostou muito de mim..."
+		    "O Gato Slime ",
+		    "parece ter gostado de mim..."
 		    ]
   },
   "70": {
@@ -421,10 +932,10 @@
 		    ],
 		    "description": [
 		    "Uma criatura…? com formato de banana.",
-		    "Uma fada nascida sobre a influência da aura Abissal ",
-		    "Apresenta pouco perigo para os aventureiros.",
+		    "Uma fada nascida pela influência da aura Abissal, ",
+		    "apresenta pouco perigo para os aventureiros.",
 		    "Contudo, há rumores que ela pode ",
-		    "Facilmente lançar pessoas pro ar…"
+		    "arremessar pessoas pro ar facilmente…"
 		    ]
   },
   "71": {
@@ -435,16 +946,16 @@
 		    "?10"
 		    ],
 		    "description": [
-		    "Uma criatura…? com formato de Maçã.",
-		    "Uma fada nascida sobre a influência da aura Abissal ",
-		    "Apresenta pouco por ogo",
+		    "Uma criatura…? com formato de maçã.",
+		    "Uma fada nascida pela influência da aura Abissal, ",
+		    "apresenta pouco perigo para os aventureiros.",
 		    "Contudo, há rumores que ela pode ",
-		    "facilmente lançar pessoas pro ar…"
+		    "arremessar pessoas pro ar facilmente…"
 		    ]
   },
   "72": {
 		    "objectName": [
-		    "\\c[115]Mão Decepada do Mago"
+		    "\\c[115]Mão Decepada do Mago Caído"
 		    ],
 		    "sentouryoku": [
 		    "480"
@@ -454,7 +965,7 @@
 		    "Ninguém sabe o que aconteceu com seu dono original,",
 		    "Mas totalmente embebida em necromancia, ela continua ativa.",
 		    "Aventureiros costumam a ver fazendo gestos óbvios ",
-		    "Durante o ataque."
+		    "durante seus ataques."
 		    ]
   },
   "73": {

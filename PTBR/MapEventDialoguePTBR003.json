@@ -183,7 +183,7 @@
             "\"iss scova dus lads... é fca lipo...\""
         ],
         "5": [
-            "\\nl< >\"O-nii-cha... você é... único—!\"    \\w[330]\\^"
+            "\\nl< >\"O-nii-cha... você... que tá—!\"    \\w[330]\\^"
         ],
         "6": [
             "Hmm… não entendo uma palavra do que ela diz.",
@@ -260,11 +260,11 @@
             "você tá tentando me zoar de novo?\""
         ],
         "16": [
-            "As suspeitas dela estavam crescendo, se eu não fizesse algo,",
-            "ela certamente me chutaria pra fora..."
+            "Sua desconfiança estava crescendo — se eu não fizesse algo,",
+            "ela com certeza me expulsaria em seguida..."
         ],
         "17": [
-            "\\nl< >\"Que—?! \\str[121], isso é...!\""
+            "\\nl< >\"Espera—?! \\str[121], isso é...!\""
         ],
         "18": [
             "\"Enquanto você hesita, ",
@@ -304,15 +304,15 @@
             "Subornar com Dinheiro"
         ],
         "27": [
-            "\\nl< >\"...Táa, eu entendi...    \\w[60]",
+            "\\nl< >\"...Tá bom, entendi...    \\w[60]",
             "Eu vou te ajudar, mas só dessa vez...\""
         ],
         "28": [
             "Acho que o suborno funcionou,",
-            "sua resposta não tinha mais nenhum sinal de resistência."
+            "sua resposta não tinha mais traço de resistência."
         ],
         "29": [
-            "\\nl< >\"...Isso é bom o suficiente?\""
+            "\\nl< >\"...Assim tá bom?\""
         ],
         "30": [
             "Ela gentilmente envolveu sua mãozinha no meu pau,",
@@ -389,60 +389,60 @@
             "\"Ah... ahhh... É, você não está errada sobre isso...\""
         ],
         "49": [
-            "Quase sem conseguir responder, minha mente ficou em branco, ",
-            "mesmo ela me fazendo sentir incrível a poucos momentos atrás,",
-            "aquele pequeno acidente quase me traumatizou pro resto da vida..."
+            "Mal conseguindo responder, minha mente em branco,",
+            "mesmo que ela tenha me feito sentir incrível há pouco,",
+            "aquele acidentezinho quase me traumatizou pra vida..."
         ],
         "50": [
-            "\\nl< >\"Ok! Se você já tá pronto, cai fora agora!   \\w[60]",
-            "Eu preciso tomar banho!!\""
+            "\\nl< >\"Tá bom! Se acabamos, sai logo!   \\w[60]",
+            "Eu preciso tomar banho!\""
         ],
         "51": [
-            "Mas...Eu meio que queria... tomar banho junto com você..."
+            "Queria tipo... tomar banho juntos... mas..."
         ],
         "52": [
-            "Eu tenho quase certeza que se tomássemos banho juntos agora,",
-            "as coisas ficariam ainda mais estranhas, mas ela já me",
-            "chutou do banheiro."
+            "Tenho certeza que se tomássemos banho juntos agora,",
+            "as coisas ficariam ainda mais loucas, ",
+            "mas ela já me expulsou do banheiro."
         ]
   },
   "15": {
         "0": [
-            "Ah, falando nisso… entre as coisas aleatórios e sem sentido ",
-            "que a menina ninja me ensinou era algo chamado, ",
-            "o 'Princípio Estrutural da Porta Ninja' que realmente ",
-            "pareceu muito interessante.",
-            "talvez eu possa alterar a porta do banheiro usando isso—"
+            "Ah, falando nisso… entre todo o nonsense aleatório ",
+            "que aquela garota ninja me ensinou, tinha algo chamado ",
+            "\"princípio estrutural da porta ninja\" que realmente ",
+            "soava bem interessante.",
+            "Talvez eu pudesse modificar a porta do banheiro usando isso—"
         ],
         "1": [
-            "Tipo, se eu conseguir entalhar uma pequena perfuração ",
-            "em um ângulo que só eu consiga visualizar—",
-            "Contanto que eu consiga fazer isso cuidadosamente e sem estragar ",
-            "a proteção sonora e a impermeabilização… Então eu poderia—",
+            "Tipo, se eu pudesse esculpir uma pequena fenda de visão desse ",
+            "ângulo que só eu pudesse acessar—",
+            "desde que eu gerencie com cuidado e não estrague o ",
+            "isolamento acústico ou impermeabilização… então eu poderia—",
             "\\{ Hehehehe~~~~"
         ],
         "2": [
-            "\\{Ahem!\\}\\w[45] Não que eu faria isso por uma razão estranha.",
-            "Só no caso que a \\str[120] desmaie durante o ",
-            "banho— Eu preciso poder perceber isso imediatamente.",
-            "É totalmente por razões de segurança! Isso, é isso mesmo!"
+            "\\{Ahem!\\}\\w[45] Não é como se eu estivesse fazendo isso por algo estranho.",
+            "É só no caso da \\str[120] desmaiar enquanto ",
+            "toma banho — preciso notar imediatamente.",
+            "É puramente por razões de segurança! Sim, é isso!"
         ],
         "3": [
-            "\\{ok!",
+            "\\{Certo!",
             "hora de ir trabalhar enquanto eu ainda posso!"
         ],
         "4": [
-            "Phew… isso foi o suficiente pra hoje. ",
-            "Se eu ficar muito tempo, a \\str[120] pode suspeitar.",
+            "Ufa… chega por hoje. ",
+            "Se eu demorar demais, a \\str[120] pode ficar desconfiada.",
             "Só mais duas ou três modificações ",
-            "e deve estar perfeito pra usar~~!"
+            "e deve estar pronto~~!"
         ],
         "5": [
-            "A modificação da porta ninja de ontem parece ter funcionado bem.",
+            "A modificação da porta ninja de ontem foi bem.",
             "Hora de fazer mais modificações!"
         ],
         "6": [
-            "Whew…! Essa passou perto. ",
+            "Ufa…! Foi por pouco. ",
             "Eu quase furei um buraco na parede do lado.",
             "Ainda bem que a \\str[120] não veio bater na porta…"
         ],
@@ -479,7 +479,7 @@
   "17": {
         "0": [
             "\\str[120] está prestes a terminar o banho...",
-            "Melho sair rápido."
+            "Melhor sair rápido."
         ],
         "1": [
             "Não consigo mais ver a \\str[120] pela porta do banheiro...",
@@ -514,7 +514,7 @@
             "Tudo limpo, vamos continuar explorando!"
         ],
         "9": [
-            "\\str[120] terminou seu banho, ",
+            "\\str[120] terminou o banho, ",
             "Eu preciso sair rápido daqui."
         ],
         "10": [
@@ -524,37 +524,37 @@
             "\\str[120] está cuidadosamente esfregando seus braços."
         ],
         "12": [
-            "Sabonete Corporal?",
-            "Já tem muita espuma, ",
-            "está muito difícil de ver os detalhes…"
+            "Sabonete?",
+            "Tem espuma demais, ",
+            "é difícil ver os detalhes…"
         ],
         "13": [
             "\\str[120] ainda está esfregando seus peitos cuidadosamente…",
             "Isso parece tão obsceno…"
         ],
         "14": [
-            "...Ainda continuar espiando?"
+            "...Ainda quer continuar espiando?"
         ],
         "15": [
-            "Continuar espiando",
-            "Usar a porta ninja",
-            "Parar de espiar"
+            "Continuar Espiando",
+            "Usar Porta Ninja",
+            "Parar de Espiar"
         ],
         "16": [
-            "…\\str[120] está começando a perceber minha presença.",
+            "…\\str[120] está começando a sentir minha presença.",
             "Melhor parar de espiar."
         ],
         "17": [
-            "\\str[120] foi pra banheira.",
+            "\\str[120] entrou na banheira.",
             "Ela está alegremente cantarolando uma melodia."
         ],
         "18": [
-            "…Já é hora.",
-            "\\str[120] está quase pronta, melhor eu voltar."
+            "…Está na hora.",
+            "\\str[120] está quase acabando — melhor sair."
         ],
         "19": [
-            "Esse é o momento perfeito para utilizar a ",
-            "porta ninja e aproveito isso tudo novamente…!"
+            "Esse é o momento perfeito para utilizar ",
+            "a porta ninja e curtir tudo de novo…!"
         ],
         "20": [
             "—Eu já não tenho feito bom uso?"
@@ -567,35 +567,35 @@
   "23": {
         "0": [
             "De mansinho e quietinho…………  \\w[30]",
-            "Se eu vou espiar, eu preciso abrir a porta cuidadosamente ",
-            "pra que a \\str[120] não me perceba—"
+            "Se vou espiar, preciso abrir a porta com cuidado ",
+            "para a \\str[120] não notar—"
         ],
         "1": [
             "Oh oh oh—! Eu consigo ver ela!",
             "Parece que a \\str[120] está prestes a tirar a calcinha.",
-            "Eu imagino se vou conseguir ver sua buceta desse ângulo!?"
+            "Será que consigo ver a buceta dela desse ângulo!?"
         ],
         "2": [
-            "Oh oh oh—! Eu consigo ver ela!",
+            "Oh oh oh—! Consigo ver ela!",
             "Parece que a \\str[120] está prestes a tirar a roupa.",
-            "Não é comum eu conseguir ver ela só de calcinha… ",
-            "Será que eu consigo ver o momento que ela vai tirar elas!?"
+            "Não é sempre que vejo ela só de calcinha… ",
+            "será que eu consigo ver o momento que ela vai tirar elas!?"
         ],
         "3": [
-            "Oh oh oh—! Eu consigo ver ela!",
+            "Oh oh oh—! Consigo ver ela!",
             "Parece que a \\str[120] está prestes a tirar a roupa.",
             "Sua parte de baixo já está completamente nua… ",
-            "Eu gostaria de poder ter uma visão mais próxima…"
+            "Queria ver mais de perto…"
         ],
         "4": [
-            "Merda, eu abri a porta de mais…!"
+            "Droga, empurrei a porta demais…!"
         ],
         "5": [
-            "…Essa foi uma boa visão~        \\w[30]",
-            "Eu deveria cair fora agora."
+            "…Essa foi uma bela vista~ \\w[30]",
+            "Provavelmente devo sair por enquanto."
         ],
         "6": [
-            "O que eu devo fazer em seguida? ",
+            "O que fazer em seguida? ",
             "Infiltrar mais a fundo no banheiro?"
         ],
         "7": [
@@ -604,90 +604,90 @@
         ],
         "8": [
             "Se eu continuar, ",
-            "Eu posso achar algo a mais…!"
+            "posso descobrir algo mais…!"
         ],
         "9": [
-            "É o suficiente pra hoje. ",
+            "Chega por hoje. ",
             "Seria ruim se a \\str[120] me pegasse."
         ],
         "10": [
-            "…\\str[120] me percebeu espiando!",
-            "Eu fui chutado na hora."
+            "…\\str[120] notou que eu estava espiando!",
+            "Fui expulso na hora."
         ]
   },
   "25": {
         "0": [
-            "\\nl< >\"O-\\str[121]!? Por que você está aqui?\""
+            "\\nl< >\"\\str[121]!? Por que você está aqui?\""
         ],
         "1": [
             "\\nl< >\"…É você atrás da porta, \\str[121]?\""
         ],
         "2": [
-            "Guh…!",
-            "Então eu fui descoberto a final."
+            "Pulz…!",
+            "Então fui descoberto afinal."
         ],
         "3": [
-            "\\nl< >\"Eu sabia que era você \\str[121]. ",
-            "Por qual motivo você tá se esgueirando por aí?\""
+            "\\nl< >\"Eu sabia que era você, \\str[121]. ",
+            "O que você tá fazendo escondido?\""
         ],
         "4": [
             "\\nl< >\"…\\str[121]? \\w[30]",
-            "O que você tá fazendo se escondendo atrás da porta?\""
+            "O que você tá fazendo escondido atrás da porta?\""
         ],
         "5": [
             "Eu já me infiltrei…",
-            "Não tem como voltar agora…!"
+            "Agora não tem como voltar…!"
         ],
         "6": [
-            "Eu fui pego espiando…",
-            "Como eu devo explicar isso pra \\str[120]…"
+            "Fui pego espiando…",
+            "Como explicar isso para a \\str[120]…"
         ],
         "7": [
-            "Verificando a Saúde",
-            "Eu quero te ver!",
-            "Inventar Desculpa",
+            "Verificar a Saúde",
+            "Me Deixa Ver!",
+            "Dar Uma Desculpa",
             "Último Recurso",
             "Quero Obscenidade!"
         ],
         "8": [
-            "Ahhh…! Parece que eu não tenho ",
-            "escolha se não usar o último recurso!"
+            "Ahhh…! Parece que não tenho",
+            "escolha a não ser usar o último recurso!"
         ],
         "9": [
-            "\"VAMOS FUGIR DAQUI!!!\""
+            "\"VAMOS DAR NO PÉ DAQUI!!!\""
         ],
         "10": [
             "Eu rapidamente corri do local.      \\w[30]",
-            "Mas claro, que mesmo depois disso, ",
-            "Eu ainda acabei sendo repreendido pela \\str[120]."
+            "Claro, mesmo depois disso, ",
+            "ainda acabei sendo repreendido pela \\str[120]."
         ],
         "11": [
             "\\{",
-            "……Eu fazendo aqui?!",
+            "……O que estou fazendo aqui?!",
             "Agora?! Aqui?!"
         ],
         "12": [
-            "\\nl< >\"\\str[121]!? Você tá me espiando denovo…!?\""
+            "\\nl< >\"\\str[121]!? Você tá espiando de novo…!?\""
         ],
         "13": [
             "…Parece que a \\str[120] me pegou espiando!",
-            "Mas, será que eu estou imaginando coisas?",
-            "Parece que ela até está me movendo ",
+            "Mas será que tô imaginando coisas?",
+            "Parecia que ela até estava movendo ",
             "sua buceta pra um ângulo que eu consiga ver——"
         ],
         "14": [
-            "\"Se acalma, Querida \\str[120].",
-            "\\str[121] definitivamente não está aqui pra fazer nada de ruim.\""
+            "\"Se acalma, querida \\str[120].",
+            "\\str[121] definitivamente não tá aqui para fazer nada ruim.\""
         ],
         "15": [
-            "\\{\"Eu só queria observar ",
-            "minha adorável irmãzinha pelas sombras！\""
+            "\\{\"Eu só queria vigiar",
+            "minha adorável imouto-chan pelas sombras！\""
         ],
         "16": [
-            "\"Isso aí, é só uma verificação de saúde！\""
+            "\"Isso mesmo, é só uma checagem de saúde！\""
         ],
         "17": [
-            "\\nl< >\"Eu já escutei essa desculpa antes！\""
+            "\\nl< >\"Já ouvi essa desculpa antes！\""
         ],
         "18": [
             "\"Não não! ",
@@ -695,12 +695,12 @@
         ],
         "19": [
             "\\nl< >\"O—o que você quer dizer…",
-            "Por que o \\str[121] faria algo como isso……\""
+            "Por que o \\str[121] faria algo assim……\""
         ],
         "20": [
             "\"Isso é extremamente importante!",
             "Se houvesse algo de errado com o seu corpo",
-            "e eu como seu irmão não percebesse……！\""
+            "e eu como seu onii-chan não percebesse……！\""
         ],
         "21": [
             "\\nl< >\"Ughhh… Então o que o \\str[121] quer fazer exatamente？\""
@@ -710,29 +710,29 @@
         ],
         "23": [
             "Ah—droga. ",
-            "Eu acidentalmente falei o que eu estava realmente pensando..."
+            "Acidentalmente disse o que eu realmente pensava..."
         ],
         "24": [
-            "\\nl< >\"…Isso realmente tem algo haver com o que você você queria fazer?\""
+            "\\nl< >\"…Isso tem algo a ver com isso?\""
         ],
         "25": [
             "\\nl< >\"Tá, se o \\str[121] realmente quer ver eles…     \\w[120]",
             "\\}Você é um baita trapaceiro…\\{\""
         ],
         "26": [
-            "\\nl< >\"Aqui, feliz agora？\""
+            "\\nl< >\"Pronto, satisfeito agora？\""
         ],
         "27": [
-            "\"Ah, s-sim… Muito bonito.\""
+            "\"Ah, s-sim… Lindos.\""
         ],
         "28": [
-            "Eu não achei que a \\str[120] realmente ia me mostrar seus peitos.",
+            "Não pensei que \\str[120] realmente me mostraria seus peitos.",
             "Eu fiquei tão chocado que eu mal consegui ver direito."
         ],
         "29": [
-            "\\nl< >\"Ok, isso é o suficiente!",
-            "\\str[121] terminou com o seu exame médico, certo?",
-            "Agora eu vou tomar banho, cai fora daqui agora！\""
+            "\\nl< >\"Certo, chega! ",
+            "\\str[121] terminou a checagem de saúde, né?",
+            "Vou tomar banho agora, então sai logo！\""
         ],
         "30": [
             "\\nl< >\\{",
@@ -743,72 +743,72 @@
             "…Será que essa desculpa vai funcionar na próxima vez?"
         ],
         "32": [
-            "\"Na verdade, \\str[120]… O \\str[121] tem essa doença",
+            "\"Na verdade, \\str[120]… o \\str[121] tem essa doença",
             "que ele vai morrer caso ele não veja nudez……！\""
         ],
         "33": [
             "Isso foi só uma desculpa que eu inventei na hora ",
-            "Mas eu ainda consegui fazer uma expressão convincente de dor."
+            "mas ainda consegui fazer uma expressão convincentemente dolorida."
         ],
         "34": [
-            "\\nl< >\"Eh!? \\str[121] tem uma doença como essa!?\""
+            "\\nl< >\"Eh!? \\str[121] tem uma doença assim!?\""
         ],
         "35": [
-            "\"Eu nem me lembro quando eu adiquiri ela…",
-            "Mas quando ela aflora, meu corpo todo começa a coçar,",
-            "e só para quando eu vejo alguém pelado！\""
+            "\"Nem lembro quando peguei ela…",
+            "Mas quando ataca, meu corpo todo começa a coçar,",
+            "e a única cura é ver alguém nu！\""
         ],
         "36": [
-            "\\nl< >\"Pera, isso é mesmo uma doença real?\""
+            "\\nl< >\"Espera, isso é uma doença de verdade?\""
         ],
         "37": [
-            "\"Ah… ahhh…!! A coçeira tá começando…！\""
+            "\"Ah… ahhh…!! A coceira tá começando…！\""
         ],
         "38": [
             "Eu me joguei no chão de propósito,",
-            "me tremendo todo, e obviamente fingindo tudo."
+            "tremendo todo de um jeito obviamente falso."
         ],
         "39": [
             "\\nl< >\\{\"……………………………\""
         ],
         "40": [
-            "\\nl< >\"Tá, tá…",
-            "Se você tá indo tão longe pra isso, Eu vou te deixar ver…\""
+            "\\nl< >\"Tá bom, tá bom…",
+            "Se você vai tão longe, vou deixar você ver…\""
         ],
         "41": [
-            "Minha doce e inocente \\str[120] acreditou em mim na hora ",
-            "e seu rosto se tornou adoravelmente envergonhado."
+            "Minha doce e inocente \\str[120] acreditou na hora,",
+            "ficando com o rosto adoravelmente envergonhado."
         ],
         "42": [
             "\\nl< >\"Então, satisfeito agora？\""
         ],
         "43": [
-            "Ela era tão fofa,",
-            "eu acabei olhando de mais ",
-            "e esqueci de manter a atuação."
+            "Ela era fofa demais,",
+            "e acabei olhando tanto ",
+            "que esqueci de manter a atuação."
         ],
         "44": [
             "\\nl< >\"…Então, você não está mais com coçeira?\""
         ],
         "45": [
-            "\"Yup, eu mee sinto totalmente revigorado.\""
+            "\"Sim, me sinto totalmente revigorado agora.\""
         ],
         "46": [
-            "Eu rapidamente me levantei do chão ",
-            "e dei um sorriso satisfeito pra ela."
+            "Levantei rápido do chão ",
+            "e dei um sorriso muito satisfeito para ela."
         ],
         "47": [
-            "\\nl< >\"Ughhh…! Você só tava brincando comigo ",
+            "\\nl< >\"Ughhh…! Então você só tava me zoando ",
             "esse tempo todo, não estava!?\""
         ],
         "48": [
-            "\\nl< >\"\\str[121] você é um completo idiotat! ",
+            "\\nl< >\"\\str[121] você é um completo idiota! ",
             "Sai daqui agora！\""
         ],
         "49": [
-            "Com as bochechas inchadas de frustração, ",
-            "\\str[120] me empurrou pra fora do banheiro.",
-            "Hmm… acho que acabei estragando as coisas no final."
+            "Inchando as bochechas de frustração, ",
+            "\\str[120] me empurrou para fora do banheiro.",
+            "Hmm… parece que acabei estragando tudo no final."
         ],
         "50": [
             "\\nl< >\"Eh!? \\str[121] quer ver meus…!?\""
@@ -817,8 +817,8 @@
             "\\nl< >\"Sem chance! \\str[121], você é um palhaço！\""
         ],
         "52": [
-            "\\nl< >\"Por que diabos você ia pedir uma coisa desse tipo!? ",
-            "Isso é muito estranho…！\""
+            "\\nl< >\"Por que você pediria algo assim!? ",
+            "Isso é tão estranho…！\""
         ],
         "53": [
             "\\nl< >\\{\"Geez, \\str[121], seu grande palhaço!!!\""

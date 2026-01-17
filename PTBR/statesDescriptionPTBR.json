@@ -136,7 +136,7 @@
   "28": {
     "name": [],
     "subtitle": [
-	  "\\str[120] está jogando "
+	  "\\str[120] jogando"
     ],
     "description": [
 	  ""
@@ -159,7 +159,7 @@
   "29": {
     "name": [],
     "subtitle": [
-	  "\\str[120] está tomando banho "
+	  "\\str[120] se banhando"
     ],
     "description": [
 	  ""
@@ -182,7 +182,7 @@
   "30": {
     "name": [],
     "subtitle": [
-	  "\\str[120] está descansando "
+	  "\\str[120] descançando"
     ],
     "description": [
 	  ""
@@ -229,7 +229,7 @@
   "31": {
     "name": [],
     "subtitle": [
-	  "\\str[120] está dormindo "
+	  "\\str[120] dormindo"
     ],
     "description": [
 	  ""
@@ -270,13 +270,19 @@
 	         "\\str[120] está quase acordando",
 	         "sentidos ainda estão turvos"
 		   ]
+	  },
+	  "6": {
+		   "description": [
+	         "Indefesa enquanto dorme, sonhando profundamente por ",
+	         "conta da exaustão graças a maravilhosa noite anterior"
+		   ]
 	  }
     }
   },
   "32": {
     "name": [],
     "subtitle": [
-	  "\\str[120] está com fome "
+	  "\\str[120] faminta"
     ],
     "description": [
 	  ""
@@ -305,7 +311,7 @@
   "33": {
     "name": [],
     "subtitle": [
-	  "\\str[120] está relaxando "
+	  "\\str[120] relaxando"
     ],
     "description": [
 	  ""
@@ -322,7 +328,7 @@
   "34": {
     "name": [],
     "subtitle": [
-	  "\\str[120] está escovando os dentes "
+	  "\\str[120] escovando os dentes"
     ],
     "description": [
 	  ""
@@ -354,7 +360,7 @@
   "40": {
     "name": [],
     "subtitle": [
-	  "Chorando "
+	  "\\str[120] chorando"
     ],
     "description": [
 	  ""

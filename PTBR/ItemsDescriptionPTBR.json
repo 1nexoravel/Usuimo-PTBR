@@ -180,9 +180,14 @@
         "name": [
             "JoyStation V"
         ],
-        "subtitle": "",
+        "subtitle": [
+            "Até na quinta geração, limites da materialização da alma ainda previne",
+            " jogadores de mergulharem diretamente em suas consciências.\""
+        ],
         "description": [
-            ""
+            "Um estranho dispositivo de entretenimento recriado por alquimistas de ",
+            "antigos fragmentos de texto. É bem conhecido entre aventureiros.",
+            "mas o seu complexo processo de produção mantém o processo extremamente raro."
         ],
         "ability": [
             ""
@@ -194,7 +199,11 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Um pacote de expansão para Shadow Souls.",
+            "Um trabalho lançado com confiança pelo cavaleiro após entrevistas ",
+            "um grande número de aventureiros e suas experiências.",
+            "Cheio de monstros e fases brutalmente difíceis,",
+            "ainda assim os jogadores não cansam de jogar não por menos…"
         ],
         "ability": [
             ""
@@ -202,13 +211,13 @@
     },
     "17": {
         "name": [
-            "Ahoge da imouto"
+            "\\str[120]’s Ahoge"
         ],
         "subtitle": "",
         "description": [
-            "Um ahoge arrancado da cabeça da minha imouto,",
-            "mas ela parece nem notar... Este ahoge ainda teima",
-            "em ficar em pé e tem uma elasticidade estranhamente resistente"
+            "Um ahoge discretamente puxado da cabeça de \\str[120],",
+            "aparentemente sem ela reparar… Mesmo separada de sua dona,",
+            "teimosamente se mantém prostrada graças à sua inexplicável elasticidade."
         ],
         "ability": ""
     },
@@ -218,7 +227,9 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Um pato de borracha inexplicavelmente deixado completamente sozinho no rio.",
+            "Talvez por uma súbita onda de simpatia, foi resgatado.",
+            "\\str[120] provavelmente gostará dele, embora…"
         ],
         "ability": [
             ""
@@ -230,7 +241,8 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Um pequeno ventilador elétrico, um modelo desatualizado e um fluxo de ar bastante fraco.",
+            "Mas em comparação com ele, usar a magia de refrigeração é muito mais caro…"
         ],
         "ability": [
             ""
@@ -609,6 +621,21 @@
         ],
         "ability": [
             "Ao usar, invoca uma máquina de gacha"
+        ]
+    },
+    "62": {
+        "name": [
+            "A Torre"
+        ],
+        "subtitle": [
+            "\"Convite para o Banquete Abyssal\""
+        ],
+        "description": [
+            "Uma carta mágica imbuída de magias. Projetada para",
+            "que até novatos possam ativar seus efeitos facilmente"
+        ],
+        "ability": [
+            "Quando usado, invoca o Pilar Selado"
         ]
     },
     "63": {
@@ -1151,6 +1178,18 @@
         ],
         "ability": ""
     },
+    "139": {
+        "name": [
+            "X△X"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um Sacabambaspis que perdeu sua vitalidade depois de ser pego em uma explosão",
+            "Provavelmente nunca imaginou que seu desejo de \"ver a terra\" seria ",
+            "realizado dessa forma..."
+        ],
+        "ability": ""
+    },
     "142": {
         "name": [
             "Salmão"
@@ -1326,6 +1365,23 @@
             "O Fragmento do Filósofo avermelhado flui como sangue",
             "Seu uso adequado ainda é desconhecido, mas por ora, ",
             "tente beber como se fosse uma bebida…"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "198": {
+        "name": [
+            "Camiseta da \\str[120]"
+        ],
+        "subtitle": [
+            "\"Cavaleiro...! Até tem um autógrafo...!\""
+        ],
+        "description": [
+            "Uma camiseta bônus obtida do Cavaleiro, ",
+            "agora usado como pijamas pela \\str[120].",
+            "A camisa folgada lhe dá um ar de tentação indefesa.",
+            "Para evitar lavá-la, ela só a usa quando está em espíritos elevados."
         ],
         "ability": [
             ""
@@ -1864,6 +1920,34 @@
             "Uma gema vermelha com um brilho hipnotizante",
             "Sem valor prático, mas alguém pode pagar um bom preço…",
             "ou ter outras intenções?"
+        ],
+        "ability": ""
+    },
+    "315": {
+        "name": [
+            "Multa da Catgirl"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma multa recebida depois de ser espancado no local por pegar as mercadorias ",
+            "sem permissão. Claro, fui eu quem agiu primeiro, mas depois ",
+            "de uma surra, algum dinheiro que eu tinha foi tomado forçosamente também.",
+            "Esta forma de lidar com as coisas parece bastante brutal…"
+        ],
+        "ability": ""
+    },
+    "320": {
+        "name": [
+            "Pedra Infernal"
+        ],
+        "subtitle": [
+            "\"O primeiro aventureiro a minerá-la e trazê-la foi chamado de Kyurame.",
+            "Ele se recusou a receber o nome dele mesmo porque parecia muito chuuni—\""
+        ],
+        "description": [
+            "Um minério especial encontrado apenas nas camadas mais profundas do Abismo.",
+            "Ele contém mana escaldante, mas é excepcionalmente dura, ",
+            "e só pode ser extraída e processada por meios específicos."
         ],
         "ability": ""
     }

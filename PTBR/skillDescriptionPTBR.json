@@ -78,6 +78,23 @@
             "Largue o botão durante o giro para lançar a sua arma"
             ]
 	},
+	"6": {
+            "name": [
+            "Perverso Sortudo"
+            ],
+            "subtitle": [
+            "true"
+            ],
+            "description": [
+            "Uma lendária constituição pervertida que ativa por conta própria, ",
+            "mesmo sem que o usuário repare.",
+            "Como se abençoado e guiado por uma deusa invisível, forças irresistíveis ",
+            "te induzindo para cenários que aceleram o coração de fanservice…!"
+            ],
+            "ability": [
+            "Sempre cria as oportunidades perfeitas para acionar eventos pervertidos!"
+            ]
+	},
 	"7": {
             "name": [
             "Senso de Perigo"

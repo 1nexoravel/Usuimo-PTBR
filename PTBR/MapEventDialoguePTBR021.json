@@ -100,6 +100,133 @@
             "e partir para uma aventura!"
         ]
   },
+  "3": {
+        "0": [
+            "Minha mente limpa lentamente... ",
+            "Finalmente me dei conta de que não estou no meu quarto.",
+            "Algo quente e macio está pressionado contra mim, ",
+            "sua respiração está suave e gentil."
+        ],
+        "1": [
+            "É apenas \\str[120]...",
+            "As memórias começam a voltar— \\w[120]",
+            "Certo, nos dois estavam entrelaçados ",
+            "até tarde da noite..."
+        ],
+        "2": [
+            "Olhando para o seu rostinho indefeso enquanto dorme. ",
+            "ainda com um leve rubor do brilho residual da noite passada,",
+            "Eu não consigo me controlar e a tocar, meus dedos afundando suavemente ",
+            "em seu cabelo, liso como seda."
+        ],
+        "3": [
+            "\\nl< >\"Mmm... mmn... ♥\""
+        ],
+        "4": [
+            "Como se percebendo o afeto, ela solta um suspiro, ",
+            "som de satisfação, inconscientemente aconchegando-se na minha palma."
+        ],
+        "5": [
+            "\"Já amanheceu. Vamos levantar?\""
+        ],
+        "6": [
+            "Eu acaricio levemente o ombro dela, ",
+            "tentando acordá-la do seu sono."
+        ],
+        "6.5": [
+            "\\nl< >\".............. Nnn.\""
+        ],
+        "7": [
+            "Depois que seus longos cílios tremulam algumas vezes, ",
+            "ela finalmente abre os olhos lentamente.",
+            " ",
+            " ",
+            "Ela encara o vazio por um instante, com o olhar perdido,",
+            "então inclina a cabeça para olhar para mim ao lado dela, ",
+            "suas pupilas estavam cheias de sono."
+        ],
+        "8": [
+            "\\nl< >\"Eh... \\str[121]...?",
+            "Por quê... você também está na cama...?\""
+        ],
+        "9": [
+            "Parece que o cérebro dela ainda não terminou de iniciar. ",
+            "ela apenas inclina a cabeça, olhando para mim com um olhar bobo por um longo tempo."
+        ],
+        "10": [
+            "Não até as memórias fragmentadas da noite passada ",
+            "se recomporem fazendo o sangue correndo nas veias ",
+            "se direcionarem para suas bochechas em uma velocidade visível."
+        ],
+        "11": [
+            "\\nl< >\"Uu... ♥ B-bom dia... \\str[121]...",
+            "Sobre a ontem à noite... hum... obrigado...\""
+        ],
+        "12": [
+            "Completamente sem saber como lidar com uma situação tão embaraçosa, ",
+            "ela apenas abaixou a cabeça,",
+            "sussurrando um agradecimento um tanto sem sentido."
+        ],
+        "13": [
+            "A atmosfera torna-se sutil e claustrofóbica.",
+            "Nós nos vestimos silenciosamente com as costas um para o outro, ",
+            "então, mantendo um entendimento tácito indescritível,",
+            "entramos no banheiro juntos."
+        ],
+        "14": [
+            "\\nl< >\"...Mmuu... nya...♥",
+            "\\str[121]... aí não... aí não é bom...\""
+        ],
+        "15": [
+            "Ela só deixou um murmúrio abafado, ",
+            "agarrar seu travesseiro e enterrar seu rosto ainda mais profundo."
+        ],
+        "16": [
+            "Embora eu esteja curioso de que tipo de sonho maravilhoso ela está tendo, ",
+            "já que ela ainda está dormindo tão bem,",
+            "é melhor não forçá-la a acordar..."
+        ],
+        "17": [
+            "O esforço da noite passada acabou sendo um exercício muito pesado para ela,",
+            "melhor deixá-la dormir mais um pouco..."
+        ],
+        "18": [
+            "Segurando minha respiração, ",
+            "Eu afasto delicadamente o braço dela que ainda me envolvia,",
+            "saindo da cama quente sem fazer um único som."
+        ],
+        "19": [
+            "Dando uma última olhada em seu perfil sereno, ",
+            "ligeiramente pálida pela luz da manhã,",
+            "Saio silenciosamente do quarto e fecho a porta com cuidado."
+        ],
+        "20": [
+            "Observando seu rosto indefeso enquanto dorme, embora eu saiba que ela precisa descansar,",
+            "a tranquilidade peculiar desta manhã e o aroma ",
+            "que ela irradia continuam provocando a minha sanidade."
+        ],
+        "21": [
+            "Eu quis só acariciar sua cabeça, ",
+            "mas meus dedos deslizaram involuntariamente pelo pescoço.",
+            "Dos seus ombros arredondados à ligeira curva da sua cintura, ",
+            "toco avidamente em cada centímetro da sua pele."
+        ],
+        "22": [
+            "\\nl< >\"...Hnngh ♥",
+            "Uu... nnh... ah... ♥\""
+        ],
+        "23": [
+            "Mesmo enquanto dormia, seu corpo, que acabara de perder a inocência, ",
+            "já reagia ao meu toque.",
+            "Ela soltou alguns gemidos inconscientes ao sentir ",
+            "o calor irradiando da ponta dos meus dedos."
+        ],
+        "24": [
+            "...Não! O que estou pensando!",
+            "Como pude fazer isso com ela tão cedo pela manhã...",
+            "É melhor eu apenas me levantar!"
+        ]
+  },
   "4": {
         "0": [
             "\"...Huh!?\\w[60]...Espera, \\w[60]",

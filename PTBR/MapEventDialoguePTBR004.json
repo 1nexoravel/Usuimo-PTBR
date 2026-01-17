@@ -887,6 +887,7 @@
         "2": [
             "Beber Algo",
             "Jogar alguma coisa",
+            "Assistir algo",
             "Me Mimar",
             "Dar um Presente"
         ],
@@ -1051,6 +1052,10 @@
         "44": [
             "\\nl< >“Tem algum programa que você queira assistir, \\str[121]?",
             "Então vamos para a sala juntos~!\""
+        ],
+        "45": [
+            "Já está tarde, ",
+            "melhor não ir para a sala de estar."
         ]
   },
   "19": {
@@ -2302,6 +2307,42 @@
             "No final, parece que nada mudou  ",
             "depois de ela tomar o Elixir Rubrum.",
             "Será que ele poderia não ter feito efeito nenhum?"
+        ],
+        "51": [
+            "\\nl< >\"...\\str[121]? Aquela garrafa vermelha— \\w[45]",
+            "ela é um novo remédio!?\""
+        ],
+        "52": [
+            "\"Sim, o mesmo de sempre...",
+            "tente misturá-la com leite e a beber?\""
+        ],
+        "53": [
+            "\\nl< >\"Sim~! Pude sentir aquele sabor agridoce novamente!\""
+        ],
+        "55": [
+            "\\nl< >\"...realmente tem um gosto bom~!\""
+        ],
+        "56": [
+            "\\nl< >\"Da próxima vez, \\str[121], você deve tentar também!\""
+        ],
+        "57": [
+            "\"Ah… sim… ",
+            "contanto que você possa beber sem problemas...\""
+        ],
+        "58": [
+            "Tem gosto bom...",
+            "então, por que me deixa enjoado quando eu lambo esses fragmentos?",
+            "Existe algo realmente diferente sobre ",
+            "o Elixir Rubrum após a reação vermelha...?"
+        ],
+        "59": [
+            "De qualquer forma, ",
+            "O estado mental da \\str[120] tem realmente melhorado gradualmente ",
+            "depois de tomar o remédio, e isso já é prova suficiente ",
+            "que o experimento do pai não foi um erro. ",
+            "Se as coisas continuarem assim, ",
+            "contanto que eu consiga mais umas quatro ou cinco garrafas de Elixir Rubrum,",
+            "talvez \\str[120] realmente consiga se recuperar o suficiente para sair de novo!"
         ]
   },
   "51": {

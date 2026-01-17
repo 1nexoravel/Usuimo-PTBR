@@ -773,5 +773,33 @@
             "Segure e solte o botão direito: dispara \\c[27]Flecha Perfurante de Sangue\\c[0]",
             "Consome PV; flechas que matam drenam sangue"
         ]
+    },
+    "250": {
+        "name": [
+            "Picareta de Pedra Infernal"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma picareta exótica processada e forjada de Lingotes de Pedra Infernal",
+            "Com sua espantosa dureza e a mana entrelaçado em torno dela,",
+            "ela pode quebrar a maioria dos objetos do mundo com um único ataque"
+        ],
+        "ability": [
+            "Aumenta muito o dano causado a entidades destruíveis"
+        ]
+    },
+    "251": {
+        "name": [
+            "Pá da Pedra Infernal"
+        ],
+        "subtitle": "",
+        "description": [
+            "Uma pá exótica processada e forjada de Lingotes de Pedra Infernal",
+            "Com sua espantosa dureza e a mana entrelaçado em torno dela,",
+            "mesmo solo sólido será despedaçado à força e removido"
+        ],
+        "ability": [
+            "Pode atravessar o terreno, criando uma passagem para camadas inferiores"
+        ]
     }
 }
