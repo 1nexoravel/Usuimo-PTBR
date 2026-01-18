@@ -189,7 +189,7 @@
             "\\nl< >\"Ah!?\\w[30]\\str[121], olha onde você tá com essa mão!\"   \\w[120]\\^"
         ],
         "6": [
-            "\\nl< >\"Mou~ você totalmente fez isso de propósito, ",
+            "\\nl< >\"Aff~ você fez isso de propósito total,",
             "não é, \\str[121]?!\"    \\w[120]\\^"
         ],
         "7": [
@@ -433,10 +433,10 @@
             "Deve ser cansativo fazer isso sozinha, né?\""
         ],
         "9": [
-            "Eu me inclinei, segurando o secador em uma mão, ",
-            "e gentilmente separei uma mecha de seu cabelo na outra.",
-            "Mesmo ela já tendo enxugado com a toalha, ",
-            "eu conseguia sentir a umidade claramente entre meus dedos."
+            "Eu me inclinei pra frente, segurando o secador em uma mão, ",
+            "e gentilmente levantei uma mecha do cabelo dela com a outra.",
+            "Mesmo que ela já tivesse enxugado com a toalha, ",
+            "a umidade ainda era claramente sentida entre meus dedos."
         ],
         "10": [
             "\"Ok, agora abaixa sua cabeça. Hora de secar!\""
@@ -584,9 +584,9 @@
         ],
         "47": [
             "O-O que eu faço... Eu realmente quero ver por dentro!     \\w[45]",
-            "Eu senti que não poderia parar meu impulso, tentando suprimir a vontade ",
-            "de colocar minhas mãos, quando de repente, eu tive um lampejo de genialidade",
-            "uma ideia tão inteligente que poderia funcionar!"
+            "Eu não conseguia parar meus pensamentos malucos, tentando ",
+            "reprimir o impulso de estender a mão, quando de repente, tive um ",
+            "lampejo de genialidade — uma ideia inteligente o suficiente para funcionar!"
         ],
         "48": [
             "Agora que pensei sobre isso, eu estou segurando o secador!",

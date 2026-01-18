@@ -184,12 +184,12 @@
             "nossos corpos aqueceram gradualmente..."
         ],
         "47": [
-            "Yeah... momentos como esse são perfeitos pra apimentar as coisas com uma conversa tarada!     \\w[45]",
+            "É... momentos como esse são perfeitos para apimentar com um assunto safado!     \\w[45]",
             "Pensando nisso, eu empolgadamente pedi pra \\str[120] se ela podia ",
             "tirar sua toalha."
         ],
         "48": [
-            "Yeah... momentos como esse são perfeitos pra apimentar as coisas com uma conversa tarada!     \\w[45]",
+            "É... momentos como esse são perfeitos para apimentar com um assunto safado!     \\w[45]",
             "Pensando nisso, eu empolgadamente sugeri pra \\str[120] que",
             "falassemos sobre algumas coisas taradas."
         ],
@@ -218,7 +218,7 @@
         ],
         "55": [
             "\\nl< >\"Credo... você nem tenta olhar pra outro lado.",
-            "\\str[121], você totalmente consegue ver tudo...\""
+            "\\str[121], você consegue ver tudo...\""
         ],
         "56": [
             "\\nl< >\"Eh...? Por que você faria isso...?\""
@@ -249,10 +249,10 @@
             "e curvada foi transmitida claramente pelo meu braço."
         ],
         "2": [
-            "Antes que eu pudesse falar qualquer coisa, suas coxas começaram a ",
-            "se mover lentamente para a frente e pra trás, a sensação das nossas peles ",
-            "se esfregando uma na outra aumentava a cada movimento, eu conseguia sentir ",
-            "o ritmo sutil e o calor do seu corpo apertando e soltando em volta do meu braço.",
+            "Antes que eu pudesse dizer algo, suas coxas ",
+            "começaram a se mover — lentamente, suavemente, para trás e para frente,",
+            "o toque da nossa pele roçando juntas ",
+            "claramente crescendo com cada movimento,",
             "e eu conseguia sentir o ritmo e calor sutil do ",
             "corpo dela apertando e soltando em torno do meu braço."
         ],
@@ -449,10 +449,10 @@
             "\\w[60]\\^"
         ],
         "43": [
-            "Sobre o meticuloso e rítmico serviço de limpeza da \\str[120],",
-            "Eu finalmente sucumbi ao prazer crescente, ",
-            "não podendo mais segurar,",
-            "ondas de fluídos se espalharam como se uma repressa tivesse rompido."
+            "Sob o serviço de limpeza meticuloso e repetido da \\str[120],",
+            "eu finalmente sucumbi ao prazer crescente, ",
+            "incapaz de segurar mais,",
+            "quando uma onda de fluido jorrou como uma barragem se rompendo."
         ],
         "44": [
             "\\str[120] soltou um gemido silencioso e assustado, ",
@@ -997,7 +997,7 @@
             "\\nl< >\"Ah… \\str[121], suas bolas tão brilhando?\""
         ],
         "2": [
-            "\"Yeah, você sabe, ",
+            "\"Sim, você sabe, ",
             "as bolas dos meninos sempre brilham quando eles tomam banho—",
             "\\w[45]\\^"
         ],
