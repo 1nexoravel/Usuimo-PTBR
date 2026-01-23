@@ -480,116 +480,116 @@
 		    "que se conecta ao mundo exterior."
 		    ],
 		    "69": [
-		    "It looks like a passage left behind by a previous engineering team.",
-		    "I heard they once planned to excavate the entire Labyrinth."
+		    "Parece uma passagem deixada para trás por uma equipe de engenharia anterior.",
+		    "Ouvi dizer que eles chegaram a planejar escavar todo o Labirinto."
 		    ],
 		    "70": [
-		    "However, the project suddenly stalled halfway through.",
-		    "No one knows what kind of trouble they ran into."
+		    "No entanto, o projeto parou repentinamente no meio do caminho.",
+		    "Ninguém sabe que tipo de problema eles encontraram."
 		    ],
 		    "71": [
-		    "Shared information about a strange mushroom house",
-		    "at the end of the forest where people get lost."
+		    "Informações compartilhadas sobre uma estranha casa em forma de cogumelo",
+		    "no fim da floresta, onde as pessoas acabam se perdendo."
 		    ],
 		    "72": [
-		    "I’ve heard many adventurers lose their way inside…",
-		    "but as expected of you, you managed to make it through safely."
+		    "Ouvi dizer que muitos aventureiros acabam se perdendo lá dentro…",
+		    "mas, como era de se esperar de você, conseguiu atravessar em segurança."
 		    ],
 		    "73": [
-		    "As for that enormous mushroom house…",
-		    "it certainly makes one curious what kind of creature lives within."
+		    "Quanto àquela enorme casa de cogumelo…",
+		    "ela realmente desperta curiosidade sobre que tipo de criatura vive lá dentro."
 		    ],
 		    "74": [
-		    "Shared an experience of unfortunately",
-		    "falling into a pit inside the dungeon."
+		    "Experiência compartilhada de infelizmente",
+		    "cair em um fosso dentro da masmorra."
 		    ],
 		    "75": [
-		    "Hahaha…! That truly is an embarrassing experience.",
-		    "As an adventurer, one must always be aware of their surroundings."
+		    "Hahaha…! Isso realmente é uma experiência constrangedora.",
+		    "Como aventureiro, é preciso estar sempre atento ao que está ao redor."
 		    ],
 		    "76": [
-		    "Shared information about discovering a mech",
-		    "in an unknown area."
+		    "Informações compartilhadas sobre a descoberta de um mecha",
+		    "em uma área desconhecida."
 		    ],
 		    "77": [
-		    "I see… what a remarkable encounter. As expected,",
-		    "the Great Labyrinth still hides traces of ancient civilizations."
+		    "Entendo… que encontro notável. Como era de se esperar,",
+		    "o Grande Labirinto ainda esconde vestígios de civilizações antigas."
 		    ],
 		    "78": [
-		    "…So it has already vanished.",
-		    "I have no reason to doubt your account."
+		    "…Então já desapareceu.",
+		    "Não tenho motivos para duvidar do seu relato."
 		    ],
 		    "79": [
-		    "This must be a matter of fate.",
-		    "Someday, it will surely appear once again."
+		    "Isso deve ser uma questão de destino.",
+		    "Algum dia, com certeza, ele aparecerá novamente."
 		    ],
 		    "80": [
-		    "Shared information that jelly made from slimes",
-		    "surprisingly has quite a good texture."
+		    "Informações compartilhadas de que a gelatina feita de slimes",
+		    "surpreendentemente tem uma textura muito boa."
 		    ],
 		    "81": [
 		    "Oh, meu companheiro!",
-		    "Come and take this!"
+		    "Venha pegar isto!"
 		    ],
 		    "82": [
-		    "During these days, you’ve given me ",
-		    "quite a lot of interesting inspiration.",
-		    "If I didn’t offer at least a small token of thanks, ",
-		    "it would hardly feel right."
+		    "Nestes dias, você me deu ",
+		    "bastante inspiração interessante.",
+		    "Se eu não oferecesse ao menos uma pequena lembrança ",
+		    "de agradecimento, não pareceria certo."
 		    ],
 		    "83": [
-		    "This is an outfit I personally designed",
-		    "for promoting the game.",
-		    "Please accept it as a gift that ",
-		    "represents my appreciation."
+		    "Este é um traje que eu mesma desenhei",
+		    "para promover o jogo.",
+		    "Por favor, aceite-o como um presente ",
+		    "que representa minha apreciação."
 		    ],
 		    "84": [
-		    "(Huh... a bonus T-shirt...?",
-		    "W-what should I do...)"
+		    "(Hã… uma camiseta bônus…?",
+		    "O-o que eu faço agora…)"
 		    ],
 		    "85": [
-		    "(I really don’t want to wear ",
-		    "something like this outside...",
-		    "I wonder if \\str[120] would like ",
-		    "this kind of outfit...)"
+		    "(Eu realmente não quero ",
+		    "usar algo assim fora de casa…",
+		    "será que \\str[120] gostaria desse ",
+		    "tipo de roupa…)"
 		    ]
   },
   "12": {
 		    "objectName": [
-		    "Vending Machine"
+		    "Máquina de Venda Automática"
 		    ],
 		    "sentouryoku": [
 		    "1"
 		    ],
 		    "description": [
-		    "It seems to be a machine operated and ",
-		    "managed by the Maid Bunny.",
-		    "It’s not entirely clear why monsters would want ",
-		    "to imitate humans and run a business,",
-		    "but everyone has naturally come to accept it.",
-		    "By the way, carrot milk has the worst reviews."
+		    "Parece ser uma máquina operada e  ",
+		    "administrada pela Coelhinha Empregada",
+		    "Não está totalmente claro por que monstros gostariam ",
+		    "de imitar humanos e administrar um negócio,",
+		    "mas todos acabaram aceitando isso naturalmente.",
+		    "A propósito, o leite de cenoura tem as piores avaliações."
 		    ],
 		    "1": [
-		    "A strange vending machine...",
-		    "A bottle of drink... \\c[6]\\v[86]\\c[0] yen."
+		    "Uma máquina de venda automática estranha…",
+		    "Uma garrafa de bebida… \\c[6]\\v[86]\\c[0] ienes."
 		    ],
 		    "2": [
-		    "Buy one",
-		    "Never mind"
+		    "Comprar Um",
+		    "Agora Não"
 		    ],
 		    "3": [
-		    "No...",
-		    "I don't have enough money..."
+		    "Não...",
+		    "Eu não tenho dinheiro o suficiente..."
 		    ],
 		    "4": [
-		    "\"Due to damage by unknown individuals, ",
-		    "a temporary repair penalty has been added...\"",
-		    "Until the penalty is fully paid... ",
-		    "a bottle of drink... \\c[6]\\v[86]\\c[0] yen!?"
+		    "\"Devido a danos causados por indivíduos desconhecidos, ",
+		    "foi adicionada uma penalidade temporária de reparo…\"",
+		    "Até que a penalidade seja totalmente paga… ",
+		    "uma garrafa de bebida… \\c[6]\\v[86]\\c[0] ienes!?"
 		    ],
 		    "5": [
-		    "(There’s already…",
-		    "no drinks left inside.)"
+		    "(Já não tem…",
+		    "nenhuma bebida lá dentro.)"
 		    ]
   },
   "13": {
@@ -776,18 +776,18 @@
   },
   "47": {
 		    "objectName": [
-		    "\\c[114]Door of Star"
+		    "\\c[114]Porta da Estrela"
 		    ],
 		    "sentouryoku": [
 		    "1"
 		    ],
 		    "description": [
-		    "A passable door summoned by the Star Tarot.",
-		    "The stars are believed to guide one back home.",
-		    "Passing through this door returns the traveler ",
-		    "to a safe area. Adventurers often use it ",
-		    "to return to a place of rest, or to retreat ",
-		    "temporarily when the situation turns unfavorable."
+		    "Uma porta transitável invocada pelo Tarô da Estrela.",
+		    "Acredita-se que as estrelas guiem alguém de volta para casa.",
+		    "Ao atravessar esta porta, o viajante retorna ",
+		    "a uma área segura. Aventureiros costumam usá-la ",
+		    "para voltar a um local de descanso ou para recuar ",
+		    "temporariamente quando a situação se torna desfavorável."
 		    ]
   },
   "51": {
