@@ -207,7 +207,7 @@
         "subtitle": "",
         "description": [
             "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
-            "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
+            "oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
         ],
         "ability": [
             "Causa dano automaticamente a inimigos próximos"
@@ -220,7 +220,7 @@
         "subtitle": "",
         "description": [
             "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
-            "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
+            "oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
         ],
         "ability": [
             "Causa dano automaticamente a inimigos próximos"
@@ -233,7 +233,7 @@
         "subtitle": "",
         "description": [
             "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
-            "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
+            "oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
         ],
         "ability": [
             "Causa dano automaticamente a inimigos próximos ao atacar"
@@ -246,7 +246,7 @@
         "subtitle": "",
         "description": [
             "Uma armadura metálica cravejada de espinhos em todos os ângulos,",
-            "Oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
+            "oferecendo defesa sólida e causando automaticamente dano a inimigos próximos"
         ],
         "ability": [
             "Causa dano automaticamente a inimigos próximos ao se mover"
@@ -272,7 +272,7 @@
         "subtitle": "",
         "description": [
             "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
-            "Simboliza a adesão deles ao código da cavalaria"
+            "simboliza a adesão deles ao código da cavalaria"
         ],
         "ability": [
             "Aumenta a defesa quando o PV está abaixo de \\c[10]30%\\c[0]"
@@ -285,7 +285,7 @@
         "subtitle": "",
         "description": [
             "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
-            "Simboliza a adesão deles ao código da cavalaria"
+            "simboliza a adesão deles ao código da cavalaria"
         ],
         "ability": [
             "Aumenta o ataque e a defesa quando o PV está abaixo de \\c[10]30%\\c[0]"
@@ -298,7 +298,7 @@
         "subtitle": "",
         "description": [
             "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
-            "Simboliza a adesão deles ao código da cavalaria"
+            "simboliza a adesão deles ao código da cavalaria"
         ],
         "ability": [
             "Aumenta a velocidade de movimento quando o PV está abaixo de \\c[10]30%\\c[0]"
@@ -312,7 +312,7 @@
         "description": [
             "Feito de couro grosso e linho resistente, já foi o traje cotidiano ",
             "Dos caçadores da floresta. Defesa limitada, mas leve e flexível ",
-            "Ideal para se mover rapidamente pela floresta"
+            "ideal para se mover rapidamente pela floresta"
         ],
         "ability": [
             "Regenera lentamente o HP ao permanecer em terreno gramado"
@@ -326,7 +326,7 @@
         "description": [
             "Confeccionado em couro resistente, com fivelas e bolsas duráveis",
             "um dia essencial para os caçadores da floresta em suas jornadas, ",
-            "Continua leve e não sobrecarrega mesmo durante longas caminhadas"
+            "continua leve e não sobrecarrega mesmo durante longas caminhadas"
         ],
         "ability": [
             "PV Máx +20, velocidade de movimento aumentada",
@@ -342,7 +342,7 @@
         ],
         "description": [
             "Uma pena da Ave de Fogo.",
-            "Símbolo da vida eterna, continua queimando com uma chama cálida.",
+            "símbolizando vida eterna, continua queimando com uma chama quente.",
             "Mesmo uma única pena guarda o poder de reviver os mortos."
         ],
         "ability": [
@@ -358,7 +358,7 @@
         "description": [
             "Um papel higiênico trazido de casa",
             "Um item útil para aventureiros que de repente precisam",
-            "De uma pausa para ir ao banheiro em uma masmorra perigosa"
+            "de uma pausa para ir ao banheiro em uma masmorra perigosa"
         ],
         "ability": [
             "Reduz o dano de Sangramento recebido em \\c[10]30%\\c[0]"
@@ -971,6 +971,37 @@
             "Fortalece o dano e a forma da magia do elemento fogo"
         ]
     },
+    "75": {
+        "name": [
+            "Olho do Demônio"
+        ],
+        "subtitle": "",
+        "description": [
+            "Um globo ocular retirado de um demônio. Ele ainda está observando. ",
+            "Demônios habilidosos em manipular mentes frequentemente possuem a capacidade ",
+            "de ver através das coisas. Talvez ele permita que você perceba detalhes",
+            " que, de outra forma, passariam despercebidos…"
+        ],
+        "ability": [
+            "Revela objetos e caminhos ocultos enquanto estiver equipado"
+        ]
+    },
+    "77": {
+        "name": [
+            "A Oração de uma Donzela"
+        ],
+        "subtitle": [
+            "Peixes… tantos peixes… pilhas de salmão…”"
+        ],
+        "description": [
+            "Uma oração oferecida por uma arquidemônia obcecada por comer salmão",
+            "Dizer que ela pode distorcer a realidade talvez seja um pouco de exagero…",
+            "mas ela está, de fato, sincera e ansiosamente aguardando que oferendas cheguem"
+        ],
+        "ability": [
+            "Aumenta a chance de obter \\ii[142] e \\ii[143]"
+        ]
+    },
     "80": {
         "name": [
             "Decreto Real"
@@ -1064,7 +1095,7 @@
             "\"\\str[121], Você cumpriu bem a sua promessa!\""
         ],
         "description": [
-            "A imouto-chan que sempre admirou e se preocupou com seu",
+            "A imouto-chan que sempre admirou e se preocupou com seu ",
             "\\str[121] finalmente mostra um sorriso satisfeito",
             "Para \\str[121], isso é suficiente para ser a motivação para continuar"
         ],

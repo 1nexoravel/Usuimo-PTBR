@@ -22,6 +22,23 @@
             "Descartar"
         ]
   },
+  "skillOnCooldown": {
+        "0": [
+            "Habilidade em Cooldown!"
+        ]
+  },
+  "sealingScroll": [
+        "Nenhum item selado ainda",
+        "Sob Selamento:"
+  ],
+  "inventoryOverweight": {
+        "weapon": [
+            "Não é possível carregar mais armas!"
+        ],
+        "gear": [
+            "Não é possível carregar mais equipamentos!"
+        ]
+  },
   "Abyss": {
         "0": [
             " Torre Eterna Abandonada "
@@ -29,7 +46,7 @@
   },
   "ElixirCraft": {
         "0": [
-            " Criar Elixir"
+            " Criar Elixir "
         ],
         "1": [
             " Elixir de Rubrum criado com sucesso! "
@@ -45,7 +62,7 @@
   },
   "gainWhiteHeart": {
         "0": [
-            "Transbordando amor"
+            " Transbordando amor "
         ],
         "1": [
             " Ela estava cheia! "
@@ -53,7 +70,7 @@
   },
   "gainGoldenHeart": {
         "0": [
-            "Luxúria Dourada"
+            " Luxúria Dourada "
         ],
         "1": [
             " Perdido em um oceano de ouro "
@@ -64,7 +81,12 @@
             " O destino do ninja "
         ],
         "1": [
-            "Apague-se de si mesmo e empunhe a lâmina pelos camaradas"
+            " Apague-se de si mesmo e empunhe a lâmina pelos camaradas "
+        ]
+  },
+  "AbyssPillars": {
+        "0": [
+            "▓▓▓▓ percebeu sua existência"
         ]
   },
   "unlockJackalope": {
@@ -72,7 +94,7 @@
             " Jackalope "
         ],
         "1": [
-            "Apareceu no abismo"
+            " apareceu no abismo "
         ]
   },
   "maidBunnyBoss": {
@@ -118,7 +140,7 @@
         ],
         "1": [
             "comprar!",
-            "Deixa pra lá…",
+            "Deixa para lá…",
             "Pegar sorrateiramente…"
         ],
         "10": "Não há uma área suficientemente larga!",
@@ -325,7 +347,7 @@
   },
   "cookingSystem": {
         "0": [
-            "\\ii[\\v[\\v[85]]] está pronto. O que devo fazer?"
+            "\\ii[\\v[85]] está pronto. O que devo fazer?"
         ],
         "1": [
             "Trocar Isso",

@@ -17,6 +17,7 @@
         "name": [
             "Manual do Aventureiro"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Escrito pela RORO, iniciado em 2024/10/1\""
         ],
@@ -151,6 +152,7 @@
         "name": [
             "Mapa da Coelha"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Um mapa usado pelas coelhinhas empregadas, ainda coberto de cascas de cenoura",
@@ -166,6 +168,7 @@
         "name": [
             "Câmera Mágica"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Dizem ser um artefato oriental, primorosamente feito, mas perdido",
@@ -180,6 +183,7 @@
         "name": [
             "JoyStation V"
         ],
+        "beIndependent": true,
         "subtitle": [
             "Até na quinta geração, limites da materialização da alma ainda previne",
             " jogadores de mergulharem diretamente em suas consciências.\""
@@ -197,6 +201,7 @@
         "name": [
             "DLC de Shadow Souls"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Um pacote de expansão para Shadow Souls.",
@@ -225,6 +230,7 @@
         "name": [
             "Patinho de Borracha"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Um pato de borracha inexplicavelmente deixado completamente sozinho no rio.",
@@ -239,6 +245,7 @@
         "name": [
             "Ventilador Elétrico"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
             "Um pequeno ventilador elétrico, um modelo desatualizado e um fluxo de ar bastante fraco.",
@@ -756,13 +763,31 @@
         "name": [
             "Pudim de Sushi"
         ],
+        "beIndependent": true,
         "subtitle": "",
         "description": [
-            "Um familiar de certo Arquidemônio. Soltá-lo",
-            "o levará ao paradeiro do Arquidemônio. Mas",
-            "é um Neko, sushi ou pudim? Ainda assim parece delicioso"
+            "Um familiar pertencente a um certo Arquidemônio",
+            "Libertá-lo revelará a localização do demônio",
+            "É um gato, um pedaço de sushi ou um pudim?",
+            "Independentemente de sua verdadeira forma, parece apetitoso!"
         ],
         "ability": ""
+    },
+    "80": {
+        "name": [
+            "Pergaminho de Selamento"
+        ],
+        "beIndependent": false,
+        "subtitle": "",
+        "description": [
+            "Uma ferramenta secreta transmitida exclusivamente entre ninjas",
+            "Ativar as Marcas da Maldição abre uma fenda espacial, selando itens em seu interior",
+            "Esses itens podem ser invocados novamente sempre que necessário"
+        ],
+        "ability": [
+            "Sele ou invoque todos os itens atualmente equipados",
+            "\\str[110]"
+        ]
     },
     "88": {
         "name": [
@@ -1254,10 +1279,29 @@
         ],
         "ability": ""
     },
+    "185": {
+        "name": [
+            "Jesus Pessoal"
+        ],
+        "beIndependent": false,
+        "subtitle": [
+            "\"Trabalhos sujos feitos a preço de banana…\""
+        ],
+        "description": [
+            "Uma curiosidade perversa criada por um Arquidemônio após observar",
+            "a civilização humana. Cada pecado do portador é fielmente",
+            "registrado e convertido em pontos. Esses pontos podem então",
+            "ser oferecidos ao demônio em troca de favores profanos—"
+        ],
+        "ability": [
+            "Registra pecados como pontos. Permite o Comércio Demoníaco"
+        ]
+    },
     "187": {
         "name": [
             "Fita VHS Antiga"
         ],
+        "beIndependent": true,
         "subtitle": [
             ""
         ],
@@ -1275,6 +1319,7 @@
         "name": [
             "Fita VHS de Terror"
         ],
+        "beIndependent": true,
         "subtitle": [
             ""
         ],
@@ -1292,6 +1337,7 @@
         "name": [
             "Fita VHS Adulta"
         ],
+        "beIndependent": true,
         "subtitle": [
             ""
         ],
@@ -1309,6 +1355,7 @@
         "name": [
             "Doujinshi Yuri"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Onee-chan... Acho que... não consigo mais viver sem você...\""
         ],
@@ -1325,6 +1372,7 @@
         "name": [
             "Doujinshi Moe"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Moe moe kyun~♡\""
         ],
@@ -1341,6 +1389,7 @@
         "name": [
             "Doujinshi de Garotas-gato"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Mestre... nya~ Posso ganhar um cafuné?\""
         ],
@@ -1357,6 +1406,7 @@
         "name": [
             "Elixir Rubrum"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Haec est totius fortitudinis fortitudo fortis,  ",
             "quia vincet omnem rem subtilem, omnemque solidam penetrabit.\""
@@ -1374,6 +1424,7 @@
         "name": [
             "Camiseta da \\str[120]"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Cavaleiro...! Até tem um autógrafo...!\""
         ],
@@ -1410,8 +1461,8 @@
             "\"O que você está fazendo, olhando pra cá desse jeito…!\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1423,8 +1474,8 @@
             "\"é assim que coelhos demonstram carinho~\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1436,8 +1487,8 @@
             "\"…Já não está limpo o suficiente, né?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1449,8 +1500,8 @@
             "\"N-Não, isso é ruim... o remédio é forte demais!\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1462,8 +1513,8 @@
             "\"Oh, Senhor, perdoe-me por ser tentada pelo dinheiro...\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1475,8 +1526,8 @@
             "\"Au... Já não basta...?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1488,8 +1539,8 @@
             "\"Hehe~♥ Você não viu nada, certo?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1501,8 +1552,8 @@
             "\"Vamos lá, essa pose serve, né?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1514,8 +1565,8 @@
             "\"Por que esse olhar divertido no seu rosto...?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1527,8 +1578,8 @@
             "\"Eu não consigo... cantar mais...!\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1540,8 +1591,8 @@
             "\"Então, esse é o seu desejo de Ano Novo?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1553,8 +1604,8 @@
             "\"Ah, até o chá está começando a ficar mais doce!\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1566,8 +1617,8 @@
             "\"Bem, é um trabalho de meio período, então não posso evitar...\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1579,8 +1630,8 @@
             "\"Ora, você entrou sem bater~\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1592,8 +1643,8 @@
             "\"É mesmo...? Um tipo de confissão que eu nunca ouvi...\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1605,8 +1656,8 @@
             "\"Haa... Haa... Meu corpo não aguenta mais...!\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1618,8 +1669,8 @@
             "\"Oh, Senhor... por favor, perdoe-me...\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1631,8 +1682,8 @@
             "\"Au... Já não basta...?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1644,8 +1695,8 @@
             "\"...Miau?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1657,8 +1708,8 @@
             "\"...Hã? Ainda não arrumou?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1670,8 +1721,8 @@
             "\"Haa... Esta é a 11ª música... Já não basta?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1683,8 +1734,8 @@
             "\"Por que o olhar parece mais quente...?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1696,8 +1747,8 @@
             "\"Seu desejo de Ano Novo se realizou na hora, feliz?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1709,8 +1760,8 @@
             "\"Sentiu o amor do coelhinho~♥\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1722,8 +1773,8 @@
             "\"Um coelho estranho foi abandonado...\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1735,8 +1786,8 @@
             "\"Quase fomos pegas...\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1748,8 +1799,8 @@
             "\"Entrando sem bater... o que você está aprontando~♥\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1761,8 +1812,8 @@
             "\"Que estranho... Não consigo fechar...\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1774,8 +1825,8 @@
             "\"...Ninguém está olhando aqui, né?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1787,8 +1838,8 @@
             "\"Hehe~♥ Não aconteceu nada, ok?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1800,8 +1851,8 @@
             "\"Mmm... O chá está ainda mais doce agora...!\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1813,8 +1864,8 @@
             "\"Eu sei que é parte do trabalho, mas só desta vez, tá?\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1826,8 +1877,8 @@
             "\"P-Por favor, não toque na mercadoria sem cuidado!\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1839,8 +1890,8 @@
             "\"Mastiga, mastiga... É mais ou menos, acho...\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1852,8 +1903,8 @@
             "\"Mestre? Por favor, não me provoque numa hora dessas...\""
         ],
         "description": [
-            "Fotos que capturam o dia a dia das garotas",
-            "na hora do chá, mas… quem tirou essas fotos?"
+            "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+            "mas quem tirou essas fotos?"
         ],
         "ability": ""
     },
@@ -1861,6 +1912,7 @@
         "name": [
             "Álbum de Polaroids"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Garotas macias e adoráveis♥ Quero levar todas pra casa—!\""
         ],
@@ -1876,6 +1928,7 @@
         "name": [
             "Álbum de Polaroids"
         ],
+        "beIndependent": true,
         "subtitle": [
             "\"Garotas macias e adoráveis♥ Quero levar todas pra casa—!\""
         ],

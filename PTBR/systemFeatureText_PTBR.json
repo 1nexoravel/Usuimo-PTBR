@@ -10,7 +10,7 @@
   ],
   "autoUpdate": [
     "Atualização disponível: Dados do jogo da versão ${} detectados. ",
-    "Deseja baixar e atualizar agora?"
+    "Gostaria de baixar e atualizar agora?"
   ],
   "fullScreen": [
     "Tela Cheia"
@@ -101,6 +101,14 @@
   "totalFilesToUpdate": [
     "Foram detectados ${} arquivo(s) para atualizar — começando a baixar os arquivos!"
   ],
+  "silentUpdateSuccess": [
+    "Novo patch de conteúdo para ${} foi instalado com sucesso e entrará em vigor na próxima reinicialização."
+  ],
+  "outdatedVersionWarning": [
+    "Sua atual versão do jogo está desatualizada. A versão mais recente é ${}.",
+    "Atualizações de versão principal não suportam atualizações automáticas. ",
+    "Por favor, baixe o jogo novamente de uma fonte oficial."
+  ],
   "renameCharacter": [
     "Lembrei agora—",
     "ela é..."
@@ -118,9 +126,9 @@
   ],
   "isAmdCPU": [
     "Seu CPU foi identificado como um processador AMD.",
-    "Alguns processadores AMD podem ter queda de quadros ao rodar vídeos VP9 (WebM) ",
+    "Alguns processadores AMD podem ter queda de quadros ao reproduzir vídeos VP9 (WebM) ",
     "em um ambiente Chromium. Se você encontrar esse problema, tente forçar o jogo",
-    "a usar renderização via GPU ou atualize seus drivers para ajudar a amenizar a situação."
+    "use renderização via GPU ou atualize seus drivers para ajudar a amenizar a situação."
   ],
   "failedToLoad": [
     "Este tipo de problema pode ser causado por:",
@@ -128,7 +136,7 @@
     "② O desenvolvedor esqueceu de incluir o arquivo — aguarde uma atualização/patch para corrigir o problema."
   ],
   "LowResMode": [
-    "Modo Com Gráficos Reduzidos"
+    "Modo de Gráficos Reduzidos"
   ],
   "lowResModeWarning": [
     "Essa função melhora o desempenho em dispositivos Android, essa função deve ter pouco ou nenhum efeito na versão de PC.",
@@ -138,9 +146,11 @@
     "Você pode desabilitar essa função a qualquer momento para restaurar imediatamente a resolução da imagem."
   ],
   "cloudSaveServiceWarning": [
-    "Este recurso solicitará acesso ao seu Google Drive",
+    "Como o banco de dados de save da nuvem ainda está em construção,",
+    "este recurso temporariamente solicitará acesso ao seu Google Drive",
     "para poder armazenar os arquivos de salvamento do jogo na pasta NLCH/save.",
-    "Os arquivos de salvamento enviados serão utilizados posteriormente para sincronização e para serem baixados novamente para o jogo.",
+    "Arquivos de save enviados serão usados somente para futura sincronização e ",
+    "restaurá-los de volta ao jogo e não serão usados para quaisquer outros fins.",
     "Você concorda em conceder ao jogo acesso ao Google Drive?"
   ],
   "uploadSaveFile": [
@@ -161,6 +171,39 @@
     "Por favor, adicione-nos a sua lista de desejos e apoie-nos! (*´∀`)~♥",
     "⬇Clique abaixo para abrir a página da Steam."
   ],
+  "memberMenu": {
+    "firstTimeNotice": [
+      "Este é o recurso de verificação de jogador legítimo atualmente em teste.",
+      "Você pode logar com sua conta no Patreon aqui para verificar sua identidade!",
+      "Contas com uma assinatura ativa(Patreon) ganharão acesso a ",
+      "funcionalidades como atualizações automáticas das principais versões.",
+      "Por favor, observe:",
+      "Compras diretas do jogo no Patreon não estão ",
+      "atualmente incluídas no escopo de verificação.",
+      "Posteriormente, implementaremos a verificação para jogadores ",
+      "que compraram o jogo em outras plataformas,",
+      "e gradualmente ampliaremos mais serviços de suporte e recursos."
+    ],
+    "shortHint": " Agora pode habilitar save nas nuvens e atualizações maiores",
+    "waitingLogin": "Aguardando a conclusão do login...",
+    "notLoggedIn": "Não está logado",
+    "RequestingLogin": "Solicitando link de login...",
+    "openingWindow": "Abrindo janela de login no Patreon...",
+    "cloudSave": "Usar Save nas nuvens",
+    "CheckUpdates": "Atualize para a versão mais recente",
+    "Subscribed": "Assinatura confirmada!",
+    "NotSubscribed": "Nenhuma assinatura ativa detectada. Alguns recursos estão indisponíveis.",
+    "lastCheck": "Última verificação: ",
+    "checkLatestVersion": "Procurando versão mais recente, por favor aguarde...",
+    "isLatestVersion": "Você já está na versão mais recente!",
+    "notSponsor": "Usuários não verificados devem se inscrever primeiro!",
+    "majorUpdateFailed": [
+      "Falha na atualização da versão principal!",
+      "Código de erro: ${}",
+      "Tente fazer o login para verificação e iniciar a atualização novamente,",
+      "ou envie esta print em nosso servidor do Discord para assistência!"
+    ]
+  },
   "AdventurersPathway": {
     "mapName": "  – Caminho do Aventureiro – "
   },

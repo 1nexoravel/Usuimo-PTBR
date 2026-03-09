@@ -566,12 +566,12 @@
   },
   "23": {
         "0": [
-            "De mansinho e quietinho…………  \\w[30]",
+            "Aproximando-se silenciosamente………… \\w[30]",
             "Se vou espiar, preciso abrir a porta com cuidado ",
             "para a \\str[120] não notar—"
         ],
         "1": [
-            "Oh oh oh—! Eu consigo ver ela!",
+            "Nossa! Eu consigo ver ela!",
             "Parece que a \\str[120] está prestes a tirar a calcinha.",
             "Será que consigo ver a buceta dela desse ângulo!?"
         ],
@@ -824,51 +824,51 @@
             "\\nl< >\\{\"Geez, \\str[121], seu grande palhaço!!!\""
         ],
         "54": [
-            "\\str[120] raivosamente me chutou pra fora.",
-            "Talvez eu realmente fui longe demais dessa vez…"
+            "\\str[120] me chutou pra fora com ódio no coração.",
+            "Talvez eu tenha ido longe demais dessa vez…"
         ]
   },
   "32": {
         "0": [
             "Já que a \\str[120] me chamou, ",
-            "Eu nem pensei muito e só entrei direto no banheiro.    \\w[30]\\{",
+            "não pensei muito e só entrei direto no banheiro.    \\w[30]\\{",
             "Bem, foi ela que me chamou mesmo."
         ],
         "1": [
-            "\"O que aconteceu?\""
+            "\"O que está rolando?\""
         ],
         "2": [
-            "\\nl< >\"Um... acabou o shampoo.",
-            "\\str[121], você poderia me pegar um frasco novo?\""
+            "\\nl< >\"Hm... o shampoo acabou.",
+            "\\str[121], pode me trazer um frasco novo?\""
         ],
         "3": [
-            "\\str[120] envergonhadamente botou sua cabeça pra fora do box",
-            "como um animalzinho curioso espiado da toca —",
-            "do tipo que faz você querer provocar ela ainda mais…",
-            "O que eu devo fazer agora?"
+            "\\str[120] espiou timidamente para fora do banheiro,",
+            "como um bichinho cauteloso, mas curioso—",
+            "daqueles que dão vontade de provocar um pouco…",
+            "O que devo fazer agora?"
         ],
         "4": [
-            "Pedir pra ela sair",
+            "Chamar \\str[120]",
             "Levar o Shampoo"
         ],
         "5": [
-            "\\nl< >\"Eh... Eu ainda to no meio do banho…\""
+            "\\nl< >\"An... eu ainda to no meio do banho…\""
         ],
         "6": [
-            "\\nl< >\"Geez, eu só te chamei porque ",
-            "eu não quero molhar o chão…\""
+            "\\nl< >\"Poxa, só te chamei porque ",
+            "não queria molhar o chão…\""
         ],
         "7": [
-            "Eu rapidamente espantei esse tipo de pensamentos estranhos,",
-            "peguei um frasco novo de shampoo do armário, ",
-            "e entreguei para a \\str[120]."
+            "Rapidamente afastei aqueles pensamentos estranhos,",
+            "peguei um frasco de shampoo reserva do armário, ",
+            "e o entreguei a \\str[120]."
         ],
         "8": [
             "\\nl< >\"Obrigada, \\str[121]!",
-            "Eu vou voltar pro banho agora-te vejo logo mais!\""
+            "Vou voltar pro banho agora — te vejo daqui a pouco!\""
         ],
         "9": [
-            "\\str[120] fechou a porta e voltou pro banho.   \\w[30]",
+            "\\str[120] fechou a porta e voltou para o banho.   \\w[30]",
             "Hmm... será que devo ficar um pouco mais?"
         ],
         "10": [
@@ -876,7 +876,7 @@
             "Voltar"
         ],
         "11": [
-            "Já que eu já estou aqui, ",
+            "Já que estou aqui, ",
             "não tem problema dar uma olhada ao redor!"
         ],
         "12": [
@@ -884,17 +884,17 @@
         ],
         "13": [
             "\\str[120] veio obedientemente até mim.",
-            "Já que ainda tava tomando banho, ",
-            "ela só tinha uma toalha enrolada frouxa,",
-            "seu corpo exalando cheiro de sabonete misturado com vapor."
+            "Como ela ainda estava tomando banho, ",
+            "usava apenas uma toalha enrolada frouxamente no corpo,",
+            "exalando o perfume do sabonete misturado com o vapor quente."
         ],
         "14": [
             "Então... ",
-            "o que eu devo fazer com a \\str[120] agora...?"
+            "o que devo fazer com a \\str[120] agora...?"
         ],
         "15": [
-            "Dar um Kompeitō",
-            "Fazer um cafuné",
+            "Dar um Kompeito",
+            "Acariciar a cabeça",
             "Apertar os peitos",
             "Conversar um pouco"
         ],
@@ -903,21 +903,21 @@
             "Aqui, um docinho pra você.\""
         ],
         "17": [
-            "\\nl< >\"Eu já tenho—    \\w[70]\\^"
+            "\\nl< >\"Já comi um—    \\w[70]\\^"
         ],
         "18": [
             "\\nl< >\"E mesmo que tenha um gosto muito bom,",
             "ele sempre deixa meu corpo meio quente depois…\""
         ],
         "19": [
-            "\\nl< >\"Docinho, huh... tão doce...      \\w[60]",
-            "Mas \\str[121], você tá parecendo um vovozinho, sabe?\""
+            "\\nl< >\"Docinho, hein... tão doce...      \\w[60]",
+            "Mas \\str[121], você soa como um velhinho, sabe?\""
         ],
         "20": [
-            "Eu fiz a \\str[120] comer um Kompeitō estranho."
+            "Eu fiz a \\str[120] comer um Kompeito estranho."
         ],
         "21": [
-            "\\nl< >\"Eu disse pra parar de encostar em mim agora!\""
+            "\\nl< >\"Eu disse para parar de me tocar agora!\""
         ],
         "22": [
             "\"    ヾ(・ω・`)    ",
@@ -926,26 +926,26 @@
         "23": [
             "\\nl< >\"Mmm... \\w[45]",
             "Meu cabelo ainda tá molhado,",
-            "então não meche nele agora…\""
+            "então não acaricia minha cabeça agora…\""
         ],
         "24": [
-            "Eu dei um cafuné pelo cabelo encharcado da \\str[120]—",
+            "Acariciei o cabelo úmido da \\str[120]—",
             "pois é, a textura estava bem ruim…"
         ],
         "25": [
             "\\nl< >\"\\str[121]... você ao menos lembra o porque você veio aqui...?\""
         ],
         "26": [
-            "\\nl< >\"Se você tá assim desesperado, \\str[121], é so dizer...",
-            "Você está sempre pensando nesse tipo de coisa mesmo…\""
+            "\\nl< >\"Se você tá tão desesperado, \\str[121], só diz...",
+            "Você sempre pensa em coisas assim mesmo…\""
         ],
         "27": [
-            "\\nl< >\"Então tua mão só escorregou, de novo...?   \\w[90]\\{",
-            "\\str[121] seu pervertido!\""
+            "\\nl< >\"Então foi sua mão escorregando de novo...?   \\w[90]\\{",
+            "\\str[121], seu pervertido!\""
         ],
         "28": [
-            "Admirando as curvas delineadas da \\str[120] através da toalha, minha mão ",
-            "através da toalha, minha mão se moveu sozinha, "
+            "Olhando as curvas de \\str[120] delineadas sob a toalha,",
+            "minha mão se moveu sozinha, estendendo-se para apertar aquele calor macio e pesado."
         ],
         "29": [
             "\\nl< >\\{\"—Nyaaah!?\\str[121]!?\""
@@ -954,64 +954,64 @@
             "\"Desculpa, minha mão escorregou.\""
         ],
         "31": [
-            "\\nl< >\"Essa não é a hora pra me provocar...!\""
+            "\\nl< >\"Agora não é hora de me provocar...!\""
         ],
         "32": [
             "Mmm... julgando pelo toque,",
-            "parece que a \\str[120] cresceu um pouco mais."
+            "parece que a \\str[120] cresceu um pouco de novo."
         ],
         "33": [
-            "\\nl< >\"Já deu... cadê o meu shampoo?\""
+            "\\nl< >\"Chega disso já... cadê meu shampoo?\""
         ],
         "34": [
-            "\"A temperatura da água está boa?\""
+            "\"A temperatura da água do banho tá boa?\""
         ],
         "35": [
-            "\\nl< >\"Está perfeita, muiuto confortável.\""
+            "\\nl< >\"Tá perfeita — bem confortável.\""
         ],
         "36": [
-            "Conversei casualmente com a \\str[120] um pouquinho."
+            "Bati papo casualmente com a \\str[120] por um tempo."
         ],
         "37": [
-            "Hmm, Eu já passei muito tempo aqui. ",
+            "Hmm, perdi tempo suficiente aqui. ",
             "Melhor parar de provocar a \\str[120]",
-            "e pegar o shampoo pra ela."
+            "e só preparar o shampoo dela."
         ],
         "38": [
             "\\nl< >\"Obrigada, \\str[121]! ",
-            "Eu vou voltar pro banho, te vejo daqui a pouco~\""
+            "Eu vou voltar para o banho, te vejo daqui a pouco~\""
         ],
         "39": [
-            "\\str[120] fechou a porta e voltou pro banho.    \\w[30]",
-            "Se eu ficar mais tempo, vai parecer suspeito... Eu devo voltar."
+            "\\str[120] fechou a porta e voltou para o banho.    \\w[30]",
+            "Se eu ficar mais, vai parecer suspeito... devo voltar."
         ],
         "40": [
             "\\nl< >\\{\"—Nyaaah!?\"",
             "\\w[45]\\^"
         ],
         "41": [
-            "\\str[120] escorregou bem na minha frente,",
+            "\\str[120] escorregou de repente bem na minha frente,",
             "caindo de cara no chão—",
-            "Ver ela caindo doeu até em mim..."
+            "parecia doloroso só de ver..."
         ],
         "42": [
             "\\{\"Ah! Você... ",
-            "Você tá bem!?\""
+            "você tá bem!?\""
         ],
         "43": [
-            "Eu rapidamente corri para ajudar a \\str[120] se levantar.",
-            "Felizmente, não pareceu uma queda dura, ela não se machucou."
+            "Corri rápido e ajudei \\str[120] a se levantar.",
+            "Sorte que não pareceu uma queda forte — ela não se machucou."
         ],
         "44": [
-            "\\nl< >\"Uuuuh... \\str[121], isso realmente doeu...\""
+            "\\nl< >\"Uuuuh... \\str[121], doeu mesmo...\""
         ],
         "45": [
             "\\nl< >\"Acho que vou ficar com um galo na cabeça...!\""
         ],
         "46": [
             "Vendo a \\str[120] tremendo levemente de dor,",
-            "eu gentilmente confortei ela e a ajudei a voltar pro banho ",
-            "pra ela poder lavar seu cabelo."
+            "gentilmente a confortei e ajudei ela a entrar no banho ",
+            "para ela poder lavar seu cabelo."
         ]
   }
 }

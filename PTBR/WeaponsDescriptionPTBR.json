@@ -613,6 +613,23 @@
             "Restaura \\c[29]${Math.floor(1.2*$gameParty.leader().paramPlus(2))}\\c[0] de PV ao portador ao derrotar um inimigo"
         ]
     },
+    "66": {
+        "name": [
+            "Pilar do Ritual"
+        ],
+        "subtitle": [
+            "\"——a maioria dos aventureiros só chamam isso de Porrete do cervo.\""
+        ],
+        "description": [
+            "Uma arma usualmente utilizada pelo demônio lascivo, é dito ter ",
+            "sido usado originalmente para algum tipo de item ritualístico.",
+            "Seu material e magia interna ainda são impossíveis de serem analisadas.",
+            "Ele também funciona muito bem como um despertador…!"
+        ],
+        "ability": [
+            "Quando se completa uma hora, ocorre um aumento de todos os status"
+        ]
+    },
     "70": {
         "name": [
             "Glória Ancestral"

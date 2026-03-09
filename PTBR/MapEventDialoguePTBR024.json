@@ -17,29 +17,29 @@
             "então tenha cuidado, ok…\""
         ],
         "5": [
-            "\\nl< >\"Se você acha que não vai conseguir se segurar, ",
-            "volte aqui imediatamente!\""
+            "\\nl< >\"Se você achar que não consegue aguentar, ",
+            "não se force, volte imediatamente!\""
         ],
         "6": [
-            "Ver \\str[120] tão cheia de energia pela manhã, ",
-            "uma visão rara, instantaneamente me preencheu com emoções profundas."
+            "Vendo \\str[120] tão cheia de energia pela manhã,",
+            "uma visão tão rara que instantaneamente me encheu com uma emoção profunda."
         ],
         "7": [
-            "Segurando a vontade te abraçar fortemente a \\str[120], ",
-            "Eu só sorri de volta para ela."
+            "Suprimindo meu desejo de abraçar firmemente a \\str[120], ",
+            "eu simplesmente sorri de volta."
         ],
         "8": [
-            "\\{\"Eu vou voltar em breve!\""
+            "\\{\"Eu voltarei logo!\""
         ],
         "9": [
             "\"Certo… Seja boazinha e tome conta da casa, tá bem?\""
         ],
         "10": [
-            "Eu acenei para \\str[120] enquanto eu saia de casa,",
-            "me lembrando que hoje eu preciso trabalhar bastante para o bem dela!"
+            "Eu acenei para a \\str[120] enquanto saia de casa,",
+            "lembrando-me que eu devo trabalhar duro novamente hoje — pelo bem dela!"
         ],
         "11": [
-            "\\nl< >\"Me desculpa, \\str[121]…    \\w[60]",
+            "\\nl< >\"Eu sinto muito, \\str[121]…    \\w[60]",
             "Eu estou fazendo você ir novamente para um lugar tão perigoso—\""
         ],
         "12": [
@@ -51,31 +51,31 @@
         "14": [
             "\"Eu já o explorei muitas vezes,",
             "e por anos o labirinto se manteve completamente estável, ",
-            "então vai ficar tudo bem.\""
+            "então está tudo bem.\""
         ],
         "15": [
             "\"Certo… Seja boazinha e tome conta da casa, tá bem?\""
         ],
         "16": [
-            "\\nl< >\"Okay… mas tome cuidado…\""
+            "\\nl< >\"Certo… mas tome cuidado…\""
         ],
         "17": [
             "Sim, \\str[120]… ela sofre de uma doença estranha."
         ],
         "18": [
-            "Ela não pode sair e nem se expor à luz solar. ",
-            "E se ela não tomar periodicamente um remédio especialmente criado ",
-            "de forma alquímica, sua condição pode ficar ainda mais instável…"
+            "Ela não pode sair e nem pode ficar exposta à luz do sol. ",
+            "E se ela não tomar periodicamente um remédio alquímico especialmente fabricado, ",
+            "sua condição supostamente se torna ainda mais instável…"
         ],
         "19": [
-            "Os ingredientes para esse remédio não são coisas ",
+            "Os ingredientes para este remédio não são algo ",
             "que você pode simplesmente comprar no mercado. ",
-            "O único lugar que restou onde talvez eu possa encontrá-los é lá—"
+            "O único lugar que resta onde posso encontrá-los todos é lá—"
         ],
         "20": [
-            "Então como sua única família, não importa quantas vezes seja necessário, ",
-            "eu preciso me aventurar naquele lugar para encontrar uma forma de ",
-            "curar \\str[120] definitivamente."
+            "Então, como parte da família dela, não importa quantas vezes seja necessário, ",
+            "devo me aventurar naquele lugar para encontrar uma forma ",
+            "de curar a \\str[120] de uma vez por todas."
         ]
   },
   "3": {
@@ -86,60 +86,60 @@
             "\\nl< >\"\\str[121]? Você voltou cedo hoje.\""
         ],
         "2": [
-            "\"Pois é, eu estava me sentindo um pouco cansado hoje,",
-            "então não me forcei de mais na explorção…\""
+            "\"Sim, me senti um pouco cansado hoje,",
+            "então não me esforcei para sair explorando…”"
         ],
         "3": [
             "\\nl< >\"Isso é aquela coisa… chamada Doença de Maio, né?\""
         ],
         "4": [
-            "Mai…? Mas estamos na metade do verão."
+            "Maio…? Mas estamos na metade do verão."
         ],
         "5": [
             "\\nl< >\"Muitas vezes eu também me sinto assim…",
-            "Eu achava que ainda era meio dia, mas quando eu acordei, ",
+            "Eu pensei que ainda fosse meio-dia, mas quando acordei, ",
             "\\str[121] já tinha feito o jantar…\""
         ],
         "6": [
-            "...Você não acha que pode ter só... dormido demais?"
+            "...Isso não é simplesmente dormir de mais?"
         ],
         "7": [
-            "\\nl< >\"É bom pegar leve as vezes, \\str[121]. ",
-            "Vem e vamos nos divertir!\""
+            "\\nl< >\"É legal relaxar às vezes, \\str[121]. ",
+            "Vem jogar comigo!\""
         ],
         "8": [
-            "\\nl< >\"Descansar o suficiente também é importante, ",
-            "então pense nisso na próxima vez.\""
+            "\\nl< >\"Descansar adequadamente também é importante. ",
+            "então seja consciente da próxima vez.\""
         ],
         "9": [
-            "\\nl< >\"Percebi.",
-            "Deixa eu te fazer uma massagem \\str[121]!\""
+            "\\nl< >\"Entendi,",
+            "então posso te fazer uma massagem, \\str[121]!\""
         ],
         "10": [
-            "É... Ainda temos muito tempo sobrando, vamos relaxar e descansar hoje."
+            "Sim, temos muito tempo — vamos relaxar e descansar hoje."
         ],
         "11": [
-            "Você tá certa, tem muito tempo sobrando, vamos só relaxar e descansar hoje."
+            "Você está certo, temos muito tempo — vamos relaxar e descansar hoje."
         ],
         "12": [
-            "\\nl< >\"Então, por que vc não tenta tirar uma soneca também, \\str[121]…",
-            "é muito bom, sabe?\""
+            "\nl< >\"Então por que você não tenta cochilar também, \\str[121]…",
+            "é uma sensação realmente boa, você sabia?\""
         ],
         "13": [
             "No final, eu tirei uma soneca com a \\str[120] até o sol se pôr."
         ],
         "14": [
-            "Eu passei o dia todo brincando com a \\str[120]."
+            "Eu passei o dia inteiro jogando com a \\str[120]."
         ],
         "15": [
-            "Eu passei um dia relaxante com \\str[120]."
+            "Eu passei um dia relaxante com a \\str[120]."
         ],
         "16": [
-            "\\str[120] me deu uma massagem longa e entusiasmada...",
-            "Estava tão bom, que eu acabei pegando no sono…"
+            "\\str[120] entusiasticamente me deu uma massagem por um longo tempo,",
+            "e por que me sentia tão bem, eu acabei dormindo…"
         ],
         "17": [
-            "\\nl< >\"\\str[121]? Você voltou pra casa bem cedo hoje.\""
+            "\\nl< >\"\\str[121]? Você voltou para casa bem cedo hoje.\""
         ],
         "18": [
             "\\nl< >\"Bem-vindo de volta, \\str[121].\""
@@ -152,24 +152,24 @@
             "\\nl< >\"É um pacote bem grande—     \\w[90]\\^"
         ],
         "21": [
-            "\\nl< >\"Poderia ser alguma coisa gostosa!?\""
+            "\\nl< >\"Poderia ser… algo delicioso!?\""
         ],
         "22": [
-            "Yeah… parece que \\str[120] realmente não tem interesse ",
-            "em qualquer coisa que não seja comida…"
+            "Sim… parece que a \\str[120] realmente não tem interesse ",
+            "em nada além de comida…"
         ],
         "23": [
             "\\nl< >\"Bem-vindo de volta ao lar, \\str[45]\\^"
         ],
         "24": [
-            "\\nl< >\"\\{Ugh, nojento!         \\}\\w[20]",
+            "\\nl< >\"\\{Eca, que nojo!         \\}\\w[20]",
             "\\str[121], você tá fedendo!\""
         ],
         "25": [
             "\"O quê!?\""
         ],
         "26": [
-            "\\nl< >\"\\str[121], você fede!   \\w[90]",
+            "\\nl< >\"\\str[121], você tá podre! \\w[90]",
             "Não chega perto de mim…               \\w[90]",
             "Vá logo tomar um banho!           \\w[150]\\^"
         ],
@@ -179,10 +179,10 @@
         "28": [
             "\\str[120] fugiu.     \\w[60]",
             "…Será que eu to fedendo tanto assim? ",
-            "Será que eu peguei alguma coisa nojenta enquanto explorava?"
+            "Será que peguei algo com cheiro desagradável enquanto explorava?"
         ],
         "29": [
-            "De qualquer forma, eu devo me apressar e tomar um banho antes de tudo…"
+            "De qualquer forma, eu devo me apressar e tomar um banho primeiro…"
         ]
   },
   "5": {
@@ -192,12 +192,12 @@
         ],
         "1": [
             "Foi sorte eu ter conseguido escapar no último momento…",
-            "Como eu pensei, com minha força atual isso ainda é ",
-            "muito irresponsável desafiar um lugar como aquele…"
+            "Como eu pensei, com minha força atual ainda é muito imprudente ",
+            "desafiar aquele lugar…"
         ],
         "2": [
             "Eu deveria treinar mais, me preparar completamente",
-            "e só aí eu posso pensar em conquistá-lo…"
+            "e só então pensar em conquistá-lo…"
         ],
         "3": [
             "\\nl< >\"Bem-vindo de volta ao lar, \\str[60]\\^"
@@ -207,7 +207,7 @@
         ],
         "5": [
             "\\nl< >\"\\str[121], você está bem!? \\w[60]",
-            "Você está coberto de machucados…!\""
+            "Você está coberto de ferimentos…!\""
         ],
         "6": [
             "\"Ahaha… Acho que exagerei um pouco,",
@@ -215,43 +215,43 @@
         ],
         "7": [
             "\\nl< >\"\\str[121], honestamente…",
-            "você realmente precisa tomar mais cuidado com você!\""
+            "você realmente precisa tomar melhor conta de si mesmo!\""
         ],
         "8": [
             "\\nl< >\"Já que você está machucado, precisamos fazer curativos imediatamente!\""
         ],
         "9": [
-            "\\str[120] habilmente cuidou de minhas feridas, ",
-            "e eu consegui sentir uma grande quantidade de força voltando."
+            "\\str[120] tratou habilmente dos meus ferimentos, ",
+            "e senti uma grande parte da minha força retornar."
         ],
         "10": [
-            "\\str[120] cuidadosamente me enfaixou com suas",
-            " mãos desajeitadas, e eu me senti um pouco recuperado."
+            "\\str[120] cuidadosamente me enfaixou com mãos desajeitadas, ",
+            "e me senti um pouco recuperado."
         ],
         "11": [
-            "\\str[120] desajeitadamente me enfaixou da cabeça ",
-            " aos pés, e eu me senti só um pouquinho melhor."
+            "\\str[120] me envolveu desajeitadamente da cabeça aos pés em bandagens, ",
+            "e eu me senti só um pouco melhor."
         ],
         "12": [
-            "\\nl< >\"Agora, \\str[121], você vai descansar!",
+            "\\nl< >\"Agora, \\str[121], descanse um pouco!",
             "Deixe o jantar comigo!\""
         ],
         "13": [
             "\"Ah… sim…\""
         ],
         "14": [
-            "Dito isso, com todo o meu corpo enrolado como uma múmia, ",
-            "sem conseguir mexer um músculo…"
+            "Dito isso, meu corpo todo enrolado como uma múmia, ",
+            "e não consigo me mover nem um pouco…"
         ],
         "15": [
-            "\\nl< >\"Mhm, \\str[121], você é um bom menino.\""
+            "\\nl< >\"Hm, \\str[121], você é um bom garoto.\""
         ],
         "16": [
             "Foi só minha imaginação, ",
-            "ou \\str[120] realmente parece mais motivada que o normal…?"
+            "ou a \\str[120] pareceu mais motivada que o normal…?"
         ],
         "17": [
-            "\\nl< >\"\\str[121], você se esforçou além do limite novamente!\""
+            "\\nl< >\"\\str[121], você passou dos limites de novo!\""
         ],
         "18": [
             "\\nl< >\"Precisamos parar o sangramento rápido!\""
@@ -261,44 +261,44 @@
             "eu vou tomar conta de você, \\str[121]!\""
         ],
         "20": [
-            "Seria só minha imaginação, ou a \\str[120]",
-            "Parece ainda mais excitada que o normal…?"
+            "Foi só imaginação, ",
+            "ou a \\str[120] pareceu mais animada que o normal…?"
         ]
   },
   "9": {
         "0": [
             "O calor em meus braços me lembrou que ",
-            "Eu finalmente encontrei o medicamento que procurava há tanto tempo. ",
+            "eu finalmente encontrei o medicamento que procurava há tanto tempo. ",
             "Ainda assim, a sensação surreal dessa experiência me deixou inquieto."
         ],
         "1": [
-            "A carta de tarot da estrela conectada na entrada.",
+            "A carta de tarô A Estrela na entrada se conectou.",
             "Era um dos pertences deixados pelo meu pai.",
             "Apesar de ter gastado sua vida pesquisando uma maneira de curar \\str[120],",
             "por que ela ficou tão facilmente reativa agora…?"
         ],
         "2": [
-            "Não importava como eu pensasse, eu não conseguia chegar a uma conclusão.",
-            "Pensar exageradamente era inútil. ",
-            "Mas o improtante é que agora eu tenho o Elixir Rubrum.",
-            "Eu preciso achar uma forma para \\str[120] experimentar."
+            "Não importa o quanto eu pense sobre isso, eu não consegui chegar a uma conclusão.",
+            "Pensar de mais não fazia sentido. ",
+            "O mais importante é - agora tenho o Elixir Rubrum.",
+            "Eu devo encontrar uma forma de deixar a \\str[120] experimentar."
         ],
         "3": [
-            "Sua cor até lembrava suco de morango,",
-            "talvez até tenha o gosto do leite de morango favorito dela…"
+            "Sua cor até parece suco de morango,",
+            "talvez até tenha gosto de seu leite de morango favorito…"
         ],
         "4": [
             "\\nl< >\"Bem-vindo de volta ao lar, \\str[121].\""
         ],
         "5": [
-            "\\nl< >\"Meu estômago tá vazio…\""
+            "\\nl< >\"Meu estômago já está vazio…\""
         ],
         "6": [
             "\"Certo, certo vou preparar o jantar agora mesmo.\""
         ],
         "7": [
-            "Eu fiz um leve cafuné na cabeça da \\str[120]",
-            "Certo — o que devo fazer em seguida?"
+            "Eu delicadamente acariciei a cabeça da \\str[120] e a confortei um pouco. ",
+            "Certo, o que devo fazer em seguida?"
         ],
         "8": [
             "Fazer o Jantar",
@@ -308,15 +308,15 @@
             "Sim, está ficando tarde, é melhor eu ir preparar o jantar."
         ],
         "10": [
-            "\"O que você gostaria de comer hoje a noite?\""
+            "\"O que você gostaria de comer esta noite?\""
         ],
         "11": [
-            "\\nl< >\\{\"Alguma coisa com carne seria bom!\""
+            "\\nl< >\\{\"Pratos com carne são os melhores!\""
         ],
         "12": [
-            "Hmm… bem como esperado…",
-            "Realmente parece que eu preciso achar uma forma de explicar",
-            " para a \\str[120] que uma dieta balanceada é muito importante."
+            "Hmm… exatamente como esperado…",
+            "Parece que eu realmente preciso achar uma chance de explicar para ",
+            "a \\str[120] o quão importante é uma dieta balanceada."
         ],
         "13": [
             "Ugh, eu meio que estou sentindo vontade de ir ao banheiro…"
@@ -330,40 +330,40 @@
   },
   "13": {
         "0": [
-            "\\nl< >\"\\str[121], hoje você não voltou todo arrebentado ",
-            "assim como combinamos, bom trabalho! ",
-            "Você merece um prêmio por esse trabalho duro!\""
+            "\\nl< >\"“\\str[121], você não voltou todo machucado hoje ",
+            "como prometemos, ótimo trabalho!",
+            "Você merece alguns elogios por ter trabalhado tão arduamente!\""
         ],
         "1": [
-            "\\nl< >\"\\str[121], hoje você também cumpriu sua promessa. ",
+            "\\nl< >\"\\str[121], você manteve nossa promessa hoje de novo. ",
             "Aqui está a recompensa de hoje!\""
         ],
         "2": [
-            "\\nl< >\"\\str[121], você está trabalhando duro ultimamente. ",
-            "Aqui está a recompensa de hoje!\""
+            "\\nl< >\"\\str[121], você tem trabalhado duro ultimamente. ",
+            "Aqui está a recompensa de hoje—\""
         ],
         "3": [
-            "\\nl< >\"Hoje Já faz um mês. Você está indo tão bem,",
-            "\\str[121]. Vem cá, Aqui está a recompensa de hoje!\""
+            "\\nl< >\"Já faz quase um mês agora. Você tem ido bem,",
+            "\\str[121]. Vamos, aqui está a recompensa de hoje—\""
         ],
         "4": [
-            "\\nl< >\"\\str[121]! Que maravilha, já se passou um mês! ",
+            "\\nl< >\"\\str[121]! Maravilha, já faz um mês! ",
             "Você é incrível, \\str[121]!\""
         ],
         "5": [
-            "\\nl< >\"Então, essa é a recompensa final!\""
+            "\\nl< >\"De qualquer forma, esta é a recompensa final!\""
         ],
         "6": [
-            "\\nl< >\"Pronto! Terminei de desenhar!",
-            "Isso é prova de que você foi um bom garoto, \\str[121]! ",
-            "Eu não deixo você lavar isso hoje!\""
+            "\\nl< >\"Certo! Terminei o desenho!",
+            "Esta é a prova de que você foi um bom garoto, \\str[121]! ",
+            "Você não pode lavá-lo hoje!\""
         ],
         "7": [
-            "Eu olhei para o verso da minha mão direita onde a ",
-            "\\str[120] desenhou uma fofa imagem no  com o seu pincel."
+            "Olhei para a minha mão direita, onde a \\str[120] tinha desenhado ",
+            "uma figurinha fofa no dorso com o pincel dela."
         ],
         "8": [
-            "Que tipo maravilhoso de recompensa… Mas ainda assim…"
+            "Que tipo incrível de recompensa… mas ainda…"
         ],
         "9": [
             "\\nl< >\"Eh? ",
