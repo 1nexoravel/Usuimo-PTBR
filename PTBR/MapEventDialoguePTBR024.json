@@ -274,8 +274,8 @@
         "1": [
             "A carta de tarô A Estrela na entrada se conectou.",
             "Era um dos pertences deixados pelo meu pai.",
-            "Apesar de ter gastado sua vida pesquisando uma maneira de curar \\str[120],",
-            "por que ela ficou tão facilmente reativa agora…?"
+            "Embora tenha passado a vida pesquisando uma forma de curar \\str[120],",
+            "por que isso reagiu tão facilmente agora…?"
         ],
         "2": [
             "Não importa o quanto eu pense sobre isso, eu não consegui chegar a uma conclusão.",
@@ -367,21 +367,21 @@
         ],
         "9": [
             "\\nl< >\"Eh? ",
-            "‘Vai ter uma recompensa especial se eu continuar coletando eles?’",
+            "'Haverá alguma recompensa especial se eu continuar os coletando?’",
             "…\\str[121], você quer ainda mais elogios?\""
         ],
         "10": [
-            "\\nl< >\"Hmm… bem, se você manter a promessa por mais um mês,",
-            "Eu vou te dar uma recompensa ainda mais especial…\""
+            "\\nl< >\"Hmm… well, if you keep this up for another month,",
+            "eu vou te dar uma recompensa ainda mais especial…\""
         ],
         "11": [
-            "\\nl< >\"Mas… é muito embaraçosa, ",
-            "então eu ainda não posso contar o que é…\""
+            "\\nl< >\"Mas… é muito constrangedor, ",
+            "então eu não posso te dizer o que é ainda…\""
         ],
         "12": [
-            "Eu tava só brincando, mas parece que a \\str[120] está",
-            "seriamente pensando em um tipo especial de recompensa. ",
-            "Isso me fez sentir ainda mais motivado!"
+            "Eu só estava brincando, mas a \\str[120] parecia estar ",
+            "pensando seriamente em algum tipo de recompensa especial. ",
+            "Isso realmente me fez sentir motivado!"
         ],
         "13": [
             "\\nl< >\"A recompensa especial ainda é um segredo. ",
@@ -389,7 +389,7 @@
         ],
         "14": [
             "\\nl< >\"Aqui está, \\str[121]! ",
-            "Como eu prometi, essa é sua recompensa especial!\""
+            "Como prometido, esta é sua recompensa especial!\""
         ],
         "15": [
             "\\nl< >\"Hehe… eu fiz um cupom de ‘Faça qualquer coisa’.\""
