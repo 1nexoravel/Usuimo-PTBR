@@ -2,9 +2,7 @@
 
 default_locale = "en"
 
-locales = [
-    "pt-BR"
-]
+locales = ["pt-BR"]
 
 [[paths]]
 reference = "locales/en/*.json"
