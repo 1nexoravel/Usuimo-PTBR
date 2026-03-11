@@ -1,0 +1,11 @@
+# Pontoon configuration file
+
+default_locale = "en"
+
+locales = [
+    "pt-BR"
+]
+
+[[paths]]
+reference = "locales/en/*.json"
+l10n = "locales/{locale}/*.json"
