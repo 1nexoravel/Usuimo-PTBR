@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # export_to_pontoon.py
 # Transforma cada JSON "original" em um JSON plano estilo Pontoon.
-# - listas de strings viram uma única string com <LINE> entre linhas
+# - listas de strings viram uma única string com \n entre linhas
 # - listas vazias são exportadas como "" (o rebuild usa o arquivo original como template)
 # - outras estruturas são percorridas recursivamente
 
@@ -27,7 +27,7 @@ def flatten(obj, path, out):
         if is_list_of_strings(obj):
             key = ".".join(path)
             # preserve empty strings inside the list; empty list -> empty string ""
-            out[key] = "<LINE>".join(obj)
+            out[key] = "\\n".join(obj)
         else:
             # list of dicts or nested lists -> index and recurse
             for i, v in enumerate(obj):
