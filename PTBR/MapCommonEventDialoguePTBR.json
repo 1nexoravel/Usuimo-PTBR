@@ -18,14 +18,14 @@
     ],
     "1": [
       "Usar",
-      "Deixa para lá",
+      "Não Usar",
       "Descartar"
     ]
   },
   "gameAnnouncement": {
     "0": [
-      "Take a look",
-      "Never mind"
+      "Dê uma olhada",
+      "Agora Não"
     ]
   },
   "skillOnCooldown": {
@@ -36,7 +36,7 @@
   "takePhotoOfImouto": {
     "0": [
       "\\nl< >\"Hngh! \\str[121]!    \\w[60]",
-      "You're sneaking photos again!\""
+      "Você está roubando fotos novamente!\""
     ]
   },
   "sealingScroll": [

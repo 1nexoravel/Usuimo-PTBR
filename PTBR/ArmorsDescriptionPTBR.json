@@ -285,7 +285,7 @@
         "subtitle": "",
         "description": [
             "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto",
-            "simboliza a adesão deles ao código da cavalaria"
+            "Simboliza a adesão deles ao código da cavalaria"
         ],
         "ability": [
             "Aumenta o ataque e a defesa quando o PV está abaixo de \\c[10]30%\\c[0]"
@@ -311,8 +311,8 @@
         "subtitle": "",
         "description": [
             "Feito de couro grosso e linho resistente, já foi o traje cotidiano ",
-            "Dos caçadores da floresta. Defesa limitada, mas leve e flexível ",
-            "ideal para se mover rapidamente pela floresta"
+            "dos caçadores da floresta. Defesa limitada, mas leve e flexível ",
+            "Ideal para se mover rapidamente pela floresta"
         ],
         "ability": [
             "Regenera lentamente o HP ao permanecer em terreno gramado"
@@ -347,7 +347,7 @@
         ],
         "ability": [
             "Ativa quando o PV chega a zero, restaurando totalmente o HP",
-            "O ‘item’ é destruído após a ativação"
+            "O item é destruído após a ativação"
         ]
     },
     "27": {

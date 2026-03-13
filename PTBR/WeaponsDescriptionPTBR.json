@@ -6,7 +6,7 @@
         "subtitle": "",
         "description": [
             "Dizem que o herói também começou sua",
-            "Jornada na vila inicial com uma espada de madeira",
+            "jornada na vila inicial com uma espada de madeira",
             "Isso se tornou um ideal para muitos aventureiros seguirem"
         ],
         "ability": [
@@ -20,7 +20,7 @@
         "subtitle": "",
         "description": [
             "Um bastão de madeira robusto de ótimo formato ",
-            "Perfeito para crianças; também serve como arma"
+            "perfeito para crianças; também serve como arma"
         ],
         "ability": [
             "Causa dano extra quando a arma está prestes a quebrar"
@@ -61,7 +61,7 @@
         "subtitle": "",
         "description": [
             "Uma arma usada por meu pai na juventude,",
-            "Bem cuidada e aparentemente fornecida aos cavaleiros da corte"
+            "bem cuidada e aparentemente fornecida aos cavaleiros da corte"
         ],
         "ability": [
             "Quando o PV<\\c[10]30%\\c[0], o ataque desta arma dobra"
@@ -277,7 +277,7 @@
         ],
         "ability": [
             "15% de chance de infligir Veneno ao atacar",
-            "Sempre inglige Veneno em alvos sangrando"
+            "Sempre aplica Veneno em alvos sangrando"
         ]
     },
     "21": {
@@ -311,13 +311,13 @@
     },
     "25": {
         "name": [
-            "A canção do Dragão das Marés"
+            "Canção de Tidewyrm"
         ],
         "subtitle": "",
         "description": [
-            "Um cajado caravado com cristais magios úmidos, sempre pingando.",
+            "Um cajado criado a partir de cristais mágicos úmido, sempre pingando de tão úmido",
             "Ele só revela o seu poder verdadeiro quando usado em um meio aquático",
-            "Bem inconveniente!"
+            "muito inconveniente!"
         ],
         "ability": [
             "Caso usado próximo a água, a magia é amplificada",
@@ -526,7 +526,7 @@
             "Dizem por aí que esse era o estoque de inverno da coelhinha empregada"
         ],
         "ability": [
-            "40% de chance em infligir estado Congelado ao atacar.",
+            "40% de chance de infligir Congelamento ao atacar",
             "Quando arremessada, ela atinge todas as unidades no seu caminho"
         ]
     },
@@ -552,10 +552,10 @@
         "subtitle": "",
         "description": [
             "Uma cenoura de altíssima...",
-            "Hun? Isso é mesmo... uma cenoura?"
+            "Hã? Isto é realmente… uma cenoura!?"
         ],
         "ability": [
-            "Quando arremmessada, ela atinge todas as unidades no seu caminho"
+            "Quando arremessada, perfura e acerta todas as unidades no caminho"
         ]
     },
     "60": {
@@ -664,11 +664,11 @@
             "Lâmina Infestada"
         ],
         "subtitle": [
-            "\"Argh, a gosma ainda está se mexendo... Que nojo!!\""
+            "\"Argh, o slime ainda está se mexendo... Que nojo!!!\""
         ],
         "description": [
-            "Um espadão infestado por uma gosma resiliente e faminta por vida",
-            "Sua ânsia por vitalidade torna a gosma ferozmente agressiva"
+            "Um espadão infestado por um slime resiliente e faminta por vida",
+            "Sua ânsia por vitalidade torna o slime ferozmente agressivo"
         ],
         "ability": [
             "Causa dano extra a inimigos com Sangramento",

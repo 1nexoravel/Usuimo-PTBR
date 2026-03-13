@@ -19,13 +19,13 @@
     ],
     "beIndependent": true,
     "subtitle": [
-      "\"Escrito pela RORO, iniciado em 2024/10/1\""
+      "\"Escrito pela RORO, iniciado em 01/10/2024\""
     ],
     "description": [
       "Começou como um diário casual escrito por um aventureiro chamado RORO ",
       "Com o passar do tempo, mais pessoas que acharam isso divertido se juntaram e contribuiram com anotações",
       "e, portanto, este guia curioso - cobrindo tudo de",
-      "‘Como entrar na dungeon’ até ‘O que comer de jantar’—nasceu"
+      "'Como entrar na dungeon’ até ‘O que comer de jantar’  — nasceu"
     ],
     "ability": [
       "Permite que você navegue pelo guia no jogo"
@@ -83,7 +83,7 @@
     "subtitle": "",
     "description": [
       "Just a coin worth 500 Yen",
-      "Se isso entrar no gacha… quem sabe— só quem sabe—",
+      "Se isso entrar no gacha… quem sabe — só quem sabe —",
       "venha um item lendário no sorteio…!"
     ],
     "ability": ""
@@ -1942,7 +1942,7 @@
   },
   "240": {
     "name": [
-      "Curry Rice"
+      "Arroz com Curry"
     ],
     "subtitle": [
       ""
@@ -1956,7 +1956,7 @@
   },
   "241": {
     "name": [
-      "Apple Pie"
+      "Torta de Maçã"
     ],
     "subtitle": [
       ""
@@ -1970,7 +1970,7 @@
   },
   "242": {
     "name": [
-      "Baked Apple"
+      "Maçã Assada"
     ],
     "subtitle": [
       ""
@@ -1984,7 +1984,7 @@
   },
   "243": {
     "name": [
-      "Stir Fried Shellfish"
+      "Frutos do Mar Salteados"
     ],
     "subtitle": [
       ""
@@ -1998,7 +1998,7 @@
   },
   "244": {
     "name": [
-      "Grilled Fish"
+      "Peixe Grelhado"
     ],
     "subtitle": [
       ""
@@ -2012,7 +2012,7 @@
   },
   "245": {
     "name": [
-      "Sautéed Mushrooms"
+      "Cogumelos Salteados"
     ],
     "subtitle": [
       ""
@@ -2026,7 +2026,7 @@
   },
   "246": {
     "name": [
-      "Grilled Meat Skewers"
+      "Espetinhos De Carne Grelhados"
     ],
     "subtitle": [
       ""
@@ -2040,7 +2040,7 @@
   },
   "247": {
     "name": [
-      "Onigiri"
+      "Oniguiri"
     ],
     "subtitle": [
       ""
@@ -2054,7 +2054,7 @@
   },
   "248": {
     "name": [
-      "Pork Cutlet Curry"
+      "Curry De Costeleta De Porco"
     ],
     "subtitle": [
       ""
@@ -2068,7 +2068,7 @@
   },
   "249": {
     "name": [
-      "Braised Pork Belly"
+      "Barriga De Porco Braseada"
     ],
     "subtitle": [
       ""
@@ -2082,7 +2082,7 @@
   },
   "250": {
     "name": [
-      "Sliced Meat Soup"
+      "Sopa De Carne Fatiada"
     ],
     "subtitle": [
       ""
@@ -2096,7 +2096,7 @@
   },
   "251": {
     "name": [
-      "Roast Beef"
+      "Rosbife"
     ],
     "subtitle": [
       ""
@@ -2110,7 +2110,7 @@
   },
   "252": {
     "name": [
-      "Pork Cutlet Onigiri"
+      "Onigiri De Costeleta De Porco"
     ],
     "subtitle": [
       ""
@@ -2124,7 +2124,7 @@
   },
   "253": {
     "name": [
-      "Slime Jelly"
+      "Geleia De Slime"
     ],
     "subtitle": [
       ""
@@ -2138,7 +2138,7 @@
   },
   "254": {
     "name": [
-      "Dark Jelly"
+      "Geleia Sombria"
     ],
     "subtitle": [
       ""
@@ -2152,7 +2152,7 @@
   },
   "255": {
     "name": [
-      "Blaze Jelly"
+      "Geleia De Blaze"
     ],
     "subtitle": [
       ""
@@ -2166,7 +2166,7 @@
   },
   "256": {
     "name": [
-      "Rainbow Jelly?"
+      "Geleia Arco-Íris?"
     ],
     "subtitle": [
       ""
@@ -2180,7 +2180,7 @@
   },
   "257": {
     "name": [
-      "Grilled Banana"
+      "Banana Grelhada"
     ],
     "subtitle": [
       ""
@@ -2208,7 +2208,7 @@
   },
   "259": {
     "name": [
-      "Grilled Octopus Skewers"
+      "Espetinhos De Polvo Grelhados"
     ],
     "subtitle": [
       ""
@@ -2222,7 +2222,7 @@
   },
   "260": {
     "name": [
-      "Vegetable Salad"
+      "Salada De Vegetais"
     ],
     "subtitle": [
       ""
@@ -2236,7 +2236,7 @@
   },
   "261": {
     "name": [
-      "Mashed Potatoes"
+      "Purê De Batatas"
     ],
     "subtitle": [
       ""
@@ -2250,7 +2250,7 @@
   },
   "262": {
     "name": [
-      "Radish and Mushroom Soup"
+      "Sopa de Rabanete e Cogumelo"
     ],
     "subtitle": [
       ""
@@ -2264,7 +2264,7 @@
   },
   "263": {
     "name": [
-      "Pasta"
+      "Macarrão"
     ],
     "subtitle": [
       ""
@@ -2278,7 +2278,7 @@
   },
   "264": {
     "name": [
-      "Tomato Pasta"
+      "Massa de Tomate"
     ],
     "subtitle": [
       ""
@@ -2292,7 +2292,7 @@
   },
   "265": {
     "name": [
-      "Seafood Pasta"
+      "Massa de Frutos do Mar"
     ],
     "subtitle": [
       ""
@@ -2306,7 +2306,7 @@
   },
   "266": {
     "name": [
-      "Egg Curry Rice"
+      "Arroz com Curry de Ovo"
     ],
     "subtitle": [
       ""
@@ -2334,7 +2334,7 @@
   },
   "268": {
     "name": [
-      "Tomato Omurice"
+      "Omurice de Tomate"
     ],
     "subtitle": [
       ""
@@ -2348,7 +2348,7 @@
   },
   "269": {
     "name": [
-      "Seafood Risotto"
+      "Risoto de Frutos do Mar"
     ],
     "subtitle": [
       ""
@@ -2362,7 +2362,7 @@
   },
   "270": {
     "name": [
-      "Pineapple Drink"
+      "Bebida de Abacaxi"
     ],
     "subtitle": [
       ""
@@ -2376,7 +2376,7 @@
   },
   "271": {
     "name": [
-      "Okinawa Stir-Fry"
+      "Refogado de Okinawa"
     ],
     "subtitle": [
       ""
@@ -2390,7 +2390,7 @@
   },
   "272": {
     "name": [
-      "Fried Chicken Bucket"
+      "Balde de Frango Frito"
     ],
     "subtitle": [
       ""
@@ -2404,7 +2404,7 @@
   },
   "273": {
     "name": [
-      "Fried Chicken Leg"
+      "Coxa de Frango Frita"
     ],
     "subtitle": [
       ""
@@ -2418,7 +2418,7 @@
   },
   "274": {
     "name": [
-      "Tempura Onigiri"
+      "Onigiri de Tempura"
     ],
     "subtitle": [
       ""
@@ -2432,7 +2432,7 @@
   },
   "275": {
     "name": [
-      "Baked Lobster"
+      "Lagosta Assada"
     ],
     "subtitle": [
       ""
@@ -2446,7 +2446,7 @@
   },
   "276": {
     "name": [
-      "Stewed Crab"
+      "Caranguejo Ensopado"
     ],
     "subtitle": [
       ""
@@ -2460,7 +2460,7 @@
   },
   "277": {
     "name": [
-      "Tuna Head"
+      "Cabeça de Atum"
     ],
     "subtitle": [
       ""
@@ -2488,7 +2488,7 @@
   },
   "279": {
     "name": [
-      "Hamburg Steak"
+      "Bife de Hamburgo"
     ],
     "subtitle": [
       ""
@@ -2502,7 +2502,7 @@
   },
   "280": {
     "name": [
-      "Spicy Mashed Potatoes"
+      "Purê de Batatas Picante"
     ],
     "subtitle": [
       ""
@@ -2516,7 +2516,7 @@
   },
   "281": {
     "name": [
-      "Chili Soup"
+      "Sopa de Chili"
     ],
     "subtitle": [
       ""
@@ -2530,7 +2530,7 @@
   },
   "282": {
     "name": [
-      "Sea Monster Gummies"
+      "Balas de Gelatina de Monstro Marinho"
     ],
     "subtitle": [
       ""
@@ -2544,7 +2544,7 @@
   },
   "283": {
     "name": [
-      "Sea Monster Shaved Ice"
+      "Raspadinha de Gelo de Monstro Marinho"
     ],
     "subtitle": [
       ""
@@ -2558,7 +2558,7 @@
   },
   "284": {
     "name": [
-      "Red Sea Monster Gummies"
+      "Balas de Gelatina de Monstro Marinho Vermelho"
     ],
     "subtitle": [
       ""
@@ -2572,7 +2572,7 @@
   },
   "285": {
     "name": [
-      "Pancake"
+      "Panqueca"
     ],
     "subtitle": [
       ""
@@ -2586,7 +2586,7 @@
   },
   "286": {
     "name": [
-      "Strawberry Pancake"
+      "Panqueca de Morango"
     ],
     "subtitle": [
       ""
@@ -2600,7 +2600,7 @@
   },
   "287": {
     "name": [
-      "Tomato Soup"
+      "Sopa de Tomate"
     ],
     "subtitle": [
       ""
@@ -2614,7 +2614,7 @@
   },
   "288": {
     "name": [
-      "Washed Strawberries"
+      "Morangos Lavados"
     ],
     "subtitle": [
       ""
@@ -2628,7 +2628,7 @@
   },
   "289": {
     "name": [
-      "Smoked Chicken Onigiri"
+      "Onigiri de Frango Defumado"
     ],
     "subtitle": [
       ""
@@ -2642,7 +2642,7 @@
   },
   "290": {
     "name": [
-      "Chicken Curry Rice"
+      "Arroz com Curry de Frango"
     ],
     "subtitle": [
       ""
@@ -2656,7 +2656,7 @@
   },
   "291": {
     "name": [
-      "Grilled Carrot Skewers"
+      "Espetinhos de Cenoura Grelhados"
     ],
     "subtitle": [
       ""
@@ -2670,7 +2670,7 @@
   },
   "292": {
     "name": [
-      "Sacabambaspis Sushi"
+      "Sushi de Sacabambaspis"
     ],
     "subtitle": [
       ""
@@ -2684,7 +2684,7 @@
   },
   "293": {
     "name": [
-      "Sacabambaspis Shrimp Sushi"
+      "Sushi de Camarão de Sacabambaspis"
     ],
     "subtitle": [
       ""
@@ -2698,7 +2698,7 @@
   },
   "294": {
     "name": [
-      "Sacabambaspis Meat Sushi"
+      "Sushi de Carne de Sacabambaspis"
     ],
     "subtitle": [
       ""
@@ -2712,7 +2712,7 @@
   },
   "295": {
     "name": [
-      "Lava Roast Duck"
+      "Pato Assado na Lava"
     ],
     "subtitle": [
       ""
@@ -2726,7 +2726,7 @@
   },
   "296": {
     "name": [
-      "Shark Onigiri"
+      "Onigiri de Tubarão"
     ],
     "subtitle": [
       ""
@@ -2740,7 +2740,7 @@
   },
   "298": {
     "name": [
-      "Hell Ramen"
+      "Ramen Infernal"
     ],
     "subtitle": [
       ""
@@ -2754,7 +2754,7 @@
   },
   "300": {
     "name": [
-      "Hot Cup Noodles"
+      "Macarrão Instantâneo Picante"
     ],
     "subtitle": [
       ""

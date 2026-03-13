@@ -46,11 +46,11 @@
             "description": [
             "Uma técnica de sacar a espada apreendida com o jovem Espadachim.",
             "Combinada com SenPo, você liberta um golpe com o encantamento da ",
-            "velocidade — suficiente para derrubar inimigos se bem sincronizada."
+            "rapidez — suficiente para derrubar inimigos se bem sincronizada."
             ],
             "ability": [
             "Clique esquerdo durante SenPo: Dano de corte aumenta com a velocidade",
-            "Clique direito durante  Senpo: Dano de Investida aumenta com momentum"
+            "Mantenha o botão direito pressionado durante o Senpo: Investe, efeitos escala com momentum"
             ],
             "mobileAbility": [
             "Toque o botão da habilidade para cortar, dano aumenta com a velocidade de movimento",
@@ -70,7 +70,7 @@
             "com técnicas de espadas, esse movimento é efetivo e fácil de aprender."
             ],
             "ability": [
-            "Segure o botão direito para ativar a habilidade",
+            "Mantenha pressionado o botão direito para ativar a habilidade",
             "largue o botão para lançar sua arma"
             ],
             "mobileAbility": [
@@ -83,7 +83,7 @@
             "Perverso Sortudo"
             ],
             "subtitle": [
-            "true"
+            "verdadeiro"
             ],
             "description": [
             "Uma lendária constituição pervertida que ativa por conta própria, ",
@@ -103,20 +103,20 @@
             ""
             ],
             "description": [
-            "Comummente chamado Often called ‘O Olho da Mente’, mas na verdade ",
-            "é um sentido aprimorado depois de incontáveis encontros com a morte.",
+            "Muitas vezes chamado de \"Olho da mente\", mas na verdade é um sentido ",
+            "afiado por incontáveis escapadas da morte.",
             "Em outras palavras, é mais um reflexo de trauma do que uma habilidade..."
             ],
             "ability": [
             "Passe o mouse sobre o alvo para ver suas informações detalhadas"
             ],
             "mobileAbility": [
-            "Pressione o alvo para ver suas informações detalhadas"
+            "Toque no alvo para ver informações detalhadas"
             ]
 	},
 	"10": {
             "name": [
-            "Ocultação da respiração"
+            "Supressão da Respiração"
             ],
             "subtitle": [
             "verdadeiro"
@@ -126,36 +126,36 @@
             "de alguma forma, eu peguei o jeito bem rápido."
             ],
             "ability": [
-            "Pressione Shift para inicar o stealth",
-            "Reduz o raio de detecção por monstros por \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] tile",
+            "Pressione Shift enquanto ativo para entrar no modo furtivo",
+            "Reduz o alcance de detecção do monstro em \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] bloco",
             "Reduz a razão de percepção da \\str[120] quando espiando por \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
             ]
 	},
 	"11": {
             "name": [
-            "Facada pelas Costas"
+            "Golpe pelas Costas"
             ],
             "subtitle": [
             "verdadeiro"
             ],
             "description": [
-            "Uma técnica ninja. Pode ser ativada quando estiver stealth",
+            "Uma técnica do ninja. Pode ser ativada quando estiver no modo furtivo",
             "Ataca um inimigo desavisado pelas costas causando um dano imenso!"
             ],
             "ability": [
-            "Proficiência da Skill: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
-            "Bonos de dado para Assassinato: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
+            "Proficiência de Habilidade: \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+            "Bônus de Dano de Assassinato: \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
             ]
 	},
 	"12": {
             "name": [
-            "Fluxo explosivo de Musou"
+            "Fluxo Explosivo de Musou"
             ],
             "subtitle": [
             ""
             ],
             "description": [
-            "Uma finalização secreta herdada de ASABA, que abraçou a tristeza ",
+            "Uma técnica de finalização herdada do ASABA, aquele que abraçou a tristeza",
             "em um instante rápido de mais para os olhos conseguirem ver, cem ",
             "golpes, deixando o inimigo com nada além da escuridão final!"
             ],
@@ -166,7 +166,7 @@
 	},
 	"15": {
             "name": [
-            "Roupas de Mulher"
+            "Travestindo"
             ],
             "subtitle": [
             ""
@@ -175,7 +175,7 @@
             "Você botou roupas que não foram feitas pra você… e algo dentro de você ",
             "se agitou. Sem bônus de combate, pode até mesmo mexer um pouco com a sua cabeça.",
             "Seus parceiros te olham estranhamente, e inimigos podem esperar… talvez.",
-            "Parece que, nesse mundo, fofura é justiça!"
+            "Afinal, neste mundo a fofura é justiça!"
             ],
             "ability": [
             "Aumenta o Pecado baseado em quantidades de roupas femininas equipadas!"
@@ -190,10 +190,10 @@
             ],
             "description": [
             "\"Não importa como você maneja suas armas!\" \"Nós nos levantaremos ao seu chamado!\"",
-            "\"Para evitar as lâminas a se desgastarem!\" \"Para proteger a dignidade das armas!\"",
+            "\"Para impedir que as lâminas se desgastem!\" \"Para proteger a dignidade dos armamentos!\"",
             "\"Pois nós acreditamos que as espadas são os mestres e os humanos os servos!\"",
             "\"Os que tem a fé mais absurda, porém inabalável!\"",
-            "\"Nós somos os Preservacionistas de armas - Os Guardiões de Lâminas!\""
+            "\"Nós somos — Preservadores de Armas — os guardiões das lâminas!\""
             ],
             "ability": [
             "Vestir o distintivo faz você um de nós agora"
@@ -209,8 +209,8 @@
             "description": [
             "Todas as armas tem seu limite de durabilidade, ",
             "e o usuário não sendo bom em ataques precisos.",
-            "Há um risco de elas quebrarem. Mas quando a arma quebrar —",
-            "ela vai desferir um poderoso ataque crítico!"
+            "há o risco de quebrá-las. Mas quando a arma quebra —",
+            "ela infligi um poderoso ataque crítico!"
             ],
             "ability": [
             "Aumento do dano final: \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
@@ -221,16 +221,16 @@
             "Treinamento de Espadachim"
             ],
             "subtitle": [
-            "true"
+            "verdadeiro"
             ],
             "description": [
             "Buscou conselhos de uma espadachim de como ficar mais forte",
-            "Tudo que ela disse foi ‘Apenas balance sua espada 1,000 vezes, todos os dias!’",
+            "Tudo que ela disse foi \"Basta dar 1.000 golpes de espada todos os dias!\"",
             "—Será que isso vai mesmo funcionar!? De qualquer forma, vamos tentar..."
             ],
             "ability": [
-            "Practice Swings Completed: \\{\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
-            "Base attack damage of melee weapons increased by \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
+            "Golpes de Treino Concluídos: {\\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}\\c[0]",
+            "Dano base de ataque de armas corpo a corpo aumentado em \\c[6]${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}%"
             ]
 	}
 }
