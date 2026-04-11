@@ -10,16 +10,16 @@ skillToggle =
 
 ## n1
 
-# @p=1|name @t=array
+# [n1] @p=1|name @t=array
 n1--name = Bolsa de Armazenamento Mágica
-# @p=1|subtitle @t=array
+# [n1] @p=1|subtitle @t=array
 n1--subtitle = { "" }
-# @p=1|description @t=array
+# [n1] @p=1|description @t=array
 n1--description =
     Uma ferramenta mágica portátil que lhe permite carregar⎵
     muito mais itens do que o normal. No entanto,⎵
     mesmo ferramentas mágicas têm seus limites de armazenamento..
-# @p=1|ability @t=array
+# [n1] @p=1|ability @t=array
 n1--ability =
     Capacidade de Armas: { "${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}" }
     Capacidade de Acessórios: { "${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}" }
