@@ -10,7 +10,9 @@ goldHeld = Ouro
 quantityHeld = \fs[16]•Quantidade Possuída:\c[17] {"${}"} \c[0]\py[-8]
 
 # @k=autoUpdate @t=array
-autoUpdate = Atualização disponível: Dados do jogo da versão {"${}"} detectados.⎵␞Gostaria de baixar e atualizar agora?
+autoUpdate =
+    Atualização disponível: Dados do jogo da versão {"${}"} detectados.⎵
+    Gostaria de baixar e atualizar agora?
 
 # @k=fullScreen @t=array
 fullScreen = Tela Cheia
@@ -49,19 +51,32 @@ LockedFPS = Travar a 60 FPS
 Language = Idioma do Jogo
 
 # @k=SwitchLanguage @t=array
-SwitchLanguage = Mudança de idioma do jogo detectado!␞Reiniciando agora para aplicar as novas configurações de idioma!
+SwitchLanguage =
+    Mudança de idioma do jogo detectado!
+    Reiniciando agora para aplicar as novas configurações de idioma!
 
 # @k=ErrorReport @t=array
-ErrorReport = Um erro ocorreu. Pedimos que relate o bug no servidor do Discord do NLCH.␞(Clique em "OK" para abrir o link de convite)␞(Anexe uma captura de tela do erro)
+ErrorReport =
+    Um erro ocorreu. Pedimos que relate o bug no servidor do Discord do NLCH.
+    (Clique em "OK" para abrir o link de convite)
+    (Anexe uma captura de tela do erro)
 
 # @k=UpdateComplete1 @t=array
-UpdateComplete1 = Atualização do jogo concluída!␞O jogo será reiniciado automaticamente após fechar esta janela.␞Você pode carregar o salvamento automático para continuar sua jornada!
+UpdateComplete1 =
+    Atualização do jogo concluída!
+    O jogo será reiniciado automaticamente após fechar esta janela.
+    Você pode carregar o salvamento automático para continuar sua jornada!
 
 # @k=UpdateComplete2 @t=array
-UpdateComplete2 = Atualização do jogo concluída!␞O jogo será reiniciado em breve para aplicar a atualização!
+UpdateComplete2 =
+    Atualização do jogo concluída!
+    O jogo será reiniciado em breve para aplicar a atualização!
 
 # @k=RemindToUpdate @t=array
-RemindToUpdate = Ocorreu um erro e o jogo está travado.␞Um patch mais recente está disponível—␞Por favor, use a atualização automática para corrigir o problema!
+RemindToUpdate =
+    Ocorreu um erro e o jogo está travado.
+    Um patch mais recente está disponível—
+    Por favor, use a atualização automática para corrigir o problema!
 
 # @k=bagFull @t=array
 bagFull = Limite de inventário excedido!
@@ -73,10 +88,15 @@ noStatusEffects = Sem efeitos de status!
 unimplementedDoor = Esta porta não vai abrir deste lado
 
 # @k=zipUpdateComplete @t=array
-zipUpdateComplete = Atualização instalada com sucesso.⎵␞Reiniciando o jogo para aplicar a atualização!
+zipUpdateComplete =
+    Atualização instalada com sucesso.⎵
+    Reiniciando o jogo para aplicar a atualização!
 
 # @k=zipUpdateFail @t=array
-zipUpdateFail = Erro ao extrair e instalar atualizações!␞Por favor, tente atualizar automaticamente novamente ou␞extraia manualmente os arquivos da atualização para instalar!
+zipUpdateFail =
+    Erro ao extrair e instalar atualizações!
+    Por favor, tente atualizar automaticamente novamente ou
+    extraia manualmente os arquivos da atualização para instalar!
 
 # @k=fileDownloadedSuccessfully @t=array
 fileDownloadedSuccessfully = {"${}"} baixado com sucesso!
@@ -94,10 +114,15 @@ totalFilesToUpdate = Foram detectados {"${}"} arquivo(s) para atualizar — come
 silentUpdateSuccess = Novo patch de conteúdo para {"${}"} foi instalado com sucesso e entrará em vigor na próxima reinicialização.
 
 # @k=outdatedVersionWarning @t=array
-outdatedVersionWarning = Sua atual versão do jogo está desatualizada. A versão mais recente é {"${}"}.␞Atualizações de versão principal não suportam atualizações automáticas.⎵␞Por favor, baixe o jogo novamente de uma fonte oficial.
+outdatedVersionWarning =
+    Sua atual versão do jogo está desatualizada. A versão mais recente é {"${}"}.
+    Atualizações de versão principal não suportam atualizações automáticas.⎵
+    Por favor, baixe o jogo novamente de uma fonte oficial.
 
 # @k=renameCharacter @t=array
-renameCharacter = Lembrei agora—␞ela é...
+renameCharacter =
+    Lembrei agora—
+    ela é...
 
 # @k=heroName @t=array
 heroName = Onii-chan
@@ -106,25 +131,48 @@ heroName = Onii-chan
 heroineName = Imouto
 
 # @k=nonHardwareAccelerated @t=array
-nonHardwareAccelerated = O jogo está sendo executado na placa gráfica integrada!␞Se o seu PC tiver uma GPU dedicada, recomendamos configurar o Game.exe⎵␞para usá-la no painel de controle gráfico para uma experiência de jogo mais fluida.
+nonHardwareAccelerated =
+    O jogo está sendo executado na placa gráfica integrada!
+    Se o seu PC tiver uma GPU dedicada, recomendamos configurar o Game.exe⎵
+    para usá-la no painel de controle gráfico para uma experiência de jogo mais fluida.
 
 # @k=isAmdCPU @t=array
-isAmdCPU = Seu CPU foi identificado como um processador AMD.␞Alguns processadores AMD podem ter queda de quadros ao reproduzir vídeos VP9 (WebM)⎵␞em um ambiente Chromium. Se você encontrar esse problema, tente forçar o jogo␞a usar renderização via GPU ou atualize seus drivers para ajudar a amenizar a situação.
+isAmdCPU =
+    Seu CPU foi identificado como um processador AMD.
+    Alguns processadores AMD podem ter queda de quadros ao reproduzir vídeos VP9 (WebM)⎵
+    em um ambiente Chromium. Se você encontrar esse problema, tente forçar o jogo
+    a usar renderização via GPU ou atualize seus drivers para ajudar a amenizar a situação.
 
 # @k=failedToLoad @t=array
-failedToLoad = Este tipo de problema pode ser causado por:␞① Arquivos do jogo corrompidos ou nomes de arquivos ilegíveis devido a problemas de codificação durante a extração/instalação.␞② O desenvolvedor esqueceu de incluir o arquivo — aguarde uma atualização/patch para corrigir o problema.
+failedToLoad =
+    Este tipo de problema pode ser causado por:
+    ① Arquivos do jogo corrompidos ou nomes de arquivos ilegíveis devido a problemas de codificação durante a extração/instalação.
+    ② O desenvolvedor esqueceu de incluir o arquivo — aguarde uma atualização/patch para corrigir o problema.
 
 # @k=LowResMode @t=array
 LowResMode = Modo Gráfico Baixo
 
 # @k=lowResModeWarning @t=array
-lowResModeWarning = Essa função melhora o desempenho em dispositivos Android, essa função deve ter pouco ou nenhum efeito na versão de PC.␞Quando ativada, o jogo renderiza mapas e imagens em uma resolução mais baixa e então faz o upscaling,⎵␞reduzindo a carga da GPU em dispositivos móveis, baixando a temperatura e consumo de bateria.␞Nota: Essa é uma função experimental e sua eficiência pode variar dependendo do dispositivo.␞Você pode desabilitar essa função a qualquer momento para restaurar imediatamente a resolução da imagem.
+lowResModeWarning =
+    Essa função melhora o desempenho em dispositivos Android, essa função deve ter pouco ou nenhum efeito na versão de PC.
+    Quando ativada, o jogo renderiza mapas e imagens em uma resolução mais baixa e então faz o upscaling,⎵
+    reduzindo a carga da GPU em dispositivos móveis, baixando a temperatura e consumo de bateria.
+    Nota: Essa é uma função experimental e sua eficiência pode variar dependendo do dispositivo.
+    Você pode desabilitar essa função a qualquer momento para restaurar imediatamente a resolução da imagem.
 
 # @k=cloudSaveServiceWarning @t=array
-cloudSaveServiceWarning = Como o banco de dados de save da nuvem ainda está em construção,␞este recurso temporariamente solicitará acesso ao seu Google Drive␞para poder armazenar os arquivos de salvamento do jogo na pasta NLCH/save.␞Arquivos de save enviados serão usados somente para futura sincronização e⎵␞restaurá-los de volta ao jogo e não serão usados para quaisquer outros fins.␞Você concorda em conceder ao jogo acesso ao Google Drive?
+cloudSaveServiceWarning =
+    Como o banco de dados de save da nuvem ainda está em construção,
+    este recurso temporariamente solicitará acesso ao seu Google Drive
+    para poder armazenar os arquivos de salvamento do jogo na pasta NLCH/save.
+    Arquivos de save enviados serão usados somente para futura sincronização e⎵
+    restaurá-los de volta ao jogo e não serão usados para quaisquer outros fins.
+    Você concorda em conceder ao jogo acesso ao Google Drive?
 
 # @k=uploadSaveFile @t=array
-uploadSaveFile = Baixar um arquivo de salvamento do Google Drive substituirá os dados de salvamento locais atuais!␞Você deseja continuar?
+uploadSaveFile =
+    Baixar um arquivo de salvamento do Google Drive substituirá os dados de salvamento locais atuais!
+    Você deseja continuar?
 
 # @k=nearbyMonstersCount @t=array
 nearbyMonstersCount = Monstro detectado nas proximidades
@@ -136,11 +184,25 @@ nearbyTreasuresCount = Tesouro detectado nas proximidades
 underwaterTreasuresCount = Tesouro submerso detectado nas proximidades
 
 # @k=steamWishlist @t=array
-steamWishlist = Nossa página na loja da Steam finalmente está ativa!␞Por favor, adicione-nos a sua lista de desejos e apoie-nos! (*´∀`)~♥␞⬇Clique abaixo para abrir a página da Steam.
+steamWishlist =
+    Nossa página na loja da Steam finalmente está ativa!
+    Por favor, adicione-nos a sua lista de desejos e apoie-nos! (*´∀`)~♥
+    ⬇Clique abaixo para abrir a página da Steam.
 
 # @k=memberMenu @t=object @f=firstTimeNotice=array shortHint=str waitingLogin=str notLoggedIn=str RequestingLogin=str openingWindow=str cloudSave=str logInFirst=str CheckUpdates=str Subscribed=str subscribedAndItchUser=str NotSubscribed=str lastCheck=str checkLatestVersion=str isLatestVersion=str notSponsor=str ImoutoFavorite=str itchUser=str nonItchUser=str itchVerifyNotice=str itchVerifyAlert=str majorUpdateFailed=array
 memberMenu = {""}
-    .firstTimeNotice = Esta funcionalidade de verificação de propriedade está atualmente em fase experimental.␞Você pode entrar com o Patreon aqui,⎵␞ou vincular sua conta do Itch para verificação de propriedade.␞Se você tiver uma assinatura ativa␞ou já possuir o jogo no Itch,␞poderá usar recursos como atualização automática de grandes atualizações.␞{""}␞Observação:␞No momento, a verificação está disponível apenas para jogadores⎵␞que compraram o jogo no Itch ou no Patreon,⎵␞ou para jogadores com uma assinatura paga no Patreon.
+    .firstTimeNotice =
+        Esta funcionalidade de verificação de propriedade está atualmente em fase experimental.
+        Você pode entrar com o Patreon aqui,⎵
+        ou vincular sua conta do Itch para verificação de propriedade.
+        Se você tiver uma assinatura ativa
+        ou já possuir o jogo no Itch,
+        poderá usar recursos como atualização automática de grandes atualizações.
+        
+        Observação:
+        No momento, a verificação está disponível apenas para jogadores⎵
+        que compraram o jogo no Itch ou no Patreon,⎵
+        ou para jogadores com uma assinatura paga no Patreon.
     .shortHint = ⎵Agora é possível ativar salvamentos na nuvem e grandes atualizações
     .waitingLogin = Aguardando a conclusão do login...
     .notLoggedIn = Não está logado
@@ -161,7 +223,11 @@ memberMenu = {""}
     .nonItchUser = Este jogo não foi encontrado na sua biblioteca do Itch!
     .itchVerifyNotice = Você pode verificar a propriedade da versão do Itch aqui
     .itchVerifyAlert = Por favor, faça login antes de verificar a versão do Itch!
-    .majorUpdateFailed = Falha na atualização da versão principal!␞Código de erro: {"${}"}␞Tente fazer o login para verificação e iniciar a atualização novamente,␞ou envie esta print em nosso servidor do Discord para assistência!
+    .majorUpdateFailed =
+        Falha na atualização da versão principal!
+        Código de erro: {"${}"}
+        Tente fazer o login para verificação e iniciar a atualização novamente,
+        ou envie esta print em nosso servidor do Discord para assistência!
 
 # @k=AdventurersPathway @t=object @f=mapName=str
 AdventurersPathway = {""}

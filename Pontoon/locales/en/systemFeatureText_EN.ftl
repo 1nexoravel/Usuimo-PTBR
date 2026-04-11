@@ -10,7 +10,9 @@ goldHeld = Gold
 quantityHeld = \fs[16]•Quantity Held:\c[17] {"${}"} \c[0]\py[-8]
 
 # @k=autoUpdate @t=array
-autoUpdate = Update available: Version {"${}"} game data detected.⎵␞Would you like to download and update now?
+autoUpdate =
+    Update available: Version {"${}"} game data detected.⎵
+    Would you like to download and update now?
 
 # @k=fullScreen @t=array
 fullScreen = Full Screen
@@ -49,19 +51,32 @@ LockedFPS = Locked 60 FPS
 Language = Game Language
 
 # @k=SwitchLanguage @t=array
-SwitchLanguage = Game language change detected!␞Restarting now to apply the new language settings!
+SwitchLanguage =
+    Game language change detected!
+    Restarting now to apply the new language settings!
 
 # @k=ErrorReport @t=array
-ErrorReport = An error occurred. Please report the bug on the NLCH Discord server.␞(Click 'OK' to open the invite link)␞(Attach a screenshot of the error)
+ErrorReport =
+    An error occurred. Please report the bug on the NLCH Discord server.
+    (Click 'OK' to open the invite link)
+    (Attach a screenshot of the error)
 
 # @k=UpdateComplete1 @t=array
-UpdateComplete1 = Game update completed!␞The game will restart automatically after closing this window.␞You can load the auto-save to resume progress!
+UpdateComplete1 =
+    Game update completed!
+    The game will restart automatically after closing this window.
+    You can load the auto-save to resume progress!
 
 # @k=UpdateComplete2 @t=array
-UpdateComplete2 = Game update completed!␞The game will restart shortly to apply the update!
+UpdateComplete2 =
+    Game update completed!
+    The game will restart shortly to apply the update!
 
 # @k=RemindToUpdate @t=array
-RemindToUpdate = An error has occurred and the game is frozen.␞A newer patch is available—␞Please use auto-update to fix the issue!
+RemindToUpdate =
+    An error has occurred and the game is frozen.
+    A newer patch is available—
+    Please use auto-update to fix the issue!
 
 # @k=bagFull @t=array
 bagFull = Inventory limit exceeded!!
@@ -73,10 +88,15 @@ noStatusEffects = No status effects at all!
 unimplementedDoor = This door won't push open from this side
 
 # @k=zipUpdateComplete @t=array
-zipUpdateComplete = Patch installed successfully.⎵␞Restarting the game to apply the update!
+zipUpdateComplete =
+    Patch installed successfully.⎵
+    Restarting the game to apply the update!
 
 # @k=zipUpdateFail @t=array
-zipUpdateFail = Failed to extract and install the patch!␞Please try the auto-update again or␞manually extract the patch files to install!
+zipUpdateFail =
+    Failed to extract and install the patch!
+    Please try the auto-update again or
+    manually extract the patch files to install!
 
 # @k=fileDownloadedSuccessfully @t=array
 fileDownloadedSuccessfully = {"${}"} downloaded successfully!
@@ -94,10 +114,15 @@ totalFilesToUpdate = Detected {"${}"} file(s) to update—starting download proc
 silentUpdateSuccess = New patch content for {"${}"} has been successfully installed and will take effect upon the next restart.
 
 # @k=outdatedVersionWarning @t=array
-outdatedVersionWarning = Your current game version is outdated. The latest version is {"${}"}.␞Major version updates do not support automatic updates.⎵␞Please re-download the game from the official source.
+outdatedVersionWarning =
+    Your current game version is outdated. The latest version is {"${}"}.
+    Major version updates do not support automatic updates.⎵
+    Please re-download the game from the official source.
 
 # @k=renameCharacter @t=array
-renameCharacter = I remember now—␞she is...
+renameCharacter =
+    I remember now—
+    she is...
 
 # @k=heroName @t=array
 heroName = Onii-chan
@@ -106,25 +131,48 @@ heroName = Onii-chan
 heroineName = Imouto
 
 # @k=nonHardwareAccelerated @t=array
-nonHardwareAccelerated = The game is currently running on integrated graphics!␞If your PC has a dedicated GPU, we recommend setting Game.exe⎵␞to use it in your graphics control panel for a smoother gaming experience.
+nonHardwareAccelerated =
+    The game is currently running on integrated graphics!
+    If your PC has a dedicated GPU, we recommend setting Game.exe⎵
+    to use it in your graphics control panel for a smoother gaming experience.
 
 # @k=isAmdCPU @t=array
-isAmdCPU = Your CPU is detected as an AMD processor.␞Some AMD chips may experience frame drops when playing VP9 (WebM) videos⎵␞in a Chromium environment. If you encounter this issue, try forcing the game to␞use GPU rendering or update your drivers to help alleviate the problem.
+isAmdCPU =
+    Your CPU is detected as an AMD processor.
+    Some AMD chips may experience frame drops when playing VP9 (WebM) videos⎵
+    in a Chromium environment. If you encounter this issue, try forcing the game to
+    use GPU rendering or update your drivers to help alleviate the problem.
 
 # @k=failedToLoad @t=array
-failedToLoad = This kind of issue may be caused by:␞① Game files corrupted or filenames garbled due to encoding issues during extraction/installation.␞② The developer forgetting to include the file—please wait for a patch update to fix it.
+failedToLoad =
+    This kind of issue may be caused by:
+    ① Game files corrupted or filenames garbled due to encoding issues during extraction/installation.
+    ② The developer forgetting to include the file—please wait for a patch update to fix it.
 
 # @k=LowResMode @t=array
 LowResMode = Low Graphics Mode
 
 # @k=lowResModeWarning @t=array
-lowResModeWarning = This feature is mainly for performance optimization on Android devices and may have little effect on the PC version.␞When enabled, the game renders maps and images at a lower resolution and then scales them up,⎵␞reducing GPU load on mobile devices and lowering heat generation and power consumption.␞Note: This is an experimental feature, and its effectiveness may vary depending on the device.␞You can disable this feature at any time to immediately restore full image clarity.
+lowResModeWarning =
+    This feature is mainly for performance optimization on Android devices and may have little effect on the PC version.
+    When enabled, the game renders maps and images at a lower resolution and then scales them up,⎵
+    reducing GPU load on mobile devices and lowering heat generation and power consumption.
+    Note: This is an experimental feature, and its effectiveness may vary depending on the device.
+    You can disable this feature at any time to immediately restore full image clarity.
 
 # @k=cloudSaveServiceWarning @t=array
-cloudSaveServiceWarning = As the cloud save database is still under construction,␞this feature will temporarily request access to your Google Drive␞in order to store game save files in the NLCH/save folder.␞Uploaded save files will only be used for future synchronization and⎵␞downloading back into the game, and will not be used for any other purposes.␞Do you agree to grant the game permission to access your Google Drive?
+cloudSaveServiceWarning =
+    As the cloud save database is still under construction,
+    this feature will temporarily request access to your Google Drive
+    in order to store game save files in the NLCH/save folder.
+    Uploaded save files will only be used for future synchronization and⎵
+    downloading back into the game, and will not be used for any other purposes.
+    Do you agree to grant the game permission to access your Google Drive?
 
 # @k=uploadSaveFile @t=array
-uploadSaveFile = Downloading a save file from Google Drive will overwrite your current local save data!␞Do you want to continue?
+uploadSaveFile =
+    Downloading a save file from Google Drive will overwrite your current local save data!
+    Do you want to continue?
 
 # @k=nearbyMonstersCount @t=array
 nearbyMonstersCount = Detected nearby monsters
@@ -136,11 +184,25 @@ nearbyTreasuresCount = Detected nearby treasures
 underwaterTreasuresCount = Detected underwater treasures
 
 # @k=steamWishlist @t=array
-steamWishlist = Our Steam store page is finally live!␞Please add us to your wishlist and support us! (*´∀`)~♥␞⬇Click below to open the Steam page.
+steamWishlist =
+    Our Steam store page is finally live!
+    Please add us to your wishlist and support us! (*´∀`)~♥
+    ⬇Click below to open the Steam page.
 
 # @k=memberMenu @t=object @f=firstTimeNotice=array shortHint=str waitingLogin=str notLoggedIn=str RequestingLogin=str openingWindow=str cloudSave=str logInFirst=str CheckUpdates=str Subscribed=str subscribedAndItchUser=str NotSubscribed=str lastCheck=str checkLatestVersion=str isLatestVersion=str notSponsor=str ImoutoFavorite=str itchUser=str nonItchUser=str itchVerifyNotice=str itchVerifyAlert=str majorUpdateFailed=array
 memberMenu = {""}
-    .firstTimeNotice = This ownership verification feature is currently experimental.␞You can sign in with Patreon here,⎵␞or link your Itch account for ownership verification.␞If you have an active subscription,⎵␞or already own the game on Itch,␞you can use features such as major update auto-patching.␞{""}␞Please note:␞At this time, verification is only available for players⎵␞who bought the game on Itch or Patreon,⎵␞or players with a paid Patreon subscription.
+    .firstTimeNotice =
+        This ownership verification feature is currently experimental.
+        You can sign in with Patreon here,⎵
+        or link your Itch account for ownership verification.
+        If you have an active subscription,⎵
+        or already own the game on Itch,
+        you can use features such as major update auto-patching.
+        
+        Please note:
+        At this time, verification is only available for players⎵
+        who bought the game on Itch or Patreon,⎵
+        or players with a paid Patreon subscription.
     .shortHint = ⎵Can now enable cloud saves & major updates
     .waitingLogin = Waiting for login completion...
     .notLoggedIn = Not Logged In
@@ -161,7 +223,11 @@ memberMenu = {""}
     .nonItchUser = This game was not found in your Itch library!
     .itchVerifyNotice = You can verify ownership of the Itch version here
     .itchVerifyAlert = Please log in before checking the Itch version!
-    .majorUpdateFailed = Major version update failed!␞Error code: {"${}"}␞Please try logging in for verification and start the update again,␞or send this screenshot to our Discord server for assistance!
+    .majorUpdateFailed =
+        Major version update failed!
+        Error code: {"${}"}
+        Please try logging in for verification and start the update again,
+        or send this screenshot to our Discord server for assistance!
 
 # @k=AdventurersPathway @t=object @f=mapName=str
 AdventurersPathway = {""}
