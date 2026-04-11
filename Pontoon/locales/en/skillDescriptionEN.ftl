@@ -162,7 +162,7 @@ n12--description =
 
 # @p=12|ability @t=array
 n12--ability =
-    Skill command:  {"{"}⬆⬇⬅⮕⬆⬇{"}"}
+    Skill command:  \{"{"}⬆⬇⬅⮕⬆⬇\{"}"}
     Each use of the skill consumes some HP
 
 # @p=15|name @t=array
@@ -228,5 +228,5 @@ n26--description =
 
 # @p=26|ability @t=array
 n26--ability =
-    Practice Swings Completed: {"{"}\c[6]{"${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}"}\c[0]
+    Practice Swings Completed: \{"{"}\c[6]{"${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}"}\c[0]
     Base attack damage of melee weapons increased by \c[6]{"${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}"}%
