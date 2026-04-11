@@ -7,19 +7,19 @@ skillToggle =
     Inactive
 
 ## n1
-# @p=1|name @t=array
+# [n1] @p=1|name @t=array
 n1--name = Magic Storage Bag
 
-# @p=1|subtitle @t=array
+# [n1] @p=1|subtitle @t=array
 n1--subtitle = {""}
 
-# @p=1|description @t=array
+# [n1] @p=1|description @t=array
 n1--description =
     A portable magical tool that allows you to carry⎵
     far more items than usual. However,⎵
     even magical tools have their storage limits..
 
-# @p=1|ability @t=array
+# [n1] @p=1|ability @t=array
 n1--ability =
     Weapon capacity: {"${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}"}
     Gear capacity: {"${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"}
