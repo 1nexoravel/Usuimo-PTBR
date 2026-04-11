@@ -183,7 +183,9 @@ n12--description =
     with a cat’s spirit. Equipping them boosts your agility!
 
 # @p=12|ability @t=array
-n12--ability = Increases attack power and attack speed
+n12--ability =
+    Increases attack power and attack speed
+    Reduces fall damage by 30%
 
 ## n13
 # @p=13|name @t=array
@@ -198,7 +200,9 @@ n13--description =
     with a cat’s spirit. Equipping them boosts your agility!
 
 # @p=13|ability @t=array
-n13--ability = Increases attack and movement speed, reduces Senpo cooldown
+n13--ability =
+    Increases attack and movement speed, reduces Senpo cooldown
+    Reduces fall damage by 30%
 
 ## n14
 # @p=14|name @t=array
@@ -215,7 +219,7 @@ n14--description =
 # @p=14|ability @t=array
 n14--ability =
     Max HP +\c[29]{"${QJ.MPMZ.tl.ex_fragrantGrassRingEffectResolve()}"}\c[0]
-    Wearing multiple of this gear enhances its effect
+    Equip multiple copies to enhance the effect and gain additional bonuses
 
 ## n15
 # @p=15|name @t=array
@@ -834,7 +838,9 @@ n53--description =
     it still grants the wearer a bit of freedom from gravity
 
 # @p=53|ability @t=array
-n53--ability = Reduces fall damage by 66%
+n53--ability =
+    Reduces fall damage by 80%
+    AoE damage from falling increased by 100%
 
 ## n54
 # @p=54|name @t=array
@@ -899,9 +905,7 @@ n57--description =
     burned by fate’s emotions, you too inherit this forbidden technique!⎵
 
 # @p=57|ability @t=array
-n57--ability =
-    Unleash a special move with the right command⎵
-    The lower your HP, the stronger the special move
+n57--ability = Unlock and allow the use of Skill \c[27]Musou Burst Stream
 
 ## n59
 # @p=59|name @t=array
@@ -1067,6 +1071,23 @@ n70--description =
 n70--ability =
     Prevents all forms of HP recovery while equipped
     At 0 HP, you remain active a bit longer before falling
+
+## n71
+# @p=71|name @t=array
+n71--name = Permafrost Crystal
+
+# @p=71|subtitle @t=array
+n71--subtitle = "My heart has gone cold... I guess I'll never feel joy or sorrow ever again..."
+
+# @p=71|description @t=array
+n71--description =
+    A magical crystal that emits a bone-chilling frost
+    Even in the sweltering heat, one can still feel its freezing breath
+
+# @p=71|ability @t=array
+n71--ability =
+    Immune to Burning and Heatstroke states
+    Increases shatter damage dealt when breaking an enemy's Frozen state
 
 ## n73
 # @p=73|name @t=array
