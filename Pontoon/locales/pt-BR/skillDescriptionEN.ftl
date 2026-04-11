@@ -4,189 +4,143 @@
 skillToggle =
     Ativada
     Desativada
-
 # @p=1|name @t=array
 n1--name = Bolsa de Armazenamento Mágica
-
 # @p=1|subtitle @t=array
-n1--subtitle = {""}
-
+n1--subtitle = { "" }
 # @p=1|description @t=array
 n1--description =
     Uma ferramenta mágica portátil que lhe permite carregar⎵
     muito mais itens do que o normal. No entanto,⎵
     mesmo ferramentas mágicas têm seus limites de armazenamento..
-
 # @p=1|ability @t=array
 n1--ability =
-    Capacidade de Armas: {"${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}"}
-    Capacidade de Acessórios: {"${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"}
-
+    Capacidade de Armas: { "${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}" }
+    Capacidade de Acessórios: { "${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}" }
 # @p=2|name @t=array
 n2--name = Senpo
-
 # @p=2|subtitle @t=array
-n2--subtitle = {""}
-
+n2--subtitle = { "" }
 # @p=2|description @t=array
 n2--description =
     Um passo rápido no chão cobre uma curta distância,
     permitindo que você esquive de alguns ataques. É apenas uma técnica de movimento⎵
     inicial, mas o usuário insiste em dar um nome maneiro
-
 # @p=2|ability @t=array
 n2--ability = Segure a Barra de Espaço para ativar
-
 # @p=3|name @t=array
 n3--name = Senpo Tachi
-
 # @p=3|subtitle @t=array
-n3--subtitle = {""}
-
+n3--subtitle = { "" }
 # @p=3|description @t=array
 n3--description =
     Uma técnica de sacar a espada apreendida com o jovem Espadachim.
     Combinada com SenPo, você liberta um golpe com o encantamento da⎵
     rapidez — suficiente para derrubar inimigos se bem sincronizada.
-
 # @p=3|ability @t=array
 n3--ability =
     Clique esquerdo durante SenPo: Dano de corte aumenta com a velocidade
     Mantenha o botão direito pressionado durante o Senpo: Investe, efeitos escala com momentum
-
 # @p=3|mobileAbility @t=array
 n3--mobileAbility =
     Toque o botão da habilidade para cortar, dano aumenta com a velocidade de movimento
     Segure o botão da habilidade para uma Investida, efeito aumento com o momentum
-
 # @p=4|name @t=array
 n4--name = Golpe Redemoinho
-
 # @p=4|subtitle @t=array
-n4--subtitle = {""}
-
+n4--subtitle = { "" }
 # @p=4|description @t=array
 n4--description =
     Girando enquanto empunha a sua arma para atacar continuamente.⎵
     A velocidade aumenta com o tempo. Para aqueles que não são bons ⎵
     com técnicas de espadas, esse movimento é efetivo e fácil de aprender.
-
 # @p=4|ability @t=array
 n4--ability =
     Mantenha pressionado o botão direito para ativar a habilidade
     largue o botão para lançar sua arma
-
 # @p=4|mobileAbility @t=array
 n4--mobileAbility =
     Segure o botão da habilidade para iniciar o ataque
     Largue o botão durante o giro para lançar a sua arma
-
 # @p=6|name @t=array
 n6--name = Perverso Sortudo
-
 # @p=6|subtitle @t=array
 n6--subtitle = verdadeiro
-
 # @p=6|description @t=array
 n6--description =
     Uma lendária constituição pervertida que ativa por conta própria,⎵
     mesmo sem que o usuário repare.
     Como se abençoado e guiado por uma deusa invisível, forças irresistíveis⎵
     te induzindo para cenários que aceleram o coração de fanservice…!
-
 # @p=6|ability @t=array
 n6--ability = Sempre cria as oportunidades perfeitas para acionar eventos pervertidos!
-
 # @p=7|name @t=array
 n7--name = Senso de Perigo
-
 # @p=7|subtitle @t=array
-n7--subtitle = {""}
-
+n7--subtitle = { "" }
 # @p=7|description @t=array
 n7--description =
     Muitas vezes chamado de "Olho da mente", mas na verdade é um sentido⎵
     afiado por incontáveis escapadas da morte.
     Em outras palavras, é mais um reflexo de trauma do que uma habilidade...
-
 # @p=7|ability @t=array
 n7--ability = Passe o mouse sobre o alvo para ver suas informações detalhadas
-
 # @p=7|mobileAbility @t=array
 n7--mobileAbility = Toque no alvo para ver informações detalhadas
-
 # @p=10|name @t=array
 n10--name = Supressão da Respiração
-
 # @p=10|subtitle @t=array
 n10--subtitle = verdadeiro
-
 # @p=10|description @t=array
 n10--description =
     Uma técnica ninja. Eu acabei aprendendo de forma apressada, mas…
     de alguma forma, eu peguei o jeito bem rápido.
-
 # @p=10|ability @t=array
 n10--ability =
     Pressione Shift enquanto ativo para entrar no modo furtivo
-    Reduz o alcance de detecção do monstro em \c[17]{"${1+$gameParty.leader().skillMasteryLevel(10)}"}\c[108] bloco
-    Reduz a razão de percepção da \str[120] quando espiando por \c[17]{"${15+15*$gameParty.leader().skillMasteryLevel(10)}"}%\c[0]
-
+    Reduz o alcance de detecção do monstro em \c[17]{ "${1+$gameParty.leader().skillMasteryLevel(10)}" }\c[108] bloco
+    Reduz a razão de percepção da \str[120] quando espiando por \c[17]{ "${15+15*$gameParty.leader().skillMasteryLevel(10)}" }%\c[0]
 # @p=11|name @t=array
 n11--name = Golpe pelas Costas
-
 # @p=11|subtitle @t=array
 n11--subtitle = verdadeiro
-
 # @p=11|description @t=array
 n11--description =
     Uma técnica do ninja. Pode ser ativada quando estiver no modo furtivo
     Ataca um inimigo desavisado pelas costas causando um dano imenso!
-
 # @p=11|ability @t=array
 n11--ability =
-    Proficiência de Habilidade: \c[6]{"${$gameActors.actor(1).skillMasteryUses(11)}"}\c[0]
-    Bônus de Dano de Assassinato: \c[17]{"${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}"}%\c[0]
-
+    Proficiência de Habilidade: \c[6]{ "${$gameActors.actor(1).skillMasteryUses(11)}" }\c[0]
+    Bônus de Dano de Assassinato: \c[17]{ "${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}" }%\c[0]
 # @p=12|name @t=array
 n12--name = Fluxo Explosivo de Musou
-
 # @p=12|subtitle @t=array
-n12--subtitle = {""}
-
+n12--subtitle = { "" }
 # @p=12|description @t=array
 n12--description =
     Uma técnica de finalização herdada do ASABA, aquele que abraçou a tristeza
     em um instante rápido de mais para os olhos conseguirem ver, cem⎵
     golpes, deixando o inimigo com nada além da escuridão final!
-
 # @p=12|ability @t=array
 n12--ability =
-    Comando da habilidade:  \{"{"}⬆⬇⬅⮕⬆⬇\{"}"}
+    Comando da habilidade:  \{ "{" }⬆⬇⬅⮕⬆⬇\{ "}" }
     Cada uso da habilidade consome algum PV
-
 # @p=15|name @t=array
 n15--name = Travestindo
-
 # @p=15|subtitle @t=array
-n15--subtitle = {""}
-
+n15--subtitle = { "" }
 # @p=15|description @t=array
 n15--description =
     Você botou roupas que não foram feitas pra você… e algo dentro de você⎵
     se agitou. Sem bônus de combate, pode até mesmo mexer um pouco com a sua cabeça.
     Seus parceiros te olham estranhamente, e inimigos podem esperar… talvez.
     Afinal, neste mundo a fofura é justiça!
-
 # @p=15|ability @t=array
 n15--ability = Aumenta o Pecado baseado em quantidades de roupas femininas equipadas!
-
 # @p=16|name @t=array
 n16--name = Guardiões de Lâminas
-
 # @p=16|subtitle @t=array
-n16--subtitle = {""}
-
+n16--subtitle = { "" }
 # @p=16|description @t=array
 n16--description =
     "Não importa como você maneja suas armas!" "Nós nos levantaremos ao seu chamado!"
@@ -194,39 +148,30 @@ n16--description =
     "Pois nós acreditamos que as espadas são os mestres e os humanos os servos!"
     "Os que tem a fé mais absurda, porém inabalável!"
     "Nós somos — Preservadores de Armas — os guardiões das lâminas!"
-
 # @p=16|ability @t=array
 n16--ability = Vestir o distintivo faz você um de nós agora
-
 # @p=18|name @t=array
 n18--name = Quebra de Armas
-
 # @p=18|subtitle @t=array
-n18--subtitle = {""}
-
+n18--subtitle = { "" }
 # @p=18|description @t=array
 n18--description =
     Todas as armas tem seu limite de durabilidade,⎵
     e o usuário não sendo bom em ataques precisos.
     há o risco de quebrá-las. Mas quando a arma quebra —
     ela infligi um poderoso ataque crítico!
-
 # @p=18|ability @t=array
-n18--ability = Aumento do dano final: \c[6]{"${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}"}%\c[0]
-
+n18--ability = Aumento do dano final: \c[6]{ "${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}" }%\c[0]
 # @p=26|name @t=array
 n26--name = Treinamento de Espadachim
-
 # @p=26|subtitle @t=array
 n26--subtitle = verdadeiro
-
 # @p=26|description @t=array
 n26--description =
     Buscou conselhos de uma espadachim de como ficar mais forte
     Tudo que ela disse foi "Basta dar 1.000 golpes de espada todos os dias!"
     —Será que isso vai mesmo funcionar!? De qualquer forma, vamos tentar...
-
 # @p=26|ability @t=array
 n26--ability =
-    Golpes de Treino Concluídos: {"{"}\c[6]{"${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}"}\c[0]
-    Dano base de ataque de armas corpo a corpo aumentado em \c[6]{"${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}"}%
+    Golpes de Treino Concluídos: { "{" }\c[6]{ "${QJ.MPMZ.tl.playerSwordsmanshipTraining(1)}" }\c[0]
+    Dano base de ataque de armas corpo a corpo aumentado em \c[6]{ "${QJ.MPMZ.tl.playerSwordsmanshipTraining(2)}" }%
