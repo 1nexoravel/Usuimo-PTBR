@@ -8,3 +8,7 @@ locales = [
 [[paths]]
 reference = "locales/en/*.json"
 l10n = "locales/{locale}/*.json"
+
+[[paths]]
+reference = "locales/en/*.ftl"
+l10n = "locales/{locale}/*.ftl"
