@@ -7,19 +7,19 @@ skillToggle =
     Inactive
 
 ## n1
-# [n1] @p=1|name @t=array
+# @p=1|name @t=array
 n1--name = Magic Storage Bag
 
-# [n1] @p=1|subtitle @t=array
+# @p=1|subtitle @t=array
 n1--subtitle = {""}
 
-# [n1] @p=1|description @t=array
+# @p=1|description @t=array
 n1--description =
     A portable magical tool that allows you to carry⎵
     far more items than usual. However,⎵
     even magical tools have their storage limits..
 
-# [n1] @p=1|ability @t=array
+# @p=1|ability @t=array
 n1--ability =
     Weapon capacity: {"${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}"}
     Gear capacity: {"${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"}
@@ -121,6 +121,22 @@ n7--ability = Hover the mouse over the target to view detailed info
 
 # @p=7|mobileAbility @t=array
 n7--mobileAbility = Tap the target to view detailed info
+
+## n9
+# @p=9|name @t=array
+n9--name = Air king
+
+# @p=9|description @t=array
+n9--description =
+    Caves, cliffs, the open sky... he's fallen from just about everywhere.
+    Even after being battered to the brink of death again and again,⎵
+    he always somehow manages to cling to his last breath.
+    One day, this man will cast off gravity itself and truly conquer the sky...!
+
+# @p=9|ability @t=array
+n9--ability =
+    When fatal fall damage is taken, forcibly survive with 1 HP
+    Can trigger at most once per day
 
 ## n10
 # @p=10|name @t=array

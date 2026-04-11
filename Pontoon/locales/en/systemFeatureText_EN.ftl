@@ -8,6 +8,10 @@ gameTitle = A Simple Life with My Unobtrusive Girl⎵
 # @p=goldHeld @t=array
 goldHeld = Gold
 
+## numberDays
+# @p=numberDays @t=array
+numberDays = DAY
+
 ## quantityHeld
 # @p=quantityHeld @t=array
 quantityHeld = \fs[16]•Quantity Held:\c[17] {"${}"} \c[0]\py[-8]
