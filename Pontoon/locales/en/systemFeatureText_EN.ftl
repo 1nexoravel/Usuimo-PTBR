@@ -7,10 +7,10 @@ gameTitle = A Simple Life with My Unobtrusive Girl⎵
 goldHeld = Gold
 
 # @k=quantityHeld
-quantityHeld = \fs[16]•Quantity Held:\c[17] ${} \c[0]\py[-8]
+quantityHeld = \fs[16]•Quantity Held:\c[17] {"${}"} \c[0]\py[-8]
 
 # @k=autoUpdate
-autoUpdate = Update available: Version ${} game data detected.⎵
+autoUpdate = Update available: Version {"${}"} game data detected.⎵
     .i1 = Would you like to download and update now?
 
 # @k=fullScreen
@@ -91,22 +91,22 @@ zipUpdateFail = Failed to extract and install the patch!
     .i2 = manually extract the patch files to install!
 
 # @k=fileDownloadedSuccessfully
-fileDownloadedSuccessfully = ${} downloaded successfully!
+fileDownloadedSuccessfully = {"${}"} downloaded successfully!
 
 # @k=fileDownloadFailed
-fileDownloadFailed = ${} failed to download! Retrying now!
+fileDownloadFailed = {"${}"} failed to download! Retrying now!
 
 # @k=installPatch
 installPatch = Patch requires extraction—installing now. This may cause the game to lag, please be patient!
 
 # @k=totalFilesToUpdate
-totalFilesToUpdate = Detected ${} file(s) to update—starting download process!
+totalFilesToUpdate = Detected {"${}"} file(s) to update—starting download process!
 
 # @k=silentUpdateSuccess
-silentUpdateSuccess = New patch content for ${} has been successfully installed and will take effect upon the next restart.
+silentUpdateSuccess = New patch content for {"${}"} has been successfully installed and will take effect upon the next restart.
 
 # @k=outdatedVersionWarning
-outdatedVersionWarning = Your current game version is outdated. The latest version is ${}.
+outdatedVersionWarning = Your current game version is outdated. The latest version is {"${}"}.
     .i1 = Major version updates do not support automatic updates.⎵
     .i2 = Please re-download the game from the official source.
 
@@ -181,7 +181,7 @@ memberMenu = {""}
     .firstTimeNotice-i3 = If you have an active subscription,⎵
     .firstTimeNotice-i4 = or already own the game on Itch,
     .firstTimeNotice-i5 = you can use features such as major update auto-patching.
-    .firstTimeNotice-i6 = 
+    .firstTimeNotice-i6 = {""}
     .firstTimeNotice-i7 = Please note:
     .firstTimeNotice-i8 = At this time, verification is only available for players⎵
     .firstTimeNotice-i9 = who bought the game on Itch or Patreon,⎵
@@ -228,7 +228,7 @@ memberMenu = {""}
     .itchVerifyAlert = Please log in before checking the Itch version!
     # @p=majorUpdateFailed @t=array
     .majorUpdateFailed = Major version update failed!
-    .majorUpdateFailed-i1 = Error code: ${}
+    .majorUpdateFailed-i1 = Error code: {"${}"}
     .majorUpdateFailed-i2 = Please try logging in for verification and start the update again,
     .majorUpdateFailed-i3 = or send this screenshot to our Discord server for assistance!
 

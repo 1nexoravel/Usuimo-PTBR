@@ -7,10 +7,10 @@ gameTitle = Uma Vida Simples com Minha Imouto Discreta⎵
 goldHeld = Ouro
 
 # @k=quantityHeld
-quantityHeld = \fs[16]•Quantidade Possuída:\c[17] ${} \c[0]\py[-8]
+quantityHeld = \fs[16]•Quantidade Possuída:\c[17] {"${}"} \c[0]\py[-8]
 
 # @k=autoUpdate
-autoUpdate = Atualização disponível: Dados do jogo da versão ${} detectados.⎵
+autoUpdate = Atualização disponível: Dados do jogo da versão {"${}"} detectados.⎵
     .i1 = Gostaria de baixar e atualizar agora?
 
 # @k=fullScreen
@@ -91,22 +91,22 @@ zipUpdateFail = Erro ao extrair e instalar atualizações!
     .i2 = extraia manualmente os arquivos da atualização para instalar!
 
 # @k=fileDownloadedSuccessfully
-fileDownloadedSuccessfully = ${} baixado com sucesso!
+fileDownloadedSuccessfully = {"${}"} baixado com sucesso!
 
 # @k=fileDownloadFailed
-fileDownloadFailed = ${} falhou ao baixar! Tente novamente agora!
+fileDownloadFailed = {"${}"} falhou ao baixar! Tente novamente agora!
 
 # @k=installPatch
 installPatch = A atualização requer extração — instalando agora. Isso pode causar lentidão no jogo, por favor, seja paciente!
 
 # @k=totalFilesToUpdate
-totalFilesToUpdate = Foram detectados ${} arquivo(s) para atualizar — começando a baixar os arquivos!
+totalFilesToUpdate = Foram detectados {"${}"} arquivo(s) para atualizar — começando a baixar os arquivos!
 
 # @k=silentUpdateSuccess
-silentUpdateSuccess = Novo patch de conteúdo para ${} foi instalado com sucesso e entrará em vigor na próxima reinicialização.
+silentUpdateSuccess = Novo patch de conteúdo para {"${}"} foi instalado com sucesso e entrará em vigor na próxima reinicialização.
 
 # @k=outdatedVersionWarning
-outdatedVersionWarning = Sua atual versão do jogo está desatualizada. A versão mais recente é ${}.
+outdatedVersionWarning = Sua atual versão do jogo está desatualizada. A versão mais recente é {"${}"}.
     .i1 = Atualizações de versão principal não suportam atualizações automáticas.⎵
     .i2 = Por favor, baixe o jogo novamente de uma fonte oficial.
 
@@ -181,7 +181,7 @@ memberMenu = {""}
     .firstTimeNotice-i3 = Se você tiver uma assinatura ativa
     .firstTimeNotice-i4 = ou já possuir o jogo no Itch,
     .firstTimeNotice-i5 = poderá usar recursos como atualização automática de grandes atualizações.
-    .firstTimeNotice-i6 = 
+    .firstTimeNotice-i6 = {""}
     .firstTimeNotice-i7 = Observação:
     .firstTimeNotice-i8 = No momento, a verificação está disponível apenas para jogadores⎵
     .firstTimeNotice-i9 = que compraram o jogo no Itch ou no Patreon,⎵
@@ -228,7 +228,7 @@ memberMenu = {""}
     .itchVerifyAlert = Por favor, faça login antes de verificar a versão do Itch!
     # @p=majorUpdateFailed @t=array
     .majorUpdateFailed = Falha na atualização da versão principal!
-    .majorUpdateFailed-i1 = Código de erro: ${}
+    .majorUpdateFailed-i1 = Código de erro: {"${}"}
     .majorUpdateFailed-i2 = Tente fazer o login para verificação e iniciar a atualização novamente,
     .majorUpdateFailed-i3 = ou envie esta print em nosso servidor do Discord para assistência!
 
