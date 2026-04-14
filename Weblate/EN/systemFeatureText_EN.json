@@ -1,6 +1,7 @@
 {
     "gameTitle": "A Simple Life with My Unobtrusive Girl ",
     "goldHeld": "Gold",
+    "numberDays": "DAY",
     "quantityHeld": "\\fs[16]•Quantity Held:\\c[17] ${} \\c[0]\\py[-8]",
     "autoUpdate": "Update available: Version ${} game data detected. \nWould you like to download and update now?",
     "fullScreen": "Full Screen",

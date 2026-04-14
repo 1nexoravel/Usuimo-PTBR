@@ -1,5 +1,8 @@
 {
     "1.name": "Hardwood sword",
+    "1.Alias": "The Village's Finest Wooden Sword",
+    "1.AliasSubtitle": "\"This is the finest wooden sword in the village. It’s yours.\"",
+    "1.AliasDescription": "A gift received for selflessly helping the local villagers.\nThough it is but a wooden sword, it is incredibly sturdy.",
     "1.subtitle": "",
     "1.description": "It's said that the hero also began his\njourney from the starting village with a wooden sword\nThis has become a goal for many adventurers to emulate",
     "1.ability": "Deals extra damage when the weapon nears breaking",
