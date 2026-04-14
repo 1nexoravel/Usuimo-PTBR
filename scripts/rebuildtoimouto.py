@@ -10,16 +10,16 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # ╚══════════════════════════════════════════════════════════════════╝
 
 # ── Perfil EN: reconstruir de volta para inglês (teste roundtrip) ──
-PROFILE = "EN"
-PONTOON_DIR = os.path.join(BASE_DIR, "weblate", "EN")
-SOURCE_DIR  = os.path.join(BASE_DIR, "EN")
-OUTPUT_DIR  = os.path.join(BASE_DIR, "rebuilt", "EN")
+#PROFILE = "EN"
+#PONTOON_DIR = os.path.join(BASE_DIR, "weblate", "EN")
+#SOURCE_DIR  = os.path.join(BASE_DIR, "EN")
+#OUTPUT_DIR  = os.path.join(BASE_DIR, "rebuilt", "EN")
 
 # ── Perfil PTBR: reconstruir tradução português ──
-# PROFILE = "PTBR"
-# PONTOON_DIR = os.path.join(BASE_DIR, "weblate", "PTBR")
-# SOURCE_DIR  = os.path.join(BASE_DIR, "EN")
-# OUTPUT_DIR  = os.path.join(BASE_DIR, "rebuilt", "PTBR")
+PROFILE = "PTBR"
+PONTOON_DIR = os.path.join(BASE_DIR, "weblate", "PTBR")
+SOURCE_DIR  = os.path.join(BASE_DIR, "EN")
+OUTPUT_DIR  = os.path.join(BASE_DIR, "rebuilt", "PTBR")
 
 LINE_MARKER = "\n"
 
