@@ -1,0 +1,21 @@
+{
+    "0": "✦Uma xícara que \\str[120] gosta muito\ncom a participação de um desenho de uma coelha estranha. \nParece ser um best-seller na NLCH.",
+    "1": "✦Uma pequena lanterna deixada pelo pai,\nparece ser uma ferramenta de alquimista.\nÉ muito durável apesar de sua idade e \ngera uma luz quente e confortável.",
+    "2": "✦Uma luz noturna bonita com uma luz fraca,\nperfeita para ser usada quando acordar\npara ir ao banheiro no meio da noite. ",
+    "3": "✦Uma planta folhosa chamada “Ficus umbellata”.\nEla está prosperando e parece que \\str[120] cuida \nmuito bem dela todo dia.",
+    "4": "✦Uma planta folhosa chamadas “Pothos”.\nEla não parece estar muito saudável,  \nentão str[120] colocou ela perto da janela.\nDevo dizer a ela que potos na verdade \nnão gosta da luz do sol...? ",
+    "5": "✦Alguns livros que a \\str[120] escolheu \ndo escritório de seu pai.\nEles são em maioria livros de filosofia e \ncompletamente incompreensíveis.  ",
+    "6": "✦Pegou um galho de vidoeiro seco no \ncaminho para casa —eu pensei que ele parecia legal, \nentão mostrei ele para \\str[120].\nEla calmamente o colocou num vaso.",
+    "7": "✦Um esboço de pássaro desenhado por \\str[120], \naparentemente baseado em pássaros que ela avistou \nenquanto olha pela janela.",
+    "8": "✦Um ventilador pequeno e antigo, com vento fraco. \nVocê precisa chegar bem próximo para \nsentir um brisa fresca.  ",
+    "9": "✦Um secador de cabelo de ponta com \numa incrível potência.\nSe você aponta para o seu rosto, você sente\ncomo se o vento pudesse descolar sua pele do corpo.",
+    "10": "✦Uma banheiro que com controle ajustável \nde temperatura, mas com uma faixa de temperatura entre 99°C até -10°C...\nEstá realmente tudo bem?  ",
+    "11": "✦Um shampoo com fragrância de frutas que \\str[120] ama.\nEle faz seu cabelo ficar super sedo, \nmas acaba rápido demais.\nRestando Atualmente:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%",
+    "12": "✦Parece ser a roupa íntima \na \\str[120] acabou de despir...\nEstá cuidadosamente dobrada.",
+    "13": "✦Um videogame lendário que atualmente é extremamente raro.\nPossuir um faria de você uma lenda entre os jogadores.  ",
+    "14": "✦Uma boneca que o pai deu de presente para \\str[120] \nem seu aniversário. Ela valoriza ela profundamente \ninestimável pra ela e sempre está ao seu lado.",
+    "15": "\\fr\\fs[20]\\c[10]Círculo Mágico Perdido\n\\fs[22]\\i[16]???\\fr\n✦Um Espaço de Outro Mundo criado por \numa carta mágica herdada do pai.\nCompletamente não afetados pelo tempo, \nos itens armazenados aqui nunca desaparecem.\nEste círculo também está conectado à entrada de casa,\npermitindo um retorno estável e seguro.\nSe isso foi ou não deliberadamente concebido pelo pai, \nprevendo a inevitável descida do filho \npara o abismo, é agora desconhecido...",
+    "16": "\\fr\\fs[28]\\c[114]Grande Labirinto\n\\fr\\fs[22]\\i[16]???\nA lenda fala de corredores abandonados pelos deuses, \nque se estendem aqui até o infinito.\nSob cúpulas em ruínas e vinhas antigas e entrelaçadas, \no brilho de uma civilização perdida ainda permanece.\nIncontáveis aventureiros se aventuraram em seu interior, para nunca mais retornar—\nO Labirinto não recusa nenhum visitante; ele apenas decide quem pode partir. ",
+    "17": "✦Uma TV de 85 polegadas construída com tecnologia de ponta.\nNo entanto, ela não recebe muitos canais de \ntransmissão. Para assistir a programas mais interessantes,\né preciso dar um jeito de conseguir algumas fitas de vídeo.",
+    "18": "✦A calcinha que a \\str[120] acabou de tirar.\nAinda conserva o calor do corpo dela, e aquela pequena \nparte de tecido no meio parece estar encharcada."
+}
