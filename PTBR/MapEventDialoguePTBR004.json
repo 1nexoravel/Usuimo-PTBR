@@ -365,9 +365,9 @@
       "Hmm... que sentimento estranho..",
       "Ehehe...",
       "Sua mão é tão quentinha, \\str[121]…",
-      null,
+      "",
       "\\str[121]…",
-      null,
+      "",
       "Miau..."
     ],
     "7": [
@@ -1954,9 +1954,9 @@
       "Hmm... que sentimento estranho..",
       "Ehehe...",
       "\\str[121] sua mão é tão quentinha…",
-      null,
+      "",
       "\\str[121]…",
-      null,
+      "",
       "Miau..."
     ],
     "3": [
@@ -2103,7 +2103,7 @@
       "Ótimo, é um alívio ver que ela não vai passar ",
       "por isso também... Porque, ",
       "só tem um banheiro nessa casa—",
-      "  ",
+      "",
       "Se ela também ficasse mal, ",
       "essa situação poderia virar ",
       "um grande desastre..."

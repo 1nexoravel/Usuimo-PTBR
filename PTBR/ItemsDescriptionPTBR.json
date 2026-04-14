@@ -48,7 +48,7 @@
     ],
     "subtitle": "",
     "description": [
-      "Just a coin worth 10 Yen",
+      "",
       "Mas… não consigo comprar nada com isso!"
     ],
     "ability": ""
@@ -59,7 +59,7 @@
     ],
     "subtitle": "",
     "description": [
-      "Just a coin worth 50 Yen",
+      "",
       "Parece que ainda não dá para comprar nada… mas perder esse troco ainda doeria"
     ],
     "ability": ""
@@ -70,7 +70,7 @@
     ],
     "subtitle": "",
     "description": [
-      "Just a coin worth 100 Yen",
+      "",
       "Com um pouco de sorte, ele pode ser o suficiente para comprar ",
       "o leite de morango favorito da \\str[120]"
     ],
@@ -82,7 +82,7 @@
     ],
     "subtitle": "",
     "description": [
-      "Just a coin worth 500 Yen",
+      "",
       "Se isso entrar no gacha… quem sabe — só quem sabe —",
       "venha um item lendário no sorteio…!"
     ],
@@ -94,7 +94,7 @@
     ],
     "subtitle": "",
     "description": [
-      "Just a 1000 Yen banknote",
+      "",
       "Ninguém sabe porque até os monstros começaram ",
       "a coletar dinheiro humano…"
     ],
@@ -106,7 +106,7 @@
     ],
     "subtitle": "",
     "description": [
-      "Just a 5000 Yen banknote",
+      "",
       "Qualquer um que veja isso não consegue evitar se emocionar—",
       "esse é o poder do dinheiro…?"
     ],
@@ -118,7 +118,7 @@
     ],
     "subtitle": "",
     "description": [
-      "Just a 10000 Yen banknote",
+      "",
       "Até uma máquina gacha sorriria com tal valor—"
     ],
     "ability": ""
@@ -129,7 +129,7 @@
     ],
     "subtitle": "",
     "description": [
-      "A thick stack of 5000 Yen banknotes",
+      "",
       "À medida que as criadas Coelhinhas expandem rapidamente o comércio",
       "monstros também começaram a furtar as carteiras dos aventureiros",
       "apenas para experimentar algo chamado \"fazer compras\" "
