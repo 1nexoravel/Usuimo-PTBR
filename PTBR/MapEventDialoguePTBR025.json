@@ -1,11 +1,11 @@
 {
   "2": {
         "0": [
-            "\\nl< >\"\\str[121]... espere aqui...    \\w[90]",
+            "\\nl< >\"\\str[121]... aguenta firme...    \\w[90]",
             "Você definitivamente vai melhorar.\""
         ],
         "1": [
-            "O que aconteceria com a minha dignidade |enquanto| ela \\str[121]..."
+            "O que vai acontecer com a minha dignidade como \\str[121] dela..."
         ],
         "2": [
             "\\nl< >\"\\str[121]... não fique triste.\""
@@ -14,20 +14,20 @@
             "\\nl< >\"\\{Hemorroidas\\}? Isso deve ter sido causado por maus hábitos...\""
         ],
         "4": [
-            "Isso é mal. O desentendimento só piora—"
+            "Isso é ruim. O desentendimento só piora—"
         ],
         "5": [
-            "\"Ah, é por isso que eu não sou——\"",
+            "\"Ah, é por isso que eu não—\"",
             "\\w[45]\\^"
         ],
         "6": [
             "\\nl< >\\{  \"Isso poderia ser algo ainda mais sério!?\"   "
         ],
         "7": [
-            "\"Desculpa, realmente é só hemorroidas.\""
+            "\"Desculpe, são apenas hemorroidas.\""
         ],
         "8": [
-            "Então, a razão de eu ficar tanto tempo no banheiro ",
+            "E assim, minha razão para passar muito tempo no banheiro ",
             "foi oficialmente explicada…"
         ],
         "9": [
@@ -35,31 +35,31 @@
         ],
         "10": [
             "Isso não é bom—",
-            "\\str[120] começou a ter a ideia errada."
+            "\\str[120] está começando a ter a ideia errada."
         ],
         "11": [
-            "\"Oh querida \\str[120], seu \\str[121] estava só ",
-            "ponderando sobre alguns pensamentos profundos, você sabe?\""
+            "\"Prezada \\str[120], seu \\str[121] ",
+            "estava simplesmente ponderando profundamente alguns pensamentos, sabe?\""
         ],
         "12": [
             "\\nl< >\"Eu entendo...! Isso é incrível, \\str[121].\""
         ],
         "13": [
-            "Incrível, né? ",
+            "Incrível, certo?",
             "Seu \\str[121] apenas ascendeu temporariamente ao modo sábio."
         ],
         "14": [
             "\"De qualquer forma, vamos começar a fazer o jantar!\""
         ],
         "15": [
-            "\\nl< >\"\\str[121], você ficou no banheiro por muito tempo de novo.\""
+            "\\nl< >\"\\str[121], você esteve no banheiro por tanto tempo novamente.\""
         ],
         "16": [
             "Eu não posso nem negar... Parece que eu estava uma eternidade lá..."
         ],
         "17": [
             "\"Ahem…! Isso não importa agora,",
-            "vamos, vamos começar a fazer o jantar!\""
+            "venha, vamos começar o jantar!\""
         ],
         "18": [
             "\\nl< >\"Tão suspeito…\""
@@ -71,8 +71,8 @@
             "\"Ahaha… sem chance…\""
         ],
         "21": [
-            "\"Você já está com fome, né? ",
-            "Certo, vamos começar o jantar—!!\""
+            "\"Você já está com fome, certo? ",
+            "Certo, vamos começar o jantar—!\""
         ]
   },
   "3": {
@@ -81,11 +81,11 @@
         ],
         "1": [
             "\\nl< >\"Insetos são tão assustadores, ",
-            "mas \\str[121] veio me ajudar na hora.\""
+            "mas \\str[121] veio me ajudar imediatamente.\""
         ],
         "2": [
             "\\nl< >\"Você chegou tão rápido,",
-            "parece que você estava esperando bem do outo lado da porta.\""
+            "é como se você já estivesse esperando do lado de fora do banheiro.\""
         ],
         "3": [
             "\\>\\{\"—Ack!\"",
@@ -93,7 +93,7 @@
         ],
         "4": [
             "Dominado pela culpa,",
-            "Eu perdi o foco por um momento, escorreguei e quase caí."
+            "eu perdi o foco por um momento, escorreguei e quase cai."
         ],
         "5": [
             "\\nl< >\"\\str[121]... Você está bem!?\""
@@ -103,55 +103,55 @@
             "torci um pouco meu tornozelo, ahaha...\""
         ],
         "7": [
-            "Depois disso, eu consegui fazer a \\str[120] esquecer a razão original."
+            "Depois disso, de alguma forma consegui afastá-lo com \\str[120]."
         ],
         "8": [
             "\\nl< >\"\\str[121], honestamente— você foi tão legal agora há pouco...",
             "e agora você tá me provocando de novo!\""
         ],
         "9": [
-            "\\nl< >\"Pensar nisso, \\str[121] apareceu muito rápido desta vez.",
-            "Você não estava esperando fora do banheiro dês do início, não é...?\""
+            "\\nl< >\"Pensando nisso, \\str[121] apareceu muito rápido desta vez.",
+            "Não me diga que você estava realmente esperando fora do banheiro desde o início...?\""
         ],
         "10": [
-            "\\nl< >\"Ugh, insetos são realmente assustadores...",
+            "\\nl< >\"Nossa, insetos são realmente assustadores...",
             "Eu to tão feliz que o \\str[121] chegou bem na hora.\""
         ],
         "11": [
             "\"Não se preocupe, ",
-            "eu vou sempre vir correndo sempre que você estiver em perigo!\""
+            "Eu sempre virei correndo quando você estiver em perigo!\""
         ],
         "12": [
             "\\nl< >\"Mas você sabe, \\str[121]...",
-            "Se esconder do outro lado da porta assim,",
-            "isso é muita irresponsabilidade sua〜\""
+            "se esconder fora do banheiro pra começo de conversa,",
+            "é bem descuidado da sua parte〜\""
         ],
         "13": [
-            "\\nl< >\"Isso não é legal, você sabe? ",
+            "\\nl< >\"Isso não é legal, sabia? ",
             "Espiar uma garota enquanto ela está no banheiro~!\""
         ],
         "14": [
             "\\nl< >\"Então, como foi? ",
             "Assistir uma garota fazendo xixi com esses seus olhos pervertidos—",
-            "como foi o sentimento?\""
+            "como você se sentiu?\""
         ],
         "15": [
-            "\"Ahaha... então, eu fui descoberto, huh...?\""
+            "\"Ahaha... então eu fui descoberto, né...?\""
         ],
         "16": [
-            "Suor frio correu pelas minhas coistas enquanto olhava para sorriso",
-            "travesso da \\str[120].",
-            "Por um momento, eu não sabia dizer se ela realmente zangada—"
+            "Um arrepio frio percorreu minhas costas ao olhar para o sorriso travesso da \\str[120].",
+            "Por um momento, eu nem conseguia dizer se ela estava realmente zangada—",
+            "talvez... Eu que fui alvo de uma zoeria..."
         ]
   },
   "4": {
         "0": [
             "Eu queria animar a \\str[120] um pouco mais,",
-            "mas eu fui chutado do quarto.\""
+            "mas eu fui expulso do cômodo.\""
         ],
         "1": [
-            "Então, acho que vou dormir por enquanto—",
-            "Eu vou pensar em algo amanhã..."
+            "Ah, bem, acho que vou dormir por agora—",
+            "Vou pensar em algo amanhã..."
         ]
   },
   "5": {
@@ -160,8 +160,8 @@
             "Para onde… estamos indo?”"
         ],
         "2": [
-            "Quando eu estava prestes a voltar para o sótão, ",
-            "o balanço fez com que ela abrisse os olhos sonolenta."
+            "Justo quando eu estava prestes a voltar para o sótão, ",
+            "o balanço fez com que ela abrisse os olhos, ainda sonolenta."
         ],
         "3": [
             "\"Boa garota, já está tarde. ",
@@ -169,7 +169,7 @@
         ],
         "4": [
             "\\nl< >\"Mmh... mas... \\w[150]",
-            "Eu ainda não tomei banho... estou toda pega...\""
+            "Ainda não tomei banho... estou toda grudenta...”"
         ],
         "5": [
             "\\nl< >\"Eu meio que odeio isso... mesmo tendo acabado de me lavar...   \\w[150]",
@@ -206,12 +206,12 @@
             "Vamos dormir juntos…...\""
         ],
         "13": [
-            "Aconcheguei meu rosto contra o dela, ",
+            "Aconcheguei meu rosto contra o rostinho dela, ",
             "e depois de ouvi-la soltar um murmúrio baixo de satisfação,",
-            "Caminhei diretamente em direção àquela porta bem fechada—"
+            "caminhei diretamente em direção àquela porta bem fechada—"
         ],
         "14": [
-            "Empurrando a porta pra abrir, ",
+            "Empurrando a porta para abrir, ",
             "um aroma refrescante de azeitonas com ervas me envolveu.",
             "Embora geralmente vazio, o quarto estava impecável.",
             "Ficou claro que ela nunca havia deixado de cuidar dele."
@@ -219,7 +219,7 @@
         "15": [
             "Mesmo que este lugar tivesse memórias tão dolorosas...",
             "Por algum motivo, esta noite de todas as noites, ",
-            "Eu queria passar esse tempo aqui com ela..."
+            "eu queria passar esse tempo aqui com ela..."
         ],
         "16": [
             "\\nl< >\"Mmuu... nya...\""
@@ -231,7 +231,7 @@
         ],
         "18": [
             "\"Boa noite...",
-            "Não apenas esta noite, mas amanhã e para sempre... Eu encontrarei um jeito,",
+            "Não apenas esta noite, mas amanhã e para sempre... eu encontrarei um jeito,",
             "para que você fique completamente saudável novamente...\""
         ],
         "19": [
@@ -265,16 +265,16 @@
             "...Mas e quanto a mim?",
             "Aproveitando esta oportunidade... ",
             "cedendo ao meu desejo pela minha própria família,",
-            "finalmente,, colocando minhas mãos em seu corpo... o que isso faz de mim...?"
+            "finalmente colocando minhas mãos em seu corpo... o que isso faz de mim...?"
         ],
         "24": [
-            "Se ela soubesse que o 'incrível \\str[121]' em seus olhos",
-            "na verdade, ele vinha reprimindo esses pensamentos terríveis durante todo esse tempo, ",
+            "Se ela soubesse que o \"incrível \\str[121]\" aos seus olhos",
+            "na verdade vem reprimindo pensamentos tão miseráveis todo esse tempo,",
             "ela ficaria desiludida?"
         ],
         "25": [
             "\"Aquele velho maldito...     \\w[60]",
-            "Por que você teve que chamá-la de minha 'imouto'...?\""
+            "Por que você teve que chamá-la de minha \"imouto\"...?\""
         ],
         "26": [
             "Não pude evitar soltar um resmungo de desprezo para o homem ",
@@ -283,110 +283,110 @@
             "Vou deixar isso para depois de encontrar o resto do remédio."
         ],
         "27": [
-            "Afetado pela constância, ",
-            "hálito quente da \\str[120] ao meu lado,",
+            "Afetado pela respiração",
+            "constante e quente de \\str[120] ao meu lado,",
             "minha consciência começou a ficar turva.",
             " ",
             "Neste quarto tranquilo, repleto do aroma de azeitonas,",
-            "Eu a abracei forte, e juntos, ",
+            "eu a abracei forte, e juntos, ",
             "mergulhamos rapidamente em um sonho profundo—"
         ]
   },
   "6": {
         "0": [
-            "Phew... ainda bem que eu não passei vergonha ",
+            "Puxa... que bom que eu não me envergonhei ",
             "na frente da \\str[120]...",
             "Mas———"
         ],
         "1": [
-            "\\{\"Ugh———\"  \\w[60]"
+            "\\{\"Nossa———\"  \\w[60]"
         ],
         "2": [
-            "Isso é pior do que eu pensava...",
-            "Já faz mais de meia hora...?"
+            "Isso é pior do que eu imaginava...",
+            "Já estou aqui por mais de meia hora...?"
         ],
         "3": [
-            "Eu senti como se todo o meu corpo estivesse sendo drenado...",
-            "Talvez realmente algo estava errado ",
+            "Sinto como se todo o meu corpo estivesse sendo drenado...",
+            "Talvez realmente houvesse algo errado ",
             "com o jantar?"
         ],
         "4": [
             "\\nl< >\"\\str[121]... você está bem...?",
-            "Eu escutei alguns sons muito assustadores...\""
+            "Eu ouvi... alguns barulhos realmente assustadores...\""
         ],
         "5": [
-            "\"Ahaha… talvez eu tenha comigo algo estragado…",
-            "Não chega perto… aqui tá perigoso…\""
+            "\"Ahaha… talvez eu comi algo estragado…",
+            "Não chegue perto… aqui é perigoso…\""
         ],
         "6": [
-            "Eu escutei a voz preocupada da \\str[120] de ",
-            "fora da porta. Por mais que eu quisesse ",
-            "sair daqui voando, até mesmo a força para ",
-            "me manter em pé estava se esvaindo de mim ..."
+            "Eu escutei a voz preocupada da \\str[120] do ",
+            "lado de fora. Por mais que eu quisesse ",
+            "sair daqui rapidamente, mesmo a força de ",
+            "ficar em pé estava se esvaindo de mim..."
         ],
         "7": [
             "\\{\"Uooohh—\" \\w[60]"
         ],
         "8": [
-            "Eu não posso…",
-            "Parece que isso não vai parar nunca..."
+            "Eu não consigo…",
+            "Simplesmente não para..."
         ],
         "9": [
             "\\nl< >\"\\str[121]… você ainda está ai dentro?\""
         ],
         "10": [
-            "\\nl< >\"U-um... Eu ...",
-            "Eu meio que preciso usar o banheiro também...\""
+            "\\nl< >\"H-hum... na verdade...",
+            "eu meio que preciso usar o banheiro também...\""
         ],
         "11": [
             "\\{\"Gwoooaaahhh—\" \\w[60]"
         ],
         "12": [
             "\\{\"A-ainda não—",
-            "Eu ainda... não posso sair—!\""
+            "eu ainda... não consigo sair—!\""
         ],
         "13": [
-            "\\nl< >\"Eh... já se passaram mais dez minutos...\\w[120]",
-            "Eu... Eu preciso muito ir agora...\""
+            "\\nl< >\"Ah... já passaram mais dez minuto...\\w[120]",
+            "Eu... realmente preciso ir também...\""
         ],
         "14": [
             "\"Uwooaaahhhh—!",
             "I-Isso não vai acabar—!\""
         ],
         "15": [
-            "\\nl< >\"\\str[121]... já é...\""
+            "\\nl< >\"\\str[121]... já terminou...\""
         ],
         "16": [
             "\"Uwooaaaaooooqaswdectfrvtghunijopioijoh——!\""
         ],
         "17": [
             "\\nl< >\"Uwaaaahhh——!",
-            "Eu não consigo mais segurar...!\""
+            "Não consigo segurar mais...!\""
         ],
         "18": [
             "\"Uwaaaaahhhhhhh——!\"",
             "\"Uwooooohhhhhhh——!\""
         ],
         "19": [
-            "Aquela noite, de uma casa obscura...",
-            "Se ouviu os rugidos agoniados de uma besta selvagem",
-            "Misturados com gemidos que deixariam qualquer um rosado.",
+            "Naquela noite, de uma casa obscura,",
+            "vieram rugidos agonizados de um animal selvagem,",
+            "intermisto com choros de vergonha ",
             "e gemidos indescritíveis."
         ],
         "20": [
-            "Ora grave como sofrimento de uma fera ao morrer...",
-            "Ora agudo como o grito de uma garota envergonhada...",
-            "Eles se misturaram em uma sinfonia caótica e ambígua. ",
+            "Às vezes baixo como uma besta moribunda se debatendo,",
+            "às vezes aguçado como grito de uma garota tímida,",
+            "se misturaram em uma caótica e ambígua,",
             "sinfonia."
         ],
         "21": [
-            "Enquanto isso, nas profundezas da noite,",
-            "até mesmo os aventureiros que ainda lutam ",
-            "na borda do abismo estremeceram,",
-            "instintivamente parando com espadas em mãos,",
-            "trocando olhares e brevemente imaginando",
-            "se em algum lugar nas trevas, uma nova criatura ",
-            "abissal desconhecida acabou de nascer."
+            "Enquanto isso, nas profundezas da noite distante,",
+            "até mesmo os aventureiros ainda lutam no ",
+            "pequeno espaço na borda do Abismo,",
+            "pausa instintivamente com espadas na mão,",
+            "trocando olhares, perguntando-se brevemente",
+            "se em algum lugar nas sombras, uma nova e ",
+            "desconhecida criatura abissal nasceu."
         ]
   }
 }
