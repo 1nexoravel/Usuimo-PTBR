@@ -7,7 +7,7 @@ Baseada nos arquivos disponibilizados em:
 https://github.com/shiroin000/USUIMO_translation_source/tree/main
 
 ## 🎮 Versão do Jogo
-**Ver. 1.0.5**
+**Ver. 1.0.6 rev 1**
 
 ## 🌐 Plataforma de Tradução
 As traduções estão sendo gerenciadas via Weblate:
