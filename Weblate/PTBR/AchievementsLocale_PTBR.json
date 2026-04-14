@@ -1,5 +1,5 @@
 {
-    "categories.SLG.Category Name": "Memórias com \\str[120]",
+    "categories.SLG.Category Name": "Memórias com a \\str[120]",
     "categories.SLG.New Scene Name": "",
     "categories.SLG.Trophy Description": "\\str[120] sempre será a pessoa mais importante",
     "categories.RPG.Category Name": "Memórias de Lutas no Abismo",
@@ -21,7 +21,7 @@
     "achievements.ItsMyImouto.Description": "A garota amada está bem diante de mim",
     "achievements.ItsMyImouto.Pop Up Desc": "É a minha querida Imouto!",
     "achievements.JoyStation V.Name": "Conseguiu um Console!",
-    "achievements.JoyStation V.Description": "Agora você pode jogar com \\str[120]!",
+    "achievements.JoyStation V.Description": "Agora você pode jogar com a \\str[120]!",
     "achievements.JoyStation V.Pop Up Desc": "\\fs[18]Isso pode ser um jogo,\nmas não é algo para se jogar",
     "achievements.MyImoutoIsJustThatCute.Name": "Minha Irmãzinha É Tão Fofa Assim!",
     "achievements.MyImoutoIsJustThatCute.Description": "O afeto da Imouto atingiu o máximo!",
