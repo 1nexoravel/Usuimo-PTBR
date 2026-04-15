@@ -44,7 +44,7 @@
     "11.5": "\\nl< >\"O-nii-cha... você... que tá—!\"    \\w[330]\\^",
     "11.6": "Hmm… não entendo uma palavra do que ela diz.\nTer a boca cheia de espuma \ntorna falar uma chatice.",
     "11.7": "Terminamos de escovar os dentes enquanto conversávamos em \nlinguas que nenhum de nós conseguíamos entender.",
-    "13.0": "\\nl< >\"...Uma pegadinha nova, hein?\"",
+    "13.0": "\\\\nl< >\"...Uma pegadinha nova, hein?\"",
     "13.1": "Mesmo que minha \\str[120] ainda mantivesse uma frente forte,\ndesta vez ela apenas resmungou um pouco, em vez de me expulsar como antes.",
     "13.2": "Entendi — ela só é tímida.\nTudo que ela precisa é de um empurrãozinho extra \nnum momento como esse!",
     "13.3": "\"Na verdade, \nAcho que fui amaldiçoado por um arquidemônio na floresta de novo.\"",
@@ -244,5 +244,6 @@
     "32.43": "Corri rápido e ajudei \\str[120] a se levantar.\nSorte que não pareceu uma queda forte — ela não se machucou.",
     "32.44": "\\nl< >\"Uuuuh... \\str[121], doeu mesmo...\"",
     "32.45": "\\nl< >\"Acho que vou ficar com um galo na cabeça...!\"",
-    "32.46": "Vendo a \\str[120] tremendo levemente de dor,\ngentilmente a confortei e ajudei ela a entrar no banho \npara ela poder lavar seu cabelo."
+    "32.46": "Vendo a \\str[120] tremendo levemente de dor,\ngentilmente a confortei e ajudei ela a entrar no banho \npara ela poder lavar seu cabelo.",
+    "5.8": "—Ufa, parece que no fim \nconsegui me virar no blefe...!"
 }
