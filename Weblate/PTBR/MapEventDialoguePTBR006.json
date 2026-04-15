@@ -1,5 +1,5 @@
 {
-    "1.0": "Mesmo que tenhamos concordado em tomar banho juntos, \nainda estávamos um pouco tímidos,\nentão mesmo que estivéssemos prestes a nos ver nus, \nnos enrolamos em toalhas e entramos no banheiro.",
+    "1.0": "Mesmo tendo combinado de tomar banho juntos,\na gente ainda estava um pouco envergonhado,\nentão, mesmo prestes a nos ver nus,\nnos enrolamos em toalhas e entramos no banheiro.",
     "1.1": "\\nl< >\"Pedra, papel, tesoura, vái!    \\w[120]\nEhehe~ Hoje eu venci!\"",
     "1.2": "\"Pedra, papel, tesoura, vái!    \\w[120]\nIsso aí! Eu ganhei!\"",
     "1.3": "Por ter perdido o jogo, eu não tive outra opção\nse não esperar silenciosamente na banheira \nenquanto a \\str[120] terminava de se lavar.",
@@ -51,7 +51,7 @@
     "1.51": "Estilo de Vida Nudista\nPontos Sensíveis",
     "1.52": "\\nl< >\"Credo, \\str[121] sempre pegando no meu pé!\nTo saindo fora!\"",
     "1.53": "Ugh... Parece que eu exagerei um pouco na piada.\n\\str[120] fugiu com seu rosto super avermelhado...",
-    "1.54": "Phew... Meu corpo tá cozinhando; acho que é hora de sair.",
+    "1.54": "Ufa... meu corpo tá queimando; acho que já tá na hora de sair.",
     "1.55": "\\nl< >\"Credo... você nem tenta olhar pra outro lado.\n\\str[121], você consegue ver tudo...\"",
     "1.56": "\\nl< >\"Eh...? Por que você faria isso...?\"",
     "1.57": "Eu só Quero Ver\nParece Estranho\nVai Parecer Gostosa",
@@ -208,7 +208,7 @@
     "8.11": "Tomei um banho bom e relaxante.",
     "8.12": "\"...Certo, Aquela coisa que eu peguei mais cedo.\"",
     "8.14": "\"Mhm... o ambiente parece estar muito melhor agora.\"",
-    "8.15": "\"Phew... acho que é hora de sair.\"",
+    "8.15": "\"Nossa... acho que é hora de sair.\"",
     "8.16": "\"...Finalmente consegui me livrar daquele cheiro estranho impregnado em mim.\"",
     "8.17": "Eu me escovei de novo e denovo com muito sabão, \neu senti que até a minha alma foi purificada...",
     "8.18": "Tudo limpo, hora de ir.",
@@ -221,7 +221,7 @@
     "8.25": "\"Ah... sim, tudo bem.\"",
     "8.26": "\\nl< >\"Certo, lá vou eu—!  \\w[90]\nPuxe—puxe—!           \\w[120]\nPuxe—puxe—!           \\w[120]",
     "8.27": "\\str[120] esfregou energicamente minhas costas com uma toalha.\nEla não tinha muita força, mas eu me senti como se tivesse,\nsendo escovado como um chão sujo...",
-    "8.28": "\\nl< >\"Phew... Cansei...    \\w[60]\n\\str[121], Isso foi gostoso?\"",
+    "8.28": "\\nl< >\"Nossa... cansei...    \\w[60]\n\\str[121], Isso foi gostoso?\"",
     "8.29": "Lavar a Frente…\nElogiar a \\str[120]",
     "8.30": "\\nl< >\"O lado da frente também precisa ser limpo?       \\w[60]\nCredo, \\str[121]…          \\w[60]\nVocê não é mais uma criança, \nvocê realmente precisa de alguém pra te limpar…?\"\n\\w[120]",
     "8.31": "Acho que eu me deixei levar um pouco…\nO rosto da \\str[120] ficou completamente vermelho de constrangimento.\nMelhor esperar ficarmos um pouco mais próximos antes de \ntentar pedir isso novamente.",
@@ -241,5 +241,6 @@
     "12.10": "Então é isso que a maldição significa!?\nAquela demoniazinha mal travessa—!!!",
     "12.11": "\\c[2]Com as minhas emoções chegando no limite, eu soltei um rugido silencioso.\nA luz emitida da minha parte de baixo se espalhou rapidamente, \nengolindo o cômodo inteiro em um instante—",
     "12.12": "\\nl< >\"\\O str[121] tá virando uma lâmpada!!?\"",
-    "12.13": "No vazio puro e branco, onde nada podia ser visto, \nEu parei completamente de pensar."
+    "12.13": "No vazio puro e branco, onde nada podia ser visto, \nEu parei completamente de pensar.",
+    "4.10.2": "\\nl< >\"Ufa... isso cuida da espuma.\nMas a parte mais importante precisa ser limpa\nde um jeito mais especial...♥\""
 }
