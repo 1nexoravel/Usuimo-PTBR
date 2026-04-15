@@ -32,7 +32,7 @@
     "3.9": "\\nl< >\"Entendi,\nentão posso te fazer uma massagem, \\str[121]!\"",
     "3.10": "Sim, temos muito tempo — vamos relaxar e descansar hoje.",
     "3.11": "Você está certo, temos muito tempo — vamos relaxar e descansar hoje.",
-    "3.12": "\nl< >\"Então por que você não tenta cochilar também, \\str[121]…\né uma sensação realmente boa, você sabia?\"",
+    "3.12": "\\nl< >\"Então por que você não tenta cochilar também, \\str[121]…\né uma sensação realmente boa, você sabia?\"",
     "3.13": "No final, eu tirei uma soneca com a \\str[120] até o sol se pôr.",
     "3.14": "Eu passei o dia inteiro jogando com a \\str[120].",
     "3.15": "Eu passei um dia relaxante com a \\str[120].",
@@ -72,8 +72,8 @@
     "5.19": "\\nl< >\"De agora em diante, \neu vou tomar conta de você, \\str[121]!\"",
     "5.20": "Foi só imaginação, \nou a \\str[120] pareceu mais animada que o normal…?",
     "9.0": "O calor em meus braços me lembrou que \neu finalmente encontrei o medicamento que procurava há tanto tempo. \nAinda assim, a sensação surreal dessa experiência me deixou inquieto.",
-    "9.1": "A carta de tarô A Estrela na entrada se conectou.\nEra um dos pertences deixados pelo meu pai.\nEmbora tenha passado a vida pesquisando uma forma de curar a \\str[120],\npor que isso reagiu tão facilmente agora…?",
-    "9.2": "Não importa o quanto eu pense sobre isso, eu não consegui chegar a uma conclusão.\nPensar de mais não fazia sentido. \nO mais importante é - agora tenho o Elixir Rubrum.\nEu devo encontrar uma forma de deixar a \\str[120] experimentar.",
+    "9.1": "A carta de tarô A Estrela na entrada se conectou.\nEra um dos pertences deixados pelo meu pai.\nEmbora tenha passado a vida pesquisando uma forma de curar a \\str[120],\npor que ela reagiu tão facilmente agora…?",
+    "9.2": "Por mais que eu pensasse, não conseguia chegar a uma conclusão.\nFicar pensando demais não levava a nada.\nO importante é que agora tenho o Elixir Rubrum.\nPreciso encontrar uma oportunidade para deixar a \\str[120] experimentar.",
     "9.3": "Sua cor até parece suco de morango,\ntalvez até tenha gosto de seu leite de morango favorito…",
     "9.4": "\\nl< >\"Bem-vindo de volta ao lar, \\str[121].\"",
     "9.5": "\\nl< >\"Meu estômago já está vazio…\"",
@@ -158,5 +158,6 @@
     "15.31": "Sem me dar a chance de questioná-la ainda mais, \n\\str[120] se safou.",
     "15.32": "Na entrada, minha mente ficou \nrelembrando a imagem da figura reveladora e descuidada da minha imouto.     \\w[60]\n…Bem, é verão mesmo.",
     "15.33": "\"Ahem ahem…         \\w[60]\\{\nEstou de voltaー！\"",
-    "15.34": "Eu fingi que não tinha notado nada \nchamava a \\str[120] na porta de casa."
+    "15.34": "Eu fingi que não tinha notado nada \nchamava a \\str[120] na porta de casa.",
+    "4.26": "\\nl< >\"...Ufa. Imaginei que você diria isso...\nJá que você não consegue controlar suas próprias mãos,\né melhor deixar o dinheiro comigo!\""
 }
