@@ -1,5 +1,5 @@
 {
-    "autoUpdateReminder.0": "O processo de atualização começará automaticamente quando você acordar no dia seguinte.\nCertifique-se de que sua conexão com a ‘internet’ esteja estável durante todo o processo!\n\\w[120]",
+    "autoUpdateReminder.0": "O processo de atualização começará automaticamente quando você acordar no dia seguinte.\nCertifique-se de que sua conexão com a ‘internet\" esteja estável durante todo o processo!\n\\w[120]",
     "autoUpdateReminder.1": "Falha ao abrir o log de atualização!\nPode ter ocorrido uma falha na conexão com a internet!\n\\w[120]",
     "usingItem.0": "Retirou \\ii[\\v[90]]  \no que eu devo fazer…?",
     "usingItem.1": "Usar\nNão Usar\nDescartar",
@@ -63,7 +63,7 @@
     "sela.24": "Eu estava agora mesmo falando com você mais cedo\nMas parece que muito tempo se passou desde então",
     "sela.25": "\"Será que eu me lembro onde eu perdi meu bilhete\"?\nHmm… não mesmo… está tudo embaralhado agora…",
     "sela.26": "Não é pesado como as moedas deste mundo…\nÉ leve — mais leve do que uma pena de cisne~",
-    "sela.27": "Sua cor parece um ‘lago adormecido’ congelado dentro dela,\nE se você olhar contra a luz, pode ver a poeira estelar fluindo dentro de~",
+    "sela.27": "Sua cor parece um ‘lago adormecido\" congelado dentro dela,\nE se você olhar contra a luz, pode ver a poeira estelar fluindo dentro de~",
     "sela.28": "Isso pode ter…\nCaído em qualquer lugar…",
     "sela.29": "Talvez num campo cheio de sálvia azul,\nOu tomado por uma raposa destemida de volta para sua toca,",
     "sela.30": "Ou talvez… transformou-se na primeira gota do orvalho da manhã,\nPendurado na borda da janela de alguém.",
