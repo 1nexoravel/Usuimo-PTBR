@@ -10,7 +10,7 @@
     "8": "✦Um ventilador pequeno e antigo, com vento fraco. \nVocê precisa chegar bem próximo para \nsentir um brisa fresca.  ",
     "9": "✦Um secador de cabelo de ponta com \numa incrível potência.\nSe você aponta para o seu rosto, você sente\ncomo se o vento pudesse descolar sua pele do corpo.",
     "10": "✦Uma banheiro que com controle ajustável \nde temperatura, mas com uma faixa de temperatura entre 99°C até -10°C...\nEstá realmente tudo bem?  ",
-    "11": "✦Um shampoo com fragrância de frutas que \\str[120] ama.\nEle faz seu cabelo ficar super sedo, \nmas acaba rápido demais.\nRestando Atualmente:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%",
+    "11": "✦Um xampu com fragrância de frutas que \\str[120] ama.\nEle faz seu cabelo ficar super sedo, \nmas acaba rápido demais.\nRestando Atualmente:\\c[20]${$gameSelfVariables.value([6, 8, 'xampu'])}%",
     "12": "✦Parece ser a roupa íntima \na \\str[120] acabou de despir...\nEstá cuidadosamente dobrada.",
     "13": "✦Um videogame lendário que atualmente é extremamente raro.\nPossuir um faria de você uma lenda entre os jogadores.  ",
     "14": "✦Uma boneca que o pai deu de presente para \\str[120] \nem seu aniversário. Ela valoriza ela profundamente \ninestimável pra ela e sempre está ao seu lado.",
