@@ -1,7 +1,7 @@
 {
     "Note": "(Esta nota é apenas para o tradutor e não precisa ser traduzida.)\nSe você notar espaços estranhos aparecendo em cada linha de texto, são placeholders.\nO jogo já está configurado para que cada caixa de diálogo possa exibir no máximo quatro linhas de texto,\ne qualquer texto que exceda quatro linhas continuará automaticamente na próxima caixa de diálogo.\nPara evitar quebras de linha estranhas na exibição real, eu manualmente corto as passagens longas sempre que necessário para que,\nna medida do possível, uma frase completa apareça dentro de uma única caixa de diálogo.\nA inserção intencional de espaços serve para dividir o texto em conteúdo para diferentes caixas de diálogo.\nPortanto, ao traduzir para outros idiomas, você pode seguir esta regra e adicionar placeholders em branco você mesmo para dividir o texto.",
     "2.0": "Observe com Atenção",
-    "2.1": "Eu me inclino, meu rosto se aproximando lentamente \nda nuca da \\str[120].\n \nAté que minha bochecha esteja completamente enterrada\nnaqueles fios grossos e sedosos de cabelo prateado, o cheiro \nfresco de shampoo misturado com o aroma quente e feminino dela preenche \ninstantaneamente cada uma das minhas respirações.",
+    "2.1": "Eu me inclino, meu rosto se aproximando lentamente \nda nuca da \\str[120].\n \nAté que minha bochecha esteja completamente enterrada\nnaqueles fios grossos e sedosos de cabelo prateado, o cheiro \nfresco de xampu misturado com o aroma quente e feminino dela preenche \ninstantaneamente cada uma das minhas respirações.",
     "2.2": "Fios finos de cabelo roçam meu nariz e bochecha como penas, \ntremendo ritmicamente com sua respiração que sobe e desce.\nEssa sensação fofinha não faz apenas meu rosto formigar.\nUma coceira entorpecida e fervente também começa a subir do fundo do meu coração.",
     "2.3": "Não consigo evitar apertar meus braços ao redor da \\str[120], \nenterrando meu rosto em seu cabelo e esfregando nele,\nme entregando a essa sensação de pura satisfação.",
     "2.4": "Inclinar Mais Perto\nRespirar Profundamente\nSoltá-la",
@@ -61,7 +61,7 @@
     "22.21": "Sem nem tentar, as pontas dos meus dedos afundam na buceta da \\str[120].\nA sensação de ser apertado por aquelas paredes quentes, \nmolhadas e dobradas é cem vezes melhor do que qualquer \nfeedback que um jogo poderia dar.",
     "22.22": "Agora a parte inferior do corpo da \\str[120] está completamente nua.\nEu acaricio suavemente os lábios lisos e nus dela com os dedos.\nEssa carne sedosa e inacreditável é realmente viciante.",
     "22.23": "Meus dedos se movem para frente e para trás ao longo dos lábios dela, \nfinalmente pressionando o botãozinho levemente endurecido no topo.\nCom apenas um leve esfregar, o corpo dela dá um solavanco visível,\ne aquele feijõezinho fica quente e inchado — ela está sendo bem honesta.",
-    "26.0": "Continuar chamando ela\nChamar a \\str[120] para cá\nDeixar pra lá",
+    "26.0": "Continuar Chamando Ela\nChamar a \\str[120]\nDeixar para Lá",
     "26.1": "A \\str[120] ainda está completamente focada na tela, \nsem nenhuma intenção de parar.\nSerá que eu deveria fazer algo para chamar a atenção dela—?",
     "26.2": "É, provavelmente não devo provocar a \\str[120] agora.",
     "26.3": "\\nl< >\"Mngh...\"\n\\w[120]",
