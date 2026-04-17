@@ -5,6 +5,9 @@
   "goldHeld": [
     "Ouro"
   ],
+  "numberDays": [
+    "DIA"
+  ],
   "quantityHeld": [
     "\\fs[16]•Quantidade Possuída:\\c[17] ${} \\c[0]\\py[-8]"
   ],
@@ -220,7 +223,7 @@
     "mapDescription": "Um vasto labirinto repleto de inúmeros mistérios "
   },
   "ForgottenCatacombe": {
-    "mapName": " – Catacumba Esquecida – \n"
+    "mapName": " – Catacumba Esquecida – "
   },
   "ForestofRuins": {
     "mapName": " – Floresta das Ruínas – "

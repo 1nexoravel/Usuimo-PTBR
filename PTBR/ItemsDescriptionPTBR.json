@@ -3,10 +3,10 @@
     "name": [
       "Cupom de Chá"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Cupom emitido pela NLCH, usado para resgatar lanches deliciosos",
-      "Mas… onde fica a loja da NLCH, afinal?"
+      "Mas... onde fica a loja da NLCH, afinal?"
     ],
     "ability": [
       "Pode ser usado para alimentar uma máquina de gacha sem danos para puxar um prêmio",
@@ -25,7 +25,7 @@
       "Começou como um diário casual escrito por um aventureiro chamado RORO ",
       "Com o passar do tempo, mais pessoas que acharam isso divertido se juntaram e contribuiram com anotações",
       "e, portanto, este guia curioso - cobrindo tudo de",
-      "'Como entrar na dungeon’ até ‘O que comer de jantar’  — nasceu"
+      "\"Como entrar na dungeon\" até ‘O que comer de jantar\"  — nasceu"
     ],
     "ability": [
       "Permite que você navegue pelo guia no jogo"
@@ -35,56 +35,56 @@
     "name": [
       "Sucata"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Vários restos, inúteis",
       "Por que eu peguei isso mesmo?"
     ],
-    "ability": ""
+    "ability": "  "
   },
   "4": {
     "name": [
       "10 ienes"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
-      "",
-      "Mas… não consigo comprar nada com isso!"
+      "Apenas uma moeda que vale 10 ienes.",
+      "Mas… não dá para comprar absolutamente nada com ela!"
     ],
-    "ability": ""
+    "ability": " "
   },
   "5": {
     "name": [
       "50 ienes"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
-      "",
-      "Parece que ainda não dá para comprar nada… mas perder esse troco ainda doeria"
+      "Just a coin worth 50 Yen",
+      "Parece que ainda não dá para comprar nada... mas perder esse troco ainda doeria"
     ],
-    "ability": ""
+    "ability": " "
   },
   "6": {
     "name": [
       "100 ienes"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
-      "",
+      "Just a coin worth 100 Yen",
       "Com um pouco de sorte, ele pode ser o suficiente para comprar ",
       "o leite de morango favorito da \\str[120]"
     ],
-    "ability": ""
+    "ability": " "
   },
   "7": {
     "name": [
       "500 ienes"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
-      "",
-      "Se isso entrar no gacha… quem sabe — só quem sabe —",
-      "venha um item lendário no sorteio…!"
+      "Just a coin worth 500 Yen",
+      "Se isso entrar no gacha... quem sabe — só quem sabe —",
+      "venha um item lendário no sorteio...!"
     ],
     "ability": ""
   },
@@ -92,9 +92,9 @@
     "name": [
       "1.000 ienes"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
-      "",
+      "Just a 1000 Yen banknote",
       "Ninguém sabe porque até os monstros começaram ",
       "a coletar dinheiro humano…"
     ],
@@ -104,11 +104,11 @@
     "name": [
       "5.000 ienes"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
-      "",
+      "Just a 5000 Yen banknote",
       "Qualquer um que veja isso não consegue evitar se emocionar—",
-      "esse é o poder do dinheiro…?"
+      "esse é o poder do dinheiro...?"
     ],
     "ability": ""
   },
@@ -116,9 +116,9 @@
     "name": [
       "10.000 ienes"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
-      "",
+      "Just a 10000 Yen banknote",
       "Até uma máquina gacha sorriria com tal valor—"
     ],
     "ability": ""
@@ -127,9 +127,9 @@
     "name": [
       "50.000 ienes"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
-      "",
+      "A thick stack of 5000 Yen banknotes",
       "À medida que as criadas Coelhinhas expandem rapidamente o comércio",
       "monstros também começaram a furtar as carteiras dos aventureiros",
       "apenas para experimentar algo chamado \"fazer compras\" "
@@ -140,7 +140,7 @@
     "name": [
       "100.000 ienes"
     ],
-    "subtitle": "",
+    "subtitle": " ",
     "description": [
       "Um bolo grosso de notas de 10.000 ienes",
       "Seu aroma de riqueza é capaz até de fazer ",
@@ -161,7 +161,7 @@
       "as coelhinhas tomaram o Abismo e começaram a negociar com monstros"
     ],
     "ability": [
-      "Permite que você veja o mapa do abismo e todos os objetos interativos"
+      "Permite que você veja o mapa do Abismo e todos os objetos interativos"
     ]
   },
   "14": {
@@ -169,7 +169,7 @@
       "Câmera Mágica"
     ],
     "beIndependent": true,
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Dizem ser um artefato oriental, primorosamente feito, mas perdido",
       "no Abismo... Ele congela cenas em imagens, mas é",
@@ -202,7 +202,7 @@
       "DLC de Shadow Souls"
     ],
     "beIndependent": true,
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um pacote de expansão para Shadow Souls.",
       "Um trabalho lançado com confiança pelo cavaleiro após entrevistas ",
@@ -216,12 +216,12 @@
   },
   "17": {
     "name": [
-      "\\str[120]’s Ahoge"
+      "\\str[120]\"s Ahoge"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um ahoge discretamente puxado da cabeça de \\str[120],",
-      "aparentemente sem ela reparar… Mesmo separada de sua dona,",
+      "aparentemente sem ela reparar... Mesmo separada de sua dona,",
       "teimosamente se mantém prostrada graças à sua inexplicável elasticidade."
     ],
     "ability": ""
@@ -231,7 +231,7 @@
       "Patinho de Borracha"
     ],
     "beIndependent": true,
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um pato de borracha inexplicavelmente deixado completamente sozinho no rio.",
       "Talvez por uma súbita onda de simpatia, foi resgatado.",
@@ -246,7 +246,7 @@
       "Ventilador Elétrico"
     ],
     "beIndependent": true,
-    "subtitle": "",
+    "subtitle": " ",
     "description": [
       "Um pequeno ventilador elétrico, um modelo desatualizado e um fluxo de ar bastante fraco.",
       "Mas em comparação com ele, usar a magia de refrigeração é muito mais caro…"
@@ -416,6 +416,22 @@
     ],
     "ability": [
       "Agitar violentamente pode desencadear uma explosão poderosa"
+    ]
+  },
+  "41": {
+    "name": [
+      "Fehu"
+    ],
+    "subtitle": [
+      "\"Power of Midas\""
+    ],
+    "description": [
+      "A stone engraved with magic runes, designed so even novices with ",
+      "no knowledge of magic can easily activate its effect"
+    ],
+    "ability": [
+      "When thrown, Temporarily turns any target it touches into gold",
+      "Shattering a target in this gold state will generate a vast amount of currency"
     ]
   },
   "42": {
@@ -737,7 +753,7 @@
     "name": [
       "Relógio Selado"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um artefato mágico especial inscrito com um feitiço de selamento",
       "Ao ser despedaçado, ativa seu efeito, fazendo com que tudo",
@@ -778,7 +794,7 @@
       "Pergaminho de Selamento"
     ],
     "beIndependent": false,
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Uma ferramenta secreta transmitida exclusivamente entre ninjas",
       "Ativar as Marcas da Maldição abre uma fenda espacial, selando itens em seu interior",
@@ -852,7 +868,7 @@
     "name": [
       "Muco de Slime"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Muco secretado por um slime, comumente usado como",
       "ingrediente geral em alquimia",
@@ -864,7 +880,7 @@
     "name": [
       "Maçã"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Fruta recém-colhida, cheia de sabor refrescante",
       "Comer diretamente restaura um pouco de vida"
@@ -875,7 +891,7 @@
     "name": [
       "Cubo de Curry"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um cubo de curry picante feito com especiarias exóticas",
       "Combina bem com arroz e pode ser adicionado a vários ingredientes"
@@ -886,7 +902,7 @@
     "name": [
       "Arroz Branco"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Arroz branco simples e reconfortante",
       "Pode ser comido puro ou combinado com vários ingredientes"
@@ -897,7 +913,7 @@
     "name": [
       "Cenoura"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um vegetal comum, mas é estranho encontrá-lo no abismo",
       "Precisa de preparo adequado antes de comer"
@@ -908,7 +924,7 @@
     "name": [
       "Batata"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um vegetal comum, mas é estranho encontrá-lo no abismo",
       "Precisa de preparo adequado antes de comer"
@@ -919,7 +935,7 @@
     "name": [
       "Pimenta Chili Vermelha"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um vegetal comum, mas é estranho encontrá-lo no abismo",
       "Precisa de preparo adequado antes de comer"
@@ -930,7 +946,7 @@
     "name": [
       "Tomate"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um vegetal comum, mas é estranho encontrá-lo no abismo",
       "Precisa de preparo adequado antes de comer"
@@ -1095,7 +1111,7 @@
       "Morango de ASABA"
     ],
     "subtitle": [
-      "\"Mmm… morangos… meus morangos…\""
+      "\"Mmm... morangos... meus morangos...\""
     ],
     "description": [
       "O tesouro mais precioso da ASABA: um morango de alta qualidade",
@@ -1108,7 +1124,7 @@
     "name": [
       "Tentáculos de Polvo"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Tentáculos de polvo quebrados pescados no mar; ficam ótimos grelhados",
       "Também podem ser cozidos com outros ingredientes"
@@ -1135,7 +1151,7 @@
       "Recém-pescado do mar, perfeito para sashimi",
       "Também pode ser cozido com outros ingredientes"
     ],
-    "ability": ""
+    "ability": "  "
   },
   "132": {
     "name": [
@@ -1252,12 +1268,12 @@
     "name": [
       "Um Ovo Grande"
     ],
-    "subtitle": "",
+    "subtitle": "  ",
     "description": [
       "Um ovo enorme do abismo. De que criatura será?",
       "Não pensei muito — um ovo é um ovo"
     ],
-    "ability": ""
+    "ability": "  "
   },
   "173": {
     "name": [
@@ -1285,7 +1301,7 @@
     ],
     "beIndependent": false,
     "subtitle": [
-      "\"Trabalhos sujos feitos a preço de banana…\""
+      "\"Trabalhos sujos feitos a preço de banana...\""
     ],
     "description": [
       "Uma curiosidade perversa criada por um Arquidemônio após observar",
@@ -1458,10 +1474,10 @@
       "Polaroid#1"
     ],
     "subtitle": [
-      "\"O que você está fazendo, olhando pra cá desse jeito…!\""
+      "\"O que você está fazendo, olhando pra cá desse jeito...!\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1474,7 +1490,7 @@
       "\"é assim que coelhos demonstram carinho~\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1484,10 +1500,10 @@
       "Polaroid#3"
     ],
     "subtitle": [
-      "\"…Já não está limpo o suficiente, né?\""
+      "\"...Já não está limpo o suficiente, né?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1500,7 +1516,7 @@
       "\"N-Não, isso é ruim... o remédio é forte demais!\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1513,7 +1529,7 @@
       "\"Oh, Senhor, perdoe-me por ser tentada pelo dinheiro...\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1526,7 +1542,7 @@
       "\"Au... Já não basta...?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1539,7 +1555,7 @@
       "\"Hehe~♥ Você não viu nada, certo?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1552,7 +1568,7 @@
       "\"Vamos lá, essa pose serve, né?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1565,7 +1581,7 @@
       "\"Por que esse olhar divertido no seu rosto...?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1578,7 +1594,7 @@
       "\"Eu não consigo... cantar mais...!\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1591,7 +1607,7 @@
       "\"Então, esse é o seu desejo de Ano Novo?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1604,7 +1620,7 @@
       "\"Ah, até o chá está começando a ficar mais doce!\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1617,7 +1633,7 @@
       "\"Bem, é um trabalho de meio período, então não posso evitar...\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1630,7 +1646,7 @@
       "\"Ora, você entrou sem bater~\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1643,7 +1659,7 @@
       "\"É mesmo...? Um tipo de confissão que eu nunca ouvi...\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1656,7 +1672,7 @@
       "\"Haa... Haa... Meu corpo não aguenta mais...!\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1669,7 +1685,7 @@
       "\"Oh, Senhor... por favor, perdoe-me...\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1682,7 +1698,7 @@
       "\"Au... Já não basta...?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1695,7 +1711,7 @@
       "\"...Miau?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1708,7 +1724,7 @@
       "\"...Hã? Ainda não arrumou?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1721,7 +1737,7 @@
       "\"Haa... Esta é a 11ª música... Já não basta?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1734,7 +1750,7 @@
       "\"Por que o olhar parece mais quente...?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1747,7 +1763,7 @@
       "\"Seu desejo de Ano Novo se realizou na hora, feliz?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1760,7 +1776,7 @@
       "\"Sentiu o amor do coelhinho~♥\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1773,7 +1789,7 @@
       "\"Um coelho estranho foi abandonado...\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1786,7 +1802,7 @@
       "\"Quase fomos pegas...\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1799,7 +1815,7 @@
       "\"Entrando sem bater... o que você está aprontando~♥\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1812,7 +1828,7 @@
       "\"Que estranho... Não consigo fechar...\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1825,7 +1841,7 @@
       "\"...Ninguém está olhando aqui, né?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1838,7 +1854,7 @@
       "\"Hehe~♥ Não aconteceu nada, ok?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1851,7 +1867,7 @@
       "\"Mmm... O chá está ainda mais doce agora...!\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1864,7 +1880,7 @@
       "\"Eu sei que é parte do trabalho, mas só desta vez, tá?\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1877,7 +1893,7 @@
       "\"P-Por favor, não toque na mercadoria sem cuidado!\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1890,7 +1906,7 @@
       "\"Mastiga, mastiga... É mais ou menos, acho...\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -1903,7 +1919,7 @@
       "\"Mestre? Por favor, não me provoque numa hora dessas...\""
     ],
     "description": [
-      "Fotos que capturam o cotidiano das garotas do Clube do Chá…",
+      "Fotos que capturam o cotidiano das garotas do Clube do Chá...",
       "mas quem tirou essas fotos?"
     ],
     "ability": ""
@@ -2085,7 +2101,7 @@
       "Sopa De Carne Fatiada"
     ],
     "subtitle": [
-      ""
+      "  "
     ],
     "description": [
       ""
@@ -2099,7 +2115,7 @@
       "Rosbife"
     ],
     "subtitle": [
-      ""
+      " "
     ],
     "description": [
       ""
@@ -2773,7 +2789,7 @@
     "subtitle": "",
     "description": [
       "Uma gema azul com um brilho hipnotizante",
-      "Sem valor prático, mas alguém pode pagar um bom preço…",
+      "Sem valor prático, mas alguém pode pagar um bom preço...",
       "ou ter outras intenções?"
     ],
     "ability": ""
@@ -2797,7 +2813,7 @@
     "subtitle": "",
     "description": [
       "Uma gema vermelha com um brilho hipnotizante",
-      "Sem valor prático, mas alguém pode pagar um bom preço…",
+      "Sem valor prático, mas alguém pode pagar um bom preço...",
       "ou ter outras intenções?"
     ],
     "ability": ""

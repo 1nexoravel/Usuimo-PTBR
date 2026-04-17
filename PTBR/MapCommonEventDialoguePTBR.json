@@ -2,7 +2,7 @@
   "autoUpdateReminder": {
     "0": [
       "O processo de atualização começará automaticamente quando você acordar no dia seguinte.",
-      "Certifique-se de que sua conexão com a ‘internet’ esteja estável durante todo o processo!",
+      "Certifique-se de que sua conexão com a ‘internet\" esteja estável durante todo o processo!",
       "\\w[120]"
     ],
     "1": [
@@ -128,7 +128,7 @@
     ],
     "4": [
       "...Pyon!?",
-      "Um humano...!!"
+      "Um humano...!"
     ],
     "5": [
       "Pyonnnn, seu bastardo—                        \\w[45]",
@@ -266,7 +266,7 @@
       "É leve — mais leve do que uma pena de cisne~"
     ],
     "27": [
-      "Sua cor parece um ‘lago adormecido’ congelado dentro dela,",
+      "Sua cor parece um ‘lago adormecido\" congelado dentro dela,",
       "E se você olhar contra a luz, pode ver a poeira estelar fluindo dentro de~"
     ],
     "28": [

@@ -61,10 +61,10 @@
     "Está realmente tudo bem?  "
   ],
   "11": [
-    "✦Um shampoo com fragrância de frutas que \\str[120] ama.",
+    "✦Um xampu com fragrância de frutas que \\str[120] ama.",
     "Ele faz seu cabelo ficar super sedo, ",
     "mas acaba rápido demais.",
-    "Restando Atualmente:\\c[20]${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
+    "Restando Atualmente:\\c[20]${$gameSelfVariables.value([6, 8, 'xampu'])}%"
   ],
   "12": [
     "✦Parece ser a roupa íntima ",
