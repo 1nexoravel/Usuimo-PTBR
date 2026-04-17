@@ -41,8 +41,53 @@ def safe_get(obj, key):
     return False, None
 
 
+def resolve_path(original, parts):
+    """
+    Resolve a flat key like "12.40.1" against the original template.
+    Returns the real path as a list of keys.
+
+    The ambiguity: "12.40.1" could be:
+      - ["12", "40", "1"]   (dict "12" -> list/dict "40" -> index 1)
+      - ["12", "40.1"]      (dict "12" -> key "40.1")
+
+    Strategy: try greedy left-to-right. At each node, check if joining
+    remaining dots forms a valid key. Prefer the longest matching key
+    that exists in the template.
+    """
+    result = []
+    obj = original
+    i = 0
+
+    while i < len(parts):
+        if not isinstance(obj, (dict, list)):
+            # Leaf reached but parts remain — use remaining as-is
+            result.extend(parts[i:])
+            break
+
+        # Try progressively longer key combinations (greedy: longest first)
+        matched = False
+        for end in range(len(parts), i, -1):
+            candidate = ".".join(parts[i:end])
+            ok, next_obj = safe_get(obj, candidate)
+            if ok:
+                result.append(candidate)
+                obj = next_obj
+                i = end
+                matched = True
+                break
+
+        if not matched:
+            # No match found — use single part and move on
+            result.append(parts[i])
+            ok, next_obj = safe_get(obj, parts[i])
+            if ok:
+                obj = next_obj
+            i += 1
+
+    return result
+
+
 def convert_to_original_type(value, original):
-    """Convert a flat-JSON string back to the type of the original template value."""
     if isinstance(original, bool):
         return value.lower() in ("true", "1", "yes")
     elif isinstance(original, int):
@@ -90,12 +135,10 @@ def set_value(data, original, path, value):
     if isinstance(obj, dict):
         if last not in obj:
             obj[last] = copy.deepcopy(orig_last)
-        target = obj[last]
     else:
         i = int(last)
         while len(obj) <= i:
             obj.append(None)
-        target = obj[i]
 
     if isinstance(orig_last, list) and all(isinstance(x, str) for x in orig_last):
         if value == "":
@@ -128,7 +171,6 @@ def set_value(data, original, path, value):
 
 
 def rebuild():
-    # Resolve nome do arquivo: PTBR→EN para achar template, EN→EN fica igual
     suffix_map = {"PTBR": ("PTBR", "EN"), "EN": ("EN", "EN")}
     from_tag, to_tag = suffix_map.get(PROFILE, (PROFILE, "EN"))
 
@@ -160,10 +202,10 @@ def rebuild():
         rebuilt = copy.deepcopy(original)
 
         for key, value in flat.items():
-            path = key.split(".")
+            parts = key.split(".")
+            path = resolve_path(original, parts)
             set_value(rebuilt, original, path, value)
 
-        # Nome de saída: para PTBR troca EN→PTBR, para EN mantém
         out_name = source_name.replace(to_tag, from_tag) if from_tag != to_tag else fname
         out_path = os.path.join(OUTPUT_DIR, out_name)
 
@@ -178,7 +220,7 @@ def rebuild():
 
 if __name__ == "__main__":
     print(f"Rebuild perfil: {PROFILE}")
-    print(f"  Pontoon: {PONTOON_DIR}")
+    print(f"  Weblate:  {PONTOON_DIR}")
     print(f"  Template: {SOURCE_DIR}")
-    print(f"  Output:  {OUTPUT_DIR}\n")
+    print(f"  Output:   {OUTPUT_DIR}\n")
     rebuild()
