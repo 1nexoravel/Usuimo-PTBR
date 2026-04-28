@@ -372,5 +372,11 @@
     "71.description": "Um cristal mágico que emite um frio de gelar os ossos.\nMesmo no calor escaldante, ainda é possível sentir seu sopro congelante",
     "71.ability": "Imune aos estados de Queimadura e Insolação.\nAumenta o dano de estilhaçamento causado ao quebrar o estado de Congelamento de um inimigo",
     "295.ability": "Imune à dano de queda\nO dano final levado é reduzido em 60%",
-    "295.description": "Asa de cristal prismática transbordando de um brilho iridescente.\nUm raro catalisador que apenas a \"rainha\", estando no auge dos espíritos, deveria possuir"
+    "295.description": "Asas de cristal prismáticas transbordando com um brilho iridescente.\nUm catalisador raro que apenas a \"Rainha\", no ápice dos espíritos, pode possuir",
+    "72.name": "Asas de Cristal Fantasma",
+    "72.subtitle": " ",
+    "72.description": "Asas espirituais condensadas a partir de mana pura.\nConhecidas por desencadear espontaneamente fenômenos físicos,\nsão altamente valorizadas como catalisadores alquímicos de alto nível",
+    "72.ability": "Reduz o dano de queda em 40%\nEquipar aumenta a velocidade de conjuração e o poder mágico",
+    "295.name": "Asas de Cristal da Rainha das Fadas",
+    "295.subtitle": "\"Nas profundezas, a exploradora Kyurame contemplou a ascensão iridescente da Rainha—\""
 }
