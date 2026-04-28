@@ -394,5 +394,11 @@
     "98.5": "Vamos ver... Uma rodada custa... \\w[60]\\c[6]\\v[86]\\c[0] ienes\nO que eu devo fazer? Será que devo tentar?",
     "98.6": "Pagar com Dinheiro\nTrocar por Peixe",
     "98.7": "Mas... eu não tenho \nesse tanto de dinheiro comigo...",
-    "98.8": "Sim, sim~♥\nEntão ofereça um pouco mais de salmão..."
+    "98.8": "Sim, sim~♥\nEntão ofereça um pouco mais de salmão...",
+    "25.objectName": "\\c[115]Dragão das Fadas",
+    "25.sentouryoku": "20",
+    "25.description": "Uma criatura mágica muito rara que\nse assemelha a um filhote de dragão.\nÉ um espírito que ganhou forma física ao absorver\no resíduo de mana liberado pelos dragões.\nExtremamente tímida,\nfugirá no instante em que perceber perigo...",
+    "121.objectName": "\\c[10]Pilar de Selos",
+    "121.sentouryoku": "6666",
+    "121.description": "Isto é um \"teste\".\nUm teste que se ergue do Abismo.\nO crescimento de um monstro...\né superar a fraqueza do seu próprio passado...\nCerto? Você não é igual, não é?\nÓ aventureiro, você que busca a verdade—"
 }
