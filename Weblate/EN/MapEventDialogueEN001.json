@@ -167,6 +167,9 @@
     "24.description": "A strange girl always dressed as a maid with rabbit ears.\nPossesses the ability to teleport, \nappearing from all sorts of strange holes.\nFrequently teases adventurers but is mostly harmless.",
     "24.1": "……Usa?\nWhy are you so ugly usa…?",
     "24.2": "Usa…… I smell…\nyou have the scent of carrots, usa…",
+    "25.objectName": "\\c[115]Fairy Dragon",
+    "25.sentouryoku": "20",
+    "25.description": "A very rare magical creature that \nresembles a dragon hatchling.\nIt is a spirit given physical form by absorbing the\nmana residue leaked by the dragon kin.\nExtremely timid, \nit will flee the moment it senses danger...",
     "28.objectName": "Giant Sacabambaspis",
     "28.subtitle": "Dwelling in the water",
     "28.bossName": "The River Lord—wasn’t it extinct!?",
@@ -394,5 +397,8 @@
     "98.5": "Let’s see... One spin costs... \\w[60]\\c[6]\\v[86]\\c[0]yen\nWhat should I do? Should I give it a try?",
     "98.6": "Pay with money\nTrade with fish",
     "98.7": "But... I don’t have \nthat much money on me...",
-    "98.8": "Yes, yes~♥\nJust offer a bit more salmon then..."
+    "98.8": "Yes, yes~♥\nJust offer a bit more salmon then...",
+    "121.objectName": "\\c[10]Pillar of Seals",
+    "121.sentouryoku": "6666",
+    "121.description": "This is a \"trial\".\nA trial rising from the Abyss.\nThe growth of a monster... \nis to defeat the frailty of its own past...\nRight? You are the same, are you not?\nO adventurer, you who seek the truth—"
 }

@@ -15,6 +15,7 @@
     "ShowWeaponDurability": "Show Weapon Durability",
     "DisableAutoUpdate": "Disable Auto Update",
     "LockedFPS": "Locked 60 FPS",
+    "ZakoMode": "ZAKO Mode",
     "Language": "Game Language",
     "SwitchLanguage": "Game language change detected!\nRestarting now to apply the new language settings!",
     "ErrorReport": "An error occurred. Please report the bug on the NLCH Discord server.\n(Click 'OK' to open the invite link)\n(Attach a screenshot of the error)",
