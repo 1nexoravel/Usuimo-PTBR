@@ -370,5 +370,7 @@
     "71.name": "  ",
     "71.subtitle": "“Meu coração ficou frio... Acho que nunca mais sentirei alegria ou tristeza...”",
     "71.description": "Um cristal mágico que emite um frio de gelar os ossos.\nMesmo no calor escaldante, ainda é possível sentir seu sopro congelante",
-    "71.ability": "Imune aos estados de Queimadura e Insolação.\nAumenta o dano de estilhaçamento causado ao quebrar o estado de Congelamento de um inimigo"
+    "71.ability": "Imune aos estados de Queimadura e Insolação.\nAumenta o dano de estilhaçamento causado ao quebrar o estado de Congelamento de um inimigo",
+    "295.ability": "Imune à dano de queda\nO dano final levado é reduzido em 60%",
+    "295.description": "Asa de cristal prismática transbordando de um brilho iridescente.\nUm raro catalisador que apenas a \"rainha\", estando no auge dos espíritos, deveria possuir"
 }
