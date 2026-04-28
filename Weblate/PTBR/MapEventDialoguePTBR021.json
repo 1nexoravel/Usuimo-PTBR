@@ -22,7 +22,7 @@
     "2.8": "Está chovendo? \nEspero que isso não afete nossa aventura...",
     "2.9": "Faz alguns dias que não dou uma olhada na \\str[120]... \nAcho que eu deveria passar por lá hoje.",
     "2.10": "Ok, estou acordado. Qual o plano para hoje—",
-    "2.11": "Ver a \\str[120]\nSair Agora",
+    "2.11": "Ver a \\str[120]\nSair Agora\nDescansar em Casa",
     "2.12": "Certo, vamos dar uma olhada na \\str[120]!",
     "2.13": "Certo, hora de botar tudo em ordem \ne partir para uma aventura!",
     "3.0": "Minha mente lentamente se clareia... \nFinalmente percebo que não estou no meu quarto de sempre.\nAlgo quente e macio está pressionado firmemente contra mim, \ncom a respiração ritmada e suave.",
@@ -80,5 +80,7 @@
     "3.49": "...Hoje com certeza será mais um dia pacífico e tranquilo.\nContinuei lambendo o lado do pescoço e a orelha dela,\nque tinham ficado quentes por causa do rubor.\n\\w[30]\nOuvindo sua risada adorável,\nrezei do fundo do coração para que\nessa vida pudesse durar para sempre...",
     "4.0": "\"...An!?\\w[60]...Espera, \\w[60]\njá é de manhã...?",
     "4.1": "Minha cabeça tá girando... \nSerá que eu simplesmente adormeci assim ontem à noite...?",
-    "4.2": "\"Não consigo lembrar o que aconteceu na noite passada... \\w[90]\nBem, eu provavelmente só estava muito exausto.\""
+    "4.2": "\"Não consigo lembrar o que aconteceu na noite passada... \\w[90]\nBem, eu provavelmente só estava muito exausto.\"",
+    "2.14": "Hmm... de qualquer forma, o tempo não parece muito bom hoje.\nEm momentos assim, ficar em casa e passar um tempo com a \\str[120]\né definitivamente mais interessante...",
+    "2.15": "Aaah... estou me sentindo tão preguiçoso hoje,\nnão consigo encontrar nem um pingo de motivação.\nNão deve ser grande coisa relaxar sem peso na consciência\nde vez em quando, certo?\nComparado às trivialidades lá fora,\nficar em casa com a \\str[120] é muito mais divertido."
 }
