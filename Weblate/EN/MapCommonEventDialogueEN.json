@@ -1,6 +1,8 @@
 {
     "autoUpdateReminder.0": "The update process will automatically start when you wake up the next day.\nPlease make sure your internet connection is stable throughout the process!\n\\w[120]",
     "autoUpdateReminder.1": "Unable to view update log!\nThe network connection may have failed!\n\\w[120]",
+    "cheatCodeTutorial.0": "⬆ Long press the avatar frame to call up the cheat code entry window.\nUnlock the corresponding features by entering the correct cheat code!",
+    "bulkSelectButton": "Click to toggle bulk selection",
     "usingItem.0": "Took out \\ii[\\v[90]]  \nwhat should I do…?",
     "usingItem.1": "Use It\nNever Mind\nDiscard",
     "gameAnnouncement.0": "Take a look\nNever mind",

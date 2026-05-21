@@ -107,6 +107,9 @@
     "43.description": "",
     "43.variants.0.description": "\\str[120] clung tightly to me,\nher body trembling slightly…",
     "43.variants.1.description": "Our bodies were completely entwined, \nexchanging warmth with each other…",
+    "44.name": "",
+    "44.subtitle": "",
+    "44.description": "✦Not so much 'Joy'... \nas she's in a total 'HIGH' now!",
     "45.name": "",
     "45.subtitle": "\"I promised my dear sister, so I have to keep it\"",
     "45.description": "Don’t go home badly injured…",
@@ -182,6 +185,9 @@
     "80.name": "",
     "80.subtitle": "\"Triple speed of True Red\"",
     "80.description": "",
+    "83.name": "",
+    "83.subtitle": "\"That look in his eyes just got sharp all of a sudden...!\"",
+    "83.description": "Physical attacks gain Penetration, ignoring a portion of the target's defense",
     "85.name": "",
     "85.subtitle": "\"But it really tastes awful...\"",
     "85.description": "Overflowing with vitality—max HP increased!",
@@ -232,5 +238,8 @@
     "117.description": "",
     "122.name": "",
     "122.subtitle": "\"Heh heh I'll survive, I swear it\"",
-    "122.description": "Permanently restores HP automatically"
+    "122.description": "Permanently restores HP automatically",
+    "123.name": "",
+    "123.subtitle": "\"One who pursues prey must be prepared to become prey themselves.\"",
+    "123.description": "All Hunter series equipment has been enhanced!"
 }
