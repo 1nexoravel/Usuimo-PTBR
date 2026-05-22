@@ -76,7 +76,7 @@
     "20.description": "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto\nsimboliza a adesão deles ao código da cavalaria",
     "20.ability": "Aumenta a defesa quando o PV está abaixo de \\c[10]30%\\c[0]",
     "21.name": "Armadura do Cavaleiro",
-    "21.subtitle": "  ",
+    "21.subtitle": " ",
     "21.description": "A armadura padrão dos cavaleiros da corte. Seu design ornamentado e robusto\nsimboliza a adesão deles ao código da cavalaria",
     "21.ability": "Aumenta a defesa quando o PV está abaixo de \\c[10]30%\\c[0]",
     "22.name": "Manoplas do Cavaleiro",
@@ -378,5 +378,13 @@
     "72.description": "Asas espirituais condensadas a partir de mana pura.\nConhecidas por desencadear espontaneamente fenômenos físicos,\nsão altamente valorizadas como catalisadores alquímicos de alto nível",
     "72.ability": "Reduz o dano de queda em 40%\nEquipar aumenta a velocidade de conjuração e o poder mágico",
     "295.name": "Asas de Cristal da Rainha das Fadas",
-    "295.subtitle": "\"Nas profundezas, a exploradora Kyurame contemplou a ascensão iridescente da Rainha—\""
+    "295.subtitle": "\"Nas profundezas, a exploradora Kyurame contemplou a ascensão iridescente da Rainha—\"",
+    "4.subtitle": " ",
+    "4.name": "Botas do Caçador",
+    "4.description": "Botas confeccionadas com couro espesso e solas de madeira,\nrevestidas com uma camada macia de pele para abafar cada passo.\nMovimento silencioso é o primeiro passo de um caçador.",
+    "4.ability": "Aumenta a velocidade de movimento ao empunhar o arco\nConcede o efeito de habilidade \\ss[10] enquanto equipado",
+    "51.name": "Luvas do Caçador",
+    "51.subtitle": " ",
+    "51.description": "Luvas confeccionadas com couro curtido,\ncom pontas reforçadas nos dedos, projetadas para o uso prolongado do arco\nCaçadores veteranos acreditam que um bom par de luvas dá olhos próprios às flechas",
+    "51.ability": "As flechas disparadas ganham 2 acertos adicionais de Penetração\nOs disparos têm uma pequena chance de lançar várias flechas simultaneamente"
 }
