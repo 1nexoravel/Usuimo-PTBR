@@ -877,7 +877,7 @@
     "21.subtitle": " ",
     "21.description": "\"Mantenha pressionada a moldura do avatar para ativar o campo de entrada...”",
     "21.ability": " ",
-    "21.howToUse": "《Guia de Códigos de Trapaça》\n\nMantenha pressionada a moldura do avatar do personagem (área da barra de HP) para abrir a caixa de entrada.\nDigite o código e pressione Enter para ativá-lo.Após usar um código de trapaça, você receberá o título \"ZAKO (Inútil)\".\nVocê pode ativar ou desativar os efeitos de easter egg do título no menu Configurações.\nIsso não causará nenhum impacto negativo nos seus atributos, progresso da história ou final.\n\n《Lista de Códigos de Trapaça》\n",
+    "21.howToUse": "《Guia de Códigos de Trapaça》\n\nMantenha pressionada a moldura do avatar do personagem (área da barra de HP) para abrir a caixa de entrada.\nDigite o código e pressione Enter para ativá-lo.Após usar um código de trapaça, você receberá o título \"FRACOTE\".\nVocê pode ativar ou desativar os efeitos de easter egg do título no menu Configurações.\nIsso não causará nenhum impacto negativo nos seus atributos, progresso da história ou final.\n\n《Lista de Códigos de Trapaça》\n",
     "21.notUnlocked": "Você ainda não desbloqueou nenhum cheat code — talvez aquele cavaleiro esquisito possa lhe dar algumas pistas!",
     "21.hard2k1ll": "< hard2k1ll >\nObtém o equipamento de trapaça \"Asas de Cristal da Rainha das Fadas”.\nConcede imunidade a dano de queda e um enorme efeito de redução de dano.",
     "21.get40rfree": "< get40rfree >\nObtém todos os consumíveis, ingredientes e materiais. Só pode ser usado uma vez.",
@@ -908,7 +908,7 @@
     "412.ability": " ",
     "500.name": "Guia de Missões Ocultas",
     "500.beIndependent": "verdadeiro",
-    "500.subtitle": "\"É só ler o guia inteiro que zerar o jogo vai ser moleza——\nMas é assim que os ZAKOS (inúteis) pensam.\nNeste save, vou terminar tudo em uma run de morte permanente!”",
+    "500.subtitle": "\"É só ler o guia inteiro que zerar o jogo vai ser moleza——\nMas é assim que os FRACOTES pensam.\nNeste save, vou terminar tudo em uma run de morte permanente!”",
     "500.description": "Em uma certa linha do mundo, um jogador deixou para trás essa ousada declaração...\ne avançou de cabeça na Torre sem o menor arrependimento.",
     "500.ability": "Texto de Orientação de Missão Oculta"
 }
